@@ -16,7 +16,7 @@
 import type { SyncRequest, SyncResponse } from "../../../shared/api";
 import { dayKey, watHour } from "../../../shared/clock";
 import { levelFromXp, XP_RULES, xpForAnswer } from "../../../shared/levels";
-import { mastery as masteryOf } from "../../../shared/mastery";
+import { MASTERY_WINDOW, mastery as masteryOf } from "../../../shared/mastery";
 import { AMBASSADOR_RULES } from "../../../shared/referral";
 import { completeSessionStreak, dailyGoalQuestions } from "../../../shared/streak";
 import { withLock } from "../lib/lock";
@@ -217,7 +217,7 @@ export async function syncPractice(userId: string, req: SyncRequest, now = new D
     for (const subject of touchedSubjects) {
       const recent = await Attempt.find({ user: user._id, subject, selectedKey: { $ne: null } }, { correct: 1, difficulty: 1, answeredAt: 1 })
         .sort({ answeredAt: -1 })
-        .limit(50)
+        .limit(MASTERY_WINDOW)
         .lean();
       user.mastery.set(subject, masteryOf(recent.reverse()));
     }

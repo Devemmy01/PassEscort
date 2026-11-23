@@ -8,7 +8,6 @@ import { AMBASSADOR_RULES, canRequestPayout, isValidAccountNumber, isWellFormedC
 import { reference as makeReference } from "../lib/codes";
 import { badRequest, conflict, forbidden } from "../lib/http";
 import { withLock } from "../lib/lock";
-import Attempt from "../models/Attempt";
 import Commission from "../models/Commission";
 import Payout from "../models/Payout";
 import Transaction from "../models/Transaction";
@@ -75,9 +74,10 @@ export async function dashboard(user: UserDocument, now = new Date()): Promise<A
     b.pending ||= c.status === "open" && c.availableAt > now;
     byBuyer.set(String(c.buyer), b);
   }
-  const friends = await User.find({ referredByUser: user._id }, { name: 1, createdAt: 1, referredAt: 1 }).sort({ referredAt: -1 }).lean();
+  const friends = await User.find({ referredByUser: user._id }, { name: 1, createdAt: 1, referredAt: 1, "stats.questionsAnswered": 1 }).sort({ referredAt: -1 }).lean();
   const ids = friends.map((f) => f._id);
-  const practised = new Set((await Attempt.distinct("user", { user: { $in: ids } })).map(String));
+  // From the friend's own totals: old answers are trimmed nightly (services/cleanup.ts).
+  const practised = new Set(friends.filter((f) => (f.stats?.questionsAnswered ?? 0) > 0).map((f) => String(f._id)));
   const bought = new Set((await Transaction.distinct("user", { user: { $in: ids }, status: "success", product: { $in: AMBASSADOR_RULES.commissionProducts } })).map(String));
   const referrals: ReferralDTO[] = friends.map((f) => {
     const id = String(f._id);

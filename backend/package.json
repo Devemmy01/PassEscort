@@ -11,7 +11,8 @@
     "seed": "tsx src/scripts/seedQuestions.ts",
     "payouts:process": "tsx src/scripts/processPayouts.ts",
     "ai:pregenerate": "tsx src/scripts/pregenerateExplanations.ts",
-    "push:reminders": "tsx src/scripts/sendReminders.ts"
+    "push:reminders": "tsx src/scripts/sendReminders.ts",
+    "db:cleanup": "tsx src/scripts/cleanupData.ts"
   },
   "keywords": [],
   "author": "",

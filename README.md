@@ -62,6 +62,7 @@ Production refuses to start with any dev or mock mode (`backend/src/config/env.t
 | **Paystack** | `PAYMENTS_MODE=paystack`, `PAYSTACK_SECRET_KEY`. In the Paystack dashboard, set the webhook URL to `https://<api>/payments/webhook`. `PUBLIC_API_URL` must be the API's public URL, because Paystack returns students to `/payments/return` |
 | **AI** (free tiers) | `AI_PROVIDER=groq` with `GROQ_API_KEY` (free key at console.groq.com) and `GEMINI_API_KEY` as the fallback (free key at aistudio.google.com), or `AI_PROVIDER=gemini`. Fill the explanation cache once within the free limits: `cd backend && npm run ai:pregenerate` (resumable; `--limit`, `--subject`). After that, students mostly hit the cache |
 | **Ambassador payouts** | A weekly cron (Fridays): `cd backend && npm run payouts:process`. Paystack transfer webhooks settle each payout |
+| **Database size** (MongoDB free tier) | A nightly cron at 01:00 UTC: `cd backend && npm run db:cleanup`. It keeps 30 days of answers, then each student's newest 50 per subject (all mastery reads), and drops practice sessions after 120 days. Payments, commissions and payouts are never deleted. Measured cost: ~300 bytes per answer on disk |
 | **Deep links** | `LINK_HOST` (API) and `EXPO_PUBLIC_LINK_HOST` (app) must match `app.json` → `android.intentFilters` / `ios.associatedDomains`. Host `assetlinks.json` and `apple-app-site-association` on that domain |
 | **Content** | `npm run seed` after content changes. Phones pick up changed questions through `/questions/sync` |
 

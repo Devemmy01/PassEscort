@@ -169,3 +169,54 @@ describe("AI pre-generation", () => {
     assert.equal(again.left, r.left - 5);
   });
 });
+
+describe("nightly cleanup (free-tier storage)", () => {
+  test("keeps 30 days of answers, then the newest 50 per subject; drops sessions after 120 days", async () => {
+    const { default: Attempt } = await import("../models/Attempt");
+    const { default: PracticeSession } = await import("../models/PracticeSession");
+    const { cleanupOldData } = await import("../services/cleanup");
+    const now = new Date("2026-11-23T12:00:00Z");
+    const daysAgo = (d: number, minutes = 0) => new Date(now.getTime() - d * 86_400_000 - minutes * 60_000);
+
+    const veteran = uid("old");
+    await s.api.get("/users/me").set(s.auth(veteran)).expect(200);
+    const u = (await User.findOne({ firebaseUid: veteran }))!;
+    await User.collection.updateOne({ _id: u._id }, { $set: { createdAt: daysAgo(400) } });
+    const newcomer = uid("new");
+    await s.api.get("/users/me").set(s.auth(newcomer)).expect(200);
+    const n = (await User.findOne({ firebaseUid: newcomer }))!;
+
+    const row = (user: typeof u._id, subject: string, at: Date, i: number, answered = true) => ({
+      user, clientId: `${subject}-${i}-${at.getTime()}`, session: "s", question: `q${i}`, subject, difficulty: "medium" as const,
+      selectedKey: answered ? "A" : null, correct: answered && i % 2 === 0, xp: 0, answeredAt: at, day: dayKey(at),
+    });
+    await Attempt.insertMany([
+      ...Array.from({ length: 120 }, (_, i) => row(u._id, "Physics", daysAgo(40, i), i)), // old, answered
+      ...Array.from({ length: 10 }, (_, i) => row(u._id, "Physics", daysAgo(35, i), 500 + i, false)), // old, skipped
+      ...Array.from({ length: 20 }, (_, i) => row(u._id, "Physics", daysAgo(5, i), 900 + i)), // recent
+      ...Array.from({ length: 30 }, (_, i) => row(u._id, "Chemistry", daysAgo(60, i), i)), // old, under 50
+      ...Array.from({ length: 5 }, (_, i) => row(n._id, "Physics", daysAgo(45, i), i)), // newcomer's (backdated) answers
+    ]);
+    const masteryInput = async () =>
+      (await Attempt.find({ user: u._id, subject: "Physics", selectedKey: { $ne: null } }).sort({ answeredAt: -1, _id: -1 }).limit(50).lean()).map((a) => String(a._id));
+    const before = await masteryInput();
+    await PracticeSession.create([
+      { user: u._id, clientId: "ancient", mode: "objective", subject: "Physics", examBody: "JAMB", startedAt: daysAgo(150), questionCount: 10 },
+      { user: u._id, clientId: "recent", mode: "objective", subject: "Physics", examBody: "JAMB", startedAt: daysAgo(10), questionCount: 10 },
+    ]);
+
+    const r = await cleanupOldData(now);
+    assert.equal(r.attemptsDeleted, 100, "120 + 10 old Physics answers, minus the 30 needed to make the newest 50");
+    assert.equal(r.sessionsDeleted, 1);
+    assert.equal(await Attempt.countDocuments({ user: u._id, subject: "Physics" }), 50);
+    assert.equal(await Attempt.countDocuments({ user: u._id, subject: "Physics", answeredAt: { $gte: daysAgo(30) } }), 20, "recent answers all kept");
+    assert.equal(await Attempt.countDocuments({ user: u._id, subject: "Physics", selectedKey: null }), 0, "old skipped answers go");
+    assert.equal(await Attempt.countDocuments({ user: u._id, subject: "Chemistry" }), 30, "a subject under 50 answers is untouched");
+    assert.deepEqual(await masteryInput(), before, "mastery reads exactly the same answers");
+    assert.equal(await Attempt.countDocuments({ user: n._id }), 5, "accounts younger than 30 days are skipped");
+    assert.deepEqual((await PracticeSession.find({ user: u._id }).lean()).map((x) => x.clientId), ["recent"]);
+
+    const again = await cleanupOldData(now);
+    assert.equal(again.attemptsDeleted + again.sessionsDeleted, 0, "a second run changes nothing");
+  });
+});
