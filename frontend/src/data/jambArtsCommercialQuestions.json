@@ -1,0 +1,6527 @@
+[
+  {
+    "id": "jamb-govt-basic-concepts-1",
+    "subject": "Government",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Basic Concepts",
+    "difficulty": "easy",
+    "prompt": "A political community occupying a defined territory, organized under one government and possessing sovereignty, is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "community"
+      },
+      {
+        "key": "B",
+        "text": "nation"
+      },
+      {
+        "key": "C",
+        "text": "state"
+      },
+      {
+        "key": "D",
+        "text": "society"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "A state has population, territory, government and sovereignty as defining features."
+  },
+  {
+    "id": "jamb-govt-basic-concepts-2",
+    "subject": "Government",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Basic Concepts",
+    "difficulty": "medium",
+    "prompt": "The right of a state to govern itself without interference from external powers is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "citizenship"
+      },
+      {
+        "key": "B",
+        "text": "legitimacy"
+      },
+      {
+        "key": "C",
+        "text": "sovereignty"
+      },
+      {
+        "key": "D",
+        "text": "nationalism"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Sovereignty is a state's supreme authority, free of outside control."
+  },
+  {
+    "id": "jamb-govt-basic-concepts-3",
+    "subject": "Government",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Basic Concepts",
+    "difficulty": "hard",
+    "prompt": "Which of the following best distinguishes 'government' from 'the state'?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Government is the machinery running the state and can change through elections or other means"
+      },
+      {
+        "key": "B",
+        "text": "Government is more permanent than the state"
+      },
+      {
+        "key": "C",
+        "text": "Government and the state are exactly the same thing"
+      },
+      {
+        "key": "D",
+        "text": "Government refers only to a country's territory"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "The state endures, while its government (the ruling administration) can change over time."
+  },
+  {
+    "id": "jamb-govt-basic-concepts-4",
+    "subject": "Government",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Basic Concepts",
+    "difficulty": "medium",
+    "prompt": "A group of people bound by common history, culture, and often language, who see themselves as one people, form a",
+    "options": [
+      {
+        "key": "A",
+        "text": "government"
+      },
+      {
+        "key": "B",
+        "text": "state"
+      },
+      {
+        "key": "C",
+        "text": "nation"
+      },
+      {
+        "key": "D",
+        "text": "tribe"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "A nation is a group united by shared identity, culture or history, which may or may not have its own state."
+  },
+  {
+    "id": "jamb-govt-basic-concepts-5",
+    "subject": "Government",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Basic Concepts",
+    "difficulty": "easy",
+    "prompt": "The branch of knowledge that studies the theory and practice of government and political power is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "Anthropology"
+      },
+      {
+        "key": "B",
+        "text": "Economics"
+      },
+      {
+        "key": "C",
+        "text": "Political Science"
+      },
+      {
+        "key": "D",
+        "text": "Sociology"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Political Science studies government structures, power and political behaviour."
+  },
+  {
+    "id": "jamb-govt-arms-1",
+    "subject": "Government",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Arms of Government",
+    "difficulty": "easy",
+    "prompt": "The arm of government responsible for administering and enforcing the laws of a country is the",
+    "options": [
+      {
+        "key": "A",
+        "text": "judiciary"
+      },
+      {
+        "key": "B",
+        "text": "legislature"
+      },
+      {
+        "key": "C",
+        "text": "executive"
+      },
+      {
+        "key": "D",
+        "text": "electorate"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "The executive implements and enforces laws passed by the legislature."
+  },
+  {
+    "id": "jamb-govt-arms-2",
+    "subject": "Government",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Arms of Government",
+    "difficulty": "medium",
+    "prompt": "A bicameral legislature is one that consists of",
+    "options": [
+      {
+        "key": "A",
+        "text": "only one chamber"
+      },
+      {
+        "key": "B",
+        "text": "only appointed judges"
+      },
+      {
+        "key": "C",
+        "text": "two chambers, such as a senate and a house of representatives"
+      },
+      {
+        "key": "D",
+        "text": "no elected members"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "A bicameral legislature has two separate legislative chambers."
+  },
+  {
+    "id": "jamb-govt-arms-3",
+    "subject": "Government",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Arms of Government",
+    "difficulty": "hard",
+    "prompt": "The doctrine that prevents any one arm of government from becoming too powerful by dividing functions among the executive, legislature and judiciary is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "fundamental human rights"
+      },
+      {
+        "key": "B",
+        "text": "federal character principle"
+      },
+      {
+        "key": "C",
+        "text": "rule of law"
+      },
+      {
+        "key": "D",
+        "text": "separation of powers"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Separation of powers distributes governmental authority to prevent excessive concentration."
+  },
+  {
+    "id": "jamb-govt-arms-4",
+    "subject": "Government",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Arms of Government",
+    "difficulty": "medium",
+    "prompt": "The arm of government primarily responsible for settling disputes and interpreting the constitution is the",
+    "options": [
+      {
+        "key": "A",
+        "text": "legislature"
+      },
+      {
+        "key": "B",
+        "text": "judiciary"
+      },
+      {
+        "key": "C",
+        "text": "civil service"
+      },
+      {
+        "key": "D",
+        "text": "executive"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "The judiciary interprets laws and the constitution and resolves disputes."
+  },
+  {
+    "id": "jamb-govt-arms-5",
+    "subject": "Government",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Arms of Government",
+    "difficulty": "easy",
+    "prompt": "In Nigeria's presidential system, the President heads the",
+    "options": [
+      {
+        "key": "A",
+        "text": "legislative arm of government"
+      },
+      {
+        "key": "B",
+        "text": "judicial arm of government"
+      },
+      {
+        "key": "C",
+        "text": "executive arm of government"
+      },
+      {
+        "key": "D",
+        "text": "local government arm"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "The President is the head of the executive arm in Nigeria's presidential system."
+  },
+  {
+    "id": "jamb-govt-systems-1",
+    "subject": "Government",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Systems of Government",
+    "difficulty": "easy",
+    "prompt": "A system of government where powers are constitutionally divided between a central authority and constituent states is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "confederalism"
+      },
+      {
+        "key": "B",
+        "text": "totalitarianism"
+      },
+      {
+        "key": "C",
+        "text": "unitarism"
+      },
+      {
+        "key": "D",
+        "text": "federalism"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Federalism divides governmental power between central and regional authorities."
+  },
+  {
+    "id": "jamb-govt-systems-2",
+    "subject": "Government",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Systems of Government",
+    "difficulty": "medium",
+    "prompt": "In a parliamentary system of government, the executive is typically drawn from and accountable to the",
+    "options": [
+      {
+        "key": "A",
+        "text": "judiciary"
+      },
+      {
+        "key": "B",
+        "text": "military"
+      },
+      {
+        "key": "C",
+        "text": "legislature (parliament)"
+      },
+      {
+        "key": "D",
+        "text": "electorate directly, without parliament"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "In parliamentary systems, the executive emerges from and answers to parliament."
+  },
+  {
+    "id": "jamb-govt-systems-3",
+    "subject": "Government",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Systems of Government",
+    "difficulty": "hard",
+    "prompt": "One key advantage often associated with a federal system, compared to a unitary system, is that it",
+    "options": [
+      {
+        "key": "A",
+        "text": "concentrates all decision-making in one central authority"
+      },
+      {
+        "key": "B",
+        "text": "prevents any regional government from existing"
+      },
+      {
+        "key": "C",
+        "text": "allows regions with diverse needs some autonomy to manage their own local affairs"
+      },
+      {
+        "key": "D",
+        "text": "eliminates the need for a constitution"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Federalism permits regional autonomy suited to diverse local needs and identities."
+  },
+  {
+    "id": "jamb-govt-systems-4",
+    "subject": "Government",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Systems of Government",
+    "difficulty": "medium",
+    "prompt": "A government in which one political party controls all government institutions and opposition parties are banned is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "constitutional monarchy"
+      },
+      {
+        "key": "B",
+        "text": "federal republic"
+      },
+      {
+        "key": "C",
+        "text": "multi-party democracy"
+      },
+      {
+        "key": "D",
+        "text": "one-party (totalitarian-leaning) state"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "A one-party state permits only a single ruling party, excluding legal opposition."
+  },
+  {
+    "id": "jamb-govt-systems-5",
+    "subject": "Government",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Systems of Government",
+    "difficulty": "easy",
+    "prompt": "A system of government headed by a hereditary ruler with powers checked by a constitution and elected parliament is a",
+    "options": [
+      {
+        "key": "A",
+        "text": "absolute monarchy"
+      },
+      {
+        "key": "B",
+        "text": "military dictatorship"
+      },
+      {
+        "key": "C",
+        "text": "constitutional monarchy"
+      },
+      {
+        "key": "D",
+        "text": "theocracy"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "In a constitutional monarchy, the monarch's authority is limited by law and shared with elected bodies."
+  },
+  {
+    "id": "jamb-govt-constitution-1",
+    "subject": "Government",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "The Constitution",
+    "difficulty": "easy",
+    "prompt": "A constitution derived largely from customs, judicial precedents and scattered Acts of Parliament, rather than one single document, is called a/an",
+    "options": [
+      {
+        "key": "A",
+        "text": "federal constitution"
+      },
+      {
+        "key": "B",
+        "text": "rigid constitution"
+      },
+      {
+        "key": "C",
+        "text": "written constitution"
+      },
+      {
+        "key": "D",
+        "text": "unwritten constitution"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "An unwritten constitution, like Britain's, is built from custom, convention and various statutes."
+  },
+  {
+    "id": "jamb-govt-constitution-2",
+    "subject": "Government",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "The Constitution",
+    "difficulty": "medium",
+    "prompt": "A constitution requiring a special, more difficult procedure (such as a supermajority) to amend is described as",
+    "options": [
+      {
+        "key": "A",
+        "text": "flexible"
+      },
+      {
+        "key": "B",
+        "text": "rigid"
+      },
+      {
+        "key": "C",
+        "text": "unitary"
+      },
+      {
+        "key": "D",
+        "text": "unwritten"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Rigid constitutions require special procedures, stricter than ordinary lawmaking, to amend."
+  },
+  {
+    "id": "jamb-govt-constitution-3",
+    "subject": "Government",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "The Constitution",
+    "difficulty": "hard",
+    "prompt": "The doctrine of constitutional supremacy means that",
+    "options": [
+      {
+        "key": "A",
+        "text": "the executive can override the constitution when necessary"
+      },
+      {
+        "key": "B",
+        "text": "only the legislature is bound by the constitution"
+      },
+      {
+        "key": "C",
+        "text": "any law inconsistent with the constitution is void to the extent of the inconsistency"
+      },
+      {
+        "key": "D",
+        "text": "the constitution has no legal force over ordinary laws"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Under constitutional supremacy, the constitution overrides any conflicting ordinary law."
+  },
+  {
+    "id": "jamb-govt-constitution-4",
+    "subject": "Government",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "The Constitution",
+    "difficulty": "medium",
+    "prompt": "The section of a constitution that typically guarantees citizens' fundamental freedoms, such as freedom of speech, is called the",
+    "options": [
+      {
+        "key": "A",
+        "text": "preamble only"
+      },
+      {
+        "key": "B",
+        "text": "electoral act"
+      },
+      {
+        "key": "C",
+        "text": "appropriation act"
+      },
+      {
+        "key": "D",
+        "text": "bill/chapter of fundamental rights"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Fundamental rights provisions guarantee citizens' basic freedoms within the constitution."
+  },
+  {
+    "id": "jamb-govt-constitution-5",
+    "subject": "Government",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "The Constitution",
+    "difficulty": "easy",
+    "prompt": "The process of formally introducing changes to specific provisions of an existing constitution is known as",
+    "options": [
+      {
+        "key": "A",
+        "text": "constitutional suspension"
+      },
+      {
+        "key": "B",
+        "text": "constitutional abrogation"
+      },
+      {
+        "key": "C",
+        "text": "constitutional dissolution"
+      },
+      {
+        "key": "D",
+        "text": "constitutional amendment"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Amendment is the formal process of altering specific constitutional provisions."
+  },
+  {
+    "id": "jamb-govt-international-orgs-1",
+    "subject": "Government",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "International Organisations",
+    "difficulty": "easy",
+    "prompt": "The international organisation whose charter commits members to maintaining international peace and security, founded in 1945, is the",
+    "options": [
+      {
+        "key": "A",
+        "text": "Commonwealth"
+      },
+      {
+        "key": "B",
+        "text": "United Nations"
+      },
+      {
+        "key": "C",
+        "text": "African Union"
+      },
+      {
+        "key": "D",
+        "text": "European Union"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "The United Nations was founded in 1945 to maintain international peace and security."
+  },
+  {
+    "id": "jamb-govt-international-orgs-2",
+    "subject": "Government",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "International Organisations",
+    "difficulty": "medium",
+    "prompt": "ECOWAS, founded in 1975, primarily aims to promote among West African states",
+    "options": [
+      {
+        "key": "A",
+        "text": "military conquest"
+      },
+      {
+        "key": "B",
+        "text": "linguistic uniformity"
+      },
+      {
+        "key": "C",
+        "text": "economic cooperation and integration"
+      },
+      {
+        "key": "D",
+        "text": "religious unity"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "ECOWAS was established to foster economic cooperation and integration in West Africa."
+  },
+  {
+    "id": "jamb-govt-international-orgs-3",
+    "subject": "Government",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "International Organisations",
+    "difficulty": "hard",
+    "prompt": "The transformation of the Organisation of African Unity (OAU) into the African Union (AU) in 2002 aimed mainly to",
+    "options": [
+      {
+        "key": "A",
+        "text": "deepen political and economic integration among African states"
+      },
+      {
+        "key": "B",
+        "text": "reintroduce colonial rule"
+      },
+      {
+        "key": "C",
+        "text": "remove Africa from the United Nations"
+      },
+      {
+        "key": "D",
+        "text": "dissolve all African governments"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "The AU succeeded the OAU with a stronger mandate for African integration."
+  },
+  {
+    "id": "jamb-govt-international-orgs-4",
+    "subject": "Government",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "International Organisations",
+    "difficulty": "medium",
+    "prompt": "The primary role of the United Nations Security Council is to",
+    "options": [
+      {
+        "key": "A",
+        "text": "maintain international peace and security"
+      },
+      {
+        "key": "B",
+        "text": "issue passports to member states"
+      },
+      {
+        "key": "C",
+        "text": "regulate international sports"
+      },
+      {
+        "key": "D",
+        "text": "set global commodity prices"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "The Security Council holds primary responsibility for international peace and security."
+  },
+  {
+    "id": "jamb-govt-international-orgs-5",
+    "subject": "Government",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "International Organisations",
+    "difficulty": "easy",
+    "prompt": "Nigeria's membership of the United Nations began shortly after its",
+    "options": [
+      {
+        "key": "A",
+        "text": "civil war in 1967"
+      },
+      {
+        "key": "B",
+        "text": "amalgamation in 1914"
+      },
+      {
+        "key": "C",
+        "text": "return to democracy in 1999"
+      },
+      {
+        "key": "D",
+        "text": "independence in 1960"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Nigeria joined the UN in October 1960, immediately following independence."
+  },
+  {
+    "id": "jamb-lit-appreciation-1",
+    "subject": "Literature-in-English",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Literary Appreciation & Terms",
+    "difficulty": "easy",
+    "prompt": "A figure of speech that directly states one thing is another, without using 'like' or 'as', is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "onomatopoeia"
+      },
+      {
+        "key": "B",
+        "text": "personification"
+      },
+      {
+        "key": "C",
+        "text": "metaphor"
+      },
+      {
+        "key": "D",
+        "text": "simile"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "A metaphor equates two things directly, unlike a simile which uses 'like' or 'as'."
+  },
+  {
+    "id": "jamb-lit-appreciation-2",
+    "subject": "Literature-in-English",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Literary Appreciation & Terms",
+    "difficulty": "medium",
+    "prompt": "The repetition of similar vowel sounds in nearby words, without matching consonants, is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "onomatopoeia"
+      },
+      {
+        "key": "B",
+        "text": "alliteration"
+      },
+      {
+        "key": "C",
+        "text": "assonance"
+      },
+      {
+        "key": "D",
+        "text": "rhyme"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Assonance repeats vowel sounds within nearby words."
+  },
+  {
+    "id": "jamb-lit-appreciation-3",
+    "subject": "Literature-in-English",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Literary Appreciation & Terms",
+    "difficulty": "hard",
+    "prompt": "A statement that deliberately understates the seriousness or significance of something is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "irony"
+      },
+      {
+        "key": "B",
+        "text": "hyperbole"
+      },
+      {
+        "key": "C",
+        "text": "understatement (litotes)"
+      },
+      {
+        "key": "D",
+        "text": "paradox"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Understatement (litotes) deliberately downplays the importance of something."
+  },
+  {
+    "id": "jamb-lit-appreciation-4",
+    "subject": "Literature-in-English",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Literary Appreciation & Terms",
+    "difficulty": "medium",
+    "prompt": "The underlying meaning of a work, distinct from its surface story, is generally referred to as its",
+    "options": [
+      {
+        "key": "A",
+        "text": "narrator"
+      },
+      {
+        "key": "B",
+        "text": "theme"
+      },
+      {
+        "key": "C",
+        "text": "plot"
+      },
+      {
+        "key": "D",
+        "text": "setting"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Theme is the central underlying idea a literary work explores."
+  },
+  {
+    "id": "jamb-lit-appreciation-5",
+    "subject": "Literature-in-English",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Literary Appreciation & Terms",
+    "difficulty": "easy",
+    "prompt": "A literary technique where the outcome contradicts what the audience or characters expected is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "irony"
+      },
+      {
+        "key": "B",
+        "text": "hyperbole"
+      },
+      {
+        "key": "C",
+        "text": "alliteration"
+      },
+      {
+        "key": "D",
+        "text": "onomatopoeia"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Irony involves a contrast between expectation and actual outcome."
+  },
+  {
+    "id": "jamb-lit-poetry-1",
+    "subject": "Literature-in-English",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Poetry",
+    "difficulty": "easy",
+    "prompt": "A fourteen-line poem written in a fixed rhyme scheme, often exploring themes of love, is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "elegy"
+      },
+      {
+        "key": "B",
+        "text": "ode"
+      },
+      {
+        "key": "C",
+        "text": "sonnet"
+      },
+      {
+        "key": "D",
+        "text": "ballad"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "A sonnet is a fixed 14-line poetic form, often on themes of love."
+  },
+  {
+    "id": "jamb-lit-poetry-2",
+    "subject": "Literature-in-English",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Poetry",
+    "difficulty": "medium",
+    "prompt": "A poem without a regular rhyme scheme or metre, but still divided into lines, is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "a ballad"
+      },
+      {
+        "key": "B",
+        "text": "free verse"
+      },
+      {
+        "key": "C",
+        "text": "a limerick"
+      },
+      {
+        "key": "D",
+        "text": "a sonnet"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Free verse poetry lacks a fixed rhyme scheme or metrical pattern."
+  },
+  {
+    "id": "jamb-lit-poetry-3",
+    "subject": "Literature-in-English",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Poetry",
+    "difficulty": "hard",
+    "prompt": "A five-line humorous poem with a distinctive AABBA rhyme scheme is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "haiku"
+      },
+      {
+        "key": "B",
+        "text": "limerick"
+      },
+      {
+        "key": "C",
+        "text": "sonnet"
+      },
+      {
+        "key": "D",
+        "text": "elegy"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "A limerick is a short, comic poem with an AABBA rhyme pattern."
+  },
+  {
+    "id": "jamb-lit-poetry-4",
+    "subject": "Literature-in-English",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Poetry",
+    "difficulty": "medium",
+    "prompt": "A poem addressed to, or written in praise of, an object, person, or abstract idea, in an elevated style, is called a/an",
+    "options": [
+      {
+        "key": "A",
+        "text": "ode"
+      },
+      {
+        "key": "B",
+        "text": "haiku"
+      },
+      {
+        "key": "C",
+        "text": "limerick"
+      },
+      {
+        "key": "D",
+        "text": "epic"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "An ode is a formal, often elevated, poem of praise or address."
+  },
+  {
+    "id": "jamb-lit-poetry-5",
+    "subject": "Literature-in-English",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Poetry",
+    "difficulty": "easy",
+    "prompt": "The rhythmic pattern created by the arrangement of stressed and unstressed syllables in poetry is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "stanza"
+      },
+      {
+        "key": "B",
+        "text": "refrain"
+      },
+      {
+        "key": "C",
+        "text": "metre"
+      },
+      {
+        "key": "D",
+        "text": "rhyme scheme"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Metre describes the rhythmic pattern of syllable stress in verse."
+  },
+  {
+    "id": "jamb-lit-drama-1",
+    "subject": "Literature-in-English",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Drama",
+    "difficulty": "easy",
+    "prompt": "A play centred on serious themes, often ending in the downfall or death of the main character, is classified as a",
+    "options": [
+      {
+        "key": "A",
+        "text": "comedy"
+      },
+      {
+        "key": "B",
+        "text": "melodrama"
+      },
+      {
+        "key": "C",
+        "text": "farce"
+      },
+      {
+        "key": "D",
+        "text": "tragedy"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "A tragedy explores serious themes, typically ending in the protagonist's downfall."
+  },
+  {
+    "id": "jamb-lit-drama-2",
+    "subject": "Literature-in-English",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Drama",
+    "difficulty": "medium",
+    "prompt": "The point of highest tension or the turning point in the action of a play is called the",
+    "options": [
+      {
+        "key": "A",
+        "text": "prologue"
+      },
+      {
+        "key": "B",
+        "text": "exposition"
+      },
+      {
+        "key": "C",
+        "text": "denouement"
+      },
+      {
+        "key": "D",
+        "text": "climax"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "The climax marks the peak of tension or the decisive turning point."
+  },
+  {
+    "id": "jamb-lit-drama-3",
+    "subject": "Literature-in-English",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Drama",
+    "difficulty": "hard",
+    "prompt": "A defect or weakness in a tragic hero's character that leads to their downfall is called their",
+    "options": [
+      {
+        "key": "A",
+        "text": "tragic flaw (hamartia)"
+      },
+      {
+        "key": "B",
+        "text": "foil"
+      },
+      {
+        "key": "C",
+        "text": "motif"
+      },
+      {
+        "key": "D",
+        "text": "epilogue"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "The tragic flaw (hamartia) is the character weakness that precipitates a tragic hero's downfall."
+  },
+  {
+    "id": "jamb-lit-drama-4",
+    "subject": "Literature-in-English",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Drama",
+    "difficulty": "medium",
+    "prompt": "A short introductory speech or scene that sets the context for a play is called the",
+    "options": [
+      {
+        "key": "A",
+        "text": "denouement"
+      },
+      {
+        "key": "B",
+        "text": "epilogue"
+      },
+      {
+        "key": "C",
+        "text": "prologue"
+      },
+      {
+        "key": "D",
+        "text": "climax"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "A prologue introduces context or background before the main action begins."
+  },
+  {
+    "id": "jamb-lit-drama-5",
+    "subject": "Literature-in-English",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Drama",
+    "difficulty": "easy",
+    "prompt": "The concluding speech or scene of a play, often summarizing or reflecting on its events, is called the",
+    "options": [
+      {
+        "key": "A",
+        "text": "prologue"
+      },
+      {
+        "key": "B",
+        "text": "climax"
+      },
+      {
+        "key": "C",
+        "text": "epilogue"
+      },
+      {
+        "key": "D",
+        "text": "exposition"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "An epilogue is the concluding section reflecting on a play's events."
+  },
+  {
+    "id": "jamb-lit-prose-1",
+    "subject": "Literature-in-English",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Prose Fiction",
+    "difficulty": "easy",
+    "prompt": "A narrator who knows the thoughts and feelings of all characters in a story is called an",
+    "options": [
+      {
+        "key": "A",
+        "text": "unreliable narrator"
+      },
+      {
+        "key": "B",
+        "text": "limited narrator"
+      },
+      {
+        "key": "C",
+        "text": "omniscient narrator"
+      },
+      {
+        "key": "D",
+        "text": "first-person narrator"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "An omniscient narrator has full knowledge of every character's thoughts."
+  },
+  {
+    "id": "jamb-lit-prose-2",
+    "subject": "Literature-in-English",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Prose Fiction",
+    "difficulty": "medium",
+    "prompt": "A narrator whose account of events cannot be fully trusted by the reader is called a/an",
+    "options": [
+      {
+        "key": "A",
+        "text": "unreliable narrator"
+      },
+      {
+        "key": "B",
+        "text": "objective narrator"
+      },
+      {
+        "key": "C",
+        "text": "omniscient narrator"
+      },
+      {
+        "key": "D",
+        "text": "third-person narrator"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "An unreliable narrator gives an account readers should question."
+  },
+  {
+    "id": "jamb-lit-prose-3",
+    "subject": "Literature-in-English",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Prose Fiction",
+    "difficulty": "hard",
+    "prompt": "The struggle between opposing forces that drives the action of a story forward is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "resolution"
+      },
+      {
+        "key": "B",
+        "text": "setting"
+      },
+      {
+        "key": "C",
+        "text": "exposition"
+      },
+      {
+        "key": "D",
+        "text": "conflict"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Conflict is the central struggle that propels a narrative."
+  },
+  {
+    "id": "jamb-lit-prose-4",
+    "subject": "Literature-in-English",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Prose Fiction",
+    "difficulty": "medium",
+    "prompt": "A brief reference within a story to another well-known work, person, or event is called a/an",
+    "options": [
+      {
+        "key": "A",
+        "text": "flashback"
+      },
+      {
+        "key": "B",
+        "text": "allusion"
+      },
+      {
+        "key": "C",
+        "text": "epilogue"
+      },
+      {
+        "key": "D",
+        "text": "foreshadowing"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "An allusion is a brief reference to something outside the immediate narrative."
+  },
+  {
+    "id": "jamb-lit-prose-5",
+    "subject": "Literature-in-English",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Prose Fiction",
+    "difficulty": "easy",
+    "prompt": "A story arranged so events unfold in the order they naturally occurred is said to follow",
+    "options": [
+      {
+        "key": "A",
+        "text": "chronological order"
+      },
+      {
+        "key": "B",
+        "text": "flashback structure"
+      },
+      {
+        "key": "C",
+        "text": "in medias res structure"
+      },
+      {
+        "key": "D",
+        "text": "circular structure"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Chronological order presents events in the sequence they actually happened."
+  },
+  {
+    "id": "jamb-lit-african-1",
+    "subject": "Literature-in-English",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "African Literature",
+    "difficulty": "easy",
+    "prompt": "Much early African fiction written in the mid-20th century engaged critically with the effects of",
+    "options": [
+      {
+        "key": "A",
+        "text": "the American Civil War"
+      },
+      {
+        "key": "B",
+        "text": "ancient Roman civilization"
+      },
+      {
+        "key": "C",
+        "text": "European colonialism on African societies"
+      },
+      {
+        "key": "D",
+        "text": "the Industrial Revolution in Britain"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Colonialism's impact on African society is a central theme in much early African fiction."
+  },
+  {
+    "id": "jamb-lit-african-2",
+    "subject": "Literature-in-English",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "African Literature",
+    "difficulty": "medium",
+    "prompt": "The blending of indigenous oral storytelling techniques with the written novel form is a notable feature of much",
+    "options": [
+      {
+        "key": "A",
+        "text": "ancient Greek literature"
+      },
+      {
+        "key": "B",
+        "text": "African literature"
+      },
+      {
+        "key": "C",
+        "text": "Victorian literature"
+      },
+      {
+        "key": "D",
+        "text": "medieval European literature"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "African novelists frequently draw on oral tradition techniques in written fiction."
+  },
+  {
+    "id": "jamb-lit-african-3",
+    "subject": "Literature-in-English",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "African Literature",
+    "difficulty": "hard",
+    "prompt": "A central theme explored in much African drama and fiction concerns the conflict between",
+    "options": [
+      {
+        "key": "A",
+        "text": "space exploration and technology"
+      },
+      {
+        "key": "B",
+        "text": "traditional communal values and modern individualism"
+      },
+      {
+        "key": "C",
+        "text": "medieval knights and dragons"
+      },
+      {
+        "key": "D",
+        "text": "ancient Rome and Greece"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Tension between traditional communal life and modern individualism recurs across African literature."
+  },
+  {
+    "id": "jamb-lit-african-4",
+    "subject": "Literature-in-English",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "African Literature",
+    "difficulty": "medium",
+    "prompt": "Praise poetry and oral epics recounting the deeds of legendary heroes are examples of traditional African",
+    "options": [
+      {
+        "key": "A",
+        "text": "written drama"
+      },
+      {
+        "key": "B",
+        "text": "modern journalism"
+      },
+      {
+        "key": "C",
+        "text": "oral literature"
+      },
+      {
+        "key": "D",
+        "text": "epistolary fiction"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Praise poetry and oral epics belong to Africa's rich oral literary tradition."
+  },
+  {
+    "id": "jamb-lit-african-5",
+    "subject": "Literature-in-English",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "African Literature",
+    "difficulty": "easy",
+    "prompt": "A recurring purpose of much post-independence African writing was to",
+    "options": [
+      {
+        "key": "A",
+        "text": "reflect critically on the challenges and hopes of newly independent nations"
+      },
+      {
+        "key": "B",
+        "text": "promote foreign trade policy"
+      },
+      {
+        "key": "C",
+        "text": "celebrate continued colonial rule"
+      },
+      {
+        "key": "D",
+        "text": "document ancient Egyptian history exclusively"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Post-independence African literature often examined the promises and struggles of new nationhood."
+  },
+  {
+    "id": "jamb-hist-precolonial-1",
+    "subject": "History",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Pre-colonial Nigerian Societies",
+    "difficulty": "easy",
+    "prompt": "The Hausa states of pre-colonial Northern Nigeria developed as independent",
+    "options": [
+      {
+        "key": "A",
+        "text": "city-states, later organized as emirates after the 19th-century jihad"
+      },
+      {
+        "key": "B",
+        "text": "provinces of a single unified Nigerian state"
+      },
+      {
+        "key": "C",
+        "text": "villages with no political organization"
+      },
+      {
+        "key": "D",
+        "text": "colonies of a foreign empire"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "The Hausa states existed as separate city-states before becoming emirates under the Sokoto Caliphate."
+  },
+  {
+    "id": "jamb-hist-precolonial-2",
+    "subject": "History",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Pre-colonial Nigerian Societies",
+    "difficulty": "medium",
+    "prompt": "The pre-colonial Yoruba political system centred around independent kingdoms, each headed by a/an",
+    "options": [
+      {
+        "key": "A",
+        "text": "Oba"
+      },
+      {
+        "key": "B",
+        "text": "Emir"
+      },
+      {
+        "key": "C",
+        "text": "Sarki"
+      },
+      {
+        "key": "D",
+        "text": "Eze"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Yoruba kingdoms were traditionally each ruled by an Oba."
+  },
+  {
+    "id": "jamb-hist-precolonial-3",
+    "subject": "History",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Pre-colonial Nigerian Societies",
+    "difficulty": "hard",
+    "prompt": "Most pre-colonial Igbo communities were governed through a decentralized system relying mainly on",
+    "options": [
+      {
+        "key": "A",
+        "text": "councils of elders and age-grade associations"
+      },
+      {
+        "key": "B",
+        "text": "a single centralized monarch"
+      },
+      {
+        "key": "C",
+        "text": "hereditary emirs"
+      },
+      {
+        "key": "D",
+        "text": "colonial governors"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Igbo communities generally relied on elder councils and age-grades rather than centralized kingship."
+  },
+  {
+    "id": "jamb-hist-precolonial-4",
+    "subject": "History",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Pre-colonial Nigerian Societies",
+    "difficulty": "medium",
+    "prompt": "The Sokoto Caliphate, founded through a 19th-century jihad, was led by",
+    "options": [
+      {
+        "key": "A",
+        "text": "Herbert Macaulay"
+      },
+      {
+        "key": "B",
+        "text": "Usman dan Fodio"
+      },
+      {
+        "key": "C",
+        "text": "Lord Lugard"
+      },
+      {
+        "key": "D",
+        "text": "Nnamdi Azikiwe"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Usman dan Fodio led the jihad that founded the Sokoto Caliphate in 1804."
+  },
+  {
+    "id": "jamb-hist-precolonial-5",
+    "subject": "History",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Pre-colonial Nigerian Societies",
+    "difficulty": "easy",
+    "prompt": "The Benin Kingdom's advanced bronze-casting tradition is closely associated with the reign of its",
+    "options": [
+      {
+        "key": "A",
+        "text": "Emirs"
+      },
+      {
+        "key": "B",
+        "text": "colonial governors"
+      },
+      {
+        "key": "C",
+        "text": "Alaafins"
+      },
+      {
+        "key": "D",
+        "text": "Obas"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Benin's famed bronze artworks flourished under the patronage of its Obas."
+  },
+  {
+    "id": "jamb-hist-colonialism-1",
+    "subject": "History",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Colonialism in Nigeria",
+    "difficulty": "easy",
+    "prompt": "The policy of governing a colony through existing traditional rulers, under overall British supervision, was called",
+    "options": [
+      {
+        "key": "A",
+        "text": "Trusteeship"
+      },
+      {
+        "key": "B",
+        "text": "Assimilation"
+      },
+      {
+        "key": "C",
+        "text": "Indirect Rule"
+      },
+      {
+        "key": "D",
+        "text": "Direct Rule"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Indirect Rule administered colonies through existing local rulers under British oversight."
+  },
+  {
+    "id": "jamb-hist-colonialism-2",
+    "subject": "History",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Colonialism in Nigeria",
+    "difficulty": "medium",
+    "prompt": "The 1914 amalgamation of the Northern and Southern Protectorates was carried out under",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ahmadu Bello"
+      },
+      {
+        "key": "B",
+        "text": "Herbert Macaulay"
+      },
+      {
+        "key": "C",
+        "text": "Lord Frederick Lugard"
+      },
+      {
+        "key": "D",
+        "text": "Cecil Rhodes"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Lord Lugard oversaw the 1914 amalgamation forming colonial Nigeria."
+  },
+  {
+    "id": "jamb-hist-colonialism-3",
+    "subject": "History",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Colonialism in Nigeria",
+    "difficulty": "hard",
+    "prompt": "A major economic motive for British colonization of Nigeria was to secure",
+    "options": [
+      {
+        "key": "A",
+        "text": "new sites for British universities only"
+      },
+      {
+        "key": "B",
+        "text": "raw materials and markets for British manufactured goods"
+      },
+      {
+        "key": "C",
+        "text": "additional voting territory for British elections"
+      },
+      {
+        "key": "D",
+        "text": "territory purely for its scenic value"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Colonial economic policy focused on extracting raw materials and creating markets for British goods."
+  },
+  {
+    "id": "jamb-hist-colonialism-4",
+    "subject": "History",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Colonialism in Nigeria",
+    "difficulty": "medium",
+    "prompt": "The Aba Women's Riot of 1929 arose largely from opposition to",
+    "options": [
+      {
+        "key": "A",
+        "text": "the outbreak of the First World War"
+      },
+      {
+        "key": "B",
+        "text": "the introduction of Western education"
+      },
+      {
+        "key": "C",
+        "text": "the amalgamation of 1914"
+      },
+      {
+        "key": "D",
+        "text": "colonial taxation policies enforced through warrant chiefs"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Women in Aba protested against taxation policies administered by warrant chiefs."
+  },
+  {
+    "id": "jamb-hist-colonialism-5",
+    "subject": "History",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Colonialism in Nigeria",
+    "difficulty": "easy",
+    "prompt": "Western-style schools established during the colonial era in Nigeria were largely pioneered by",
+    "options": [
+      {
+        "key": "A",
+        "text": "the colonial military"
+      },
+      {
+        "key": "B",
+        "text": "Christian missionaries"
+      },
+      {
+        "key": "C",
+        "text": "traditional emirs"
+      },
+      {
+        "key": "D",
+        "text": "trade unions"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Christian missionary societies founded many of Nigeria's earliest Western-style schools."
+  },
+  {
+    "id": "jamb-hist-nationalism-1",
+    "subject": "History",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Nationalism & Independence",
+    "difficulty": "easy",
+    "prompt": "Herbert Macaulay, often called the father of Nigerian nationalism, was notably involved in founding the",
+    "options": [
+      {
+        "key": "A",
+        "text": "Royal Niger Company"
+      },
+      {
+        "key": "B",
+        "text": "colonial civil service"
+      },
+      {
+        "key": "C",
+        "text": "Sokoto Caliphate"
+      },
+      {
+        "key": "D",
+        "text": "Nigerian National Democratic Party (NNDP)"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Macaulay founded the NNDP, an early Nigerian nationalist political party."
+  },
+  {
+    "id": "jamb-hist-nationalism-2",
+    "subject": "History",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Nationalism & Independence",
+    "difficulty": "medium",
+    "prompt": "The 1954 Lyttelton Constitution is notable for establishing Nigeria as a",
+    "options": [
+      {
+        "key": "A",
+        "text": "true federation with strong regional governments"
+      },
+      {
+        "key": "B",
+        "text": "military dictatorship"
+      },
+      {
+        "key": "C",
+        "text": "republic with an executive president"
+      },
+      {
+        "key": "D",
+        "text": "unitary state"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "The Lyttelton Constitution firmly established Nigeria's federal structure."
+  },
+  {
+    "id": "jamb-hist-nationalism-3",
+    "subject": "History",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Nationalism & Independence",
+    "difficulty": "hard",
+    "prompt": "A significant factor accelerating Nigerian nationalism after 1945 was",
+    "options": [
+      {
+        "key": "A",
+        "text": "the political awakening of ex-servicemen who had fought in World War II"
+      },
+      {
+        "key": "B",
+        "text": "a sudden loss of interest in self-government"
+      },
+      {
+        "key": "C",
+        "text": "the abolition of colonial taxation"
+      },
+      {
+        "key": "D",
+        "text": "the total absence of educated Nigerian elites"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Returning WWII veterans brought heightened political consciousness demanding change."
+  },
+  {
+    "id": "jamb-hist-nationalism-4",
+    "subject": "History",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Nationalism & Independence",
+    "difficulty": "medium",
+    "prompt": "Nigeria's transition to a fully independent nation was completed on",
+    "options": [
+      {
+        "key": "A",
+        "text": "29 May 1999"
+      },
+      {
+        "key": "B",
+        "text": "15 January 1966"
+      },
+      {
+        "key": "C",
+        "text": "1 October 1963"
+      },
+      {
+        "key": "D",
+        "text": "1 October 1960"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Nigeria achieved independence from Britain on 1 October 1960."
+  },
+  {
+    "id": "jamb-hist-nationalism-5",
+    "subject": "History",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Nationalism & Independence",
+    "difficulty": "easy",
+    "prompt": "Nigeria's first Prime Minister, leading government under the 1960 independence constitution, was",
+    "options": [
+      {
+        "key": "A",
+        "text": "Sir Abubakar Tafawa Balewa"
+      },
+      {
+        "key": "B",
+        "text": "Obafemi Awolowo"
+      },
+      {
+        "key": "C",
+        "text": "Ahmadu Bello"
+      },
+      {
+        "key": "D",
+        "text": "Nnamdi Azikiwe"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Tafawa Balewa served as Nigeria's first Prime Minister from 1960."
+  },
+  {
+    "id": "jamb-hist-scramble-1",
+    "subject": "History",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "The Scramble for Africa",
+    "difficulty": "easy",
+    "prompt": "The conference that set out rules for European powers to formally partition Africa among themselves was held in",
+    "options": [
+      {
+        "key": "A",
+        "text": "London, 1900"
+      },
+      {
+        "key": "B",
+        "text": "Berlin, 1884-85"
+      },
+      {
+        "key": "C",
+        "text": "Vienna, 1815"
+      },
+      {
+        "key": "D",
+        "text": "Paris, 1919"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "The Berlin Conference (1884-85) established rules for Africa's colonial partition."
+  },
+  {
+    "id": "jamb-hist-scramble-2",
+    "subject": "History",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "The Scramble for Africa",
+    "difficulty": "medium",
+    "prompt": "A key requirement agreed at the Berlin Conference for a European claim to African territory to be recognized was",
+    "options": [
+      {
+        "key": "A",
+        "text": "a unanimous vote of the League of Nations"
+      },
+      {
+        "key": "B",
+        "text": "approval from African rulers"
+      },
+      {
+        "key": "C",
+        "text": "effective occupation of that territory"
+      },
+      {
+        "key": "D",
+        "text": "payment of a fee to Britain only"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Effective occupation required demonstrated administrative control, not just a paper claim."
+  },
+  {
+    "id": "jamb-hist-scramble-3",
+    "subject": "History",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "The Scramble for Africa",
+    "difficulty": "hard",
+    "prompt": "Widespread African resistance to European colonization occurred across the continent, led notably by local",
+    "options": [
+      {
+        "key": "A",
+        "text": "the League of Nations"
+      },
+      {
+        "key": "B",
+        "text": "European missionaries"
+      },
+      {
+        "key": "C",
+        "text": "colonial administrators"
+      },
+      {
+        "key": "D",
+        "text": "rulers and warrior leaders defending their territories"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "African resistance to colonization was frequently led by indigenous rulers and military leaders."
+  },
+  {
+    "id": "jamb-hist-scramble-4",
+    "subject": "History",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "The Scramble for Africa",
+    "difficulty": "medium",
+    "prompt": "A lasting political consequence of the Scramble for Africa's arbitrary colonial borders was that they",
+    "options": [
+      {
+        "key": "A",
+        "text": "prevented all future border disputes"
+      },
+      {
+        "key": "B",
+        "text": "frequently divided single ethnic groups across multiple modern countries"
+      },
+      {
+        "key": "C",
+        "text": "were redrawn by African leaders before independence"
+      },
+      {
+        "key": "D",
+        "text": "perfectly reflected existing African political divisions"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Arbitrary colonial boundaries often split ethnic communities across separate modern states."
+  },
+  {
+    "id": "jamb-hist-scramble-5",
+    "subject": "History",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "The Scramble for Africa",
+    "difficulty": "easy",
+    "prompt": "By the early 20th century, virtually the entire African continent had come under",
+    "options": [
+      {
+        "key": "A",
+        "text": "American administration"
+      },
+      {
+        "key": "B",
+        "text": "European colonial control"
+      },
+      {
+        "key": "C",
+        "text": "self-governing independence"
+      },
+      {
+        "key": "D",
+        "text": "Ottoman rule"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "By the early 1900s, nearly all of Africa had been colonized by European powers."
+  },
+  {
+    "id": "jamb-hist-world-wars-1",
+    "subject": "History",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "World Wars (General World History)",
+    "difficulty": "easy",
+    "prompt": "World War I (1914-1918) was immediately triggered by the assassination of",
+    "options": [
+      {
+        "key": "A",
+        "text": "Tsar Nicholas II"
+      },
+      {
+        "key": "B",
+        "text": "Archduke Franz Ferdinand of Austria-Hungary"
+      },
+      {
+        "key": "C",
+        "text": "Kaiser Wilhelm II"
+      },
+      {
+        "key": "D",
+        "text": "King George V"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "The 1914 assassination of Archduke Franz Ferdinand set off the chain of events leading to WWI."
+  },
+  {
+    "id": "jamb-hist-world-wars-2",
+    "subject": "History",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "World Wars (General World History)",
+    "difficulty": "medium",
+    "prompt": "World War II is generally dated as beginning in 1939 with Germany's invasion of",
+    "options": [
+      {
+        "key": "A",
+        "text": "France"
+      },
+      {
+        "key": "B",
+        "text": "Poland"
+      },
+      {
+        "key": "C",
+        "text": "the Soviet Union"
+      },
+      {
+        "key": "D",
+        "text": "Britain"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Germany's September 1939 invasion of Poland marked the start of WWII."
+  },
+  {
+    "id": "jamb-hist-world-wars-3",
+    "subject": "History",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "World Wars (General World History)",
+    "difficulty": "hard",
+    "prompt": "The Treaty of Versailles (1919), which formally ended World War I, is often cited by historians as contributing to World War II because it",
+    "options": [
+      {
+        "key": "A",
+        "text": "created a lasting and stable peace"
+      },
+      {
+        "key": "B",
+        "text": "gave Germany additional colonies"
+      },
+      {
+        "key": "C",
+        "text": "abolished all national armies"
+      },
+      {
+        "key": "D",
+        "text": "imposed harsh reparations and terms on Germany, fuelling resentment"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Versailles' harsh terms on Germany are widely seen as contributing to later German grievances."
+  },
+  {
+    "id": "jamb-hist-world-wars-4",
+    "subject": "History",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "World Wars (General World History)",
+    "difficulty": "medium",
+    "prompt": "Nigerian and other colonial African troops contributed to the Allied war effort in World War II mainly by",
+    "options": [
+      {
+        "key": "A",
+        "text": "serving as soldiers and providing labour and resources for Britain"
+      },
+      {
+        "key": "B",
+        "text": "leading independent African armies"
+      },
+      {
+        "key": "C",
+        "text": "remaining entirely uninvolved"
+      },
+      {
+        "key": "D",
+        "text": "fighting exclusively on the side of Germany"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Colonial Africa, including Nigeria, supplied troops, labour and resources supporting Britain's war effort."
+  },
+  {
+    "id": "jamb-hist-world-wars-5",
+    "subject": "History",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "World Wars (General World History)",
+    "difficulty": "easy",
+    "prompt": "The United Nations was established in 1945 largely in response to the failure of the",
+    "options": [
+      {
+        "key": "A",
+        "text": "League of Nations to prevent World War II"
+      },
+      {
+        "key": "B",
+        "text": "Congress of Vienna to maintain European peace"
+      },
+      {
+        "key": "C",
+        "text": "Berlin Conference to divide Africa peacefully"
+      },
+      {
+        "key": "D",
+        "text": "Treaty of Versailles to end all wars permanently"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "The UN replaced the League of Nations, which had failed to prevent WWII."
+  },
+  {
+    "id": "jamb-crs-creation-1",
+    "subject": "Christian Religious Studies",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Creation & Patriarchal Narratives",
+    "difficulty": "easy",
+    "prompt": "According to Genesis, human beings were created in the image of",
+    "options": [
+      {
+        "key": "A",
+        "text": "angels"
+      },
+      {
+        "key": "B",
+        "text": "God"
+      },
+      {
+        "key": "C",
+        "text": "the patriarchs"
+      },
+      {
+        "key": "D",
+        "text": "animals"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Genesis 1:27 states that God created humankind in His own image."
+  },
+  {
+    "id": "jamb-crs-creation-2",
+    "subject": "Christian Religious Studies",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Creation & Patriarchal Narratives",
+    "difficulty": "medium",
+    "prompt": "According to Genesis, the garden in which Adam and Eve were placed was called",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mount Sinai"
+      },
+      {
+        "key": "B",
+        "text": "the Promised Land"
+      },
+      {
+        "key": "C",
+        "text": "Canaan"
+      },
+      {
+        "key": "D",
+        "text": "the Garden of Eden"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Genesis 2 describes Adam and Eve being placed in the Garden of Eden."
+  },
+  {
+    "id": "jamb-crs-creation-3",
+    "subject": "Christian Religious Studies",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Creation & Patriarchal Narratives",
+    "difficulty": "hard",
+    "prompt": "According to Genesis, God's covenant sign to Noah after the flood, promising never to destroy the earth by flood again, was the",
+    "options": [
+      {
+        "key": "A",
+        "text": "rainbow"
+      },
+      {
+        "key": "B",
+        "text": "tablets of stone"
+      },
+      {
+        "key": "C",
+        "text": "ark itself"
+      },
+      {
+        "key": "D",
+        "text": "burning bush"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Genesis 9 describes the rainbow as the sign of God's covenant with Noah."
+  },
+  {
+    "id": "jamb-crs-creation-4",
+    "subject": "Christian Religious Studies",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Creation & Patriarchal Narratives",
+    "difficulty": "medium",
+    "prompt": "According to Genesis, Abraham's nephew who settled near the wicked cities of Sodom and Gomorrah was",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ishmael"
+      },
+      {
+        "key": "B",
+        "text": "Esau"
+      },
+      {
+        "key": "C",
+        "text": "Isaac"
+      },
+      {
+        "key": "D",
+        "text": "Lot"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Genesis 13-19 recounts Lot settling near Sodom before its destruction."
+  },
+  {
+    "id": "jamb-crs-creation-5",
+    "subject": "Christian Religious Studies",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Creation & Patriarchal Narratives",
+    "difficulty": "easy",
+    "prompt": "According to Genesis, Joseph rose to become a powerful official in the land of",
+    "options": [
+      {
+        "key": "A",
+        "text": "Assyria"
+      },
+      {
+        "key": "B",
+        "text": "Egypt"
+      },
+      {
+        "key": "C",
+        "text": "Canaan"
+      },
+      {
+        "key": "D",
+        "text": "Babylon"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Genesis 41 recounts Joseph becoming a high official under Pharaoh in Egypt."
+  },
+  {
+    "id": "jamb-crs-exodus-1",
+    "subject": "Christian Religious Studies",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Moses & The Exodus",
+    "difficulty": "easy",
+    "prompt": "According to Exodus, Moses fled from Egypt after killing an",
+    "options": [
+      {
+        "key": "A",
+        "text": "Israelite elder"
+      },
+      {
+        "key": "B",
+        "text": "Egyptian priest"
+      },
+      {
+        "key": "C",
+        "text": "Egyptian who was beating a Hebrew slave"
+      },
+      {
+        "key": "D",
+        "text": "Egyptian soldier in battle"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Exodus 2 recounts Moses fleeing after killing an Egyptian who was beating a Hebrew."
+  },
+  {
+    "id": "jamb-crs-exodus-2",
+    "subject": "Christian Religious Studies",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Moses & The Exodus",
+    "difficulty": "medium",
+    "prompt": "According to Exodus, Moses' father-in-law, a priest of Midian, was named",
+    "options": [
+      {
+        "key": "A",
+        "text": "Joshua"
+      },
+      {
+        "key": "B",
+        "text": "Jethro"
+      },
+      {
+        "key": "C",
+        "text": "Caleb"
+      },
+      {
+        "key": "D",
+        "text": "Aaron"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Jethro, a Midianite priest, was Moses' father-in-law."
+  },
+  {
+    "id": "jamb-crs-exodus-3",
+    "subject": "Christian Religious Studies",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Moses & The Exodus",
+    "difficulty": "hard",
+    "prompt": "According to Exodus, the final and most severe of the ten plagues on Egypt was the",
+    "options": [
+      {
+        "key": "A",
+        "text": "plague of locusts"
+      },
+      {
+        "key": "B",
+        "text": "plague of frogs"
+      },
+      {
+        "key": "C",
+        "text": "turning of the Nile to blood"
+      },
+      {
+        "key": "D",
+        "text": "death of the firstborn"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "The death of the firstborn was the tenth and final plague, prompting the Exodus."
+  },
+  {
+    "id": "jamb-crs-exodus-4",
+    "subject": "Christian Religious Studies",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Moses & The Exodus",
+    "difficulty": "medium",
+    "prompt": "According to Exodus, the Israelite festival commemorating their deliverance from the final plague is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "Tabernacles"
+      },
+      {
+        "key": "B",
+        "text": "Pentecost"
+      },
+      {
+        "key": "C",
+        "text": "Passover"
+      },
+      {
+        "key": "D",
+        "text": "Purim"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Passover commemorates the Israelites' deliverance from the tenth plague."
+  },
+  {
+    "id": "jamb-crs-exodus-5",
+    "subject": "Christian Religious Studies",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Moses & The Exodus",
+    "difficulty": "easy",
+    "prompt": "According to Exodus, the covenant between God and Israel at Mount Sinai was sealed through",
+    "options": [
+      {
+        "key": "A",
+        "text": "the anointing of a king"
+      },
+      {
+        "key": "B",
+        "text": "the building of the temple"
+      },
+      {
+        "key": "C",
+        "text": "the crossing of the Jordan River"
+      },
+      {
+        "key": "D",
+        "text": "the giving of the Ten Commandments and the Law"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "The Sinai covenant was established through the Law given to Moses."
+  },
+  {
+    "id": "jamb-crs-kings-prophets-1",
+    "subject": "Christian Religious Studies",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Kings & Prophets of Israel",
+    "difficulty": "easy",
+    "prompt": "According to the Bible, Saul was rejected as king mainly because of his",
+    "options": [
+      {
+        "key": "A",
+        "text": "old age"
+      },
+      {
+        "key": "B",
+        "text": "excessive wisdom"
+      },
+      {
+        "key": "C",
+        "text": "lack of military skill"
+      },
+      {
+        "key": "D",
+        "text": "disobedience to God's specific instructions"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "1 Samuel 15 recounts Saul's rejection for disobeying God's command."
+  },
+  {
+    "id": "jamb-crs-kings-prophets-2",
+    "subject": "Christian Religious Studies",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Kings & Prophets of Israel",
+    "difficulty": "medium",
+    "prompt": "According to the Bible, David's close friend, the son of King Saul, was named",
+    "options": [
+      {
+        "key": "A",
+        "text": "Solomon"
+      },
+      {
+        "key": "B",
+        "text": "Jonathan"
+      },
+      {
+        "key": "C",
+        "text": "Nathan"
+      },
+      {
+        "key": "D",
+        "text": "Absalom"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Jonathan, Saul's son, was David's close and loyal friend."
+  },
+  {
+    "id": "jamb-crs-kings-prophets-3",
+    "subject": "Christian Religious Studies",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Kings & Prophets of Israel",
+    "difficulty": "hard",
+    "prompt": "According to the Bible, the kingdom of Israel divided into two after Solomon's death mainly due to",
+    "options": [
+      {
+        "key": "A",
+        "text": "the death of all his sons"
+      },
+      {
+        "key": "B",
+        "text": "a foreign invasion"
+      },
+      {
+        "key": "C",
+        "text": "the heavy taxation and forced labour imposed under Solomon's rule"
+      },
+      {
+        "key": "D",
+        "text": "the loss of the Ark of the Covenant"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Discontent over Solomon's harsh policies contributed to the kingdom's division under Rehoboam."
+  },
+  {
+    "id": "jamb-crs-kings-prophets-4",
+    "subject": "Christian Religious Studies",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Kings & Prophets of Israel",
+    "difficulty": "medium",
+    "prompt": "According to the Bible, the prophet Elijah was taken up to heaven in a",
+    "options": [
+      {
+        "key": "A",
+        "text": "cloud of glory"
+      },
+      {
+        "key": "B",
+        "text": "burning bush"
+      },
+      {
+        "key": "C",
+        "text": "boat"
+      },
+      {
+        "key": "D",
+        "text": "chariot of fire in a whirlwind"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "2 Kings 2 describes Elijah's ascension via a fiery chariot and whirlwind."
+  },
+  {
+    "id": "jamb-crs-kings-prophets-5",
+    "subject": "Christian Religious Studies",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Kings & Prophets of Israel",
+    "difficulty": "easy",
+    "prompt": "According to the Bible, the prophet who succeeded Elijah, receiving a double portion of his spirit, was",
+    "options": [
+      {
+        "key": "A",
+        "text": "Elisha"
+      },
+      {
+        "key": "B",
+        "text": "Jeremiah"
+      },
+      {
+        "key": "C",
+        "text": "Isaiah"
+      },
+      {
+        "key": "D",
+        "text": "Samuel"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Elisha succeeded Elijah and received a double portion of his prophetic spirit."
+  },
+  {
+    "id": "jamb-crs-jesus-1",
+    "subject": "Christian Religious Studies",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Life & Teachings of Jesus Christ",
+    "difficulty": "easy",
+    "prompt": "According to the Gospels, Jesus grew up in the town of",
+    "options": [
+      {
+        "key": "A",
+        "text": "Nazareth"
+      },
+      {
+        "key": "B",
+        "text": "Bethlehem"
+      },
+      {
+        "key": "C",
+        "text": "Jerusalem"
+      },
+      {
+        "key": "D",
+        "text": "Capernaum"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "The Gospels describe Jesus growing up in Nazareth."
+  },
+  {
+    "id": "jamb-crs-jesus-2",
+    "subject": "Christian Religious Studies",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Life & Teachings of Jesus Christ",
+    "difficulty": "medium",
+    "prompt": "According to the Gospels, Jesus' first public act of ministry followed his",
+    "options": [
+      {
+        "key": "A",
+        "text": "birth in Bethlehem"
+      },
+      {
+        "key": "B",
+        "text": "baptism by John the Baptist"
+      },
+      {
+        "key": "C",
+        "text": "resurrection"
+      },
+      {
+        "key": "D",
+        "text": "crucifixion"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Jesus' baptism by John marked the beginning of his public ministry."
+  },
+  {
+    "id": "jamb-crs-jesus-3",
+    "subject": "Christian Religious Studies",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Life & Teachings of Jesus Christ",
+    "difficulty": "hard",
+    "prompt": "According to the Gospels, the parable illustrating who is truly a 'neighbour' through an act of mercy is the Parable of the",
+    "options": [
+      {
+        "key": "A",
+        "text": "Good Samaritan"
+      },
+      {
+        "key": "B",
+        "text": "Prodigal Son"
+      },
+      {
+        "key": "C",
+        "text": "Talents"
+      },
+      {
+        "key": "D",
+        "text": "Sower"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Luke 10 tells the Parable of the Good Samaritan, addressing neighbourly love."
+  },
+  {
+    "id": "jamb-crs-jesus-4",
+    "subject": "Christian Religious Studies",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Life & Teachings of Jesus Christ",
+    "difficulty": "medium",
+    "prompt": "According to the Gospels, Jesus taught his disciples a model prayer commonly known as the",
+    "options": [
+      {
+        "key": "A",
+        "text": "Beatitudes"
+      },
+      {
+        "key": "B",
+        "text": "Sermon on the Mount"
+      },
+      {
+        "key": "C",
+        "text": "Lord's Prayer"
+      },
+      {
+        "key": "D",
+        "text": "Great Commission"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Matthew 6 records Jesus teaching what is known as the Lord's Prayer."
+  },
+  {
+    "id": "jamb-crs-jesus-5",
+    "subject": "Christian Religious Studies",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Life & Teachings of Jesus Christ",
+    "difficulty": "easy",
+    "prompt": "According to the Gospels, Jesus' final instruction to his disciples to preach the Gospel to all nations is called the",
+    "options": [
+      {
+        "key": "A",
+        "text": "Great Commission"
+      },
+      {
+        "key": "B",
+        "text": "Lord's Prayer"
+      },
+      {
+        "key": "C",
+        "text": "Sermon on the Mount"
+      },
+      {
+        "key": "D",
+        "text": "Beatitudes"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Matthew 28 records the Great Commission, Jesus' instruction to spread the Gospel."
+  },
+  {
+    "id": "jamb-crs-early-church-1",
+    "subject": "Christian Religious Studies",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "The Early Church",
+    "difficulty": "easy",
+    "prompt": "According to the Book of Acts, the early church in Jerusalem practised communal living, including",
+    "options": [
+      {
+        "key": "A",
+        "text": "sharing their possessions with those in need"
+      },
+      {
+        "key": "B",
+        "text": "abandoning the teachings of the apostles"
+      },
+      {
+        "key": "C",
+        "text": "rejecting all forms of worship"
+      },
+      {
+        "key": "D",
+        "text": "excluding new converts"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Acts 2 and 4 describe the early church sharing possessions to meet believers' needs."
+  },
+  {
+    "id": "jamb-crs-early-church-2",
+    "subject": "Christian Religious Studies",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "The Early Church",
+    "difficulty": "medium",
+    "prompt": "According to the Book of Acts, Philip's evangelistic encounter on a desert road involved an official from",
+    "options": [
+      {
+        "key": "A",
+        "text": "Persia"
+      },
+      {
+        "key": "B",
+        "text": "Ethiopia"
+      },
+      {
+        "key": "C",
+        "text": "Rome"
+      },
+      {
+        "key": "D",
+        "text": "Greece"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Acts 8 recounts Philip's meeting with an Ethiopian court official."
+  },
+  {
+    "id": "jamb-crs-early-church-3",
+    "subject": "Christian Religious Studies",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "The Early Church",
+    "difficulty": "hard",
+    "prompt": "According to the New Testament, Paul's missionary journeys were significant mainly for",
+    "options": [
+      {
+        "key": "A",
+        "text": "conquering territory for Rome"
+      },
+      {
+        "key": "B",
+        "text": "translating the Hebrew scriptures"
+      },
+      {
+        "key": "C",
+        "text": "spreading Christianity to Gentile communities across the Roman world"
+      },
+      {
+        "key": "D",
+        "text": "establishing new Jewish synagogues exclusively"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Paul's journeys were central to spreading Christianity beyond Jewish communities."
+  },
+  {
+    "id": "jamb-crs-early-church-4",
+    "subject": "Christian Religious Studies",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "The Early Church",
+    "difficulty": "medium",
+    "prompt": "According to the Book of Acts, Barnabas played a key role in the early church by",
+    "options": [
+      {
+        "key": "A",
+        "text": "writing the Gospel of John"
+      },
+      {
+        "key": "B",
+        "text": "betraying Jesus"
+      },
+      {
+        "key": "C",
+        "text": "vouching for Paul's conversion to the suspicious apostles"
+      },
+      {
+        "key": "D",
+        "text": "persecuting Christians"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Acts 9 describes Barnabas introducing the converted Paul to the wary apostles."
+  },
+  {
+    "id": "jamb-crs-early-church-5",
+    "subject": "Christian Religious Studies",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "The Early Church",
+    "difficulty": "easy",
+    "prompt": "According to the New Testament, the book of Revelation was written primarily to",
+    "options": [
+      {
+        "key": "A",
+        "text": "document the life of Moses"
+      },
+      {
+        "key": "B",
+        "text": "provide a historical record of Roman emperors"
+      },
+      {
+        "key": "C",
+        "text": "serve as a legal code for the early church"
+      },
+      {
+        "key": "D",
+        "text": "encourage persecuted believers with visions of God's ultimate victory"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Revelation offers apocalyptic hope and encouragement to persecuted early Christians."
+  },
+  {
+    "id": "jamb-irs-pillars-1",
+    "subject": "Islamic Religious Studies",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Pillars of Islam",
+    "difficulty": "easy",
+    "prompt": "The declaration 'There is no god but Allah, and Muhammad is His messenger' is known as the",
+    "options": [
+      {
+        "key": "A",
+        "text": "Zakat"
+      },
+      {
+        "key": "B",
+        "text": "Salat"
+      },
+      {
+        "key": "C",
+        "text": "Shahada"
+      },
+      {
+        "key": "D",
+        "text": "Sawm"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "The Shahada is the Islamic testimony of faith."
+  },
+  {
+    "id": "jamb-irs-pillars-2",
+    "subject": "Islamic Religious Studies",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Pillars of Islam",
+    "difficulty": "medium",
+    "prompt": "The obligatory charity that purifies a Muslim's wealth by giving a portion to those in need is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "Sadaqah (voluntary charity)"
+      },
+      {
+        "key": "B",
+        "text": "Sawm"
+      },
+      {
+        "key": "C",
+        "text": "Hajj"
+      },
+      {
+        "key": "D",
+        "text": "Zakat"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Zakat is the obligatory almsgiving, distinct from voluntary Sadaqah."
+  },
+  {
+    "id": "jamb-irs-pillars-3",
+    "subject": "Islamic Religious Studies",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Pillars of Islam",
+    "difficulty": "hard",
+    "prompt": "A Muslim who is unable to fast during Ramadan due to illness is generally required to",
+    "options": [
+      {
+        "key": "A",
+        "text": "perform Hajj instead"
+      },
+      {
+        "key": "B",
+        "text": "pay no compensation at all"
+      },
+      {
+        "key": "C",
+        "text": "never fast again"
+      },
+      {
+        "key": "D",
+        "text": "make up the missed days later, or provide compensation if unable"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Islamic teaching allows exemptions from fasting with compensation for those unable to fast."
+  },
+  {
+    "id": "jamb-irs-pillars-4",
+    "subject": "Islamic Religious Studies",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Pillars of Islam",
+    "difficulty": "medium",
+    "prompt": "The ritual prayer performed by Muslims, observed five times daily, is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "Hajj"
+      },
+      {
+        "key": "B",
+        "text": "Sawm"
+      },
+      {
+        "key": "C",
+        "text": "Salat"
+      },
+      {
+        "key": "D",
+        "text": "Zakat"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Salat is the obligatory five-times-daily ritual prayer in Islam."
+  },
+  {
+    "id": "jamb-irs-pillars-5",
+    "subject": "Islamic Religious Studies",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Pillars of Islam",
+    "difficulty": "easy",
+    "prompt": "The pilgrimage to Makkah, obligatory once in a lifetime for able Muslims, is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "Sawm"
+      },
+      {
+        "key": "B",
+        "text": "Zakat"
+      },
+      {
+        "key": "C",
+        "text": "Hajj"
+      },
+      {
+        "key": "D",
+        "text": "Umrah (the lesser pilgrimage)"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Hajj is the major pilgrimage obligatory once in a lifetime for able Muslims."
+  },
+  {
+    "id": "jamb-irs-prophet-muhammad-1",
+    "subject": "Islamic Religious Studies",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Life of Prophet Muhammad",
+    "difficulty": "easy",
+    "prompt": "Prophet Muhammad received his first revelation in a cave known as",
+    "options": [
+      {
+        "key": "A",
+        "text": "Uhud"
+      },
+      {
+        "key": "B",
+        "text": "Hira"
+      },
+      {
+        "key": "C",
+        "text": "Thawr"
+      },
+      {
+        "key": "D",
+        "text": "Badr"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Prophet Muhammad received his first revelation in the Cave of Hira."
+  },
+  {
+    "id": "jamb-irs-prophet-muhammad-2",
+    "subject": "Islamic Religious Studies",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Life of Prophet Muhammad",
+    "difficulty": "medium",
+    "prompt": "Prophet Muhammad's early preaching in Makkah primarily called people to",
+    "options": [
+      {
+        "key": "A",
+        "text": "the worship of many idols"
+      },
+      {
+        "key": "B",
+        "text": "allegiance to the Roman Empire"
+      },
+      {
+        "key": "C",
+        "text": "the worship of one God (Allah) alone"
+      },
+      {
+        "key": "D",
+        "text": "abandonment of all religion"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Muhammad's core message was monotheism, worship of Allah alone."
+  },
+  {
+    "id": "jamb-irs-prophet-muhammad-3",
+    "subject": "Islamic Religious Studies",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Life of Prophet Muhammad",
+    "difficulty": "hard",
+    "prompt": "The year of Prophet Muhammad's birth is traditionally associated with the",
+    "options": [
+      {
+        "key": "A",
+        "text": "Year of the Elephant"
+      },
+      {
+        "key": "B",
+        "text": "Year of Sorrow"
+      },
+      {
+        "key": "C",
+        "text": "Year of the Hijrah"
+      },
+      {
+        "key": "D",
+        "text": "Year of Victory"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Muhammad's birth is traditionally dated to the Year of the Elephant."
+  },
+  {
+    "id": "jamb-irs-prophet-muhammad-4",
+    "subject": "Islamic Religious Studies",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Life of Prophet Muhammad",
+    "difficulty": "medium",
+    "prompt": "The conquest of Makkah by the Muslims, largely achieved peacefully, took place in the year",
+    "options": [
+      {
+        "key": "A",
+        "text": "622 CE"
+      },
+      {
+        "key": "B",
+        "text": "630 CE"
+      },
+      {
+        "key": "C",
+        "text": "610 CE"
+      },
+      {
+        "key": "D",
+        "text": "570 CE"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "The largely peaceful conquest of Makkah occurred in 630 CE."
+  },
+  {
+    "id": "jamb-irs-prophet-muhammad-5",
+    "subject": "Islamic Religious Studies",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Life of Prophet Muhammad",
+    "difficulty": "easy",
+    "prompt": "Prophet Muhammad's Farewell Sermon, delivered shortly before his death, emphasized themes of",
+    "options": [
+      {
+        "key": "A",
+        "text": "poetry composition"
+      },
+      {
+        "key": "B",
+        "text": "human equality, justice, and the sanctity of life and property"
+      },
+      {
+        "key": "C",
+        "text": "military conquest of new lands"
+      },
+      {
+        "key": "D",
+        "text": "trade regulations only"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "The Farewell Sermon emphasized equality, justice and human rights."
+  },
+  {
+    "id": "jamb-irs-quran-hadith-1",
+    "subject": "Islamic Religious Studies",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "The Qur'an & Hadith",
+    "difficulty": "easy",
+    "prompt": "The final chapter of the Qur'an is",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ya-Sin"
+      },
+      {
+        "key": "B",
+        "text": "Al-Fatiha"
+      },
+      {
+        "key": "C",
+        "text": "An-Nas"
+      },
+      {
+        "key": "D",
+        "text": "Al-Baqarah"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "An-Nas is the last (114th) chapter of the Qur'an."
+  },
+  {
+    "id": "jamb-irs-quran-hadith-2",
+    "subject": "Islamic Religious Studies",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "The Qur'an & Hadith",
+    "difficulty": "medium",
+    "prompt": "A Hadith described as 'Sahih' is one judged by scholars to be",
+    "options": [
+      {
+        "key": "A",
+        "text": "of unknown origin"
+      },
+      {
+        "key": "B",
+        "text": "authentic and reliably transmitted"
+      },
+      {
+        "key": "C",
+        "text": "fabricated"
+      },
+      {
+        "key": "D",
+        "text": "weak and unreliable"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Sahih Hadith are classified as authentic based on rigorous chain-of-narration criteria."
+  },
+  {
+    "id": "jamb-irs-quran-hadith-3",
+    "subject": "Islamic Religious Studies",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "The Qur'an & Hadith",
+    "difficulty": "hard",
+    "prompt": "The branch of Islamic scholarship concerned with deriving legal rulings from the Qur'an and Sunnah is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "Aqeedah"
+      },
+      {
+        "key": "B",
+        "text": "Fiqh (Islamic jurisprudence)"
+      },
+      {
+        "key": "C",
+        "text": "Tafsir"
+      },
+      {
+        "key": "D",
+        "text": "Tajweed"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Fiqh is the discipline of deriving practical legal rulings from Islamic sources."
+  },
+  {
+    "id": "jamb-irs-quran-hadith-4",
+    "subject": "Islamic Religious Studies",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "The Qur'an & Hadith",
+    "difficulty": "medium",
+    "prompt": "The proper rules governing the correct pronunciation and recitation of the Qur'an are known as",
+    "options": [
+      {
+        "key": "A",
+        "text": "Tafsir"
+      },
+      {
+        "key": "B",
+        "text": "Fiqh"
+      },
+      {
+        "key": "C",
+        "text": "Hadith"
+      },
+      {
+        "key": "D",
+        "text": "Tajweed"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Tajweed governs the correct articulation and recitation of Qur'anic verses."
+  },
+  {
+    "id": "jamb-irs-quran-hadith-5",
+    "subject": "Islamic Religious Studies",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "The Qur'an & Hadith",
+    "difficulty": "easy",
+    "prompt": "Two of the most widely recognized authentic Hadith collections are Sahih al-Bukhari and",
+    "options": [
+      {
+        "key": "A",
+        "text": "The Torah"
+      },
+      {
+        "key": "B",
+        "text": "The Psalms of David"
+      },
+      {
+        "key": "C",
+        "text": "Sahih Muslim"
+      },
+      {
+        "key": "D",
+        "text": "The Gospel of John"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Sahih al-Bukhari and Sahih Muslim are the two most authoritative Hadith collections in Sunni Islam."
+  },
+  {
+    "id": "jamb-irs-caliphs-1",
+    "subject": "Islamic Religious Studies",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Rightly Guided Caliphs",
+    "difficulty": "easy",
+    "prompt": "Abu Bakr, the first caliph, was notably known among the Prophet's companions for his",
+    "options": [
+      {
+        "key": "A",
+        "text": "unwavering loyalty and close friendship with Prophet Muhammad"
+      },
+      {
+        "key": "B",
+        "text": "compilation of Hadith exclusively"
+      },
+      {
+        "key": "C",
+        "text": "role as a foreign ambassador"
+      },
+      {
+        "key": "D",
+        "text": "military conquests alone"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Abu Bakr was renowned for his steadfast loyalty and closeness to Muhammad."
+  },
+  {
+    "id": "jamb-irs-caliphs-2",
+    "subject": "Islamic Religious Studies",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Rightly Guided Caliphs",
+    "difficulty": "medium",
+    "prompt": "Under Umar ibn al-Khattab's caliphate, the Islamic calendar (Hijri calendar) was formally",
+    "options": [
+      {
+        "key": "A",
+        "text": "left undefined"
+      },
+      {
+        "key": "B",
+        "text": "abolished"
+      },
+      {
+        "key": "C",
+        "text": "established, counting years from the Hijrah"
+      },
+      {
+        "key": "D",
+        "text": "replaced with the Gregorian calendar"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Umar formally instituted the Hijri calendar during his caliphate."
+  },
+  {
+    "id": "jamb-irs-caliphs-3",
+    "subject": "Islamic Religious Studies",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Rightly Guided Caliphs",
+    "difficulty": "hard",
+    "prompt": "The compilation of the Qur'an into a single authoritative written text, distributed to major Islamic cities, occurred under",
+    "options": [
+      {
+        "key": "A",
+        "text": "Abu Bakr"
+      },
+      {
+        "key": "B",
+        "text": "Umar ibn al-Khattab"
+      },
+      {
+        "key": "C",
+        "text": "Ali ibn Abi Talib"
+      },
+      {
+        "key": "D",
+        "text": "Uthman ibn Affan"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Uthman's caliphate standardized and distributed the official Qur'anic text."
+  },
+  {
+    "id": "jamb-irs-caliphs-4",
+    "subject": "Islamic Religious Studies",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Rightly Guided Caliphs",
+    "difficulty": "medium",
+    "prompt": "Ali ibn Abi Talib, the fourth Rightly Guided Caliph, was related to Prophet Muhammad as his",
+    "options": [
+      {
+        "key": "A",
+        "text": "uncle"
+      },
+      {
+        "key": "B",
+        "text": "brother"
+      },
+      {
+        "key": "C",
+        "text": "grandfather"
+      },
+      {
+        "key": "D",
+        "text": "cousin and son-in-law"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Ali was Muhammad's cousin and married his daughter Fatimah."
+  },
+  {
+    "id": "jamb-irs-caliphs-5",
+    "subject": "Islamic Religious Studies",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Rightly Guided Caliphs",
+    "difficulty": "easy",
+    "prompt": "The period following the four Rightly Guided Caliphs saw the rise of the",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ottoman Empire immediately"
+      },
+      {
+        "key": "B",
+        "text": "Umayyad Caliphate"
+      },
+      {
+        "key": "C",
+        "text": "Roman Empire"
+      },
+      {
+        "key": "D",
+        "text": "Persian Empire's continuation unchanged"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "The Umayyad Caliphate succeeded the Rightly Guided Caliphs' era."
+  },
+  {
+    "id": "jamb-irs-moral-teachings-1",
+    "subject": "Islamic Religious Studies",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Islamic Moral Teachings",
+    "difficulty": "easy",
+    "prompt": "Islam teaches that showing kindness and respect to neighbours is a",
+    "options": [
+      {
+        "key": "A",
+        "text": "moral obligation emphasized by Prophet Muhammad"
+      },
+      {
+        "key": "B",
+        "text": "matter of no religious significance"
+      },
+      {
+        "key": "C",
+        "text": "duty limited only to wealthy Muslims"
+      },
+      {
+        "key": "D",
+        "text": "practice discouraged in the Qur'an"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Prophet Muhammad's teachings strongly emphasize kindness toward neighbours."
+  },
+  {
+    "id": "jamb-irs-moral-teachings-2",
+    "subject": "Islamic Religious Studies",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Islamic Moral Teachings",
+    "difficulty": "medium",
+    "prompt": "The Islamic virtue of showing gratitude to Allah for one's blessings is known as",
+    "options": [
+      {
+        "key": "A",
+        "text": "Shukr"
+      },
+      {
+        "key": "B",
+        "text": "Ghibah"
+      },
+      {
+        "key": "C",
+        "text": "Riba"
+      },
+      {
+        "key": "D",
+        "text": "Sabr"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Shukr refers to gratitude, especially gratitude directed toward Allah."
+  },
+  {
+    "id": "jamb-irs-moral-teachings-3",
+    "subject": "Islamic Religious Studies",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Islamic Moral Teachings",
+    "difficulty": "hard",
+    "prompt": "Islam's prohibition on 'Zina' refers to the forbidding of",
+    "options": [
+      {
+        "key": "A",
+        "text": "charitable giving"
+      },
+      {
+        "key": "B",
+        "text": "prayer"
+      },
+      {
+        "key": "C",
+        "text": "fasting"
+      },
+      {
+        "key": "D",
+        "text": "unlawful sexual relations"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Zina refers to unlawful sexual relations, which Islam prohibits."
+  },
+  {
+    "id": "jamb-irs-moral-teachings-4",
+    "subject": "Islamic Religious Studies",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Islamic Moral Teachings",
+    "difficulty": "medium",
+    "prompt": "Islamic teaching on honesty requires that Muslims avoid",
+    "options": [
+      {
+        "key": "A",
+        "text": "showing kindness to strangers"
+      },
+      {
+        "key": "B",
+        "text": "speaking to non-Muslims entirely"
+      },
+      {
+        "key": "C",
+        "text": "lying and deceit in speech and dealings"
+      },
+      {
+        "key": "D",
+        "text": "engaging in any form of trade"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Islam places strong emphasis on truthful speech and honest dealings."
+  },
+  {
+    "id": "jamb-irs-moral-teachings-5",
+    "subject": "Islamic Religious Studies",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Islamic Moral Teachings",
+    "difficulty": "easy",
+    "prompt": "Islam encourages Muslims to treat orphans with particular",
+    "options": [
+      {
+        "key": "A",
+        "text": "indifference"
+      },
+      {
+        "key": "B",
+        "text": "exclusion from society"
+      },
+      {
+        "key": "C",
+        "text": "kindness, fairness, and protection of their rights and property"
+      },
+      {
+        "key": "D",
+        "text": "suspicion"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "The Qur'an places strong emphasis on protecting and caring for orphans."
+  },
+  {
+    "id": "jamb-geo-map-reading-1",
+    "subject": "Geography",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Map Reading & Interpretation",
+    "difficulty": "easy",
+    "prompt": "The imaginary line at 0° longitude, from which other longitudes are measured, is called the",
+    "options": [
+      {
+        "key": "A",
+        "text": "International Date Line"
+      },
+      {
+        "key": "B",
+        "text": "Equator"
+      },
+      {
+        "key": "C",
+        "text": "Prime Meridian"
+      },
+      {
+        "key": "D",
+        "text": "Tropic of Cancer"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "The Prime Meridian, passing through Greenwich, is the 0° longitude reference line."
+  },
+  {
+    "id": "jamb-geo-map-reading-2",
+    "subject": "Geography",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Map Reading & Interpretation",
+    "difficulty": "medium",
+    "prompt": "The imaginary line at 0° latitude, dividing the Earth into Northern and Southern Hemispheres, is called the",
+    "options": [
+      {
+        "key": "A",
+        "text": "Arctic Circle"
+      },
+      {
+        "key": "B",
+        "text": "Tropic of Capricorn"
+      },
+      {
+        "key": "C",
+        "text": "Prime Meridian"
+      },
+      {
+        "key": "D",
+        "text": "Equator"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "The Equator is the 0° latitude line dividing Earth's hemispheres."
+  },
+  {
+    "id": "jamb-geo-map-reading-3",
+    "subject": "Geography",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Map Reading & Interpretation",
+    "difficulty": "hard",
+    "prompt": "On a topographical map, widely spaced contour lines generally indicate",
+    "options": [
+      {
+        "key": "A",
+        "text": "a river only"
+      },
+      {
+        "key": "B",
+        "text": "a steep slope"
+      },
+      {
+        "key": "C",
+        "text": "a cliff"
+      },
+      {
+        "key": "D",
+        "text": "a gentle slope"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Widely spaced contours represent gradual elevation change, i.e. gentle terrain."
+  },
+  {
+    "id": "jamb-geo-map-reading-4",
+    "subject": "Geography",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Map Reading & Interpretation",
+    "difficulty": "medium",
+    "prompt": "A map scale expressing the relationship between map and ground distance as a ratio, such as 1:100,000, is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "representative fraction"
+      },
+      {
+        "key": "B",
+        "text": "vertical scale"
+      },
+      {
+        "key": "C",
+        "text": "linear scale"
+      },
+      {
+        "key": "D",
+        "text": "statement scale"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "A representative fraction states the scale as a numerical ratio."
+  },
+  {
+    "id": "jamb-geo-map-reading-5",
+    "subject": "Geography",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Map Reading & Interpretation",
+    "difficulty": "easy",
+    "prompt": "Symbols used on a map to represent features such as roads, rivers and settlements are explained in the map's",
+    "options": [
+      {
+        "key": "A",
+        "text": "scale"
+      },
+      {
+        "key": "B",
+        "text": "compass rose"
+      },
+      {
+        "key": "C",
+        "text": "legend/key"
+      },
+      {
+        "key": "D",
+        "text": "grid"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "The legend or key explains what each map symbol represents."
+  },
+  {
+    "id": "jamb-geo-weather-climate-1",
+    "subject": "Geography",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Weather & Climate",
+    "difficulty": "easy",
+    "prompt": "The layer of the atmosphere closest to the Earth's surface, where most weather occurs, is called the",
+    "options": [
+      {
+        "key": "A",
+        "text": "mesosphere"
+      },
+      {
+        "key": "B",
+        "text": "thermosphere"
+      },
+      {
+        "key": "C",
+        "text": "stratosphere"
+      },
+      {
+        "key": "D",
+        "text": "troposphere"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "The troposphere is the lowest atmospheric layer, where weather phenomena occur."
+  },
+  {
+    "id": "jamb-geo-weather-climate-2",
+    "subject": "Geography",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Weather & Climate",
+    "difficulty": "medium",
+    "prompt": "The instrument used to measure sunshine duration is the",
+    "options": [
+      {
+        "key": "A",
+        "text": "sunshine recorder"
+      },
+      {
+        "key": "B",
+        "text": "barometer"
+      },
+      {
+        "key": "C",
+        "text": "anemometer"
+      },
+      {
+        "key": "D",
+        "text": "hygrometer"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "A sunshine recorder measures the duration of bright sunshine in a day."
+  },
+  {
+    "id": "jamb-geo-weather-climate-3",
+    "subject": "Geography",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Weather & Climate",
+    "difficulty": "hard",
+    "prompt": "Nigeria's climate is broadly classified as tropical, with the far north experiencing a more",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mediterranean climate"
+      },
+      {
+        "key": "B",
+        "text": "semi-arid (Sahel) climate"
+      },
+      {
+        "key": "C",
+        "text": "polar climate"
+      },
+      {
+        "key": "D",
+        "text": "temperate maritime climate"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Northern Nigeria's Sahel zone has a drier, semi-arid climate compared to the humid south."
+  },
+  {
+    "id": "jamb-geo-weather-climate-4",
+    "subject": "Geography",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Weather & Climate",
+    "difficulty": "medium",
+    "prompt": "The seasonal wind that brings dry, dusty conditions to West Africa, especially from November to March, is called the",
+    "options": [
+      {
+        "key": "A",
+        "text": "Chinook"
+      },
+      {
+        "key": "B",
+        "text": "Harmattan"
+      },
+      {
+        "key": "C",
+        "text": "Monsoon"
+      },
+      {
+        "key": "D",
+        "text": "Trade wind only broad term"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "The Harmattan is the dry, dusty wind from the Sahara affecting West Africa in the dry season."
+  },
+  {
+    "id": "jamb-geo-weather-climate-5",
+    "subject": "Geography",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Weather & Climate",
+    "difficulty": "easy",
+    "prompt": "The gradual, long-term rise in global average temperatures largely attributed to human activity is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "the greenhouse effect only, unrelated to warming"
+      },
+      {
+        "key": "B",
+        "text": "the water cycle"
+      },
+      {
+        "key": "C",
+        "text": "seasonal variation"
+      },
+      {
+        "key": "D",
+        "text": "global warming"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Global warming refers to the sustained rise in average global temperatures."
+  },
+  {
+    "id": "jamb-geo-landforms-1",
+    "subject": "Geography",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Landforms",
+    "difficulty": "easy",
+    "prompt": "A steep-sided valley with a narrow floor, often cut by a fast-flowing river through resistant rock, is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "plateau"
+      },
+      {
+        "key": "B",
+        "text": "gorge"
+      },
+      {
+        "key": "C",
+        "text": "delta"
+      },
+      {
+        "key": "D",
+        "text": "plain"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "A gorge is a narrow, steep-sided valley, often carved by river erosion."
+  },
+  {
+    "id": "jamb-geo-landforms-2",
+    "subject": "Geography",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Landforms",
+    "difficulty": "medium",
+    "prompt": "A landform formed where a river meets the sea and deposits sediment in a fan-like shape is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "plateau"
+      },
+      {
+        "key": "B",
+        "text": "escarpment"
+      },
+      {
+        "key": "C",
+        "text": "gorge"
+      },
+      {
+        "key": "D",
+        "text": "delta"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "A delta is a fan-shaped deposit of sediment at a river's mouth."
+  },
+  {
+    "id": "jamb-geo-landforms-3",
+    "subject": "Geography",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Landforms",
+    "difficulty": "hard",
+    "prompt": "A raised, flat-topped landform with steep sides, smaller than a plateau, is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "basin"
+      },
+      {
+        "key": "B",
+        "text": "mesa"
+      },
+      {
+        "key": "C",
+        "text": "isthmus"
+      },
+      {
+        "key": "D",
+        "text": "peninsula"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "A mesa is an isolated, flat-topped elevation with steep sides."
+  },
+  {
+    "id": "jamb-geo-landforms-4",
+    "subject": "Geography",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Landforms",
+    "difficulty": "medium",
+    "prompt": "A body of land almost entirely surrounded by water, joined to a larger landmass by a narrow strip, is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "atoll"
+      },
+      {
+        "key": "B",
+        "text": "archipelago"
+      },
+      {
+        "key": "C",
+        "text": "peninsula"
+      },
+      {
+        "key": "D",
+        "text": "isthmus"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "A peninsula is land nearly surrounded by water, connected to a larger landmass."
+  },
+  {
+    "id": "jamb-geo-landforms-5",
+    "subject": "Geography",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Landforms",
+    "difficulty": "easy",
+    "prompt": "A chain or group of islands clustered together is called an",
+    "options": [
+      {
+        "key": "A",
+        "text": "isthmus"
+      },
+      {
+        "key": "B",
+        "text": "estuary"
+      },
+      {
+        "key": "C",
+        "text": "peninsula"
+      },
+      {
+        "key": "D",
+        "text": "archipelago"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "An archipelago is a cluster or chain of islands."
+  },
+  {
+    "id": "jamb-geo-population-settlement-1",
+    "subject": "Geography",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Population & Settlement",
+    "difficulty": "easy",
+    "prompt": "A country with a young population and a broad-based population pyramid typically has a",
+    "options": [
+      {
+        "key": "A",
+        "text": "high birth rate"
+      },
+      {
+        "key": "B",
+        "text": "declining population"
+      },
+      {
+        "key": "C",
+        "text": "aging population"
+      },
+      {
+        "key": "D",
+        "text": "low birth rate"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "A broad-based population pyramid reflects a high birth rate and many young people."
+  },
+  {
+    "id": "jamb-geo-population-settlement-2",
+    "subject": "Geography",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Population & Settlement",
+    "difficulty": "medium",
+    "prompt": "The movement of people from one country to settle permanently in another is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "internal migration"
+      },
+      {
+        "key": "B",
+        "text": "international migration"
+      },
+      {
+        "key": "C",
+        "text": "rural-urban migration"
+      },
+      {
+        "key": "D",
+        "text": "seasonal migration"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "International migration involves crossing national borders to settle elsewhere."
+  },
+  {
+    "id": "jamb-geo-population-settlement-3",
+    "subject": "Geography",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Population & Settlement",
+    "difficulty": "hard",
+    "prompt": "Overpopulation in a region occurs when",
+    "options": [
+      {
+        "key": "A",
+        "text": "the population exceeds what available resources can adequately support"
+      },
+      {
+        "key": "B",
+        "text": "population density is very low"
+      },
+      {
+        "key": "C",
+        "text": "birth and death rates are exactly equal"
+      },
+      {
+        "key": "D",
+        "text": "there are more resources than people need"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Overpopulation describes population size exceeding sustainable resource capacity."
+  },
+  {
+    "id": "jamb-geo-population-settlement-4",
+    "subject": "Geography",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Population & Settlement",
+    "difficulty": "medium",
+    "prompt": "A settlement pattern found where houses cluster tightly around a central market or water source is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "nucleated settlement"
+      },
+      {
+        "key": "B",
+        "text": "linear settlement"
+      },
+      {
+        "key": "C",
+        "text": "isolated settlement"
+      },
+      {
+        "key": "D",
+        "text": "dispersed settlement"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Nucleated settlements cluster around a shared central feature."
+  },
+  {
+    "id": "jamb-geo-population-settlement-5",
+    "subject": "Geography",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Population & Settlement",
+    "difficulty": "easy",
+    "prompt": "The study of the causes and consequences of population change is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "demography"
+      },
+      {
+        "key": "B",
+        "text": "geomorphology"
+      },
+      {
+        "key": "C",
+        "text": "cartography"
+      },
+      {
+        "key": "D",
+        "text": "meteorology"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Demography is the scientific study of population dynamics."
+  },
+  {
+    "id": "jamb-geo-agriculture-1",
+    "subject": "Geography",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Agriculture",
+    "difficulty": "easy",
+    "prompt": "Farming practised mainly to feed the farmer's own household, with little surplus for sale, is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "commercial farming"
+      },
+      {
+        "key": "B",
+        "text": "subsistence farming"
+      },
+      {
+        "key": "C",
+        "text": "mechanized farming"
+      },
+      {
+        "key": "D",
+        "text": "plantation farming"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Subsistence farming primarily supports the farmer's own household needs."
+  },
+  {
+    "id": "jamb-geo-agriculture-2",
+    "subject": "Geography",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Agriculture",
+    "difficulty": "medium",
+    "prompt": "Farming that uses modern machinery, such as tractors and harvesters, on a large scale is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "mechanized farming"
+      },
+      {
+        "key": "B",
+        "text": "subsistence farming"
+      },
+      {
+        "key": "C",
+        "text": "nomadic herding"
+      },
+      {
+        "key": "D",
+        "text": "shifting cultivation"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Mechanized farming employs machinery for large-scale, efficient production."
+  },
+  {
+    "id": "jamb-geo-agriculture-3",
+    "subject": "Geography",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Agriculture",
+    "difficulty": "hard",
+    "prompt": "The traditional practice of moving farmland periodically to allow soil fertility to recover through fallowing is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "mechanized farming"
+      },
+      {
+        "key": "B",
+        "text": "plantation farming"
+      },
+      {
+        "key": "C",
+        "text": "shifting cultivation"
+      },
+      {
+        "key": "D",
+        "text": "horticulture"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Shifting cultivation rotates farmland use to let soil regain fertility."
+  },
+  {
+    "id": "jamb-geo-agriculture-4",
+    "subject": "Geography",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Agriculture",
+    "difficulty": "medium",
+    "prompt": "The rearing of animals such as cattle for meat, milk, and other products is generally known as",
+    "options": [
+      {
+        "key": "A",
+        "text": "horticulture"
+      },
+      {
+        "key": "B",
+        "text": "aquaculture"
+      },
+      {
+        "key": "C",
+        "text": "arable farming"
+      },
+      {
+        "key": "D",
+        "text": "livestock farming"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Livestock farming focuses on rearing animals for produce like meat and milk."
+  },
+  {
+    "id": "jamb-geo-agriculture-5",
+    "subject": "Geography",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Agriculture",
+    "difficulty": "easy",
+    "prompt": "A major cash crop grown extensively in the middle belt and northern parts of Nigeria is",
+    "options": [
+      {
+        "key": "A",
+        "text": "cocoa"
+      },
+      {
+        "key": "B",
+        "text": "groundnut"
+      },
+      {
+        "key": "C",
+        "text": "rubber"
+      },
+      {
+        "key": "D",
+        "text": "oil palm"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Groundnut is a major cash crop of Nigeria's savanna regions."
+  },
+  {
+    "id": "jamb-facc-basic-concepts-1",
+    "subject": "Financial Accounting",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Basic Accounting Concepts",
+    "difficulty": "easy",
+    "prompt": "The accounting equation is correctly written as",
+    "options": [
+      {
+        "key": "A",
+        "text": "Liabilities = Assets + Capital"
+      },
+      {
+        "key": "B",
+        "text": "Assets = Capital - Liabilities"
+      },
+      {
+        "key": "C",
+        "text": "Capital = Assets - Liabilities - Profit"
+      },
+      {
+        "key": "D",
+        "text": "Assets = Capital + Liabilities"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "The accounting equation states assets equal capital plus liabilities."
+  },
+  {
+    "id": "jamb-facc-basic-concepts-2",
+    "subject": "Financial Accounting",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Basic Accounting Concepts",
+    "difficulty": "medium",
+    "prompt": "The accounting concept requiring only transactions that can be expressed in monetary terms to be recorded is called the",
+    "options": [
+      {
+        "key": "A",
+        "text": "money measurement concept"
+      },
+      {
+        "key": "B",
+        "text": "matching concept"
+      },
+      {
+        "key": "C",
+        "text": "prudence concept"
+      },
+      {
+        "key": "D",
+        "text": "going concern concept"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "The money measurement concept restricts accounting records to quantifiable monetary transactions."
+  },
+  {
+    "id": "jamb-facc-basic-concepts-3",
+    "subject": "Financial Accounting",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Basic Accounting Concepts",
+    "difficulty": "hard",
+    "prompt": "The prudence (conservatism) concept in accounting requires that",
+    "options": [
+      {
+        "key": "A",
+        "text": "financial statements should always show maximum possible profit"
+      },
+      {
+        "key": "B",
+        "text": "all profits are recorded as soon as they are anticipated, even if uncertain"
+      },
+      {
+        "key": "C",
+        "text": "profits are not overstated and losses/liabilities are recognized as soon as anticipated"
+      },
+      {
+        "key": "D",
+        "text": "no losses should ever be recorded"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Prudence avoids overstating profits and requires recognizing likely losses early."
+  },
+  {
+    "id": "jamb-facc-basic-concepts-4",
+    "subject": "Financial Accounting",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Basic Accounting Concepts",
+    "difficulty": "medium",
+    "prompt": "The book of original entry used to record credit sales of goods to customers is the",
+    "options": [
+      {
+        "key": "A",
+        "text": "sales day book"
+      },
+      {
+        "key": "B",
+        "text": "purchases day book"
+      },
+      {
+        "key": "C",
+        "text": "cash book"
+      },
+      {
+        "key": "D",
+        "text": "general journal"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "The sales day book chronologically records credit sales transactions."
+  },
+  {
+    "id": "jamb-facc-basic-concepts-5",
+    "subject": "Financial Accounting",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Basic Accounting Concepts",
+    "difficulty": "easy",
+    "prompt": "A person or business that owes money to a business for goods bought on credit is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "creditor"
+      },
+      {
+        "key": "B",
+        "text": "proprietor"
+      },
+      {
+        "key": "C",
+        "text": "debtor"
+      },
+      {
+        "key": "D",
+        "text": "auditor"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "A debtor owes money to the business for goods or services received on credit."
+  },
+  {
+    "id": "jamb-facc-ledger-double-entry-1",
+    "subject": "Financial Accounting",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Ledger & Double Entry",
+    "difficulty": "easy",
+    "prompt": "Under double-entry bookkeeping, an increase in capital is recorded on the",
+    "options": [
+      {
+        "key": "A",
+        "text": "neither side"
+      },
+      {
+        "key": "B",
+        "text": "debit side"
+      },
+      {
+        "key": "C",
+        "text": "credit side"
+      },
+      {
+        "key": "D",
+        "text": "both sides"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Capital increases are recorded as credits under double-entry rules."
+  },
+  {
+    "id": "jamb-facc-ledger-double-entry-2",
+    "subject": "Financial Accounting",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Ledger & Double Entry",
+    "difficulty": "medium",
+    "prompt": "When a business pays cash to settle a creditor's account, the correct double entry is to",
+    "options": [
+      {
+        "key": "A",
+        "text": "debit Cash account and credit Sales account"
+      },
+      {
+        "key": "B",
+        "text": "debit Cash account and credit the Creditor's account"
+      },
+      {
+        "key": "C",
+        "text": "debit Purchases account and credit Cash account"
+      },
+      {
+        "key": "D",
+        "text": "debit the Creditor's account and credit Cash account"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Paying a creditor reduces the liability (debit) and reduces cash (credit)."
+  },
+  {
+    "id": "jamb-facc-ledger-double-entry-3",
+    "subject": "Financial Accounting",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Ledger & Double Entry",
+    "difficulty": "hard",
+    "prompt": "A decrease in an asset account, such as cash being spent, is recorded on the",
+    "options": [
+      {
+        "key": "A",
+        "text": "debit side"
+      },
+      {
+        "key": "B",
+        "text": "credit side"
+      },
+      {
+        "key": "C",
+        "text": "neither side"
+      },
+      {
+        "key": "D",
+        "text": "both sides"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Asset decreases are recorded as credits under double-entry rules."
+  },
+  {
+    "id": "jamb-facc-ledger-double-entry-4",
+    "subject": "Financial Accounting",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Ledger & Double Entry",
+    "difficulty": "medium",
+    "prompt": "Drawings, representing cash or goods taken by the owner for personal use, reduce",
+    "options": [
+      {
+        "key": "A",
+        "text": "liabilities"
+      },
+      {
+        "key": "B",
+        "text": "expenses"
+      },
+      {
+        "key": "C",
+        "text": "revenue"
+      },
+      {
+        "key": "D",
+        "text": "capital"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Drawings are deducted from capital, as they represent withdrawals by the owner."
+  },
+  {
+    "id": "jamb-facc-ledger-double-entry-5",
+    "subject": "Financial Accounting",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Ledger & Double Entry",
+    "difficulty": "easy",
+    "prompt": "An increase in an asset account, such as receiving cash, is recorded on the",
+    "options": [
+      {
+        "key": "A",
+        "text": "neither side"
+      },
+      {
+        "key": "B",
+        "text": "credit side"
+      },
+      {
+        "key": "C",
+        "text": "debit side"
+      },
+      {
+        "key": "D",
+        "text": "both sides"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Asset increases are recorded as debits under double-entry rules."
+  },
+  {
+    "id": "jamb-facc-trial-balance-1",
+    "subject": "Financial Accounting",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Trial Balance",
+    "difficulty": "easy",
+    "prompt": "A trial balance is drawn up mainly to verify that",
+    "options": [
+      {
+        "key": "A",
+        "text": "the business has made a profit"
+      },
+      {
+        "key": "B",
+        "text": "total debit balances equal total credit balances in the ledger"
+      },
+      {
+        "key": "C",
+        "text": "no fraud has occurred anywhere in the accounts"
+      },
+      {
+        "key": "D",
+        "text": "all cash has been correctly banked"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "A trial balance checks that total debits equal total credits."
+  },
+  {
+    "id": "jamb-facc-trial-balance-2",
+    "subject": "Financial Accounting",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Trial Balance",
+    "difficulty": "medium",
+    "prompt": "An error where a transaction is recorded correctly but posted to the wrong person's account of the same class (e.g. wrong debtor) is called an error of",
+    "options": [
+      {
+        "key": "A",
+        "text": "principle"
+      },
+      {
+        "key": "B",
+        "text": "original entry"
+      },
+      {
+        "key": "C",
+        "text": "commission"
+      },
+      {
+        "key": "D",
+        "text": "omission"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "An error of commission posts an otherwise correct entry to the wrong account of the correct type."
+  },
+  {
+    "id": "jamb-facc-trial-balance-3",
+    "subject": "Financial Accounting",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Trial Balance",
+    "difficulty": "hard",
+    "prompt": "Compensating errors are errors that",
+    "options": [
+      {
+        "key": "A",
+        "text": "always cause the trial balance to fail to balance"
+      },
+      {
+        "key": "B",
+        "text": "can never happen in practice"
+      },
+      {
+        "key": "C",
+        "text": "cancel each other out, so the trial balance still balances despite the mistakes"
+      },
+      {
+        "key": "D",
+        "text": "only occur in cash transactions"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Compensating errors offset one another, leaving the trial balance balanced despite underlying mistakes."
+  },
+  {
+    "id": "jamb-facc-trial-balance-4",
+    "subject": "Financial Accounting",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Trial Balance",
+    "difficulty": "medium",
+    "prompt": "If the total of the trial balance's credit column exceeds the debit column, this may indicate",
+    "options": [
+      {
+        "key": "A",
+        "text": "there is absolutely no error present"
+      },
+      {
+        "key": "B",
+        "text": "the business has definitely made a loss"
+      },
+      {
+        "key": "C",
+        "text": "a debit entry has been omitted or a credit entry duplicated"
+      },
+      {
+        "key": "D",
+        "text": "the business has definitely made a profit"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "A mismatch points to a possible omitted debit or duplicated credit entry needing investigation."
+  },
+  {
+    "id": "jamb-facc-trial-balance-5",
+    "subject": "Financial Accounting",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Trial Balance",
+    "difficulty": "easy",
+    "prompt": "Suspense accounts are temporarily used in accounting mainly to",
+    "options": [
+      {
+        "key": "A",
+        "text": "record all cash sales permanently"
+      },
+      {
+        "key": "B",
+        "text": "replace the need for a cash book"
+      },
+      {
+        "key": "C",
+        "text": "calculate depreciation automatically"
+      },
+      {
+        "key": "D",
+        "text": "hold the difference when a trial balance fails to balance, pending investigation"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "A suspense account temporarily absorbs an unbalanced trial balance's difference until the error is found."
+  },
+  {
+    "id": "jamb-facc-final-accounts-1",
+    "subject": "Financial Accounting",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Final Accounts",
+    "difficulty": "easy",
+    "prompt": "The trading account is used to calculate the",
+    "options": [
+      {
+        "key": "A",
+        "text": "total assets of a business"
+      },
+      {
+        "key": "B",
+        "text": "gross profit or gross loss of a business"
+      },
+      {
+        "key": "C",
+        "text": "net profit or net loss of a business"
+      },
+      {
+        "key": "D",
+        "text": "total liabilities of a business"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "The trading account determines gross profit from sales and cost of goods sold."
+  },
+  {
+    "id": "jamb-facc-final-accounts-2",
+    "subject": "Financial Accounting",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Final Accounts",
+    "difficulty": "medium",
+    "prompt": "Carriage outwards, the cost of delivering goods to customers, is recorded in the",
+    "options": [
+      {
+        "key": "A",
+        "text": "balance sheet, as an asset"
+      },
+      {
+        "key": "B",
+        "text": "profit and loss account, as an expense"
+      },
+      {
+        "key": "C",
+        "text": "cash book only, with no other effect"
+      },
+      {
+        "key": "D",
+        "text": "trading account, added to purchases"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Carriage outwards is a selling/distribution expense charged to the profit and loss account."
+  },
+  {
+    "id": "jamb-facc-final-accounts-3",
+    "subject": "Financial Accounting",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Final Accounts",
+    "difficulty": "hard",
+    "prompt": "Discount allowed to customers for prompt payment is treated in the final accounts as a/an",
+    "options": [
+      {
+        "key": "A",
+        "text": "expense in the profit and loss account"
+      },
+      {
+        "key": "B",
+        "text": "deduction from purchases"
+      },
+      {
+        "key": "C",
+        "text": "addition to sales"
+      },
+      {
+        "key": "D",
+        "text": "current liability"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Discount allowed reduces profit and is charged as an expense in the profit and loss account."
+  },
+  {
+    "id": "jamb-facc-final-accounts-4",
+    "subject": "Financial Accounting",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Final Accounts",
+    "difficulty": "medium",
+    "prompt": "Prepaid expenses at the end of an accounting period are shown in the balance sheet as a",
+    "options": [
+      {
+        "key": "A",
+        "text": "fixed asset"
+      },
+      {
+        "key": "B",
+        "text": "long-term liability"
+      },
+      {
+        "key": "C",
+        "text": "current liability"
+      },
+      {
+        "key": "D",
+        "text": "current asset"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Prepayments represent value paid in advance, treated as a current asset."
+  },
+  {
+    "id": "jamb-facc-final-accounts-5",
+    "subject": "Financial Accounting",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Final Accounts",
+    "difficulty": "easy",
+    "prompt": "Accrued expenses (expenses owed but not yet paid) at year end are shown in the balance sheet as a",
+    "options": [
+      {
+        "key": "A",
+        "text": "part of capital"
+      },
+      {
+        "key": "B",
+        "text": "current liability"
+      },
+      {
+        "key": "C",
+        "text": "fixed asset"
+      },
+      {
+        "key": "D",
+        "text": "current asset"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Accrued expenses represent amounts owed, classified as current liabilities."
+  },
+  {
+    "id": "jamb-facc-depreciation-1",
+    "subject": "Financial Accounting",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Depreciation",
+    "difficulty": "easy",
+    "prompt": "A vehicle costing ₦2,000,000 is expected to have a useful life of 8 years and no residual value. Using the straight-line method, find the annual depreciation charge.",
+    "options": [
+      {
+        "key": "A",
+        "text": "₦16,000,000"
+      },
+      {
+        "key": "B",
+        "text": "₦200,000"
+      },
+      {
+        "key": "C",
+        "text": "₦250,000"
+      },
+      {
+        "key": "D",
+        "text": "₦25,000"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Annual depreciation = 2,000,000/8 = ₦250,000."
+  },
+  {
+    "id": "jamb-facc-depreciation-2",
+    "subject": "Financial Accounting",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Depreciation",
+    "difficulty": "medium",
+    "prompt": "Under the reducing balance method, if an asset's net book value is ₦100,000 and the depreciation rate is 20%, the depreciation charge for the year is",
+    "options": [
+      {
+        "key": "A",
+        "text": "₦100,000"
+      },
+      {
+        "key": "B",
+        "text": "₦20,000"
+      },
+      {
+        "key": "C",
+        "text": "₦2,000"
+      },
+      {
+        "key": "D",
+        "text": "₦80,000"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Depreciation = 20% of net book value = 0.20 × 100,000 = ₦20,000."
+  },
+  {
+    "id": "jamb-facc-depreciation-3",
+    "subject": "Financial Accounting",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Depreciation",
+    "difficulty": "hard",
+    "prompt": "The main purpose of charging depreciation in the accounts is to",
+    "options": [
+      {
+        "key": "A",
+        "text": "increase the reported cash balance"
+      },
+      {
+        "key": "B",
+        "text": "match the cost of a fixed asset against the revenue it helps generate over its useful life"
+      },
+      {
+        "key": "C",
+        "text": "show the asset's replacement cost"
+      },
+      {
+        "key": "D",
+        "text": "reduce the business's tax liability as the sole aim"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Depreciation allocates an asset's cost over the periods it helps generate revenue."
+  },
+  {
+    "id": "jamb-facc-depreciation-4",
+    "subject": "Financial Accounting",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Depreciation",
+    "difficulty": "medium",
+    "prompt": "When a fixed asset is sold for more than its net book value, the difference is recorded as a",
+    "options": [
+      {
+        "key": "A",
+        "text": "prepayment"
+      },
+      {
+        "key": "B",
+        "text": "loss on disposal"
+      },
+      {
+        "key": "C",
+        "text": "profit on disposal"
+      },
+      {
+        "key": "D",
+        "text": "current liability"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Selling above net book value generates a profit on disposal."
+  },
+  {
+    "id": "jamb-facc-depreciation-5",
+    "subject": "Financial Accounting",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Depreciation",
+    "difficulty": "easy",
+    "prompt": "The net book value of a fixed asset is calculated as",
+    "options": [
+      {
+        "key": "A",
+        "text": "cost plus accumulated depreciation"
+      },
+      {
+        "key": "B",
+        "text": "residual value minus cost"
+      },
+      {
+        "key": "C",
+        "text": "market value minus cost"
+      },
+      {
+        "key": "D",
+        "text": "cost minus accumulated depreciation"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Net book value equals original cost less accumulated depreciation to date."
+  },
+  {
+    "id": "jamb-comm-trade-classification-1",
+    "subject": "Commerce",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Trade & Its Classification",
+    "difficulty": "easy",
+    "prompt": "Trade conducted between individuals or firms within the borders of a single country is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "entrepot trade"
+      },
+      {
+        "key": "B",
+        "text": "home (internal) trade"
+      },
+      {
+        "key": "C",
+        "text": "foreign trade"
+      },
+      {
+        "key": "D",
+        "text": "bilateral trade"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Home trade takes place entirely within one country's borders."
+  },
+  {
+    "id": "jamb-comm-trade-classification-2",
+    "subject": "Commerce",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Trade & Its Classification",
+    "difficulty": "medium",
+    "prompt": "The exchange of goods and services between two or more different countries is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "foreign (international) trade"
+      },
+      {
+        "key": "B",
+        "text": "wholesale trade"
+      },
+      {
+        "key": "C",
+        "text": "home trade"
+      },
+      {
+        "key": "D",
+        "text": "retail trade"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Foreign trade crosses national borders between countries."
+  },
+  {
+    "id": "jamb-comm-trade-classification-3",
+    "subject": "Commerce",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Trade & Its Classification",
+    "difficulty": "hard",
+    "prompt": "A country's visible trade balance is calculated by comparing its exports and imports of",
+    "options": [
+      {
+        "key": "A",
+        "text": "services only"
+      },
+      {
+        "key": "B",
+        "text": "tangible physical goods"
+      },
+      {
+        "key": "C",
+        "text": "government bonds"
+      },
+      {
+        "key": "D",
+        "text": "currency exchange rates"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Visible trade concerns tangible goods, as opposed to invisible trade in services."
+  },
+  {
+    "id": "jamb-comm-trade-classification-4",
+    "subject": "Commerce",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Trade & Its Classification",
+    "difficulty": "medium",
+    "prompt": "Trade in services, such as banking, insurance, and tourism, between countries is referred to as",
+    "options": [
+      {
+        "key": "A",
+        "text": "home trade"
+      },
+      {
+        "key": "B",
+        "text": "entrepot trade"
+      },
+      {
+        "key": "C",
+        "text": "visible trade"
+      },
+      {
+        "key": "D",
+        "text": "invisible trade"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Invisible trade covers cross-border trade in intangible services."
+  },
+  {
+    "id": "jamb-comm-trade-classification-5",
+    "subject": "Commerce",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Trade & Its Classification",
+    "difficulty": "easy",
+    "prompt": "A document used by an exporter to claim payment for goods shipped to a foreign buyer is called a/an",
+    "options": [
+      {
+        "key": "A",
+        "text": "requisition form"
+      },
+      {
+        "key": "B",
+        "text": "cheque"
+      },
+      {
+        "key": "C",
+        "text": "receipt"
+      },
+      {
+        "key": "D",
+        "text": "bill of exchange"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "A bill of exchange is a common instrument for claiming payment in international trade."
+  },
+  {
+    "id": "jamb-comm-aids-to-trade-1",
+    "subject": "Commerce",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Aids to Trade",
+    "difficulty": "easy",
+    "prompt": "The aid to trade concerned with the physical movement of goods from producers to consumers is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "transport"
+      },
+      {
+        "key": "B",
+        "text": "communication"
+      },
+      {
+        "key": "C",
+        "text": "warehousing"
+      },
+      {
+        "key": "D",
+        "text": "insurance"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Transport physically moves goods from production points to consumers."
+  },
+  {
+    "id": "jamb-comm-aids-to-trade-2",
+    "subject": "Commerce",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Aids to Trade",
+    "difficulty": "medium",
+    "prompt": "The aid to trade that provides safe storage of goods, helping to balance seasonal production with year-round demand, is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "banking"
+      },
+      {
+        "key": "B",
+        "text": "advertising"
+      },
+      {
+        "key": "C",
+        "text": "insurance"
+      },
+      {
+        "key": "D",
+        "text": "warehousing"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Warehousing stores goods, smoothing out gaps between production and demand."
+  },
+  {
+    "id": "jamb-comm-aids-to-trade-3",
+    "subject": "Commerce",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Aids to Trade",
+    "difficulty": "hard",
+    "prompt": "The stock exchange, as an aid to trade, primarily facilitates the",
+    "options": [
+      {
+        "key": "A",
+        "text": "buying and selling of company shares and securities"
+      },
+      {
+        "key": "B",
+        "text": "storage of perishable goods"
+      },
+      {
+        "key": "C",
+        "text": "advertising of consumer products"
+      },
+      {
+        "key": "D",
+        "text": "physical transport of goods"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "The stock exchange enables trading of shares and other securities."
+  },
+  {
+    "id": "jamb-comm-aids-to-trade-4",
+    "subject": "Commerce",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Aids to Trade",
+    "difficulty": "medium",
+    "prompt": "Advertising, as an aid to trade, mainly helps businesses to",
+    "options": [
+      {
+        "key": "A",
+        "text": "insure goods against loss"
+      },
+      {
+        "key": "B",
+        "text": "store excess goods"
+      },
+      {
+        "key": "C",
+        "text": "inform and persuade potential customers about their products"
+      },
+      {
+        "key": "D",
+        "text": "transport goods to distant markets"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Advertising informs and persuades customers, supporting sales efforts."
+  },
+  {
+    "id": "jamb-comm-aids-to-trade-5",
+    "subject": "Commerce",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Aids to Trade",
+    "difficulty": "easy",
+    "prompt": "Banking, as an aid to trade, supports commerce mainly by providing",
+    "options": [
+      {
+        "key": "A",
+        "text": "physical warehousing space"
+      },
+      {
+        "key": "B",
+        "text": "advertising campaigns"
+      },
+      {
+        "key": "C",
+        "text": "transport vehicles"
+      },
+      {
+        "key": "D",
+        "text": "credit facilities, loans and safe custody of money"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Banks facilitate trade through credit, loans and safekeeping of funds."
+  },
+  {
+    "id": "jamb-comm-business-organisation-1",
+    "subject": "Commerce",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Business Organisation",
+    "difficulty": "easy",
+    "prompt": "A business owned and managed by a single individual, who takes all profits and bears all risks, is a",
+    "options": [
+      {
+        "key": "A",
+        "text": "partnership"
+      },
+      {
+        "key": "B",
+        "text": "sole proprietorship"
+      },
+      {
+        "key": "C",
+        "text": "cooperative society"
+      },
+      {
+        "key": "D",
+        "text": "limited liability company"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "A sole proprietorship is run by one individual bearing full risk and reward."
+  },
+  {
+    "id": "jamb-comm-business-organisation-2",
+    "subject": "Commerce",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Business Organisation",
+    "difficulty": "medium",
+    "prompt": "A key feature distinguishing a public limited company from a private limited company is that a public company can",
+    "options": [
+      {
+        "key": "A",
+        "text": "operate without any legal registration"
+      },
+      {
+        "key": "B",
+        "text": "never raise capital from outside investors"
+      },
+      {
+        "key": "C",
+        "text": "only be owned by the government"
+      },
+      {
+        "key": "D",
+        "text": "offer its shares for sale to the general public through a stock exchange"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Public companies can sell shares to the general public, unlike private companies."
+  },
+  {
+    "id": "jamb-comm-business-organisation-3",
+    "subject": "Commerce",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Business Organisation",
+    "difficulty": "hard",
+    "prompt": "In a limited partnership, at least one partner must have",
+    "options": [
+      {
+        "key": "A",
+        "text": "shares tradable on the stock exchange"
+      },
+      {
+        "key": "B",
+        "text": "no liability at all for any debts"
+      },
+      {
+        "key": "C",
+        "text": "government approval to join"
+      },
+      {
+        "key": "D",
+        "text": "unlimited liability for the business's debts"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "A limited partnership requires at least one general partner with unlimited liability."
+  },
+  {
+    "id": "jamb-comm-business-organisation-4",
+    "subject": "Commerce",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Business Organisation",
+    "difficulty": "medium",
+    "prompt": "A cooperative society is generally formed to",
+    "options": [
+      {
+        "key": "A",
+        "text": "maximize profit for a single owner"
+      },
+      {
+        "key": "B",
+        "text": "pool members' resources to meet shared economic needs and share the benefits"
+      },
+      {
+        "key": "C",
+        "text": "operate exclusively for government revenue"
+      },
+      {
+        "key": "D",
+        "text": "eliminate the need for any management structure"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Cooperatives combine member resources to achieve shared economic goals."
+  },
+  {
+    "id": "jamb-comm-business-organisation-5",
+    "subject": "Commerce",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Business Organisation",
+    "difficulty": "easy",
+    "prompt": "A public corporation, established and owned by government to provide essential services, is generally financed mainly through",
+    "options": [
+      {
+        "key": "A",
+        "text": "private shareholders only"
+      },
+      {
+        "key": "B",
+        "text": "government funding and, in some cases, revenue from its services"
+      },
+      {
+        "key": "C",
+        "text": "unpaid volunteer labour only"
+      },
+      {
+        "key": "D",
+        "text": "foreign donations exclusively"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Public corporations rely mainly on government funding, supplemented by service revenue."
+  },
+  {
+    "id": "jamb-comm-money-banking-1",
+    "subject": "Commerce",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Money & Banking",
+    "difficulty": "easy",
+    "prompt": "One important quality money must have to function effectively as a medium of exchange is",
+    "options": [
+      {
+        "key": "A",
+        "text": "general acceptability"
+      },
+      {
+        "key": "B",
+        "text": "extreme scarcity of any kind"
+      },
+      {
+        "key": "C",
+        "text": "lack of any recognized value"
+      },
+      {
+        "key": "D",
+        "text": "perishability"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "For money to work as a medium of exchange, it must be widely accepted."
+  },
+  {
+    "id": "jamb-comm-money-banking-2",
+    "subject": "Commerce",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Money & Banking",
+    "difficulty": "medium",
+    "prompt": "A fixed (time) deposit account typically offers a higher interest rate than a savings account because",
+    "options": [
+      {
+        "key": "A",
+        "text": "it allows unlimited daily withdrawals"
+      },
+      {
+        "key": "B",
+        "text": "funds are locked in for an agreed period, restricting withdrawal"
+      },
+      {
+        "key": "C",
+        "text": "it earns no interest at all"
+      },
+      {
+        "key": "D",
+        "text": "it is used exclusively for business transactions"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Fixed deposits restrict withdrawal for a set term, in exchange for higher interest."
+  },
+  {
+    "id": "jamb-comm-money-banking-3",
+    "subject": "Commerce",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Money & Banking",
+    "difficulty": "hard",
+    "prompt": "A bank draft is best described as",
+    "options": [
+      {
+        "key": "A",
+        "text": "a loan given without any security"
+      },
+      {
+        "key": "B",
+        "text": "a government bond"
+      },
+      {
+        "key": "C",
+        "text": "a type of savings account"
+      },
+      {
+        "key": "D",
+        "text": "a cheque drawn by a bank on itself, guaranteeing payment to the named payee"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "A bank draft is a guaranteed payment instrument issued by a bank on itself."
+  },
+  {
+    "id": "jamb-comm-money-banking-4",
+    "subject": "Commerce",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Money & Banking",
+    "difficulty": "medium",
+    "prompt": "The main role of a commercial bank, distinct from a central bank, is to",
+    "options": [
+      {
+        "key": "A",
+        "text": "accept deposits from and provide loans to individuals and businesses"
+      },
+      {
+        "key": "B",
+        "text": "regulate all other banks in the country"
+      },
+      {
+        "key": "C",
+        "text": "issue a country's currency notes"
+      },
+      {
+        "key": "D",
+        "text": "set national monetary policy"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Commercial banks serve individual and business customers with deposits and loans."
+  },
+  {
+    "id": "jamb-comm-money-banking-5",
+    "subject": "Commerce",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Money & Banking",
+    "difficulty": "easy",
+    "prompt": "A cheque that has 'A/C Payee Only' written across it is known as a",
+    "options": [
+      {
+        "key": "A",
+        "text": "bearer cheque"
+      },
+      {
+        "key": "B",
+        "text": "post-dated cheque"
+      },
+      {
+        "key": "C",
+        "text": "crossed cheque"
+      },
+      {
+        "key": "D",
+        "text": "open cheque"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "A crossed cheque restricts payment to the named payee's bank account only."
+  },
+  {
+    "id": "jamb-comm-insurance-1",
+    "subject": "Commerce",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Insurance",
+    "difficulty": "easy",
+    "prompt": "Insurance that provides compensation for damage to a person's home caused by fire, flooding or similar risks is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "marine insurance"
+      },
+      {
+        "key": "B",
+        "text": "fidelity insurance"
+      },
+      {
+        "key": "C",
+        "text": "property (household) insurance"
+      },
+      {
+        "key": "D",
+        "text": "life insurance"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Property/household insurance protects against damage from perils like fire and flood."
+  },
+  {
+    "id": "jamb-comm-insurance-2",
+    "subject": "Commerce",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Insurance",
+    "difficulty": "medium",
+    "prompt": "The principle of insurance requiring that the insured genuinely stands to lose financially if the insured event occurs is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "insurable interest"
+      },
+      {
+        "key": "B",
+        "text": "contribution"
+      },
+      {
+        "key": "C",
+        "text": "indemnity"
+      },
+      {
+        "key": "D",
+        "text": "utmost good faith"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Insurable interest requires a genuine financial stake in the insured subject."
+  },
+  {
+    "id": "jamb-comm-insurance-3",
+    "subject": "Commerce",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Insurance",
+    "difficulty": "hard",
+    "prompt": "If an insured person deliberately withholds relevant information when applying for a policy, this violates the principle of",
+    "options": [
+      {
+        "key": "A",
+        "text": "indemnity"
+      },
+      {
+        "key": "B",
+        "text": "subrogation"
+      },
+      {
+        "key": "C",
+        "text": "insurable interest"
+      },
+      {
+        "key": "D",
+        "text": "utmost good faith"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Utmost good faith requires full and honest disclosure of relevant facts."
+  },
+  {
+    "id": "jamb-comm-insurance-4",
+    "subject": "Commerce",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Insurance",
+    "difficulty": "medium",
+    "prompt": "The document confirming the terms and conditions agreed between an insurer and the insured is called the",
+    "options": [
+      {
+        "key": "A",
+        "text": "bill of exchange"
+      },
+      {
+        "key": "B",
+        "text": "cheque"
+      },
+      {
+        "key": "C",
+        "text": "insurance policy"
+      },
+      {
+        "key": "D",
+        "text": "invoice"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "The insurance policy document records the agreed terms of cover."
+  },
+  {
+    "id": "jamb-comm-insurance-5",
+    "subject": "Commerce",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Insurance",
+    "difficulty": "easy",
+    "prompt": "Insurance covering an employer against financial loss from employee dishonesty, such as theft, is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "fidelity guarantee insurance"
+      },
+      {
+        "key": "B",
+        "text": "life insurance"
+      },
+      {
+        "key": "C",
+        "text": "marine insurance"
+      },
+      {
+        "key": "D",
+        "text": "motor insurance"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Fidelity guarantee insurance protects against losses from dishonest employees."
+  },
+  {
+    "id": "jamb-office-organisation-1",
+    "subject": "Office Practice",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Office Organisation",
+    "difficulty": "easy",
+    "prompt": "The overall arrangement and coordination of tasks, equipment and personnel within an office is referred to as",
+    "options": [
+      {
+        "key": "A",
+        "text": "correspondence"
+      },
+      {
+        "key": "B",
+        "text": "office organisation"
+      },
+      {
+        "key": "C",
+        "text": "filing"
+      },
+      {
+        "key": "D",
+        "text": "office equipment"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Office organisation covers how tasks, staff and resources are coordinated in an office."
+  },
+  {
+    "id": "jamb-office-organisation-2",
+    "subject": "Office Practice",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Office Organisation",
+    "difficulty": "medium",
+    "prompt": "A private (cellular) office layout, compared to an open-plan layout, generally offers workers greater",
+    "options": [
+      {
+        "key": "A",
+        "text": "ease of group supervision"
+      },
+      {
+        "key": "B",
+        "text": "shared communal workspace"
+      },
+      {
+        "key": "C",
+        "text": "lower construction cost"
+      },
+      {
+        "key": "D",
+        "text": "privacy and reduced noise distraction"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Private offices offer more privacy and quiet than open-plan layouts."
+  },
+  {
+    "id": "jamb-office-organisation-3",
+    "subject": "Office Practice",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Office Organisation",
+    "difficulty": "hard",
+    "prompt": "One key factor to consider when planning an efficient office layout is",
+    "options": [
+      {
+        "key": "A",
+        "text": "the colour of the walls only"
+      },
+      {
+        "key": "B",
+        "text": "the location of the nearest market"
+      },
+      {
+        "key": "C",
+        "text": "the number of visitors expected annually"
+      },
+      {
+        "key": "D",
+        "text": "the natural flow of work and movement between departments"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Efficient layout planning considers workflow and movement between related tasks."
+  },
+  {
+    "id": "jamb-office-organisation-4",
+    "subject": "Office Practice",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Office Organisation",
+    "difficulty": "medium",
+    "prompt": "A regional or satellite office set up away from an organisation's head office is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "branch office"
+      },
+      {
+        "key": "B",
+        "text": "mobile office"
+      },
+      {
+        "key": "C",
+        "text": "virtual office"
+      },
+      {
+        "key": "D",
+        "text": "home office"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "A branch office is a satellite location extending an organisation's reach."
+  },
+  {
+    "id": "jamb-office-organisation-5",
+    "subject": "Office Practice",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Office Organisation",
+    "difficulty": "easy",
+    "prompt": "The department in a large organisation typically responsible for coordinating all administrative office functions is the",
+    "options": [
+      {
+        "key": "A",
+        "text": "sales department"
+      },
+      {
+        "key": "B",
+        "text": "administration department"
+      },
+      {
+        "key": "C",
+        "text": "research department"
+      },
+      {
+        "key": "D",
+        "text": "production department"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "The administration department typically coordinates office functions across an organisation."
+  },
+  {
+    "id": "jamb-office-equipment-1",
+    "subject": "Office Practice",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Office Equipment & Machines",
+    "difficulty": "easy",
+    "prompt": "A machine that reproduces exact copies of a document using light-sensitive technology is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "typewriter"
+      },
+      {
+        "key": "B",
+        "text": "photocopier"
+      },
+      {
+        "key": "C",
+        "text": "punch"
+      },
+      {
+        "key": "D",
+        "text": "calculator"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "A photocopier reproduces documents using photographic/light-based technology."
+  },
+  {
+    "id": "jamb-office-equipment-2",
+    "subject": "Office Practice",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Office Equipment & Machines",
+    "difficulty": "medium",
+    "prompt": "A device that projects computer images onto a large screen for presentations is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "projector"
+      },
+      {
+        "key": "B",
+        "text": "shredder"
+      },
+      {
+        "key": "C",
+        "text": "fax machine"
+      },
+      {
+        "key": "D",
+        "text": "scanner"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "A projector displays computer or video images on a large surface for viewing."
+  },
+  {
+    "id": "jamb-office-equipment-3",
+    "subject": "Office Practice",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Office Equipment & Machines",
+    "difficulty": "hard",
+    "prompt": "A device that converts a paper document into a digital image or file is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "scanner"
+      },
+      {
+        "key": "B",
+        "text": "projector"
+      },
+      {
+        "key": "C",
+        "text": "punch"
+      },
+      {
+        "key": "D",
+        "text": "stapler"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "A scanner digitizes physical documents into electronic files."
+  },
+  {
+    "id": "jamb-office-equipment-4",
+    "subject": "Office Practice",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Office Equipment & Machines",
+    "difficulty": "medium",
+    "prompt": "The use of computers, printers and software in an office to prepare and manage documents is generally called",
+    "options": [
+      {
+        "key": "A",
+        "text": "warehousing"
+      },
+      {
+        "key": "B",
+        "text": "advertising"
+      },
+      {
+        "key": "C",
+        "text": "office automation"
+      },
+      {
+        "key": "D",
+        "text": "manual filing"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Office automation refers to using technology to handle administrative tasks efficiently."
+  },
+  {
+    "id": "jamb-office-equipment-5",
+    "subject": "Office Practice",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Office Equipment & Machines",
+    "difficulty": "easy",
+    "prompt": "A device used to securely destroy sensitive paper documents by cutting them into fine strips is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "photocopier"
+      },
+      {
+        "key": "B",
+        "text": "projector"
+      },
+      {
+        "key": "C",
+        "text": "shredder"
+      },
+      {
+        "key": "D",
+        "text": "scanner"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "A shredder destroys confidential documents by cutting them into small strips."
+  },
+  {
+    "id": "jamb-office-filing-1",
+    "subject": "Office Practice",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Filing & Records Management",
+    "difficulty": "easy",
+    "prompt": "A filing system in which documents are arranged first alphabetically, then further sorted by date, is an example of",
+    "options": [
+      {
+        "key": "A",
+        "text": "purely geographical filing"
+      },
+      {
+        "key": "B",
+        "text": "a combined (alphabetical-chronological) filing system"
+      },
+      {
+        "key": "C",
+        "text": "purely numerical filing"
+      },
+      {
+        "key": "D",
+        "text": "purely subject filing"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Combined systems apply more than one filing method, such as alphabetical then date order."
+  },
+  {
+    "id": "jamb-office-filing-2",
+    "subject": "Office Practice",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Filing & Records Management",
+    "difficulty": "medium",
+    "prompt": "A decentralized filing system, in which each department keeps its own separate files, has the advantage of",
+    "options": [
+      {
+        "key": "A",
+        "text": "reducing the total amount of equipment needed"
+      },
+      {
+        "key": "B",
+        "text": "requiring only one central filing clerk"
+      },
+      {
+        "key": "C",
+        "text": "giving departments quicker, independent access to their own records"
+      },
+      {
+        "key": "D",
+        "text": "eliminating duplication across the organisation entirely"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Decentralized filing gives departments direct, faster control over their own records."
+  },
+  {
+    "id": "jamb-office-filing-3",
+    "subject": "Office Practice",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Filing & Records Management",
+    "difficulty": "hard",
+    "prompt": "An index used in filing to quickly locate where a particular document or file is stored is called a/an",
+    "options": [
+      {
+        "key": "A",
+        "text": "filing index"
+      },
+      {
+        "key": "B",
+        "text": "cross-reference sheet only"
+      },
+      {
+        "key": "C",
+        "text": "out-guide"
+      },
+      {
+        "key": "D",
+        "text": "requisition form"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "A filing index helps quickly locate the storage location of specific records."
+  },
+  {
+    "id": "jamb-office-filing-4",
+    "subject": "Office Practice",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Filing & Records Management",
+    "difficulty": "medium",
+    "prompt": "Documents of continuing importance that must be kept permanently, such as legal deeds, are classified as",
+    "options": [
+      {
+        "key": "A",
+        "text": "obsolete records"
+      },
+      {
+        "key": "B",
+        "text": "vital (permanent) records"
+      },
+      {
+        "key": "C",
+        "text": "duplicate records"
+      },
+      {
+        "key": "D",
+        "text": "temporary records"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Vital records must be permanently retained due to their continuing legal or operational importance."
+  },
+  {
+    "id": "jamb-office-filing-5",
+    "subject": "Office Practice",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Filing & Records Management",
+    "difficulty": "easy",
+    "prompt": "Cross-referencing in a filing system is used mainly to",
+    "options": [
+      {
+        "key": "A",
+        "text": "replace the need for an index"
+      },
+      {
+        "key": "B",
+        "text": "increase the physical size of files"
+      },
+      {
+        "key": "C",
+        "text": "indicate that a document can also be found under another related heading"
+      },
+      {
+        "key": "D",
+        "text": "permanently delete unwanted files"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Cross-referencing links related records filed under more than one heading."
+  },
+  {
+    "id": "jamb-office-mail-1",
+    "subject": "Office Practice",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Mail Handling & Correspondence",
+    "difficulty": "easy",
+    "prompt": "Mail marked 'Urgent' or 'Immediate' received in an office should generally be",
+    "options": [
+      {
+        "key": "A",
+        "text": "discarded if the addressee is absent"
+      },
+      {
+        "key": "B",
+        "text": "processed and forwarded to the addressee without delay"
+      },
+      {
+        "key": "C",
+        "text": "filed away permanently unread"
+      },
+      {
+        "key": "D",
+        "text": "left until the end of the day"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Urgent mail should be prioritized and delivered to the addressee promptly."
+  },
+  {
+    "id": "jamb-office-mail-2",
+    "subject": "Office Practice",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Mail Handling & Correspondence",
+    "difficulty": "medium",
+    "prompt": "A letter sent to acknowledge receipt of goods, payment, or correspondence is called a/an",
+    "options": [
+      {
+        "key": "A",
+        "text": "memo"
+      },
+      {
+        "key": "B",
+        "text": "acknowledgement letter"
+      },
+      {
+        "key": "C",
+        "text": "invoice"
+      },
+      {
+        "key": "D",
+        "text": "circular letter"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "An acknowledgement letter confirms that something has been received."
+  },
+  {
+    "id": "jamb-office-mail-3",
+    "subject": "Office Practice",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Mail Handling & Correspondence",
+    "difficulty": "hard",
+    "prompt": "Registering outgoing mail before dispatch is a practice mainly intended to",
+    "options": [
+      {
+        "key": "A",
+        "text": "delay the delivery of mail"
+      },
+      {
+        "key": "B",
+        "text": "replace the need for addressing envelopes"
+      },
+      {
+        "key": "C",
+        "text": "provide a reliable record of what was sent and when"
+      },
+      {
+        "key": "D",
+        "text": "increase postage costs unnecessarily"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Registering outgoing mail creates a dependable record of dispatched correspondence."
+  },
+  {
+    "id": "jamb-office-mail-4",
+    "subject": "Office Practice",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Mail Handling & Correspondence",
+    "difficulty": "medium",
+    "prompt": "A letter addressed to an organisation but marked for the attention of a specific person is typically indicated using the phrase",
+    "options": [
+      {
+        "key": "A",
+        "text": "'Yours faithfully'"
+      },
+      {
+        "key": "B",
+        "text": "'Dear Sir/Madam'"
+      },
+      {
+        "key": "C",
+        "text": "'Enclosure'"
+      },
+      {
+        "key": "D",
+        "text": "'For the attention of'"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "'For the attention of' directs a letter to a specific person within an organisation."
+  },
+  {
+    "id": "jamb-office-mail-5",
+    "subject": "Office Practice",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Mail Handling & Correspondence",
+    "difficulty": "easy",
+    "prompt": "Franking machines are used in offices mainly to",
+    "options": [
+      {
+        "key": "A",
+        "text": "shred confidential documents"
+      },
+      {
+        "key": "B",
+        "text": "photocopy outgoing letters"
+      },
+      {
+        "key": "C",
+        "text": "print postage directly onto mail, avoiding the need for stamps"
+      },
+      {
+        "key": "D",
+        "text": "open incoming letters automatically"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Franking machines print prepaid postage directly onto mail items."
+  },
+  {
+    "id": "jamb-office-personnel-1",
+    "subject": "Office Practice",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Duties of Office Personnel",
+    "difficulty": "easy",
+    "prompt": "The office personnel primarily responsible for managing an executive's diary, correspondence and appointments is the",
+    "options": [
+      {
+        "key": "A",
+        "text": "messenger"
+      },
+      {
+        "key": "B",
+        "text": "filing clerk"
+      },
+      {
+        "key": "C",
+        "text": "personal/executive secretary"
+      },
+      {
+        "key": "D",
+        "text": "cashier"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "A personal secretary manages an executive's schedule and correspondence."
+  },
+  {
+    "id": "jamb-office-personnel-2",
+    "subject": "Office Practice",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Duties of Office Personnel",
+    "difficulty": "medium",
+    "prompt": "A filing clerk's main responsibility in an office is to",
+    "options": [
+      {
+        "key": "A",
+        "text": "manage the organisation's bank accounts"
+      },
+      {
+        "key": "B",
+        "text": "organize, store and retrieve documents accurately"
+      },
+      {
+        "key": "C",
+        "text": "type all outgoing business letters"
+      },
+      {
+        "key": "D",
+        "text": "welcome visitors at the front desk"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "A filing clerk maintains organized, retrievable document records."
+  },
+  {
+    "id": "jamb-office-personnel-3",
+    "subject": "Office Practice",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Duties of Office Personnel",
+    "difficulty": "hard",
+    "prompt": "A telephonist/switchboard operator's key duty in an office is to",
+    "options": [
+      {
+        "key": "A",
+        "text": "receive and direct incoming telephone calls appropriately"
+      },
+      {
+        "key": "B",
+        "text": "prepare the company's annual accounts"
+      },
+      {
+        "key": "C",
+        "text": "deliver mail between departments"
+      },
+      {
+        "key": "D",
+        "text": "supervise the entire office staff"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "A telephonist manages and routes incoming calls within an organisation."
+  },
+  {
+    "id": "jamb-office-personnel-4",
+    "subject": "Office Practice",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Duties of Office Personnel",
+    "difficulty": "medium",
+    "prompt": "An office messenger's main duty typically involves",
+    "options": [
+      {
+        "key": "A",
+        "text": "delivering documents and items between offices or to external locations"
+      },
+      {
+        "key": "B",
+        "text": "managing computer networks"
+      },
+      {
+        "key": "C",
+        "text": "supervising other departments"
+      },
+      {
+        "key": "D",
+        "text": "auditing financial records"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Messengers are responsible for physically delivering items and documents."
+  },
+  {
+    "id": "jamb-office-personnel-5",
+    "subject": "Office Practice",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Duties of Office Personnel",
+    "difficulty": "easy",
+    "prompt": "A key responsibility of an office supervisor is to",
+    "options": [
+      {
+        "key": "A",
+        "text": "oversee and coordinate the work of junior office staff"
+      },
+      {
+        "key": "B",
+        "text": "handle only the organisation's tax filings"
+      },
+      {
+        "key": "C",
+        "text": "manufacture the organisation's products"
+      },
+      {
+        "key": "D",
+        "text": "represent the organisation in court cases"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "An office supervisor coordinates and oversees the work of junior staff."
+  }
+]

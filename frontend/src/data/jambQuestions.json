@@ -1,0 +1,6382 @@
+[
+  {
+    "id": "jamb-math-algebra-1",
+    "subject": "Mathematics",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Algebra",
+    "difficulty": "easy",
+    "prompt": "Simplify: 4(x - 2) - 3(x - 5)",
+    "options": [
+      {
+        "key": "A",
+        "text": "x + 23"
+      },
+      {
+        "key": "B",
+        "text": "x - 7"
+      },
+      {
+        "key": "C",
+        "text": "x + 7"
+      },
+      {
+        "key": "D",
+        "text": "7x + 7"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Expand: 4x - 8 - 3x + 15 = x + 7."
+  },
+  {
+    "id": "jamb-math-algebra-2",
+    "subject": "Mathematics",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Algebra",
+    "difficulty": "medium",
+    "prompt": "Solve for x: 4x + 5 = 2x + 17",
+    "options": [
+      {
+        "key": "A",
+        "text": "x = 6"
+      },
+      {
+        "key": "B",
+        "text": "x = -6"
+      },
+      {
+        "key": "C",
+        "text": "x = 3"
+      },
+      {
+        "key": "D",
+        "text": "x = 11"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "2x = 12, so x = 6."
+  },
+  {
+    "id": "jamb-math-algebra-3",
+    "subject": "Mathematics",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Algebra",
+    "difficulty": "hard",
+    "prompt": "Factorise completely: 3x^2 - 27",
+    "options": [
+      {
+        "key": "A",
+        "text": "3(x - 9)(x + 3)"
+      },
+      {
+        "key": "B",
+        "text": "3(x + 3)^2"
+      },
+      {
+        "key": "C",
+        "text": "3(x - 3)(x + 3)"
+      },
+      {
+        "key": "D",
+        "text": "(3x - 9)(x + 3)"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "3x^2 - 27 = 3(x^2 - 9) = 3(x - 3)(x + 3)."
+  },
+  {
+    "id": "jamb-math-algebra-4",
+    "subject": "Mathematics",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Algebra",
+    "difficulty": "medium",
+    "prompt": "Make x the subject of the relation: 2x - 5y = 10",
+    "options": [
+      {
+        "key": "A",
+        "text": "x = (10 - 5y)/2"
+      },
+      {
+        "key": "B",
+        "text": "x = (10 + 5y)/2"
+      },
+      {
+        "key": "C",
+        "text": "x = 5y - 5"
+      },
+      {
+        "key": "D",
+        "text": "x = (5y - 10)/2"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "2x = 10 + 5y, so x = (10 + 5y)/2."
+  },
+  {
+    "id": "jamb-math-algebra-5",
+    "subject": "Mathematics",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Algebra",
+    "difficulty": "easy",
+    "prompt": "Expand and simplify: (x - 4)(x + 3)",
+    "options": [
+      {
+        "key": "A",
+        "text": "x^2 - 7x - 12"
+      },
+      {
+        "key": "B",
+        "text": "x^2 - x + 12"
+      },
+      {
+        "key": "C",
+        "text": "x^2 - x - 12"
+      },
+      {
+        "key": "D",
+        "text": "x^2 + x - 12"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "(x - 4)(x + 3) = x^2 + 3x - 4x - 12 = x^2 - x - 12."
+  },
+  {
+    "id": "jamb-math-commercial-arithmetic-1",
+    "subject": "Mathematics",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Commercial Arithmetic",
+    "difficulty": "easy",
+    "prompt": "A trader buys goods for ₦3,000 and sells them for ₦3,600. Find the percentage profit.",
+    "options": [
+      {
+        "key": "A",
+        "text": "60%"
+      },
+      {
+        "key": "B",
+        "text": "10%"
+      },
+      {
+        "key": "C",
+        "text": "16.7%"
+      },
+      {
+        "key": "D",
+        "text": "20%"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Profit = ₦600. Percentage profit = 600/3000 × 100 = 20%."
+  },
+  {
+    "id": "jamb-math-commercial-arithmetic-2",
+    "subject": "Mathematics",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Commercial Arithmetic",
+    "difficulty": "medium",
+    "prompt": "Find the simple interest on ₦20,000 for 2 years at 5% per annum.",
+    "options": [
+      {
+        "key": "A",
+        "text": "₦1,000"
+      },
+      {
+        "key": "B",
+        "text": "₦2,000"
+      },
+      {
+        "key": "C",
+        "text": "₦4,000"
+      },
+      {
+        "key": "D",
+        "text": "₦20,000"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "I = PRT/100 = (20000 × 5 × 2)/100 = ₦2,000."
+  },
+  {
+    "id": "jamb-math-commercial-arithmetic-3",
+    "subject": "Mathematics",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Commercial Arithmetic",
+    "difficulty": "hard",
+    "prompt": "A sum of money amounts to ₦16,800 after 4 years at 10% simple interest per annum. Find the principal.",
+    "options": [
+      {
+        "key": "A",
+        "text": "₦16,000"
+      },
+      {
+        "key": "B",
+        "text": "₦12,000"
+      },
+      {
+        "key": "C",
+        "text": "₦10,000"
+      },
+      {
+        "key": "D",
+        "text": "₦14,000"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "A = P(1 + RT/100) = 1.4P. So P = 16800/1.4 = ₦12,000."
+  },
+  {
+    "id": "jamb-math-commercial-arithmetic-4",
+    "subject": "Mathematics",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Commercial Arithmetic",
+    "difficulty": "medium",
+    "prompt": "A trader marks up goods by 25% on cost price, then gives a discount of 20% on the marked price. Find the overall percentage profit or loss.",
+    "options": [
+      {
+        "key": "A",
+        "text": "5% loss"
+      },
+      {
+        "key": "B",
+        "text": "25% profit"
+      },
+      {
+        "key": "C",
+        "text": "5% profit"
+      },
+      {
+        "key": "D",
+        "text": "0% (no profit, no loss)"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Cost = 100, marked price = 125, selling price after 20% discount = 100, so there is no overall profit or loss."
+  },
+  {
+    "id": "jamb-math-commercial-arithmetic-5",
+    "subject": "Mathematics",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Commercial Arithmetic",
+    "difficulty": "easy",
+    "prompt": "Share ₦12,000 between two sisters in the ratio 3:5. Find the larger share.",
+    "options": [
+      {
+        "key": "A",
+        "text": "₦7,500"
+      },
+      {
+        "key": "B",
+        "text": "₦4,500"
+      },
+      {
+        "key": "C",
+        "text": "₦8,000"
+      },
+      {
+        "key": "D",
+        "text": "₦6,000"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Total parts = 8, so 1 part = ₦1,500. The larger share (5 parts) = ₦7,500."
+  },
+  {
+    "id": "jamb-math-coordinate-geometry-1",
+    "subject": "Mathematics",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Coordinate Geometry",
+    "difficulty": "easy",
+    "prompt": "Find the gradient of the line joining the points (1, 1) and (5, 9).",
+    "options": [
+      {
+        "key": "A",
+        "text": "4"
+      },
+      {
+        "key": "B",
+        "text": "8"
+      },
+      {
+        "key": "C",
+        "text": "1/2"
+      },
+      {
+        "key": "D",
+        "text": "2"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Gradient = (9 - 1)/(5 - 1) = 8/4 = 2."
+  },
+  {
+    "id": "jamb-math-coordinate-geometry-2",
+    "subject": "Mathematics",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Coordinate Geometry",
+    "difficulty": "medium",
+    "prompt": "Find the midpoint of the line segment joining (3, -2) and (-1, 6).",
+    "options": [
+      {
+        "key": "A",
+        "text": "(1, 2)"
+      },
+      {
+        "key": "B",
+        "text": "(2, 4)"
+      },
+      {
+        "key": "C",
+        "text": "(-2, 2)"
+      },
+      {
+        "key": "D",
+        "text": "(1, 4)"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Midpoint = ((3-1)/2, (-2+6)/2) = (1, 2)."
+  },
+  {
+    "id": "jamb-math-coordinate-geometry-3",
+    "subject": "Mathematics",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Coordinate Geometry",
+    "difficulty": "hard",
+    "prompt": "Find the distance between the points (2, 3) and (7, 15).",
+    "options": [
+      {
+        "key": "A",
+        "text": "13"
+      },
+      {
+        "key": "B",
+        "text": "7"
+      },
+      {
+        "key": "C",
+        "text": "17"
+      },
+      {
+        "key": "D",
+        "text": "169"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Distance = √((7-2)^2 + (15-3)^2) = √(25+144) = √169 = 13."
+  },
+  {
+    "id": "jamb-math-coordinate-geometry-4",
+    "subject": "Mathematics",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Coordinate Geometry",
+    "difficulty": "medium",
+    "prompt": "Find the equation of the line with gradient -2 passing through the point (3, 1).",
+    "options": [
+      {
+        "key": "A",
+        "text": "y = -2x - 7"
+      },
+      {
+        "key": "B",
+        "text": "y = -2x + 1"
+      },
+      {
+        "key": "C",
+        "text": "y = 2x - 5"
+      },
+      {
+        "key": "D",
+        "text": "y = -2x + 7"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "y - 1 = -2(x - 3), so y = -2x + 6 + 1 = -2x + 7."
+  },
+  {
+    "id": "jamb-math-coordinate-geometry-5",
+    "subject": "Mathematics",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Coordinate Geometry",
+    "difficulty": "easy",
+    "prompt": "A line has equation 3x - y = 9. Find its y-intercept.",
+    "options": [
+      {
+        "key": "A",
+        "text": "-9"
+      },
+      {
+        "key": "B",
+        "text": "-3"
+      },
+      {
+        "key": "C",
+        "text": "9"
+      },
+      {
+        "key": "D",
+        "text": "3"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "When x = 0, -y = 9, so y = -9."
+  },
+  {
+    "id": "jamb-math-geometry-mensuration-1",
+    "subject": "Mathematics",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Geometry & Mensuration",
+    "difficulty": "easy",
+    "prompt": "Two angles of a triangle are 65° and 45°. Find the third angle.",
+    "options": [
+      {
+        "key": "A",
+        "text": "110°"
+      },
+      {
+        "key": "B",
+        "text": "45°"
+      },
+      {
+        "key": "C",
+        "text": "65°"
+      },
+      {
+        "key": "D",
+        "text": "70°"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Angles in a triangle sum to 180°, so the third angle = 180 - 110 = 70°."
+  },
+  {
+    "id": "jamb-math-geometry-mensuration-2",
+    "subject": "Mathematics",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Geometry & Mensuration",
+    "difficulty": "medium",
+    "prompt": "Find the area of a rectangle with length 15 cm and width 8 cm.",
+    "options": [
+      {
+        "key": "A",
+        "text": "240 cm^2"
+      },
+      {
+        "key": "B",
+        "text": "46 cm^2"
+      },
+      {
+        "key": "C",
+        "text": "23 cm^2"
+      },
+      {
+        "key": "D",
+        "text": "120 cm^2"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Area = length × width = 15 × 8 = 120 cm^2."
+  },
+  {
+    "id": "jamb-math-geometry-mensuration-3",
+    "subject": "Mathematics",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Geometry & Mensuration",
+    "difficulty": "hard",
+    "prompt": "Find the volume of a cylinder with radius 14 cm and height 5 cm. (Take π = 22/7)",
+    "options": [
+      {
+        "key": "A",
+        "text": "3,080 cm^3"
+      },
+      {
+        "key": "B",
+        "text": "1,540 cm^3"
+      },
+      {
+        "key": "C",
+        "text": "6,160 cm^3"
+      },
+      {
+        "key": "D",
+        "text": "440 cm^3"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "V = πr^2h = (22/7) × 196 × 5 = 3,080 cm^3."
+  },
+  {
+    "id": "jamb-math-geometry-mensuration-4",
+    "subject": "Mathematics",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Geometry & Mensuration",
+    "difficulty": "medium",
+    "prompt": "A right-angled triangle has legs of 9 cm and 12 cm. Find the length of the hypotenuse.",
+    "options": [
+      {
+        "key": "A",
+        "text": "108 cm"
+      },
+      {
+        "key": "B",
+        "text": "15 cm"
+      },
+      {
+        "key": "C",
+        "text": "21 cm"
+      },
+      {
+        "key": "D",
+        "text": "10.5 cm"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "By Pythagoras' theorem, hypotenuse = √(9^2 + 12^2) = √225 = 15 cm."
+  },
+  {
+    "id": "jamb-math-geometry-mensuration-5",
+    "subject": "Mathematics",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Geometry & Mensuration",
+    "difficulty": "easy",
+    "prompt": "Find the circumference of a circle of radius 21 cm. (Take π = 22/7)",
+    "options": [
+      {
+        "key": "A",
+        "text": "42 cm"
+      },
+      {
+        "key": "B",
+        "text": "66 cm"
+      },
+      {
+        "key": "C",
+        "text": "132 cm"
+      },
+      {
+        "key": "D",
+        "text": "1,386 cm"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Circumference = 2πr = 2 × (22/7) × 21 = 132 cm."
+  },
+  {
+    "id": "jamb-math-number-numeration-1",
+    "subject": "Mathematics",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Number & Numeration",
+    "difficulty": "easy",
+    "prompt": "Convert 101101two to base ten.",
+    "options": [
+      {
+        "key": "A",
+        "text": "45"
+      },
+      {
+        "key": "B",
+        "text": "43"
+      },
+      {
+        "key": "C",
+        "text": "53"
+      },
+      {
+        "key": "D",
+        "text": "47"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "101101two = (1×32)+(0×16)+(1×8)+(1×4)+(0×2)+(1×1) = 45."
+  },
+  {
+    "id": "jamb-math-number-numeration-2",
+    "subject": "Mathematics",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Number & Numeration",
+    "difficulty": "medium",
+    "prompt": "Find the LCM of 15 and 20.",
+    "options": [
+      {
+        "key": "A",
+        "text": "5"
+      },
+      {
+        "key": "B",
+        "text": "60"
+      },
+      {
+        "key": "C",
+        "text": "40"
+      },
+      {
+        "key": "D",
+        "text": "300"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "The lowest common multiple of 15 and 20 is 60."
+  },
+  {
+    "id": "jamb-math-number-numeration-3",
+    "subject": "Mathematics",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Number & Numeration",
+    "difficulty": "hard",
+    "prompt": "Express 0.000728 in standard form.",
+    "options": [
+      {
+        "key": "A",
+        "text": "7.28 × 10^-3"
+      },
+      {
+        "key": "B",
+        "text": "7.28 × 10^-4"
+      },
+      {
+        "key": "C",
+        "text": "728 × 10^-6"
+      },
+      {
+        "key": "D",
+        "text": "7.28 × 10^4"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Moving the decimal point 4 places right gives 7.28 × 10^-4."
+  },
+  {
+    "id": "jamb-math-number-numeration-4",
+    "subject": "Mathematics",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Number & Numeration",
+    "difficulty": "medium",
+    "prompt": "Simplify: 3/5 + 1/4",
+    "options": [
+      {
+        "key": "A",
+        "text": "3/4"
+      },
+      {
+        "key": "B",
+        "text": "4/9"
+      },
+      {
+        "key": "C",
+        "text": "7/10"
+      },
+      {
+        "key": "D",
+        "text": "17/20"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "3/5 + 1/4 = 12/20 + 5/20 = 17/20."
+  },
+  {
+    "id": "jamb-math-number-numeration-5",
+    "subject": "Mathematics",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Number & Numeration",
+    "difficulty": "easy",
+    "prompt": "Find the HCF of 18 and 30.",
+    "options": [
+      {
+        "key": "A",
+        "text": "90"
+      },
+      {
+        "key": "B",
+        "text": "15"
+      },
+      {
+        "key": "C",
+        "text": "3"
+      },
+      {
+        "key": "D",
+        "text": "6"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "The highest common factor of 18 and 30 is 6."
+  },
+  {
+    "id": "jamb-math-statistics-probability-1",
+    "subject": "Mathematics",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Statistics & Probability",
+    "difficulty": "easy",
+    "prompt": "Find the mean of 5, 9, 7, 11, 13.",
+    "options": [
+      {
+        "key": "A",
+        "text": "45"
+      },
+      {
+        "key": "B",
+        "text": "7"
+      },
+      {
+        "key": "C",
+        "text": "9"
+      },
+      {
+        "key": "D",
+        "text": "11"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Mean = (5+9+7+11+13)/5 = 45/5 = 9."
+  },
+  {
+    "id": "jamb-math-statistics-probability-2",
+    "subject": "Mathematics",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Statistics & Probability",
+    "difficulty": "medium",
+    "prompt": "Find the median of the numbers 6, 2, 9, 4, 8.",
+    "options": [
+      {
+        "key": "A",
+        "text": "6"
+      },
+      {
+        "key": "B",
+        "text": "5.8"
+      },
+      {
+        "key": "C",
+        "text": "4"
+      },
+      {
+        "key": "D",
+        "text": "9"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Arranged in order: 2, 4, 6, 8, 9. The middle value is 6."
+  },
+  {
+    "id": "jamb-math-statistics-probability-3",
+    "subject": "Mathematics",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Statistics & Probability",
+    "difficulty": "hard",
+    "prompt": "A bag contains 4 green balls and 6 yellow balls. Find the probability of picking a yellow ball at random.",
+    "options": [
+      {
+        "key": "A",
+        "text": "2/5"
+      },
+      {
+        "key": "B",
+        "text": "3/2"
+      },
+      {
+        "key": "C",
+        "text": "3/5"
+      },
+      {
+        "key": "D",
+        "text": "1/10"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "P(yellow) = 6/10 = 3/5."
+  },
+  {
+    "id": "jamb-math-statistics-probability-4",
+    "subject": "Mathematics",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Statistics & Probability",
+    "difficulty": "medium",
+    "prompt": "Find the mode of the set of numbers: 3, 5, 5, 7, 9, 5, 2.",
+    "options": [
+      {
+        "key": "A",
+        "text": "3"
+      },
+      {
+        "key": "B",
+        "text": "2"
+      },
+      {
+        "key": "C",
+        "text": "7"
+      },
+      {
+        "key": "D",
+        "text": "5"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "5 occurs most frequently (three times), so it is the mode."
+  },
+  {
+    "id": "jamb-math-statistics-probability-5",
+    "subject": "Mathematics",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Statistics & Probability",
+    "difficulty": "easy",
+    "prompt": "Find the range of the data set: 15, 22, 8, 30, 17.",
+    "options": [
+      {
+        "key": "A",
+        "text": "18.4"
+      },
+      {
+        "key": "B",
+        "text": "8"
+      },
+      {
+        "key": "C",
+        "text": "22"
+      },
+      {
+        "key": "D",
+        "text": "30"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Range = highest value - lowest value = 30 - 8 = 22."
+  },
+  {
+    "id": "jamb-math-trigonometry-1",
+    "subject": "Mathematics",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Trigonometry",
+    "difficulty": "easy",
+    "prompt": "Find the value of sin 90°.",
+    "options": [
+      {
+        "key": "A",
+        "text": "0"
+      },
+      {
+        "key": "B",
+        "text": "0.5"
+      },
+      {
+        "key": "C",
+        "text": "0.866"
+      },
+      {
+        "key": "D",
+        "text": "1"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "sin 90° = 1, a standard trigonometric value."
+  },
+  {
+    "id": "jamb-math-trigonometry-2",
+    "subject": "Mathematics",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Trigonometry",
+    "difficulty": "medium",
+    "prompt": "If tan θ = 5/12 and θ is acute, find sin θ.",
+    "options": [
+      {
+        "key": "A",
+        "text": "12/13"
+      },
+      {
+        "key": "B",
+        "text": "5/13"
+      },
+      {
+        "key": "C",
+        "text": "5/12"
+      },
+      {
+        "key": "D",
+        "text": "12/5"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "For a 5-12-13 right triangle, the opposite/hypotenuse = 5/13."
+  },
+  {
+    "id": "jamb-math-trigonometry-3",
+    "subject": "Mathematics",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Trigonometry",
+    "difficulty": "hard",
+    "prompt": "A ladder leans against a wall making an angle of 30° with the ground. If the foot of the ladder is 8 m from the wall, find the length of the ladder (to 1 d.p.).",
+    "options": [
+      {
+        "key": "A",
+        "text": "4.0 m"
+      },
+      {
+        "key": "B",
+        "text": "8.0 m"
+      },
+      {
+        "key": "C",
+        "text": "9.2 m"
+      },
+      {
+        "key": "D",
+        "text": "16.0 m"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Length = 8/cos 30° = 8/0.866 ≈ 9.2 m."
+  },
+  {
+    "id": "jamb-math-trigonometry-4",
+    "subject": "Mathematics",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Trigonometry",
+    "difficulty": "medium",
+    "prompt": "Find the value of cos 90°.",
+    "options": [
+      {
+        "key": "A",
+        "text": "-1"
+      },
+      {
+        "key": "B",
+        "text": "1"
+      },
+      {
+        "key": "C",
+        "text": "0.5"
+      },
+      {
+        "key": "D",
+        "text": "0"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "cos 90° = 0, a standard trigonometric value."
+  },
+  {
+    "id": "jamb-math-trigonometry-5",
+    "subject": "Mathematics",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Trigonometry",
+    "difficulty": "easy",
+    "prompt": "Find the value of tan 0°.",
+    "options": [
+      {
+        "key": "A",
+        "text": "undefined"
+      },
+      {
+        "key": "B",
+        "text": "0"
+      },
+      {
+        "key": "C",
+        "text": "0.5"
+      },
+      {
+        "key": "D",
+        "text": "1"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "tan 0° = 0, since sin 0° = 0."
+  },
+  {
+    "id": "jamb-eng-comprehension-1",
+    "subject": "English",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Comprehension",
+    "difficulty": "easy",
+    "prompt": "Choose the option that best interprets: \"He gave up the ghost.\"",
+    "options": [
+      {
+        "key": "A",
+        "text": "He was frightened"
+      },
+      {
+        "key": "B",
+        "text": "He died"
+      },
+      {
+        "key": "C",
+        "text": "He became a ghost"
+      },
+      {
+        "key": "D",
+        "text": "He surrendered his belongings"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "'Gave up the ghost' is an idiom meaning to die."
+  },
+  {
+    "id": "jamb-eng-comprehension-2",
+    "subject": "English",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Comprehension",
+    "difficulty": "medium",
+    "prompt": "\"Despite the heavy rain, the match continued.\" The underlined clause shows a relationship of",
+    "options": [
+      {
+        "key": "A",
+        "text": "contrast"
+      },
+      {
+        "key": "B",
+        "text": "result"
+      },
+      {
+        "key": "C",
+        "text": "reason"
+      },
+      {
+        "key": "D",
+        "text": "purpose"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "'Despite' introduces a clause of contrast or concession."
+  },
+  {
+    "id": "jamb-eng-comprehension-3",
+    "subject": "English",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Comprehension",
+    "difficulty": "hard",
+    "prompt": "Read: \"The minister's promises were nothing but hot air.\" What does 'hot air' mean here?",
+    "options": [
+      {
+        "key": "A",
+        "text": "scientific facts"
+      },
+      {
+        "key": "B",
+        "text": "genuine commitments"
+      },
+      {
+        "key": "C",
+        "text": "warm weather"
+      },
+      {
+        "key": "D",
+        "text": "empty or meaningless talk"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "'Hot air' idiomatically refers to empty, meaningless talk."
+  },
+  {
+    "id": "jamb-eng-comprehension-4",
+    "subject": "English",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Comprehension",
+    "difficulty": "medium",
+    "prompt": "Choose the option nearest in meaning to: \"Her explanation left much to be desired.\"",
+    "options": [
+      {
+        "key": "A",
+        "text": "was unsatisfactory or inadequate"
+      },
+      {
+        "key": "B",
+        "text": "was entertaining"
+      },
+      {
+        "key": "C",
+        "text": "was excellent"
+      },
+      {
+        "key": "D",
+        "text": "was very long"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "'Left much to be desired' means it fell short of expectations."
+  },
+  {
+    "id": "jamb-eng-comprehension-5",
+    "subject": "English",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Comprehension",
+    "difficulty": "easy",
+    "prompt": "\"He was caught red-handed.\" This means he was",
+    "options": [
+      {
+        "key": "A",
+        "text": "wearing red gloves"
+      },
+      {
+        "key": "B",
+        "text": "injured on the hand"
+      },
+      {
+        "key": "C",
+        "text": "praised publicly"
+      },
+      {
+        "key": "D",
+        "text": "caught in the act of doing something wrong"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "'Caught red-handed' means caught in the act of wrongdoing."
+  },
+  {
+    "id": "jamb-eng-grammar-usage-1",
+    "subject": "English",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Grammar & Usage",
+    "difficulty": "easy",
+    "prompt": "Choose the option that best completes the sentence: \"Either the manager or his assistants ___ responsible.\"",
+    "options": [
+      {
+        "key": "A",
+        "text": "was"
+      },
+      {
+        "key": "B",
+        "text": "has been"
+      },
+      {
+        "key": "C",
+        "text": "are"
+      },
+      {
+        "key": "D",
+        "text": "is"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "With 'either...or', the verb agrees with the nearer subject, 'assistants' (plural), so 'are' is correct."
+  },
+  {
+    "id": "jamb-eng-grammar-usage-2",
+    "subject": "English",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Grammar & Usage",
+    "difficulty": "medium",
+    "prompt": "Choose the option that best completes the sentence: \"By next year, she ___ here for a decade.\"",
+    "options": [
+      {
+        "key": "A",
+        "text": "had worked"
+      },
+      {
+        "key": "B",
+        "text": "is working"
+      },
+      {
+        "key": "C",
+        "text": "has worked"
+      },
+      {
+        "key": "D",
+        "text": "will have worked"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "An action continuing up to a specific future point takes the future perfect tense."
+  },
+  {
+    "id": "jamb-eng-grammar-usage-3",
+    "subject": "English",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Grammar & Usage",
+    "difficulty": "hard",
+    "prompt": "Which of the following sentences is correctly punctuated?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Wait he shouted for me"
+      },
+      {
+        "key": "B",
+        "text": "\"Wait,\" he shouted, \"for me!\""
+      },
+      {
+        "key": "C",
+        "text": "Wait, he shouted \"for me\"."
+      },
+      {
+        "key": "D",
+        "text": "\"Wait he shouted, for me.\""
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Direct speech interrupted by a reporting clause is separated by commas and enclosed in quotation marks."
+  },
+  {
+    "id": "jamb-eng-grammar-usage-4",
+    "subject": "English",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Grammar & Usage",
+    "difficulty": "medium",
+    "prompt": "Choose the option that best completes the sentence: \"If she ___ harder, she would have passed.\"",
+    "options": [
+      {
+        "key": "A",
+        "text": "had studied"
+      },
+      {
+        "key": "B",
+        "text": "studies"
+      },
+      {
+        "key": "C",
+        "text": "studied"
+      },
+      {
+        "key": "D",
+        "text": "has studied"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "The third conditional (unreal past) uses the past perfect in the if-clause."
+  },
+  {
+    "id": "jamb-eng-grammar-usage-5",
+    "subject": "English",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Grammar & Usage",
+    "difficulty": "easy",
+    "prompt": "Choose the option with correct subject-verb agreement: \"Neither of the answers ___ correct.\"",
+    "options": [
+      {
+        "key": "A",
+        "text": "were"
+      },
+      {
+        "key": "B",
+        "text": "have been"
+      },
+      {
+        "key": "C",
+        "text": "is"
+      },
+      {
+        "key": "D",
+        "text": "are"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "'Neither' is singular, so it takes the singular verb 'is'."
+  },
+  {
+    "id": "jamb-eng-lexis-structure-1",
+    "subject": "English",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Lexis & Structure",
+    "difficulty": "easy",
+    "prompt": "Choose the word nearest in meaning to the word in capitals: DILIGENT",
+    "options": [
+      {
+        "key": "A",
+        "text": "hardworking"
+      },
+      {
+        "key": "B",
+        "text": "lazy"
+      },
+      {
+        "key": "C",
+        "text": "careless"
+      },
+      {
+        "key": "D",
+        "text": "slow"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "'Diligent' means showing care and conscientiousness in one's work."
+  },
+  {
+    "id": "jamb-eng-lexis-structure-2",
+    "subject": "English",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Lexis & Structure",
+    "difficulty": "medium",
+    "prompt": "Choose the word opposite in meaning to the word in capitals: TRANQUIL",
+    "options": [
+      {
+        "key": "A",
+        "text": "calm"
+      },
+      {
+        "key": "B",
+        "text": "peaceful"
+      },
+      {
+        "key": "C",
+        "text": "turbulent"
+      },
+      {
+        "key": "D",
+        "text": "quiet"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "'Turbulent' (marked by disturbance) is the opposite of 'tranquil'."
+  },
+  {
+    "id": "jamb-eng-lexis-structure-3",
+    "subject": "English",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Lexis & Structure",
+    "difficulty": "hard",
+    "prompt": "Choose the option that best completes the idiom: \"She let the cat out of the ___ by mistake.\"",
+    "options": [
+      {
+        "key": "A",
+        "text": "room"
+      },
+      {
+        "key": "B",
+        "text": "box"
+      },
+      {
+        "key": "C",
+        "text": "bag"
+      },
+      {
+        "key": "D",
+        "text": "house"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "'Let the cat out of the bag' means to reveal a secret accidentally."
+  },
+  {
+    "id": "jamb-eng-lexis-structure-4",
+    "subject": "English",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Lexis & Structure",
+    "difficulty": "medium",
+    "prompt": "Choose the correctly spelt word.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Neccessary"
+      },
+      {
+        "key": "B",
+        "text": "Necesary"
+      },
+      {
+        "key": "C",
+        "text": "Necessary"
+      },
+      {
+        "key": "D",
+        "text": "Neccesary"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "'Necessary' has one 'c' and two 's's."
+  },
+  {
+    "id": "jamb-eng-lexis-structure-5",
+    "subject": "English",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Lexis & Structure",
+    "difficulty": "easy",
+    "prompt": "Choose the word nearest in meaning to the word in capitals: FRAGILE",
+    "options": [
+      {
+        "key": "A",
+        "text": "strong"
+      },
+      {
+        "key": "B",
+        "text": "durable"
+      },
+      {
+        "key": "C",
+        "text": "delicate"
+      },
+      {
+        "key": "D",
+        "text": "heavy"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "'Fragile' means easily broken or delicate."
+  },
+  {
+    "id": "jamb-eng-oral-english-1",
+    "subject": "English",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Oral English",
+    "difficulty": "easy",
+    "prompt": "Which of the following words has the same vowel sound as the one in \"BOOT\"?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Boat"
+      },
+      {
+        "key": "B",
+        "text": "Food"
+      },
+      {
+        "key": "C",
+        "text": "Bought"
+      },
+      {
+        "key": "D",
+        "text": "Foot"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "'Boot' and 'food' both contain the long vowel sound /uː/."
+  },
+  {
+    "id": "jamb-eng-oral-english-2",
+    "subject": "English",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Oral English",
+    "difficulty": "medium",
+    "prompt": "Which of the following words is stressed differently from the other three?",
+    "options": [
+      {
+        "key": "A",
+        "text": "ex'PORT (verb)"
+      },
+      {
+        "key": "B",
+        "text": "trans'PORT (verb)"
+      },
+      {
+        "key": "C",
+        "text": "im'PORT (verb)"
+      },
+      {
+        "key": "D",
+        "text": "'IMport (noun)"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "'IMport as a noun is stressed on the first syllable, while the others are verbs stressed on the second syllable."
+  },
+  {
+    "id": "jamb-eng-oral-english-3",
+    "subject": "English",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Oral English",
+    "difficulty": "hard",
+    "prompt": "Which of the following words contains a silent letter?",
+    "options": [
+      {
+        "key": "A",
+        "text": "See"
+      },
+      {
+        "key": "B",
+        "text": "Knee"
+      },
+      {
+        "key": "C",
+        "text": "Tree"
+      },
+      {
+        "key": "D",
+        "text": "Free"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "'Knee' has a silent 'k'; the other words do not contain silent letters."
+  },
+  {
+    "id": "jamb-eng-oral-english-4",
+    "subject": "English",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Oral English",
+    "difficulty": "medium",
+    "prompt": "Which of the following words rhymes with \"GREAT\"?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Sweet"
+      },
+      {
+        "key": "B",
+        "text": "Threat"
+      },
+      {
+        "key": "C",
+        "text": "Late"
+      },
+      {
+        "key": "D",
+        "text": "Meat"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "'Great' is pronounced /greɪt/, which rhymes with 'Late'."
+  },
+  {
+    "id": "jamb-eng-oral-english-5",
+    "subject": "English",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Oral English",
+    "difficulty": "easy",
+    "prompt": "Which of the following words has the same consonant sound as the underlined letters in \"PHONE\"?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Sing"
+      },
+      {
+        "key": "B",
+        "text": "Laugh"
+      },
+      {
+        "key": "C",
+        "text": "Pen"
+      },
+      {
+        "key": "D",
+        "text": "When"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "'Ph' in 'phone' is pronounced /f/, the same sound as 'gh' in 'Laugh'."
+  },
+  {
+    "id": "jamb-eng-vocabulary-1",
+    "subject": "English",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Vocabulary",
+    "difficulty": "easy",
+    "prompt": "Choose the word nearest in meaning to the word in capitals: GENEROUS",
+    "options": [
+      {
+        "key": "A",
+        "text": "cruel"
+      },
+      {
+        "key": "B",
+        "text": "stingy"
+      },
+      {
+        "key": "C",
+        "text": "charitable"
+      },
+      {
+        "key": "D",
+        "text": "selfish"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "'Generous' means willing to give freely, similar to 'charitable'."
+  },
+  {
+    "id": "jamb-eng-vocabulary-2",
+    "subject": "English",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Vocabulary",
+    "difficulty": "medium",
+    "prompt": "Choose the word opposite in meaning to the word in capitals: OPTIMISTIC",
+    "options": [
+      {
+        "key": "A",
+        "text": "cheerful"
+      },
+      {
+        "key": "B",
+        "text": "pessimistic"
+      },
+      {
+        "key": "C",
+        "text": "confident"
+      },
+      {
+        "key": "D",
+        "text": "hopeful"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "'Pessimistic' (expecting the worst) is the opposite of 'optimistic'."
+  },
+  {
+    "id": "jamb-eng-vocabulary-3",
+    "subject": "English",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Vocabulary",
+    "difficulty": "hard",
+    "prompt": "Choose the option nearest in meaning to the word in capitals: AMBIGUOUS",
+    "options": [
+      {
+        "key": "A",
+        "text": "unclear or open to multiple interpretations"
+      },
+      {
+        "key": "B",
+        "text": "highly organized"
+      },
+      {
+        "key": "C",
+        "text": "extremely loud"
+      },
+      {
+        "key": "D",
+        "text": "very clear"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "'Ambiguous' describes something open to more than one interpretation."
+  },
+  {
+    "id": "jamb-eng-vocabulary-4",
+    "subject": "English",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Vocabulary",
+    "difficulty": "medium",
+    "prompt": "Choose the word nearest in meaning to the word in capitals: FRUGAL",
+    "options": [
+      {
+        "key": "A",
+        "text": "thrifty"
+      },
+      {
+        "key": "B",
+        "text": "extravagant"
+      },
+      {
+        "key": "C",
+        "text": "generous"
+      },
+      {
+        "key": "D",
+        "text": "wasteful"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "'Frugal' means economical or sparing in the use of resources."
+  },
+  {
+    "id": "jamb-eng-vocabulary-5",
+    "subject": "English",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Vocabulary",
+    "difficulty": "easy",
+    "prompt": "Choose the word opposite in meaning to the word in capitals: ARRIVE",
+    "options": [
+      {
+        "key": "A",
+        "text": "land"
+      },
+      {
+        "key": "B",
+        "text": "enter"
+      },
+      {
+        "key": "C",
+        "text": "reach"
+      },
+      {
+        "key": "D",
+        "text": "depart"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "'Depart' (to leave) is the opposite of 'arrive'."
+  },
+  {
+    "id": "jamb-phy-electricity-1",
+    "subject": "Physics",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Electricity",
+    "difficulty": "easy",
+    "prompt": "Calculate the current flowing through a conductor if a charge of 15 C passes through it in 3 seconds.",
+    "options": [
+      {
+        "key": "A",
+        "text": "18 A"
+      },
+      {
+        "key": "B",
+        "text": "5 A"
+      },
+      {
+        "key": "C",
+        "text": "45 A"
+      },
+      {
+        "key": "D",
+        "text": "0.2 A"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "I = Q/t = 15/3 = 5 A."
+  },
+  {
+    "id": "jamb-phy-electricity-2",
+    "subject": "Physics",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Electricity",
+    "difficulty": "medium",
+    "prompt": "Two resistors of 5Ω and 7Ω are connected in series across a 24V battery. Find the total current.",
+    "options": [
+      {
+        "key": "A",
+        "text": "0.5 A"
+      },
+      {
+        "key": "B",
+        "text": "3.4 A"
+      },
+      {
+        "key": "C",
+        "text": "12 A"
+      },
+      {
+        "key": "D",
+        "text": "2 A"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Total resistance = 5 + 7 = 12Ω. I = V/R = 24/12 = 2 A."
+  },
+  {
+    "id": "jamb-phy-electricity-3",
+    "subject": "Physics",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Electricity",
+    "difficulty": "hard",
+    "prompt": "Two resistors of 4Ω and 12Ω are connected in parallel. Find the equivalent resistance.",
+    "options": [
+      {
+        "key": "A",
+        "text": "3Ω"
+      },
+      {
+        "key": "B",
+        "text": "48Ω"
+      },
+      {
+        "key": "C",
+        "text": "8Ω"
+      },
+      {
+        "key": "D",
+        "text": "16Ω"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "1/R = 1/4 + 1/12 = 4/12, so R = 3Ω."
+  },
+  {
+    "id": "jamb-phy-electricity-4",
+    "subject": "Physics",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Electricity",
+    "difficulty": "medium",
+    "prompt": "An electric iron rated 1200 W is used for 2.5 hours. Calculate the energy consumed in kWh.",
+    "options": [
+      {
+        "key": "A",
+        "text": "30 kWh"
+      },
+      {
+        "key": "B",
+        "text": "2.5 kWh"
+      },
+      {
+        "key": "C",
+        "text": "3 kWh"
+      },
+      {
+        "key": "D",
+        "text": "0.48 kWh"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Energy = 1.2 kW × 2.5 h = 3 kWh."
+  },
+  {
+    "id": "jamb-phy-electricity-5",
+    "subject": "Physics",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Electricity",
+    "difficulty": "easy",
+    "prompt": "What is the SI unit of electrical resistance?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ampere"
+      },
+      {
+        "key": "B",
+        "text": "Watt"
+      },
+      {
+        "key": "C",
+        "text": "Volt"
+      },
+      {
+        "key": "D",
+        "text": "Ohm"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Electrical resistance is measured in ohms."
+  },
+  {
+    "id": "jamb-phy-energy-1",
+    "subject": "Physics",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Energy",
+    "difficulty": "easy",
+    "prompt": "A body of mass 3 kg is raised to a height of 4 m. Calculate its potential energy. (g = 10 m/s^2)",
+    "options": [
+      {
+        "key": "A",
+        "text": "70 J"
+      },
+      {
+        "key": "B",
+        "text": "120 J"
+      },
+      {
+        "key": "C",
+        "text": "1200 J"
+      },
+      {
+        "key": "D",
+        "text": "12 J"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "PE = mgh = 3 × 10 × 4 = 120 J."
+  },
+  {
+    "id": "jamb-phy-energy-2",
+    "subject": "Physics",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Energy",
+    "difficulty": "medium",
+    "prompt": "Calculate the kinetic energy of a 6 kg object moving at 4 m/s.",
+    "options": [
+      {
+        "key": "A",
+        "text": "96 J"
+      },
+      {
+        "key": "B",
+        "text": "144 J"
+      },
+      {
+        "key": "C",
+        "text": "48 J"
+      },
+      {
+        "key": "D",
+        "text": "24 J"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "KE = 0.5 × 6 × 16 = 48 J."
+  },
+  {
+    "id": "jamb-phy-energy-3",
+    "subject": "Physics",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Energy",
+    "difficulty": "hard",
+    "prompt": "A machine does 9000 J of work in 45 seconds. Calculate its power output.",
+    "options": [
+      {
+        "key": "A",
+        "text": "200 W"
+      },
+      {
+        "key": "B",
+        "text": "9000 W"
+      },
+      {
+        "key": "C",
+        "text": "405,000 W"
+      },
+      {
+        "key": "D",
+        "text": "45 W"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Power = Work/time = 9000/45 = 200 W."
+  },
+  {
+    "id": "jamb-phy-energy-4",
+    "subject": "Physics",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Energy",
+    "difficulty": "medium",
+    "prompt": "Which law states that energy can be transformed from one form to another but not created or destroyed?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Law of conservation of energy"
+      },
+      {
+        "key": "B",
+        "text": "Ohm's law"
+      },
+      {
+        "key": "C",
+        "text": "Boyle's law"
+      },
+      {
+        "key": "D",
+        "text": "Newton's first law"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "The law of conservation of energy states total energy in an isolated system stays constant."
+  },
+  {
+    "id": "jamb-phy-energy-5",
+    "subject": "Physics",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Energy",
+    "difficulty": "easy",
+    "prompt": "Which of the following is a non-renewable source of energy?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Coal"
+      },
+      {
+        "key": "B",
+        "text": "Wind"
+      },
+      {
+        "key": "C",
+        "text": "Solar"
+      },
+      {
+        "key": "D",
+        "text": "Hydro"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Coal is a fossil fuel that cannot be replenished on a human timescale."
+  },
+  {
+    "id": "jamb-phy-heat-thermodynamics-1",
+    "subject": "Physics",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Heat & Thermodynamics",
+    "difficulty": "easy",
+    "prompt": "Convert 40°C to Kelvin.",
+    "options": [
+      {
+        "key": "A",
+        "text": "233 K"
+      },
+      {
+        "key": "B",
+        "text": "40 K"
+      },
+      {
+        "key": "C",
+        "text": "273 K"
+      },
+      {
+        "key": "D",
+        "text": "313 K"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "K = °C + 273 = 40 + 273 = 313 K."
+  },
+  {
+    "id": "jamb-phy-heat-thermodynamics-2",
+    "subject": "Physics",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Heat & Thermodynamics",
+    "difficulty": "medium",
+    "prompt": "Calculate the heat required to raise the temperature of 3 kg of water from 25°C to 45°C. (specific heat capacity of water = 4200 J/kgK)",
+    "options": [
+      {
+        "key": "A",
+        "text": "252,000 J"
+      },
+      {
+        "key": "B",
+        "text": "12,600 J"
+      },
+      {
+        "key": "C",
+        "text": "126,000 J"
+      },
+      {
+        "key": "D",
+        "text": "25,200 J"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Q = mcΔT = 3 × 4200 × 20 = 252,000 J."
+  },
+  {
+    "id": "jamb-phy-heat-thermodynamics-3",
+    "subject": "Physics",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Heat & Thermodynamics",
+    "difficulty": "hard",
+    "prompt": "A metal rod expands from 3.000 m to 3.006 m when its temperature rises by 60°C. Calculate its linear expansivity.",
+    "options": [
+      {
+        "key": "A",
+        "text": "1.67 × 10^-5 /°C"
+      },
+      {
+        "key": "B",
+        "text": "6 × 10^-5 /°C"
+      },
+      {
+        "key": "C",
+        "text": "3.33 × 10^-4 /°C"
+      },
+      {
+        "key": "D",
+        "text": "3.33 × 10^-5 /°C"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "α = ΔL/(LΔT) = 0.006/(3 × 60) ≈ 3.33 × 10^-5 /°C."
+  },
+  {
+    "id": "jamb-phy-heat-thermodynamics-4",
+    "subject": "Physics",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Heat & Thermodynamics",
+    "difficulty": "medium",
+    "prompt": "Which process transfers heat through a fluid by the actual movement of the fluid itself?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Convection"
+      },
+      {
+        "key": "B",
+        "text": "Radiation"
+      },
+      {
+        "key": "C",
+        "text": "Conduction"
+      },
+      {
+        "key": "D",
+        "text": "Insulation"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Convection transfers heat via the bulk movement of a fluid."
+  },
+  {
+    "id": "jamb-phy-heat-thermodynamics-5",
+    "subject": "Physics",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Heat & Thermodynamics",
+    "difficulty": "easy",
+    "prompt": "What is the freezing point of pure water at standard atmospheric pressure?",
+    "options": [
+      {
+        "key": "A",
+        "text": "0°C"
+      },
+      {
+        "key": "B",
+        "text": "100°C"
+      },
+      {
+        "key": "C",
+        "text": "-10°C"
+      },
+      {
+        "key": "D",
+        "text": "32°C"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Pure water freezes at 0°C at standard atmospheric pressure."
+  },
+  {
+    "id": "jamb-phy-magnetism-1",
+    "subject": "Physics",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Magnetism",
+    "difficulty": "easy",
+    "prompt": "Which of the following materials is magnetic?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Copper"
+      },
+      {
+        "key": "B",
+        "text": "Iron"
+      },
+      {
+        "key": "C",
+        "text": "Aluminium"
+      },
+      {
+        "key": "D",
+        "text": "Wood"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Iron is a ferromagnetic material, unlike copper, aluminium and wood."
+  },
+  {
+    "id": "jamb-phy-magnetism-2",
+    "subject": "Physics",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Magnetism",
+    "difficulty": "medium",
+    "prompt": "A freely suspended magnet always comes to rest pointing towards",
+    "options": [
+      {
+        "key": "A",
+        "text": "the sun"
+      },
+      {
+        "key": "B",
+        "text": "the magnetic north-south direction"
+      },
+      {
+        "key": "C",
+        "text": "the nearest large city"
+      },
+      {
+        "key": "D",
+        "text": "the equator"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "A freely suspended magnet aligns with the Earth's magnetic field, roughly north-south."
+  },
+  {
+    "id": "jamb-phy-magnetism-3",
+    "subject": "Physics",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Magnetism",
+    "difficulty": "hard",
+    "prompt": "The region around a magnet where its magnetic force can be detected is called the",
+    "options": [
+      {
+        "key": "A",
+        "text": "magnetic pole"
+      },
+      {
+        "key": "B",
+        "text": "magnetic flux"
+      },
+      {
+        "key": "C",
+        "text": "magnetic field"
+      },
+      {
+        "key": "D",
+        "text": "neutral point"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "The magnetic field is the region in which magnetic force is detectable."
+  },
+  {
+    "id": "jamb-phy-magnetism-4",
+    "subject": "Physics",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Magnetism",
+    "difficulty": "medium",
+    "prompt": "An electromagnet's strength can be reduced by",
+    "options": [
+      {
+        "key": "A",
+        "text": "decreasing the current flowing through the coil"
+      },
+      {
+        "key": "B",
+        "text": "increasing the current"
+      },
+      {
+        "key": "C",
+        "text": "increasing the number of coil turns"
+      },
+      {
+        "key": "D",
+        "text": "using a soft iron core"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Lower current weakens the magnetic field produced by an electromagnet."
+  },
+  {
+    "id": "jamb-phy-magnetism-5",
+    "subject": "Physics",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Magnetism",
+    "difficulty": "easy",
+    "prompt": "Which instrument uses the magnetic effect of current to measure electric current?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Barometer"
+      },
+      {
+        "key": "B",
+        "text": "Thermometer"
+      },
+      {
+        "key": "C",
+        "text": "Galvanometer/ammeter"
+      },
+      {
+        "key": "D",
+        "text": "Hygrometer"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Galvanometers and ammeters use the magnetic effect of current for measurement."
+  },
+  {
+    "id": "jamb-phy-measurement-units-1",
+    "subject": "Physics",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Measurement & Units",
+    "difficulty": "easy",
+    "prompt": "What is the SI unit of length?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Metre"
+      },
+      {
+        "key": "B",
+        "text": "Second"
+      },
+      {
+        "key": "C",
+        "text": "Kilogram"
+      },
+      {
+        "key": "D",
+        "text": "Litre"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Length is measured in metres in the SI system."
+  },
+  {
+    "id": "jamb-phy-measurement-units-2",
+    "subject": "Physics",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Measurement & Units",
+    "difficulty": "medium",
+    "prompt": "A measuring cylinder reads 30 cm^3 before an object is added and 50 cm^3 after. Find the volume of the object.",
+    "options": [
+      {
+        "key": "A",
+        "text": "30 cm^3"
+      },
+      {
+        "key": "B",
+        "text": "20 cm^3"
+      },
+      {
+        "key": "C",
+        "text": "80 cm^3"
+      },
+      {
+        "key": "D",
+        "text": "50 cm^3"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Volume of object = 50 - 30 = 20 cm^3, by displacement."
+  },
+  {
+    "id": "jamb-phy-measurement-units-3",
+    "subject": "Physics",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Measurement & Units",
+    "difficulty": "hard",
+    "prompt": "Convert 3.6 × 10^4 mm to metres.",
+    "options": [
+      {
+        "key": "A",
+        "text": "36 m"
+      },
+      {
+        "key": "B",
+        "text": "0.36 m"
+      },
+      {
+        "key": "C",
+        "text": "3.6 m"
+      },
+      {
+        "key": "D",
+        "text": "360 m"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "3.6 × 10^4 mm = 36,000 mm = 36 m."
+  },
+  {
+    "id": "jamb-phy-measurement-units-4",
+    "subject": "Physics",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Measurement & Units",
+    "difficulty": "medium",
+    "prompt": "Which instrument is most suitable for measuring a small time interval accurately in an experiment?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Stopwatch"
+      },
+      {
+        "key": "B",
+        "text": "Metre rule"
+      },
+      {
+        "key": "C",
+        "text": "Thermometer"
+      },
+      {
+        "key": "D",
+        "text": "Barometer"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "A stopwatch precisely measures short time intervals."
+  },
+  {
+    "id": "jamb-phy-measurement-units-5",
+    "subject": "Physics",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Measurement & Units",
+    "difficulty": "easy",
+    "prompt": "What is the SI unit of electric charge?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ohm"
+      },
+      {
+        "key": "B",
+        "text": "Volt"
+      },
+      {
+        "key": "C",
+        "text": "Ampere"
+      },
+      {
+        "key": "D",
+        "text": "Coulomb"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Electric charge is measured in coulombs."
+  },
+  {
+    "id": "jamb-phy-mechanics-1",
+    "subject": "Physics",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Mechanics",
+    "difficulty": "easy",
+    "prompt": "A car accelerates uniformly from 10 m/s to 30 m/s in 5 seconds. Find its acceleration.",
+    "options": [
+      {
+        "key": "A",
+        "text": "200 m/s^2"
+      },
+      {
+        "key": "B",
+        "text": "4 m/s^2"
+      },
+      {
+        "key": "C",
+        "text": "8 m/s^2"
+      },
+      {
+        "key": "D",
+        "text": "6 m/s^2"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "a = (30 - 10)/5 = 4 m/s^2."
+  },
+  {
+    "id": "jamb-phy-mechanics-2",
+    "subject": "Physics",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Mechanics",
+    "difficulty": "medium",
+    "prompt": "Calculate the force needed to accelerate a 15 kg mass at 4 m/s^2.",
+    "options": [
+      {
+        "key": "A",
+        "text": "60 N"
+      },
+      {
+        "key": "B",
+        "text": "11 N"
+      },
+      {
+        "key": "C",
+        "text": "19 N"
+      },
+      {
+        "key": "D",
+        "text": "3.75 N"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "F = ma = 15 × 4 = 60 N."
+  },
+  {
+    "id": "jamb-phy-mechanics-3",
+    "subject": "Physics",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Mechanics",
+    "difficulty": "hard",
+    "prompt": "A ball is thrown vertically upward with an initial velocity of 30 m/s. Calculate the maximum height reached. (g = 10 m/s^2)",
+    "options": [
+      {
+        "key": "A",
+        "text": "45 m"
+      },
+      {
+        "key": "B",
+        "text": "3 m"
+      },
+      {
+        "key": "C",
+        "text": "90 m"
+      },
+      {
+        "key": "D",
+        "text": "300 m"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "h = v^2/2g = 900/20 = 45 m."
+  },
+  {
+    "id": "jamb-phy-mechanics-4",
+    "subject": "Physics",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Mechanics",
+    "difficulty": "medium",
+    "prompt": "Which of the following best states Newton's first law of motion?",
+    "options": [
+      {
+        "key": "A",
+        "text": "A body remains at rest or in uniform motion unless acted upon by an external force"
+      },
+      {
+        "key": "B",
+        "text": "Every action has an equal and opposite reaction"
+      },
+      {
+        "key": "C",
+        "text": "Force equals mass times acceleration"
+      },
+      {
+        "key": "D",
+        "text": "Energy cannot be created or destroyed"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Newton's first law describes inertia: no change in motion without a net external force."
+  },
+  {
+    "id": "jamb-phy-mechanics-5",
+    "subject": "Physics",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Mechanics",
+    "difficulty": "easy",
+    "prompt": "A body moves with a constant velocity of 12 m/s for 6 seconds. Calculate the distance covered.",
+    "options": [
+      {
+        "key": "A",
+        "text": "72 m"
+      },
+      {
+        "key": "B",
+        "text": "6 m"
+      },
+      {
+        "key": "C",
+        "text": "2 m"
+      },
+      {
+        "key": "D",
+        "text": "18 m"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Distance = speed × time = 12 × 6 = 72 m."
+  },
+  {
+    "id": "jamb-phy-modern-physics-1",
+    "subject": "Physics",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Modern Physics",
+    "difficulty": "easy",
+    "prompt": "The nucleus of an atom contains",
+    "options": [
+      {
+        "key": "A",
+        "text": "protons and electrons"
+      },
+      {
+        "key": "B",
+        "text": "neutrons and electrons"
+      },
+      {
+        "key": "C",
+        "text": "protons and neutrons"
+      },
+      {
+        "key": "D",
+        "text": "electrons only"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "The atomic nucleus is made up of protons and neutrons."
+  },
+  {
+    "id": "jamb-phy-modern-physics-2",
+    "subject": "Physics",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Modern Physics",
+    "difficulty": "medium",
+    "prompt": "Which particle carries a positive charge?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Photon"
+      },
+      {
+        "key": "B",
+        "text": "Proton"
+      },
+      {
+        "key": "C",
+        "text": "Electron"
+      },
+      {
+        "key": "D",
+        "text": "Neutron"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "The proton carries a positive electric charge."
+  },
+  {
+    "id": "jamb-phy-modern-physics-3",
+    "subject": "Physics",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Modern Physics",
+    "difficulty": "hard",
+    "prompt": "A beta particle emitted during radioactive decay is essentially a",
+    "options": [
+      {
+        "key": "A",
+        "text": "helium nucleus"
+      },
+      {
+        "key": "B",
+        "text": "neutral particle"
+      },
+      {
+        "key": "C",
+        "text": "photon of light"
+      },
+      {
+        "key": "D",
+        "text": "high-speed electron"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Beta decay emits a fast-moving electron (or positron) from the nucleus."
+  },
+  {
+    "id": "jamb-phy-modern-physics-4",
+    "subject": "Physics",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Modern Physics",
+    "difficulty": "medium",
+    "prompt": "Gamma rays are produced mainly from",
+    "options": [
+      {
+        "key": "A",
+        "text": "radioactive decay of unstable nuclei"
+      },
+      {
+        "key": "B",
+        "text": "chemical reactions only"
+      },
+      {
+        "key": "C",
+        "text": "fast electrons striking a metal target"
+      },
+      {
+        "key": "D",
+        "text": "vibrating charged particles in a wire"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Gamma rays are high-energy photons emitted during nuclear decay."
+  },
+  {
+    "id": "jamb-phy-modern-physics-5",
+    "subject": "Physics",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Modern Physics",
+    "difficulty": "easy",
+    "prompt": "The number of protons in the nucleus of an atom is called its",
+    "options": [
+      {
+        "key": "A",
+        "text": "atomic number"
+      },
+      {
+        "key": "B",
+        "text": "isotope number"
+      },
+      {
+        "key": "C",
+        "text": "mass number"
+      },
+      {
+        "key": "D",
+        "text": "neutron number"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "The atomic number equals the number of protons in the nucleus."
+  },
+  {
+    "id": "jamb-phy-waves-1",
+    "subject": "Physics",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Waves",
+    "difficulty": "easy",
+    "prompt": "A wave has a frequency of 25 Hz and wavelength of 8 m. Calculate its speed.",
+    "options": [
+      {
+        "key": "A",
+        "text": "3.125 m/s"
+      },
+      {
+        "key": "B",
+        "text": "33 m/s"
+      },
+      {
+        "key": "C",
+        "text": "0.32 m/s"
+      },
+      {
+        "key": "D",
+        "text": "200 m/s"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "v = fλ = 25 × 8 = 200 m/s."
+  },
+  {
+    "id": "jamb-phy-waves-2",
+    "subject": "Physics",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Waves",
+    "difficulty": "medium",
+    "prompt": "Light waves are examples of",
+    "options": [
+      {
+        "key": "A",
+        "text": "mechanical waves only"
+      },
+      {
+        "key": "B",
+        "text": "sound waves"
+      },
+      {
+        "key": "C",
+        "text": "longitudinal waves"
+      },
+      {
+        "key": "D",
+        "text": "transverse waves"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Light is an electromagnetic wave with oscillations perpendicular to travel direction, making it transverse."
+  },
+  {
+    "id": "jamb-phy-waves-3",
+    "subject": "Physics",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Waves",
+    "difficulty": "hard",
+    "prompt": "A wave travels at 320 m/s and has a period of 0.04 s. Calculate its wavelength.",
+    "options": [
+      {
+        "key": "A",
+        "text": "12.8 m"
+      },
+      {
+        "key": "B",
+        "text": "0.000125 m"
+      },
+      {
+        "key": "C",
+        "text": "320.04 m"
+      },
+      {
+        "key": "D",
+        "text": "8000 m"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "λ = vT = 320 × 0.04 = 12.8 m."
+  },
+  {
+    "id": "jamb-phy-waves-4",
+    "subject": "Physics",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Waves",
+    "difficulty": "medium",
+    "prompt": "Which of the following properties is unique to transverse waves and not observed in longitudinal waves?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Diffraction"
+      },
+      {
+        "key": "B",
+        "text": "Polarization"
+      },
+      {
+        "key": "C",
+        "text": "Refraction"
+      },
+      {
+        "key": "D",
+        "text": "Reflection"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Polarization restricts oscillation to one plane, possible only in transverse waves."
+  },
+  {
+    "id": "jamb-phy-waves-5",
+    "subject": "Physics",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Waves",
+    "difficulty": "easy",
+    "prompt": "Sound cannot travel through",
+    "options": [
+      {
+        "key": "A",
+        "text": "solids"
+      },
+      {
+        "key": "B",
+        "text": "a vacuum"
+      },
+      {
+        "key": "C",
+        "text": "air"
+      },
+      {
+        "key": "D",
+        "text": "water"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Sound needs a material medium to propagate, so it cannot travel through a vacuum."
+  },
+  {
+    "id": "jamb-chem-acids-bases-1",
+    "subject": "Chemistry",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Acids and Bases",
+    "difficulty": "easy",
+    "prompt": "What is the pH of a strongly basic (alkaline) solution likely to be?",
+    "options": [
+      {
+        "key": "A",
+        "text": "0"
+      },
+      {
+        "key": "B",
+        "text": "2"
+      },
+      {
+        "key": "C",
+        "text": "7"
+      },
+      {
+        "key": "D",
+        "text": "12"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Strongly basic solutions have pH values well above 7."
+  },
+  {
+    "id": "jamb-chem-acids-bases-2",
+    "subject": "Chemistry",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Acids and Bases",
+    "difficulty": "medium",
+    "prompt": "Which of the following is a weak acid?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Nitric acid"
+      },
+      {
+        "key": "B",
+        "text": "Ethanoic (acetic) acid"
+      },
+      {
+        "key": "C",
+        "text": "Hydrochloric acid"
+      },
+      {
+        "key": "D",
+        "text": "Sulphuric acid"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Ethanoic acid only partially ionizes in water, making it a weak acid."
+  },
+  {
+    "id": "jamb-chem-acids-bases-3",
+    "subject": "Chemistry",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Acids and Bases",
+    "difficulty": "hard",
+    "prompt": "The reaction between an acid and a reactive metal typically produces a salt and",
+    "options": [
+      {
+        "key": "A",
+        "text": "oxygen gas"
+      },
+      {
+        "key": "B",
+        "text": "hydrogen gas"
+      },
+      {
+        "key": "C",
+        "text": "carbon dioxide gas"
+      },
+      {
+        "key": "D",
+        "text": "water only"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Acid-metal reactions release hydrogen gas alongside the salt formed."
+  },
+  {
+    "id": "jamb-chem-acids-bases-4",
+    "subject": "Chemistry",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Acids and Bases",
+    "difficulty": "medium",
+    "prompt": "Litmus paper turns ___ in a basic (alkaline) solution.",
+    "options": [
+      {
+        "key": "A",
+        "text": "green"
+      },
+      {
+        "key": "B",
+        "text": "colourless"
+      },
+      {
+        "key": "C",
+        "text": "red"
+      },
+      {
+        "key": "D",
+        "text": "blue"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Bases turn red litmus paper blue."
+  },
+  {
+    "id": "jamb-chem-acids-bases-5",
+    "subject": "Chemistry",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Acids and Bases",
+    "difficulty": "easy",
+    "prompt": "Which of these is an example of a common acid found in food?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Calcium hydroxide"
+      },
+      {
+        "key": "B",
+        "text": "Ammonia solution"
+      },
+      {
+        "key": "C",
+        "text": "Sodium hydroxide"
+      },
+      {
+        "key": "D",
+        "text": "Citric acid"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Citric acid occurs naturally in citrus fruits."
+  },
+  {
+    "id": "jamb-chem-atomic-structure-1",
+    "subject": "Chemistry",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Atomic Structure",
+    "difficulty": "easy",
+    "prompt": "The mass number of an atom equals the number of",
+    "options": [
+      {
+        "key": "A",
+        "text": "electrons only"
+      },
+      {
+        "key": "B",
+        "text": "neutrons only"
+      },
+      {
+        "key": "C",
+        "text": "protons plus neutrons"
+      },
+      {
+        "key": "D",
+        "text": "protons only"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Mass number is the sum of protons and neutrons in the nucleus."
+  },
+  {
+    "id": "jamb-chem-atomic-structure-2",
+    "subject": "Chemistry",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Atomic Structure",
+    "difficulty": "medium",
+    "prompt": "An atom has 11 protons and 12 neutrons. Find its mass number.",
+    "options": [
+      {
+        "key": "A",
+        "text": "12"
+      },
+      {
+        "key": "B",
+        "text": "11"
+      },
+      {
+        "key": "C",
+        "text": "23"
+      },
+      {
+        "key": "D",
+        "text": "1"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Mass number = protons + neutrons = 11 + 12 = 23."
+  },
+  {
+    "id": "jamb-chem-atomic-structure-3",
+    "subject": "Chemistry",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Atomic Structure",
+    "difficulty": "hard",
+    "prompt": "Isotopes of the same element have identical chemical properties mainly because they have the same number of",
+    "options": [
+      {
+        "key": "A",
+        "text": "protons and electrons"
+      },
+      {
+        "key": "B",
+        "text": "mass number"
+      },
+      {
+        "key": "C",
+        "text": "neutrons"
+      },
+      {
+        "key": "D",
+        "text": "total nucleons"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Chemical properties depend on electron configuration, determined by proton number."
+  },
+  {
+    "id": "jamb-chem-atomic-structure-4",
+    "subject": "Chemistry",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Atomic Structure",
+    "difficulty": "medium",
+    "prompt": "The maximum number of electrons that can occupy the third shell (n=3) is",
+    "options": [
+      {
+        "key": "A",
+        "text": "8"
+      },
+      {
+        "key": "B",
+        "text": "32"
+      },
+      {
+        "key": "C",
+        "text": "2"
+      },
+      {
+        "key": "D",
+        "text": "18"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "The third electron shell can hold up to 18 electrons (2n^2 = 18)."
+  },
+  {
+    "id": "jamb-chem-atomic-structure-5",
+    "subject": "Chemistry",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Atomic Structure",
+    "difficulty": "easy",
+    "prompt": "Which particle has approximately the same mass as a proton but no electric charge?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Positron"
+      },
+      {
+        "key": "B",
+        "text": "Electron"
+      },
+      {
+        "key": "C",
+        "text": "Neutron"
+      },
+      {
+        "key": "D",
+        "text": "Photon"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "The neutron has a mass similar to the proton but carries no charge."
+  },
+  {
+    "id": "jamb-chem-bonding-1",
+    "subject": "Chemistry",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Chemical Bonding",
+    "difficulty": "easy",
+    "prompt": "A bond formed by the sharing of electron pairs between two atoms is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "metallic bond"
+      },
+      {
+        "key": "B",
+        "text": "ionic bond"
+      },
+      {
+        "key": "C",
+        "text": "hydrogen bond"
+      },
+      {
+        "key": "D",
+        "text": "covalent bond"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Covalent bonds form through the sharing of electron pairs."
+  },
+  {
+    "id": "jamb-chem-bonding-2",
+    "subject": "Chemistry",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Chemical Bonding",
+    "difficulty": "medium",
+    "prompt": "Which compound is held together mainly by ionic bonds?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Carbon dioxide"
+      },
+      {
+        "key": "B",
+        "text": "Methane"
+      },
+      {
+        "key": "C",
+        "text": "Water"
+      },
+      {
+        "key": "D",
+        "text": "Potassium chloride"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Potassium chloride forms through electron transfer, creating ionic bonds."
+  },
+  {
+    "id": "jamb-chem-bonding-3",
+    "subject": "Chemistry",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Chemical Bonding",
+    "difficulty": "hard",
+    "prompt": "A bond in which both electrons of the shared pair originate from the same atom is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "coordinate (dative covalent) bond"
+      },
+      {
+        "key": "B",
+        "text": "van der Waals bond"
+      },
+      {
+        "key": "C",
+        "text": "metallic bond"
+      },
+      {
+        "key": "D",
+        "text": "ionic bond"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "A coordinate bond is a covalent bond where one atom supplies both shared electrons."
+  },
+  {
+    "id": "jamb-chem-bonding-4",
+    "subject": "Chemistry",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Chemical Bonding",
+    "difficulty": "medium",
+    "prompt": "The weak forces of attraction between molecules of a covalent compound are known as",
+    "options": [
+      {
+        "key": "A",
+        "text": "metallic bonds"
+      },
+      {
+        "key": "B",
+        "text": "van der Waals forces"
+      },
+      {
+        "key": "C",
+        "text": "ionic bonds"
+      },
+      {
+        "key": "D",
+        "text": "covalent bonds"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Van der Waals forces are weak intermolecular attractions between covalent molecules."
+  },
+  {
+    "id": "jamb-chem-bonding-5",
+    "subject": "Chemistry",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Chemical Bonding",
+    "difficulty": "easy",
+    "prompt": "Diamond and graphite, both forms of carbon, are held together by",
+    "options": [
+      {
+        "key": "A",
+        "text": "metallic bonds"
+      },
+      {
+        "key": "B",
+        "text": "hydrogen bonds"
+      },
+      {
+        "key": "C",
+        "text": "ionic bonds"
+      },
+      {
+        "key": "D",
+        "text": "covalent bonds"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Both diamond and graphite are giant covalent structures of carbon atoms."
+  },
+  {
+    "id": "jamb-chem-kinetics-1",
+    "subject": "Chemistry",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Chemical Kinetics",
+    "difficulty": "easy",
+    "prompt": "Increasing the temperature of a reaction mixture generally ___ the rate of reaction.",
+    "options": [
+      {
+        "key": "A",
+        "text": "has no effect on"
+      },
+      {
+        "key": "B",
+        "text": "decreases"
+      },
+      {
+        "key": "C",
+        "text": "increases"
+      },
+      {
+        "key": "D",
+        "text": "stops"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Higher temperature increases particle energy and collision frequency, raising reaction rate."
+  },
+  {
+    "id": "jamb-chem-kinetics-2",
+    "subject": "Chemistry",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Chemical Kinetics",
+    "difficulty": "medium",
+    "prompt": "A catalyst increases reaction rate without being",
+    "options": [
+      {
+        "key": "A",
+        "text": "involved in the reaction mechanism"
+      },
+      {
+        "key": "B",
+        "text": "present during the reaction"
+      },
+      {
+        "key": "C",
+        "text": "permanently consumed in the reaction"
+      },
+      {
+        "key": "D",
+        "text": "effective at low temperatures"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Catalysts participate in the reaction mechanism but are chemically unchanged at the end."
+  },
+  {
+    "id": "jamb-chem-kinetics-3",
+    "subject": "Chemistry",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Chemical Kinetics",
+    "difficulty": "hard",
+    "prompt": "For a reaction that is second order overall with respect to a single reactant, doubling the concentration of that reactant increases the rate by a factor of",
+    "options": [
+      {
+        "key": "A",
+        "text": "2"
+      },
+      {
+        "key": "B",
+        "text": "4"
+      },
+      {
+        "key": "C",
+        "text": "1"
+      },
+      {
+        "key": "D",
+        "text": "8"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "For a second-order reaction, rate ∝ [conc]^2, so doubling concentration quadruples the rate."
+  },
+  {
+    "id": "jamb-chem-kinetics-4",
+    "subject": "Chemistry",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Chemical Kinetics",
+    "difficulty": "medium",
+    "prompt": "Which of the following would decrease the rate of a chemical reaction?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Increasing concentration of reactants"
+      },
+      {
+        "key": "B",
+        "text": "Lowering the temperature of the reactants"
+      },
+      {
+        "key": "C",
+        "text": "Adding a catalyst"
+      },
+      {
+        "key": "D",
+        "text": "Increasing the temperature"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Lower temperature reduces particle energy and collision frequency, slowing the reaction."
+  },
+  {
+    "id": "jamb-chem-kinetics-5",
+    "subject": "Chemistry",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Chemical Kinetics",
+    "difficulty": "easy",
+    "prompt": "Powdered zinc reacts faster with acid than a solid zinc block mainly because powdered zinc has a greater",
+    "options": [
+      {
+        "key": "A",
+        "text": "surface area"
+      },
+      {
+        "key": "B",
+        "text": "mass"
+      },
+      {
+        "key": "C",
+        "text": "melting point"
+      },
+      {
+        "key": "D",
+        "text": "density"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Greater surface area allows more particle collisions, increasing reaction rate."
+  },
+  {
+    "id": "jamb-chem-electrochemistry-1",
+    "subject": "Chemistry",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Electrochemistry",
+    "difficulty": "easy",
+    "prompt": "In electrolysis, negative ions move towards the",
+    "options": [
+      {
+        "key": "A",
+        "text": "anode"
+      },
+      {
+        "key": "B",
+        "text": "salt bridge"
+      },
+      {
+        "key": "C",
+        "text": "external wire"
+      },
+      {
+        "key": "D",
+        "text": "cathode"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Anions (negative ions) are attracted to the positively charged anode."
+  },
+  {
+    "id": "jamb-chem-electrochemistry-2",
+    "subject": "Chemistry",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Electrochemistry",
+    "difficulty": "medium",
+    "prompt": "In an electrochemical cell, reduction occurs at the",
+    "options": [
+      {
+        "key": "A",
+        "text": "anode"
+      },
+      {
+        "key": "B",
+        "text": "external circuit"
+      },
+      {
+        "key": "C",
+        "text": "salt bridge"
+      },
+      {
+        "key": "D",
+        "text": "cathode"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Reduction (gain of electrons) occurs at the cathode."
+  },
+  {
+    "id": "jamb-chem-electrochemistry-3",
+    "subject": "Chemistry",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Electrochemistry",
+    "difficulty": "hard",
+    "prompt": "During the electrolysis of dilute sulphuric acid using inert electrodes, the gas produced at the cathode is",
+    "options": [
+      {
+        "key": "A",
+        "text": "hydrogen"
+      },
+      {
+        "key": "B",
+        "text": "oxygen"
+      },
+      {
+        "key": "C",
+        "text": "sulphur dioxide"
+      },
+      {
+        "key": "D",
+        "text": "chlorine"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "H+ ions gain electrons at the cathode to form hydrogen gas."
+  },
+  {
+    "id": "jamb-chem-electrochemistry-4",
+    "subject": "Chemistry",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Electrochemistry",
+    "difficulty": "medium",
+    "prompt": "The process of coating a metal with another metal using electricity is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "electrolysis of brine"
+      },
+      {
+        "key": "B",
+        "text": "distillation"
+      },
+      {
+        "key": "C",
+        "text": "electroplating"
+      },
+      {
+        "key": "D",
+        "text": "sublimation"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Electroplating deposits a thin metal layer onto an object using electrolysis."
+  },
+  {
+    "id": "jamb-chem-electrochemistry-5",
+    "subject": "Chemistry",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Electrochemistry",
+    "difficulty": "easy",
+    "prompt": "A simple electrochemical cell that generates electricity from a chemical reaction, such as the Daniell cell, is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "voltaic (galvanic) cell"
+      },
+      {
+        "key": "B",
+        "text": "electrolytic cell"
+      },
+      {
+        "key": "C",
+        "text": "solar cell"
+      },
+      {
+        "key": "D",
+        "text": "fuel cell"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Voltaic (galvanic) cells generate electricity from spontaneous chemical reactions."
+  },
+  {
+    "id": "jamb-chem-organic-chemistry-1",
+    "subject": "Chemistry",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Organic Chemistry",
+    "difficulty": "easy",
+    "prompt": "The general formula for alkenes is",
+    "options": [
+      {
+        "key": "A",
+        "text": "CnH2n+2"
+      },
+      {
+        "key": "B",
+        "text": "CnH2n-2"
+      },
+      {
+        "key": "C",
+        "text": "CnHn"
+      },
+      {
+        "key": "D",
+        "text": "CnH2n"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Alkenes are unsaturated hydrocarbons with the general formula CnH2n."
+  },
+  {
+    "id": "jamb-chem-organic-chemistry-2",
+    "subject": "Chemistry",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Organic Chemistry",
+    "difficulty": "medium",
+    "prompt": "Which functional group is present in carboxylic acids?",
+    "options": [
+      {
+        "key": "A",
+        "text": "-NH2"
+      },
+      {
+        "key": "B",
+        "text": "-OH"
+      },
+      {
+        "key": "C",
+        "text": "-COOH"
+      },
+      {
+        "key": "D",
+        "text": "-CHO"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "The carboxyl group (-COOH) is characteristic of carboxylic acids."
+  },
+  {
+    "id": "jamb-chem-organic-chemistry-3",
+    "subject": "Chemistry",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Organic Chemistry",
+    "difficulty": "hard",
+    "prompt": "The reaction in which large hydrocarbon molecules are broken down into smaller ones by heat, used in oil refining, is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "saponification"
+      },
+      {
+        "key": "B",
+        "text": "cracking"
+      },
+      {
+        "key": "C",
+        "text": "fermentation"
+      },
+      {
+        "key": "D",
+        "text": "polymerization"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Cracking breaks large hydrocarbons into smaller, more useful molecules."
+  },
+  {
+    "id": "jamb-chem-organic-chemistry-4",
+    "subject": "Chemistry",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Organic Chemistry",
+    "difficulty": "medium",
+    "prompt": "Ethanol (C2H5OH) belongs to the homologous series of",
+    "options": [
+      {
+        "key": "A",
+        "text": "alcohols"
+      },
+      {
+        "key": "B",
+        "text": "alkanes"
+      },
+      {
+        "key": "C",
+        "text": "carboxylic acids"
+      },
+      {
+        "key": "D",
+        "text": "alkenes"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Ethanol contains a hydroxyl group, characteristic of alcohols."
+  },
+  {
+    "id": "jamb-chem-organic-chemistry-5",
+    "subject": "Chemistry",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Organic Chemistry",
+    "difficulty": "easy",
+    "prompt": "The process by which sugar is converted into ethanol and carbon dioxide using yeast is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "cracking"
+      },
+      {
+        "key": "B",
+        "text": "fermentation"
+      },
+      {
+        "key": "C",
+        "text": "polymerization"
+      },
+      {
+        "key": "D",
+        "text": "esterification"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Fermentation uses yeast enzymes to convert sugars into ethanol and carbon dioxide."
+  },
+  {
+    "id": "jamb-chem-stoichiometry-1",
+    "subject": "Chemistry",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Stoichiometry",
+    "difficulty": "easy",
+    "prompt": "Calculate the number of moles in 8 g of oxygen gas, O2. (molar mass = 32 g/mol)",
+    "options": [
+      {
+        "key": "A",
+        "text": "0.25 moles"
+      },
+      {
+        "key": "B",
+        "text": "0.5 moles"
+      },
+      {
+        "key": "C",
+        "text": "8 moles"
+      },
+      {
+        "key": "D",
+        "text": "4 moles"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Moles = mass/molar mass = 8/32 = 0.25 moles."
+  },
+  {
+    "id": "jamb-chem-stoichiometry-2",
+    "subject": "Chemistry",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Stoichiometry",
+    "difficulty": "medium",
+    "prompt": "Calculate the mass of 3 moles of carbon dioxide, CO2. (molar mass = 44 g/mol)",
+    "options": [
+      {
+        "key": "A",
+        "text": "132 g"
+      },
+      {
+        "key": "B",
+        "text": "15 g"
+      },
+      {
+        "key": "C",
+        "text": "14.7 g"
+      },
+      {
+        "key": "D",
+        "text": "44 g"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Mass = moles × molar mass = 3 × 44 = 132 g."
+  },
+  {
+    "id": "jamb-chem-stoichiometry-3",
+    "subject": "Chemistry",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Stoichiometry",
+    "difficulty": "hard",
+    "prompt": "11.2 litres of a gas at STP contains how many moles? (1 mole occupies 22.4 litres at STP)",
+    "options": [
+      {
+        "key": "A",
+        "text": "1.12 moles"
+      },
+      {
+        "key": "B",
+        "text": "0.5 moles"
+      },
+      {
+        "key": "C",
+        "text": "2 moles"
+      },
+      {
+        "key": "D",
+        "text": "5 moles"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Moles = volume/molar volume = 11.2/22.4 = 0.5 moles."
+  },
+  {
+    "id": "jamb-chem-stoichiometry-4",
+    "subject": "Chemistry",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Stoichiometry",
+    "difficulty": "medium",
+    "prompt": "What is the empirical formula of a compound containing 85.7% carbon and 14.3% hydrogen by mass? (C = 12, H = 1)",
+    "options": [
+      {
+        "key": "A",
+        "text": "C2H6"
+      },
+      {
+        "key": "B",
+        "text": "CH4"
+      },
+      {
+        "key": "C",
+        "text": "CH2"
+      },
+      {
+        "key": "D",
+        "text": "C2H4"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Moles: C = 85.7/12 = 7.14, H = 14.3/1 = 14.3. Dividing by the smallest gives a ratio of 1:2, so the empirical formula is CH2."
+  },
+  {
+    "id": "jamb-chem-stoichiometry-5",
+    "subject": "Chemistry",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Stoichiometry",
+    "difficulty": "easy",
+    "prompt": "How many grams are there in 2 moles of calcium carbonate, CaCO3? (molar mass = 100 g/mol)",
+    "options": [
+      {
+        "key": "A",
+        "text": "100 g"
+      },
+      {
+        "key": "B",
+        "text": "50 g"
+      },
+      {
+        "key": "C",
+        "text": "20 g"
+      },
+      {
+        "key": "D",
+        "text": "200 g"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Mass = moles × molar mass = 2 × 100 = 200 g."
+  },
+  {
+    "id": "jamb-chem-periodic-table-1",
+    "subject": "Chemistry",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "The Periodic Table",
+    "difficulty": "easy",
+    "prompt": "Elements are arranged in the modern periodic table in order of increasing",
+    "options": [
+      {
+        "key": "A",
+        "text": "melting point"
+      },
+      {
+        "key": "B",
+        "text": "atomic mass"
+      },
+      {
+        "key": "C",
+        "text": "number of neutrons"
+      },
+      {
+        "key": "D",
+        "text": "atomic number"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "The modern periodic table orders elements by increasing atomic number."
+  },
+  {
+    "id": "jamb-chem-periodic-table-2",
+    "subject": "Chemistry",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "The Periodic Table",
+    "difficulty": "medium",
+    "prompt": "Moving down a group in the periodic table, atomic radius generally",
+    "options": [
+      {
+        "key": "A",
+        "text": "fluctuates randomly"
+      },
+      {
+        "key": "B",
+        "text": "decreases"
+      },
+      {
+        "key": "C",
+        "text": "remains constant"
+      },
+      {
+        "key": "D",
+        "text": "increases"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Additional electron shells down a group increase atomic radius."
+  },
+  {
+    "id": "jamb-chem-periodic-table-3",
+    "subject": "Chemistry",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "The Periodic Table",
+    "difficulty": "hard",
+    "prompt": "Elements in Group VII (Group 17) of the periodic table are known as",
+    "options": [
+      {
+        "key": "A",
+        "text": "noble gases"
+      },
+      {
+        "key": "B",
+        "text": "halogens"
+      },
+      {
+        "key": "C",
+        "text": "alkaline earth metals"
+      },
+      {
+        "key": "D",
+        "text": "alkali metals"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Group VII elements are called halogens."
+  },
+  {
+    "id": "jamb-chem-periodic-table-4",
+    "subject": "Chemistry",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "The Periodic Table",
+    "difficulty": "medium",
+    "prompt": "Non-metallic character generally ___ across a period from left to right.",
+    "options": [
+      {
+        "key": "A",
+        "text": "decreases"
+      },
+      {
+        "key": "B",
+        "text": "disappears completely"
+      },
+      {
+        "key": "C",
+        "text": "increases"
+      },
+      {
+        "key": "D",
+        "text": "remains the same"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Increasing nuclear charge across a period favours electron gain, raising non-metallic character."
+  },
+  {
+    "id": "jamb-chem-periodic-table-5",
+    "subject": "Chemistry",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "The Periodic Table",
+    "difficulty": "easy",
+    "prompt": "Which of the following is a Group VII (halogen) element?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Calcium"
+      },
+      {
+        "key": "B",
+        "text": "Helium"
+      },
+      {
+        "key": "C",
+        "text": "Chlorine"
+      },
+      {
+        "key": "D",
+        "text": "Sodium"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Chlorine is a Group VII halogen."
+  },
+  {
+    "id": "jamb-bio-cell-1",
+    "subject": "Biology",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Cell Biology",
+    "difficulty": "easy",
+    "prompt": "Which organelle controls the activities of the cell and contains its genetic material?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mitochondrion"
+      },
+      {
+        "key": "B",
+        "text": "Nucleus"
+      },
+      {
+        "key": "C",
+        "text": "Ribosome"
+      },
+      {
+        "key": "D",
+        "text": "Vacuole"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "The nucleus houses DNA and directs cellular activities."
+  },
+  {
+    "id": "jamb-bio-cell-2",
+    "subject": "Biology",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Cell Biology",
+    "difficulty": "medium",
+    "prompt": "Which organelle is responsible for photosynthesis in plant cells?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Chloroplast"
+      },
+      {
+        "key": "B",
+        "text": "Mitochondrion"
+      },
+      {
+        "key": "C",
+        "text": "Nucleus"
+      },
+      {
+        "key": "D",
+        "text": "Golgi apparatus"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Chloroplasts contain chlorophyll and carry out photosynthesis."
+  },
+  {
+    "id": "jamb-bio-cell-3",
+    "subject": "Biology",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Cell Biology",
+    "difficulty": "hard",
+    "prompt": "Which structure regulates the movement of substances into and out of the cell?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Cell membrane"
+      },
+      {
+        "key": "B",
+        "text": "Cytoplasm"
+      },
+      {
+        "key": "C",
+        "text": "Cell wall"
+      },
+      {
+        "key": "D",
+        "text": "Nucleus"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "The cell membrane is selectively permeable, controlling substance movement."
+  },
+  {
+    "id": "jamb-bio-cell-4",
+    "subject": "Biology",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Cell Biology",
+    "difficulty": "medium",
+    "prompt": "A large, fluid-filled sac found in plant cells, used for storage, is the",
+    "options": [
+      {
+        "key": "A",
+        "text": "centriole"
+      },
+      {
+        "key": "B",
+        "text": "vacuole"
+      },
+      {
+        "key": "C",
+        "text": "ribosome"
+      },
+      {
+        "key": "D",
+        "text": "lysosome"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "The vacuole stores water, nutrients and waste products in plant cells."
+  },
+  {
+    "id": "jamb-bio-cell-5",
+    "subject": "Biology",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Cell Biology",
+    "difficulty": "easy",
+    "prompt": "A group of similar cells that work together to perform a specific function is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "organ system"
+      },
+      {
+        "key": "B",
+        "text": "tissue"
+      },
+      {
+        "key": "C",
+        "text": "organ"
+      },
+      {
+        "key": "D",
+        "text": "organism"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "A tissue is made up of similar cells performing a shared function."
+  },
+  {
+    "id": "jamb-bio-ecology-1",
+    "subject": "Biology",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Ecology",
+    "difficulty": "easy",
+    "prompt": "All the living and non-living components in a given area, interacting together, form a/an",
+    "options": [
+      {
+        "key": "A",
+        "text": "ecosystem"
+      },
+      {
+        "key": "B",
+        "text": "habitat"
+      },
+      {
+        "key": "C",
+        "text": "population"
+      },
+      {
+        "key": "D",
+        "text": "community"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "An ecosystem includes both living organisms and their non-living environment."
+  },
+  {
+    "id": "jamb-bio-ecology-2",
+    "subject": "Biology",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Ecology",
+    "difficulty": "medium",
+    "prompt": "Animals that feed only on other animals are called",
+    "options": [
+      {
+        "key": "A",
+        "text": "decomposers"
+      },
+      {
+        "key": "B",
+        "text": "omnivores"
+      },
+      {
+        "key": "C",
+        "text": "carnivores"
+      },
+      {
+        "key": "D",
+        "text": "herbivores"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Carnivores are animals whose diet consists exclusively of other animals."
+  },
+  {
+    "id": "jamb-bio-ecology-3",
+    "subject": "Biology",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Ecology",
+    "difficulty": "hard",
+    "prompt": "The transfer of energy through a series of interconnected food chains in an ecosystem is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "food web"
+      },
+      {
+        "key": "B",
+        "text": "nitrogen cycle"
+      },
+      {
+        "key": "C",
+        "text": "carbon cycle"
+      },
+      {
+        "key": "D",
+        "text": "food chain"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "A food web links multiple interconnected food chains in an ecosystem."
+  },
+  {
+    "id": "jamb-bio-ecology-4",
+    "subject": "Biology",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Ecology",
+    "difficulty": "medium",
+    "prompt": "Organisms that feed on both plants and animals are called",
+    "options": [
+      {
+        "key": "A",
+        "text": "producers"
+      },
+      {
+        "key": "B",
+        "text": "omnivores"
+      },
+      {
+        "key": "C",
+        "text": "carnivores"
+      },
+      {
+        "key": "D",
+        "text": "herbivores"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Omnivores consume both plant and animal matter."
+  },
+  {
+    "id": "jamb-bio-ecology-5",
+    "subject": "Biology",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Ecology",
+    "difficulty": "easy",
+    "prompt": "Green plants, which produce their own food, occupy which position in a food chain?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Primary consumers"
+      },
+      {
+        "key": "B",
+        "text": "Decomposers"
+      },
+      {
+        "key": "C",
+        "text": "Producers"
+      },
+      {
+        "key": "D",
+        "text": "Secondary consumers"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Green plants are producers, forming the base of most food chains."
+  },
+  {
+    "id": "jamb-bio-enzyme-1",
+    "subject": "Biology",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Enzymes",
+    "difficulty": "easy",
+    "prompt": "Enzymes speed up chemical reactions in living organisms by acting as",
+    "options": [
+      {
+        "key": "A",
+        "text": "structural proteins only"
+      },
+      {
+        "key": "B",
+        "text": "genetic material"
+      },
+      {
+        "key": "C",
+        "text": "biological catalysts"
+      },
+      {
+        "key": "D",
+        "text": "energy stores"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Enzymes catalyse biochemical reactions without being consumed."
+  },
+  {
+    "id": "jamb-bio-enzyme-2",
+    "subject": "Biology",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Enzymes",
+    "difficulty": "medium",
+    "prompt": "The specific shape of an enzyme's active site allows it to bind only to a particular",
+    "options": [
+      {
+        "key": "A",
+        "text": "cofactor"
+      },
+      {
+        "key": "B",
+        "text": "inhibitor"
+      },
+      {
+        "key": "C",
+        "text": "product"
+      },
+      {
+        "key": "D",
+        "text": "substrate"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "The active site's shape determines which substrate an enzyme can bind."
+  },
+  {
+    "id": "jamb-bio-enzyme-3",
+    "subject": "Biology",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Enzymes",
+    "difficulty": "hard",
+    "prompt": "An enzyme that has been denatured by excessive heat will",
+    "options": [
+      {
+        "key": "A",
+        "text": "lose its shape and become permanently unable to function"
+      },
+      {
+        "key": "B",
+        "text": "regain function once cooled"
+      },
+      {
+        "key": "C",
+        "text": "become a different substrate"
+      },
+      {
+        "key": "D",
+        "text": "work even faster than before"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Denaturation permanently alters an enzyme's structure, destroying its function."
+  },
+  {
+    "id": "jamb-bio-enzyme-4",
+    "subject": "Biology",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Enzymes",
+    "difficulty": "medium",
+    "prompt": "The rate of an enzyme-catalysed reaction generally increases with substrate concentration until it",
+    "options": [
+      {
+        "key": "A",
+        "text": "reaches a maximum rate as active sites become saturated"
+      },
+      {
+        "key": "B",
+        "text": "decreases indefinitely"
+      },
+      {
+        "key": "C",
+        "text": "stops immediately"
+      },
+      {
+        "key": "D",
+        "text": "becomes negative"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Once all active sites are occupied, further substrate increase does not raise the rate."
+  },
+  {
+    "id": "jamb-bio-enzyme-5",
+    "subject": "Biology",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Enzymes",
+    "difficulty": "easy",
+    "prompt": "The enzyme pepsin, found in the stomach, digests",
+    "options": [
+      {
+        "key": "A",
+        "text": "carbohydrates"
+      },
+      {
+        "key": "B",
+        "text": "proteins"
+      },
+      {
+        "key": "C",
+        "text": "vitamins"
+      },
+      {
+        "key": "D",
+        "text": "fats"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Pepsin breaks down proteins into smaller peptides in the stomach."
+  },
+  {
+    "id": "jamb-bio-genetics-1",
+    "subject": "Biology",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Genetics",
+    "difficulty": "easy",
+    "prompt": "The complete set of hereditary instructions found in an organism's DNA is called its",
+    "options": [
+      {
+        "key": "A",
+        "text": "genome"
+      },
+      {
+        "key": "B",
+        "text": "ecosystem"
+      },
+      {
+        "key": "C",
+        "text": "phenotype"
+      },
+      {
+        "key": "D",
+        "text": "habitat"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "The genome is the full set of genetic material of an organism."
+  },
+  {
+    "id": "jamb-bio-genetics-2",
+    "subject": "Biology",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Genetics",
+    "difficulty": "medium",
+    "prompt": "An organism with two identical alleles for a particular gene is said to be",
+    "options": [
+      {
+        "key": "A",
+        "text": "homozygous"
+      },
+      {
+        "key": "B",
+        "text": "diploid"
+      },
+      {
+        "key": "C",
+        "text": "heterozygous"
+      },
+      {
+        "key": "D",
+        "text": "haploid"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Homozygous describes having two identical alleles for a gene."
+  },
+  {
+    "id": "jamb-bio-genetics-3",
+    "subject": "Biology",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Genetics",
+    "difficulty": "hard",
+    "prompt": "In a dihybrid cross between two heterozygous individuals (e.g. RrYy × RrYy), the expected phenotypic ratio of offspring is",
+    "options": [
+      {
+        "key": "A",
+        "text": "3:1"
+      },
+      {
+        "key": "B",
+        "text": "1:2:1"
+      },
+      {
+        "key": "C",
+        "text": "9:3:3:1"
+      },
+      {
+        "key": "D",
+        "text": "1:1:1:1"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "A dihybrid cross of two heterozygotes produces the classic 9:3:3:1 phenotypic ratio."
+  },
+  {
+    "id": "jamb-bio-genetics-4",
+    "subject": "Biology",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Genetics",
+    "difficulty": "medium",
+    "prompt": "A trait that is expressed in an organism only when both alleles for that gene are identical (in the homozygous state) is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "linked"
+      },
+      {
+        "key": "B",
+        "text": "dominant"
+      },
+      {
+        "key": "C",
+        "text": "codominant"
+      },
+      {
+        "key": "D",
+        "text": "recessive"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Recessive traits require two copies of the recessive allele to be expressed."
+  },
+  {
+    "id": "jamb-bio-genetics-5",
+    "subject": "Biology",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Genetics",
+    "difficulty": "easy",
+    "prompt": "The physical structures in the nucleus that carry genes, made of DNA, are called",
+    "options": [
+      {
+        "key": "A",
+        "text": "ribosomes"
+      },
+      {
+        "key": "B",
+        "text": "mitochondria"
+      },
+      {
+        "key": "C",
+        "text": "chromosomes"
+      },
+      {
+        "key": "D",
+        "text": "vacuoles"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Chromosomes are DNA structures carrying an organism's genes."
+  },
+  {
+    "id": "jamb-bio-osmosis-1",
+    "subject": "Biology",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Osmosis",
+    "difficulty": "easy",
+    "prompt": "Osmosis is best described as the movement of",
+    "options": [
+      {
+        "key": "A",
+        "text": "water molecules through a partially permeable membrane, from a region of higher to lower water concentration"
+      },
+      {
+        "key": "B",
+        "text": "gases from high to low pressure"
+      },
+      {
+        "key": "C",
+        "text": "water using energy from the cell"
+      },
+      {
+        "key": "D",
+        "text": "solute particles through any membrane"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Osmosis is the passive movement of water across a partially permeable membrane."
+  },
+  {
+    "id": "jamb-bio-osmosis-2",
+    "subject": "Biology",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Osmosis",
+    "difficulty": "medium",
+    "prompt": "A solution with the same solute concentration as the inside of a cell is described as",
+    "options": [
+      {
+        "key": "A",
+        "text": "saturated"
+      },
+      {
+        "key": "B",
+        "text": "hypotonic"
+      },
+      {
+        "key": "C",
+        "text": "hypertonic"
+      },
+      {
+        "key": "D",
+        "text": "isotonic"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "An isotonic solution has equal solute concentration to the cell's interior."
+  },
+  {
+    "id": "jamb-bio-osmosis-3",
+    "subject": "Biology",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Osmosis",
+    "difficulty": "hard",
+    "prompt": "Placing plant cells in pure (distilled) water will most likely cause them to become",
+    "options": [
+      {
+        "key": "A",
+        "text": "shrivelled"
+      },
+      {
+        "key": "B",
+        "text": "turgid, as water enters by osmosis"
+      },
+      {
+        "key": "C",
+        "text": "plasmolysed"
+      },
+      {
+        "key": "D",
+        "text": "unaffected"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Water enters plant cells in a hypotonic solution, making them turgid."
+  },
+  {
+    "id": "jamb-bio-osmosis-4",
+    "subject": "Biology",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Osmosis",
+    "difficulty": "medium",
+    "prompt": "The tendency of water to move into a solution due to the presence of dissolved solutes is referred to as its",
+    "options": [
+      {
+        "key": "A",
+        "text": "turgor pressure"
+      },
+      {
+        "key": "B",
+        "text": "surface tension"
+      },
+      {
+        "key": "C",
+        "text": "atmospheric pressure"
+      },
+      {
+        "key": "D",
+        "text": "osmotic pressure/potential"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Osmotic pressure/potential describes a solution's tendency to draw in water."
+  },
+  {
+    "id": "jamb-bio-osmosis-5",
+    "subject": "Biology",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Osmosis",
+    "difficulty": "easy",
+    "prompt": "Root hair cells absorb water from the soil mainly by the process of",
+    "options": [
+      {
+        "key": "A",
+        "text": "active transport of water"
+      },
+      {
+        "key": "B",
+        "text": "filtration"
+      },
+      {
+        "key": "C",
+        "text": "osmosis"
+      },
+      {
+        "key": "D",
+        "text": "diffusion of solutes"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Root hairs absorb soil water via osmosis due to a concentration gradient."
+  },
+  {
+    "id": "jamb-bio-reproduction-1",
+    "subject": "Biology",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Reproduction",
+    "difficulty": "easy",
+    "prompt": "The process by which offspring are produced from a single parent, without the fusion of gametes, is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "sexual reproduction"
+      },
+      {
+        "key": "B",
+        "text": "pollination"
+      },
+      {
+        "key": "C",
+        "text": "fertilization"
+      },
+      {
+        "key": "D",
+        "text": "asexual reproduction"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Asexual reproduction produces offspring from one parent without gamete fusion."
+  },
+  {
+    "id": "jamb-bio-reproduction-2",
+    "subject": "Biology",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Reproduction",
+    "difficulty": "medium",
+    "prompt": "In flowering plants, the ovule develops into the ___ after fertilization.",
+    "options": [
+      {
+        "key": "A",
+        "text": "petal"
+      },
+      {
+        "key": "B",
+        "text": "seed"
+      },
+      {
+        "key": "C",
+        "text": "fruit"
+      },
+      {
+        "key": "D",
+        "text": "stigma"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "The fertilized ovule develops into a seed."
+  },
+  {
+    "id": "jamb-bio-reproduction-3",
+    "subject": "Biology",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Reproduction",
+    "difficulty": "hard",
+    "prompt": "An example of a plant that reproduces asexually through underground stems (rhizomes) is",
+    "options": [
+      {
+        "key": "A",
+        "text": "ginger"
+      },
+      {
+        "key": "B",
+        "text": "bean plant from seed"
+      },
+      {
+        "key": "C",
+        "text": "maize grown from seed"
+      },
+      {
+        "key": "D",
+        "text": "orange tree from seed"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Ginger propagates via rhizomes, a form of vegetative (asexual) reproduction."
+  },
+  {
+    "id": "jamb-bio-reproduction-4",
+    "subject": "Biology",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Reproduction",
+    "difficulty": "medium",
+    "prompt": "The female reproductive part of a flower, comprising stigma, style and ovary, is called the",
+    "options": [
+      {
+        "key": "A",
+        "text": "stamen"
+      },
+      {
+        "key": "B",
+        "text": "petal"
+      },
+      {
+        "key": "C",
+        "text": "sepal"
+      },
+      {
+        "key": "D",
+        "text": "pistil (carpel)"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "The pistil (carpel) is the flower's female reproductive structure."
+  },
+  {
+    "id": "jamb-bio-reproduction-5",
+    "subject": "Biology",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Reproduction",
+    "difficulty": "easy",
+    "prompt": "In humans, the male gamete is called the",
+    "options": [
+      {
+        "key": "A",
+        "text": "sperm"
+      },
+      {
+        "key": "B",
+        "text": "egg (ovum)"
+      },
+      {
+        "key": "C",
+        "text": "zygote"
+      },
+      {
+        "key": "D",
+        "text": "embryo"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "The sperm is the male gamete in human reproduction."
+  },
+  {
+    "id": "jamb-bio-respiration-1",
+    "subject": "Biology",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Respiration",
+    "difficulty": "easy",
+    "prompt": "The process by which organisms exchange oxygen and carbon dioxide with their environment is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "digestion"
+      },
+      {
+        "key": "B",
+        "text": "excretion"
+      },
+      {
+        "key": "C",
+        "text": "breathing (gaseous exchange)"
+      },
+      {
+        "key": "D",
+        "text": "photosynthesis"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Breathing exchanges oxygen and carbon dioxide between an organism and its environment."
+  },
+  {
+    "id": "jamb-bio-respiration-2",
+    "subject": "Biology",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Respiration",
+    "difficulty": "medium",
+    "prompt": "Anaerobic respiration in human muscle cells during vigorous exercise produces",
+    "options": [
+      {
+        "key": "A",
+        "text": "oxygen"
+      },
+      {
+        "key": "B",
+        "text": "ethanol and carbon dioxide"
+      },
+      {
+        "key": "C",
+        "text": "only carbon dioxide and water"
+      },
+      {
+        "key": "D",
+        "text": "lactic acid"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Human muscle cells produce lactic acid during anaerobic respiration."
+  },
+  {
+    "id": "jamb-bio-respiration-3",
+    "subject": "Biology",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Respiration",
+    "difficulty": "hard",
+    "prompt": "Compared to anaerobic respiration, aerobic respiration releases",
+    "options": [
+      {
+        "key": "A",
+        "text": "exactly the same amount of energy"
+      },
+      {
+        "key": "B",
+        "text": "much more energy per glucose molecule"
+      },
+      {
+        "key": "C",
+        "text": "no energy at all"
+      },
+      {
+        "key": "D",
+        "text": "much less energy per glucose molecule"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Aerobic respiration fully oxidizes glucose, releasing far more energy than anaerobic respiration."
+  },
+  {
+    "id": "jamb-bio-respiration-4",
+    "subject": "Biology",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Respiration",
+    "difficulty": "medium",
+    "prompt": "In humans, gaseous exchange takes place across the walls of the",
+    "options": [
+      {
+        "key": "A",
+        "text": "alveoli"
+      },
+      {
+        "key": "B",
+        "text": "larynx"
+      },
+      {
+        "key": "C",
+        "text": "bronchi"
+      },
+      {
+        "key": "D",
+        "text": "trachea"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Alveoli provide the large surface area where gas exchange occurs in the lungs."
+  },
+  {
+    "id": "jamb-bio-respiration-5",
+    "subject": "Biology",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Respiration",
+    "difficulty": "easy",
+    "prompt": "The waste gas produced by cells during respiration, which is breathed out, is",
+    "options": [
+      {
+        "key": "A",
+        "text": "nitrogen"
+      },
+      {
+        "key": "B",
+        "text": "carbon dioxide"
+      },
+      {
+        "key": "C",
+        "text": "hydrogen"
+      },
+      {
+        "key": "D",
+        "text": "oxygen"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Carbon dioxide is the waste gas produced during cellular respiration."
+  },
+  {
+    "id": "jamb-bio-transport-1",
+    "subject": "Biology",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Transport in Living Things",
+    "difficulty": "easy",
+    "prompt": "The vessel that carries blood back to the heart is the",
+    "options": [
+      {
+        "key": "A",
+        "text": "capillary"
+      },
+      {
+        "key": "B",
+        "text": "artery"
+      },
+      {
+        "key": "C",
+        "text": "vein"
+      },
+      {
+        "key": "D",
+        "text": "aorta"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Veins carry blood back towards the heart."
+  },
+  {
+    "id": "jamb-bio-transport-2",
+    "subject": "Biology",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Transport in Living Things",
+    "difficulty": "medium",
+    "prompt": "In plants, manufactured food substances are transported from the leaves to other parts through the",
+    "options": [
+      {
+        "key": "A",
+        "text": "stomata"
+      },
+      {
+        "key": "B",
+        "text": "xylem"
+      },
+      {
+        "key": "C",
+        "text": "phloem"
+      },
+      {
+        "key": "D",
+        "text": "guard cells"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Phloem transports the products of photosynthesis throughout the plant."
+  },
+  {
+    "id": "jamb-bio-transport-3",
+    "subject": "Biology",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Transport in Living Things",
+    "difficulty": "hard",
+    "prompt": "The chamber of the human heart that receives deoxygenated blood from the body is the",
+    "options": [
+      {
+        "key": "A",
+        "text": "right atrium"
+      },
+      {
+        "key": "B",
+        "text": "left atrium"
+      },
+      {
+        "key": "C",
+        "text": "left ventricle"
+      },
+      {
+        "key": "D",
+        "text": "right ventricle"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "The right atrium receives deoxygenated blood returning from the body."
+  },
+  {
+    "id": "jamb-bio-transport-4",
+    "subject": "Biology",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Transport in Living Things",
+    "difficulty": "medium",
+    "prompt": "Water and dissolved mineral salts move up from the roots to the leaves of a plant through the",
+    "options": [
+      {
+        "key": "A",
+        "text": "xylem"
+      },
+      {
+        "key": "B",
+        "text": "epidermis"
+      },
+      {
+        "key": "C",
+        "text": "phloem"
+      },
+      {
+        "key": "D",
+        "text": "cambium"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Xylem conducts water and minerals upward from roots to leaves."
+  },
+  {
+    "id": "jamb-bio-transport-5",
+    "subject": "Biology",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Transport in Living Things",
+    "difficulty": "easy",
+    "prompt": "The smallest blood vessels, where exchange of substances between blood and body tissues occurs, are called",
+    "options": [
+      {
+        "key": "A",
+        "text": "arteries"
+      },
+      {
+        "key": "B",
+        "text": "venules"
+      },
+      {
+        "key": "C",
+        "text": "capillaries"
+      },
+      {
+        "key": "D",
+        "text": "veins"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Capillaries are the tiny vessels where nutrient and gas exchange occurs."
+  },
+  {
+    "id": "jamb-econ-demand-1",
+    "subject": "Economics",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Demand",
+    "difficulty": "easy",
+    "prompt": "According to the law of demand, other things being equal, when price falls, quantity demanded will",
+    "options": [
+      {
+        "key": "A",
+        "text": "rise"
+      },
+      {
+        "key": "B",
+        "text": "fall"
+      },
+      {
+        "key": "C",
+        "text": "stay the same"
+      },
+      {
+        "key": "D",
+        "text": "become zero"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "The law of demand describes an inverse relationship between price and quantity demanded."
+  },
+  {
+    "id": "jamb-econ-demand-2",
+    "subject": "Economics",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Demand",
+    "difficulty": "medium",
+    "prompt": "A leftward shift of the demand curve for a good could be caused by",
+    "options": [
+      {
+        "key": "A",
+        "text": "a fall in the price of a substitute good"
+      },
+      {
+        "key": "B",
+        "text": "a fall in consumers' income, for a normal good"
+      },
+      {
+        "key": "C",
+        "text": "an improvement in the good's quality"
+      },
+      {
+        "key": "D",
+        "text": "a rise in consumers' income"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Lower income reduces demand for normal goods, shifting the curve left."
+  },
+  {
+    "id": "jamb-econ-demand-3",
+    "subject": "Economics",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Demand",
+    "difficulty": "hard",
+    "prompt": "Two goods, A and B, are substitutes. If the price of A rises, the demand for B will most likely",
+    "options": [
+      {
+        "key": "A",
+        "text": "decrease"
+      },
+      {
+        "key": "B",
+        "text": "remain unchanged"
+      },
+      {
+        "key": "C",
+        "text": "fall to zero"
+      },
+      {
+        "key": "D",
+        "text": "increase"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "A price rise in A pushes buyers toward substitute B, increasing its demand."
+  },
+  {
+    "id": "jamb-econ-demand-4",
+    "subject": "Economics",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Demand",
+    "difficulty": "medium",
+    "prompt": "The total quantity of a good that all buyers in a market are willing and able to purchase at various prices is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "market demand"
+      },
+      {
+        "key": "B",
+        "text": "individual demand"
+      },
+      {
+        "key": "C",
+        "text": "effective supply"
+      },
+      {
+        "key": "D",
+        "text": "aggregate supply"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Market demand sums the individual demands of all buyers in a market."
+  },
+  {
+    "id": "jamb-econ-demand-5",
+    "subject": "Economics",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Demand",
+    "difficulty": "easy",
+    "prompt": "Which of the following would most likely increase demand for umbrellas?",
+    "options": [
+      {
+        "key": "A",
+        "text": "A fall in incomes"
+      },
+      {
+        "key": "B",
+        "text": "A decrease in population"
+      },
+      {
+        "key": "C",
+        "text": "A fall in the price of raincoats"
+      },
+      {
+        "key": "D",
+        "text": "An increase in rainfall"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "More rainfall increases the need for umbrellas, raising demand."
+  },
+  {
+    "id": "jamb-econ-elasticity-1",
+    "subject": "Economics",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Elasticity",
+    "difficulty": "easy",
+    "prompt": "If quantity demanded changes only slightly when price changes significantly, demand is said to be",
+    "options": [
+      {
+        "key": "A",
+        "text": "infinite"
+      },
+      {
+        "key": "B",
+        "text": "unitary"
+      },
+      {
+        "key": "C",
+        "text": "inelastic"
+      },
+      {
+        "key": "D",
+        "text": "elastic"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Inelastic demand shows little responsiveness to price changes."
+  },
+  {
+    "id": "jamb-econ-elasticity-2",
+    "subject": "Economics",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Elasticity",
+    "difficulty": "medium",
+    "prompt": "Luxury goods, which have many substitutes, tend to have demand that is",
+    "options": [
+      {
+        "key": "A",
+        "text": "inelastic"
+      },
+      {
+        "key": "B",
+        "text": "elastic"
+      },
+      {
+        "key": "C",
+        "text": "zero"
+      },
+      {
+        "key": "D",
+        "text": "perfectly inelastic"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Goods with many substitutes and discretionary use tend to have elastic demand."
+  },
+  {
+    "id": "jamb-econ-elasticity-3",
+    "subject": "Economics",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Elasticity",
+    "difficulty": "hard",
+    "prompt": "The price of a good falls from ₦20 to ₦16, and quantity demanded rises from 50 to 60 units. Calculate the price elasticity of demand.",
+    "options": [
+      {
+        "key": "A",
+        "text": "0.5 (inelastic)"
+      },
+      {
+        "key": "B",
+        "text": "1.0 (unitary)"
+      },
+      {
+        "key": "C",
+        "text": "0 (perfectly inelastic)"
+      },
+      {
+        "key": "D",
+        "text": "2.0 (elastic)"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "%ΔQ = +20%, %ΔP = -20%. PED = 20/20 = 1.0 in magnitude, which is unitary elasticity."
+  },
+  {
+    "id": "jamb-econ-elasticity-4",
+    "subject": "Economics",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Elasticity",
+    "difficulty": "medium",
+    "prompt": "If demand is perfectly elastic, the demand curve is",
+    "options": [
+      {
+        "key": "A",
+        "text": "upward sloping"
+      },
+      {
+        "key": "B",
+        "text": "a horizontal straight line"
+      },
+      {
+        "key": "C",
+        "text": "downward sloping"
+      },
+      {
+        "key": "D",
+        "text": "a vertical straight line"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Perfectly elastic demand means any price rise causes quantity demanded to fall to zero, giving a horizontal curve."
+  },
+  {
+    "id": "jamb-econ-elasticity-5",
+    "subject": "Economics",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Elasticity",
+    "difficulty": "easy",
+    "prompt": "Elasticity of demand measures the responsiveness of quantity demanded to a change in",
+    "options": [
+      {
+        "key": "A",
+        "text": "weather conditions"
+      },
+      {
+        "key": "B",
+        "text": "price (or income, or price of related goods)"
+      },
+      {
+        "key": "C",
+        "text": "government policy directly"
+      },
+      {
+        "key": "D",
+        "text": "population size directly"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Elasticity measures how quantity demanded responds to changes in price, income or related prices."
+  },
+  {
+    "id": "jamb-econ-inflation-1",
+    "subject": "Economics",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Inflation",
+    "difficulty": "easy",
+    "prompt": "A persistent and general rise in the price level of goods and services in an economy is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "depression"
+      },
+      {
+        "key": "B",
+        "text": "inflation"
+      },
+      {
+        "key": "C",
+        "text": "recession"
+      },
+      {
+        "key": "D",
+        "text": "deflation"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Inflation is a sustained increase in the general price level."
+  },
+  {
+    "id": "jamb-econ-inflation-2",
+    "subject": "Economics",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Inflation",
+    "difficulty": "medium",
+    "prompt": "Inflation caused by rising costs of production, such as wages and raw materials, being passed on to consumers, is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "structural inflation"
+      },
+      {
+        "key": "B",
+        "text": "cost-push inflation"
+      },
+      {
+        "key": "C",
+        "text": "demand-pull inflation"
+      },
+      {
+        "key": "D",
+        "text": "imported inflation"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Cost-push inflation arises when production costs rise and are passed to consumers."
+  },
+  {
+    "id": "jamb-econ-inflation-3",
+    "subject": "Economics",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Inflation",
+    "difficulty": "hard",
+    "prompt": "Very high and rapidly accelerating inflation, often exceeding 50% per month, is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "stagflation"
+      },
+      {
+        "key": "B",
+        "text": "disinflation"
+      },
+      {
+        "key": "C",
+        "text": "deflation"
+      },
+      {
+        "key": "D",
+        "text": "hyperinflation"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Hyperinflation refers to extremely rapid, out-of-control price increases."
+  },
+  {
+    "id": "jamb-econ-inflation-4",
+    "subject": "Economics",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Inflation",
+    "difficulty": "medium",
+    "prompt": "A situation combining high inflation with high unemployment and stagnant economic growth is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "hyperinflation"
+      },
+      {
+        "key": "B",
+        "text": "reflation"
+      },
+      {
+        "key": "C",
+        "text": "stagflation"
+      },
+      {
+        "key": "D",
+        "text": "deflation"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Stagflation combines stagnant growth, high unemployment and high inflation."
+  },
+  {
+    "id": "jamb-econ-inflation-5",
+    "subject": "Economics",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Inflation",
+    "difficulty": "easy",
+    "prompt": "One way governments try to control inflation is by",
+    "options": [
+      {
+        "key": "A",
+        "text": "increasing the money supply"
+      },
+      {
+        "key": "B",
+        "text": "reducing taxes without other measures"
+      },
+      {
+        "key": "C",
+        "text": "reducing the money supply"
+      },
+      {
+        "key": "D",
+        "text": "increasing government spending indiscriminately"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Reducing money supply curbs excess demand, helping control inflation."
+  },
+  {
+    "id": "jamb-econ-market-1",
+    "subject": "Economics",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Market Structures",
+    "difficulty": "easy",
+    "prompt": "A market with many buyers and sellers of an identical product, with no single seller able to influence price, is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "oligopoly"
+      },
+      {
+        "key": "B",
+        "text": "monopoly"
+      },
+      {
+        "key": "C",
+        "text": "monopolistic competition"
+      },
+      {
+        "key": "D",
+        "text": "perfect competition"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Perfect competition features many firms selling identical products as price takers."
+  },
+  {
+    "id": "jamb-econ-market-2",
+    "subject": "Economics",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Market Structures",
+    "difficulty": "medium",
+    "prompt": "A monopolist is best described as a",
+    "options": [
+      {
+        "key": "A",
+        "text": "price taker with no control over price"
+      },
+      {
+        "key": "B",
+        "text": "price maker, since it is the sole supplier in the market"
+      },
+      {
+        "key": "C",
+        "text": "one of many competing sellers"
+      },
+      {
+        "key": "D",
+        "text": "a buyer with no sellers to purchase from"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "As the sole supplier, a monopolist can influence and set the market price."
+  },
+  {
+    "id": "jamb-econ-market-3",
+    "subject": "Economics",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Market Structures",
+    "difficulty": "hard",
+    "prompt": "A situation in which a single buyer dominates the purchasing side of a market is known as a",
+    "options": [
+      {
+        "key": "A",
+        "text": "monopoly"
+      },
+      {
+        "key": "B",
+        "text": "monopsony"
+      },
+      {
+        "key": "C",
+        "text": "duopoly"
+      },
+      {
+        "key": "D",
+        "text": "oligopoly"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "A monopsony describes a market with a single dominant buyer."
+  },
+  {
+    "id": "jamb-econ-market-4",
+    "subject": "Economics",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Market Structures",
+    "difficulty": "medium",
+    "prompt": "Firms in monopolistic competition differentiate their products mainly to",
+    "options": [
+      {
+        "key": "A",
+        "text": "sell identical products like perfect competition"
+      },
+      {
+        "key": "B",
+        "text": "eliminate all competition entirely"
+      },
+      {
+        "key": "C",
+        "text": "create brand loyalty and gain some control over price"
+      },
+      {
+        "key": "D",
+        "text": "become a pure monopoly"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Product differentiation builds brand loyalty and limited pricing power."
+  },
+  {
+    "id": "jamb-econ-market-5",
+    "subject": "Economics",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Market Structures",
+    "difficulty": "easy",
+    "prompt": "A market dominated by only two large firms is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "duopoly"
+      },
+      {
+        "key": "B",
+        "text": "monopsony"
+      },
+      {
+        "key": "C",
+        "text": "perfect competition"
+      },
+      {
+        "key": "D",
+        "text": "monopoly"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "A duopoly is a market structure with exactly two dominant firms."
+  },
+  {
+    "id": "jamb-econ-monetary-policy-1",
+    "subject": "Economics",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Monetary Policy",
+    "difficulty": "easy",
+    "prompt": "The institution mainly responsible for formulating and implementing monetary policy in a country is the",
+    "options": [
+      {
+        "key": "A",
+        "text": "stock exchange"
+      },
+      {
+        "key": "B",
+        "text": "central bank"
+      },
+      {
+        "key": "C",
+        "text": "federal legislature"
+      },
+      {
+        "key": "D",
+        "text": "Ministry of Trade"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "The central bank formulates and executes a country's monetary policy."
+  },
+  {
+    "id": "jamb-econ-monetary-policy-2",
+    "subject": "Economics",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Monetary Policy",
+    "difficulty": "medium",
+    "prompt": "To increase the money supply and stimulate economic activity, a central bank is likely to",
+    "options": [
+      {
+        "key": "A",
+        "text": "lower the interest (bank) rate"
+      },
+      {
+        "key": "B",
+        "text": "increase the cash reserve ratio"
+      },
+      {
+        "key": "C",
+        "text": "raise the interest rate"
+      },
+      {
+        "key": "D",
+        "text": "sell more government securities"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Lower interest rates encourage borrowing and spending, expanding money supply."
+  },
+  {
+    "id": "jamb-econ-monetary-policy-3",
+    "subject": "Economics",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Monetary Policy",
+    "difficulty": "hard",
+    "prompt": "When the central bank increases the cash reserve ratio for commercial banks, the immediate effect is generally to",
+    "options": [
+      {
+        "key": "A",
+        "text": "reduce the amount of money commercial banks can lend out"
+      },
+      {
+        "key": "B",
+        "text": "increase the amount banks can lend out"
+      },
+      {
+        "key": "C",
+        "text": "have no effect on bank lending"
+      },
+      {
+        "key": "D",
+        "text": "increase inflation directly"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "A higher reserve ratio forces banks to hold more funds idle, reducing lendable amounts."
+  },
+  {
+    "id": "jamb-econ-monetary-policy-4",
+    "subject": "Economics",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Monetary Policy",
+    "difficulty": "medium",
+    "prompt": "Monetary policy tools include open market operations, the bank rate, and the",
+    "options": [
+      {
+        "key": "A",
+        "text": "cash reserve ratio"
+      },
+      {
+        "key": "B",
+        "text": "personal income tax rate"
+      },
+      {
+        "key": "C",
+        "text": "government budget deficit"
+      },
+      {
+        "key": "D",
+        "text": "import tariff rate"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "The cash reserve ratio, alongside open market operations and bank rate, is a core monetary policy tool."
+  },
+  {
+    "id": "jamb-econ-monetary-policy-5",
+    "subject": "Economics",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Monetary Policy",
+    "difficulty": "easy",
+    "prompt": "Which of the following is an objective of monetary policy?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Controlling inflation and stabilizing the currency"
+      },
+      {
+        "key": "B",
+        "text": "Collecting personal income tax"
+      },
+      {
+        "key": "C",
+        "text": "Building roads and schools directly"
+      },
+      {
+        "key": "D",
+        "text": "Setting minimum wage levels"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Monetary policy primarily targets inflation control and currency stability."
+  },
+  {
+    "id": "jamb-econ-national-income-1",
+    "subject": "Economics",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "National Income",
+    "difficulty": "easy",
+    "prompt": "The total monetary value of all final goods and services produced within a country's borders in a year is called its",
+    "options": [
+      {
+        "key": "A",
+        "text": "Consumer Price Index"
+      },
+      {
+        "key": "B",
+        "text": "Gross Domestic Product (GDP)"
+      },
+      {
+        "key": "C",
+        "text": "Exchange rate"
+      },
+      {
+        "key": "D",
+        "text": "Balance of Payments"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "GDP measures total output produced within a country's borders over a year."
+  },
+  {
+    "id": "jamb-econ-national-income-2",
+    "subject": "Economics",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "National Income",
+    "difficulty": "medium",
+    "prompt": "National income per head of population is generally referred to as",
+    "options": [
+      {
+        "key": "A",
+        "text": "per capita income"
+      },
+      {
+        "key": "B",
+        "text": "Gross National Product"
+      },
+      {
+        "key": "C",
+        "text": "disposable income"
+      },
+      {
+        "key": "D",
+        "text": "nominal income"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Per capita income divides national income by population size."
+  },
+  {
+    "id": "jamb-econ-national-income-3",
+    "subject": "Economics",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "National Income",
+    "difficulty": "hard",
+    "prompt": "When calculating national income using the expenditure approach, economists sum up",
+    "options": [
+      {
+        "key": "A",
+        "text": "only company profits"
+      },
+      {
+        "key": "B",
+        "text": "consumption, investment, government spending and net exports"
+      },
+      {
+        "key": "C",
+        "text": "only wages and salaries"
+      },
+      {
+        "key": "D",
+        "text": "only tax revenue"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "The expenditure approach adds consumption, investment, government spending and net exports."
+  },
+  {
+    "id": "jamb-econ-national-income-4",
+    "subject": "Economics",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "National Income",
+    "difficulty": "medium",
+    "prompt": "Real GDP differs from nominal GDP in that real GDP",
+    "options": [
+      {
+        "key": "A",
+        "text": "excludes government spending entirely"
+      },
+      {
+        "key": "B",
+        "text": "is measured in foreign currency"
+      },
+      {
+        "key": "C",
+        "text": "is adjusted for changes in price level (inflation)"
+      },
+      {
+        "key": "D",
+        "text": "includes only exports"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Real GDP removes the effect of inflation to reflect true output changes."
+  },
+  {
+    "id": "jamb-econ-national-income-5",
+    "subject": "Economics",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "National Income",
+    "difficulty": "easy",
+    "prompt": "An increase in a country's national income over time, assuming population growth is controlled, generally indicates",
+    "options": [
+      {
+        "key": "A",
+        "text": "economic growth"
+      },
+      {
+        "key": "B",
+        "text": "currency devaluation"
+      },
+      {
+        "key": "C",
+        "text": "a trade deficit"
+      },
+      {
+        "key": "D",
+        "text": "economic depression"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Rising national income, adjusted for population, reflects economic growth."
+  },
+  {
+    "id": "jamb-econ-production-1",
+    "subject": "Economics",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Production",
+    "difficulty": "easy",
+    "prompt": "The four main factors of production are land, labour, capital and",
+    "options": [
+      {
+        "key": "A",
+        "text": "entrepreneurship"
+      },
+      {
+        "key": "B",
+        "text": "currency"
+      },
+      {
+        "key": "C",
+        "text": "government"
+      },
+      {
+        "key": "D",
+        "text": "technology"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "The four factors of production are land, labour, capital and entrepreneurship."
+  },
+  {
+    "id": "jamb-econ-production-2",
+    "subject": "Economics",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Production",
+    "difficulty": "medium",
+    "prompt": "The law of diminishing marginal returns applies when",
+    "options": [
+      {
+        "key": "A",
+        "text": "all factors of production are increased proportionally"
+      },
+      {
+        "key": "B",
+        "text": "production is entirely automated"
+      },
+      {
+        "key": "C",
+        "text": "only labour is used in production"
+      },
+      {
+        "key": "D",
+        "text": "more units of a variable factor are added to a fixed factor, eventually reducing extra output per unit"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Beyond a point, adding more variable input to a fixed factor yields diminishing extra output."
+  },
+  {
+    "id": "jamb-econ-production-3",
+    "subject": "Economics",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Production",
+    "difficulty": "hard",
+    "prompt": "Specialization and division of labour generally lead to increased productivity mainly because workers",
+    "options": [
+      {
+        "key": "A",
+        "text": "become more skilled and efficient at specific, repeated tasks"
+      },
+      {
+        "key": "B",
+        "text": "work fewer hours overall"
+      },
+      {
+        "key": "C",
+        "text": "avoid using any machinery"
+      },
+      {
+        "key": "D",
+        "text": "require less training than before automatically"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Repeated, specialized tasks let workers build skill and efficiency."
+  },
+  {
+    "id": "jamb-econ-production-4",
+    "subject": "Economics",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Production",
+    "difficulty": "medium",
+    "prompt": "Land, as a factor of production, refers to",
+    "options": [
+      {
+        "key": "A",
+        "text": "money invested in a business"
+      },
+      {
+        "key": "B",
+        "text": "all natural resources used in production, such as soil, water and minerals"
+      },
+      {
+        "key": "C",
+        "text": "only farmland used for agriculture"
+      },
+      {
+        "key": "D",
+        "text": "buildings and factories"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Land encompasses all natural resources used in the production process."
+  },
+  {
+    "id": "jamb-econ-production-5",
+    "subject": "Economics",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Production",
+    "difficulty": "easy",
+    "prompt": "The reward paid to labour as a factor of production is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "profit"
+      },
+      {
+        "key": "B",
+        "text": "interest"
+      },
+      {
+        "key": "C",
+        "text": "rent"
+      },
+      {
+        "key": "D",
+        "text": "wages"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Labour is rewarded with wages for its contribution to production."
+  },
+  {
+    "id": "jamb-econ-supply-1",
+    "subject": "Economics",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Supply",
+    "difficulty": "easy",
+    "prompt": "According to the law of supply, other things being equal, when price rises, quantity supplied will",
+    "options": [
+      {
+        "key": "A",
+        "text": "fall"
+      },
+      {
+        "key": "B",
+        "text": "become zero"
+      },
+      {
+        "key": "C",
+        "text": "stay the same"
+      },
+      {
+        "key": "D",
+        "text": "rise"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "The law of supply describes a direct relationship between price and quantity supplied."
+  },
+  {
+    "id": "jamb-econ-supply-2",
+    "subject": "Economics",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Supply",
+    "difficulty": "medium",
+    "prompt": "A rightward shift of the supply curve for a good could be caused by",
+    "options": [
+      {
+        "key": "A",
+        "text": "a fall in the cost of production"
+      },
+      {
+        "key": "B",
+        "text": "a rise in the cost of production"
+      },
+      {
+        "key": "C",
+        "text": "a natural disaster reducing output"
+      },
+      {
+        "key": "D",
+        "text": "an increase in taxes on producers"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Lower production costs make supplying more profitable, shifting supply right."
+  },
+  {
+    "id": "jamb-econ-supply-3",
+    "subject": "Economics",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Supply",
+    "difficulty": "hard",
+    "prompt": "At a price above the market equilibrium price, the market typically experiences a",
+    "options": [
+      {
+        "key": "A",
+        "text": "shortage (excess demand)"
+      },
+      {
+        "key": "B",
+        "text": "surplus (excess supply)"
+      },
+      {
+        "key": "C",
+        "text": "perfect balance"
+      },
+      {
+        "key": "D",
+        "text": "price freeze"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Above equilibrium, quantity supplied exceeds quantity demanded, creating a surplus."
+  },
+  {
+    "id": "jamb-econ-supply-4",
+    "subject": "Economics",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Supply",
+    "difficulty": "medium",
+    "prompt": "The total quantity of a good that all producers in a market are willing and able to supply at various prices is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "aggregate demand"
+      },
+      {
+        "key": "B",
+        "text": "market supply"
+      },
+      {
+        "key": "C",
+        "text": "individual supply"
+      },
+      {
+        "key": "D",
+        "text": "effective demand"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Market supply sums the individual supplies of all producers in a market."
+  },
+  {
+    "id": "jamb-econ-supply-5",
+    "subject": "Economics",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Supply",
+    "difficulty": "easy",
+    "prompt": "Which of the following would most likely decrease the supply of an agricultural crop?",
+    "options": [
+      {
+        "key": "A",
+        "text": "A fall in the cost of fertilizer"
+      },
+      {
+        "key": "B",
+        "text": "A drought damaging the harvest"
+      },
+      {
+        "key": "C",
+        "text": "Good weather conditions"
+      },
+      {
+        "key": "D",
+        "text": "An improvement in farming technology"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "A drought damages crop yields, reducing the quantity available to supply."
+  }
+]

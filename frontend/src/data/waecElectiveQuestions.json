@@ -1,0 +1,4352 @@
+[
+  {
+    "id": "waec-art-elements-1",
+    "subject": "Fine Arts",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Elements of Art",
+    "difficulty": "easy",
+    "prompt": "The basic elements of art include line, shape, colour, texture and",
+    "options": [
+      {
+        "key": "A",
+        "text": "rhythm"
+      },
+      {
+        "key": "B",
+        "text": "form"
+      },
+      {
+        "key": "C",
+        "text": "melody"
+      },
+      {
+        "key": "D",
+        "text": "sound"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "The basic elements of art are line, shape, form, colour, texture, space and value."
+  },
+  {
+    "id": "waec-art-elements-2",
+    "subject": "Fine Arts",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Elements of Art",
+    "difficulty": "medium",
+    "prompt": "A two-dimensional area with defined boundaries, such as a circle or square, is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "texture"
+      },
+      {
+        "key": "B",
+        "text": "tone"
+      },
+      {
+        "key": "C",
+        "text": "form"
+      },
+      {
+        "key": "D",
+        "text": "shape"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "A shape is a flat, two-dimensional area enclosed by a boundary."
+  },
+  {
+    "id": "waec-art-elements-3",
+    "subject": "Fine Arts",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Elements of Art",
+    "difficulty": "hard",
+    "prompt": "The element of art that refers to the way a surface feels or appears to feel (rough, smooth, etc.) is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "line"
+      },
+      {
+        "key": "B",
+        "text": "space"
+      },
+      {
+        "key": "C",
+        "text": "texture"
+      },
+      {
+        "key": "D",
+        "text": "value"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Texture describes the surface quality of an artwork, actual or implied."
+  },
+  {
+    "id": "waec-art-elements-4",
+    "subject": "Fine Arts",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Elements of Art",
+    "difficulty": "medium",
+    "prompt": "A three-dimensional object with height, width and depth, such as a cube or sphere, is described in art as having",
+    "options": [
+      {
+        "key": "A",
+        "text": "hue"
+      },
+      {
+        "key": "B",
+        "text": "texture"
+      },
+      {
+        "key": "C",
+        "text": "form"
+      },
+      {
+        "key": "D",
+        "text": "shape"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Form refers to three-dimensional objects, unlike flat two-dimensional shapes."
+  },
+  {
+    "id": "waec-art-elements-5",
+    "subject": "Fine Arts",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Elements of Art",
+    "difficulty": "easy",
+    "prompt": "The lightness or darkness of a colour in a work of art is referred to as its",
+    "options": [
+      {
+        "key": "A",
+        "text": "texture"
+      },
+      {
+        "key": "B",
+        "text": "hue"
+      },
+      {
+        "key": "C",
+        "text": "form"
+      },
+      {
+        "key": "D",
+        "text": "value (tone)"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Value describes how light or dark a colour appears."
+  },
+  {
+    "id": "waec-art-drawing-painting-1",
+    "subject": "Fine Arts",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Drawing & Painting Techniques",
+    "difficulty": "easy",
+    "prompt": "A drawing technique that uses continuous lines without lifting the pencil from the paper is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "shading with tone"
+      },
+      {
+        "key": "B",
+        "text": "hatching"
+      },
+      {
+        "key": "C",
+        "text": "continuous line drawing"
+      },
+      {
+        "key": "D",
+        "text": "stippling"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Continuous line drawing is made without lifting the drawing tool from the surface."
+  },
+  {
+    "id": "waec-art-drawing-painting-2",
+    "subject": "Fine Arts",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Drawing & Painting Techniques",
+    "difficulty": "medium",
+    "prompt": "The technique of creating tone or shadow using closely spaced parallel lines is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "wash"
+      },
+      {
+        "key": "B",
+        "text": "blending"
+      },
+      {
+        "key": "C",
+        "text": "stippling"
+      },
+      {
+        "key": "D",
+        "text": "hatching"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Hatching builds tone through closely spaced parallel lines."
+  },
+  {
+    "id": "waec-art-drawing-painting-3",
+    "subject": "Fine Arts",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Drawing & Painting Techniques",
+    "difficulty": "hard",
+    "prompt": "The technique of applying paint or ink in small dots to build up tone and texture is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "hatching"
+      },
+      {
+        "key": "B",
+        "text": "stippling"
+      },
+      {
+        "key": "C",
+        "text": "sgraffito"
+      },
+      {
+        "key": "D",
+        "text": "impasto"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Stippling builds an image using small dots of colour or ink."
+  },
+  {
+    "id": "waec-art-drawing-painting-4",
+    "subject": "Fine Arts",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Drawing & Painting Techniques",
+    "difficulty": "medium",
+    "prompt": "A painting technique using thin, diluted watercolour paint applied in broad, flat areas is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "stippling"
+      },
+      {
+        "key": "B",
+        "text": "impasto"
+      },
+      {
+        "key": "C",
+        "text": "glazing"
+      },
+      {
+        "key": "D",
+        "text": "wash"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "A wash is a thin, diluted layer of paint applied broadly."
+  },
+  {
+    "id": "waec-art-drawing-painting-5",
+    "subject": "Fine Arts",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Drawing & Painting Techniques",
+    "difficulty": "easy",
+    "prompt": "A rough, preliminary drawing made to plan a final artwork is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "mosaic"
+      },
+      {
+        "key": "B",
+        "text": "sketch"
+      },
+      {
+        "key": "C",
+        "text": "fresco"
+      },
+      {
+        "key": "D",
+        "text": "mural"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "A sketch is a quick, preliminary drawing used to plan a finished piece."
+  },
+  {
+    "id": "waec-art-history-1",
+    "subject": "Fine Arts",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Art History & Movements",
+    "difficulty": "easy",
+    "prompt": "Traditional Nigerian art forms include carved masks, which are commonly used in",
+    "options": [
+      {
+        "key": "A",
+        "text": "scientific research"
+      },
+      {
+        "key": "B",
+        "text": "foreign diplomacy exclusively"
+      },
+      {
+        "key": "C",
+        "text": "cultural and ritual/ceremonial festivals"
+      },
+      {
+        "key": "D",
+        "text": "modern office decoration only"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Carved masks feature prominently in traditional Nigerian festivals and rituals."
+  },
+  {
+    "id": "waec-art-history-2",
+    "subject": "Fine Arts",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Art History & Movements",
+    "difficulty": "medium",
+    "prompt": "The art movement of the early 20th century characterized by fragmented, geometric representation of objects, pioneered by Picasso, is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "Cubism"
+      },
+      {
+        "key": "B",
+        "text": "Impressionism"
+      },
+      {
+        "key": "C",
+        "text": "Surrealism"
+      },
+      {
+        "key": "D",
+        "text": "Realism"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Cubism depicted subjects as fragmented, geometric forms."
+  },
+  {
+    "id": "waec-art-history-3",
+    "subject": "Fine Arts",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Art History & Movements",
+    "difficulty": "hard",
+    "prompt": "The art movement that sought to capture fleeting effects of light and colour, often through loose brushwork and outdoor painting, is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "Minimalism"
+      },
+      {
+        "key": "B",
+        "text": "Classicism"
+      },
+      {
+        "key": "C",
+        "text": "Impressionism"
+      },
+      {
+        "key": "D",
+        "text": "Cubism"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Impressionists painted outdoors to capture transient light and colour effects."
+  },
+  {
+    "id": "waec-art-history-4",
+    "subject": "Fine Arts",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Art History & Movements",
+    "difficulty": "medium",
+    "prompt": "Nok terracotta sculptures, among the earliest known African art, were produced in ancient",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ghana"
+      },
+      {
+        "key": "B",
+        "text": "Ethiopia"
+      },
+      {
+        "key": "C",
+        "text": "Nigeria"
+      },
+      {
+        "key": "D",
+        "text": "Egypt"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "The Nok culture, known for its terracotta sculptures, existed in ancient Nigeria."
+  },
+  {
+    "id": "waec-art-history-5",
+    "subject": "Fine Arts",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Art History & Movements",
+    "difficulty": "easy",
+    "prompt": "Traditional Benin bronze casting is a notable art tradition originating from",
+    "options": [
+      {
+        "key": "A",
+        "text": "South Africa"
+      },
+      {
+        "key": "B",
+        "text": "Kenya"
+      },
+      {
+        "key": "C",
+        "text": "Nigeria"
+      },
+      {
+        "key": "D",
+        "text": "Morocco"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "The Benin Kingdom in Nigeria is renowned for its bronze casting tradition."
+  },
+  {
+    "id": "waec-art-sculpture-crafts-1",
+    "subject": "Fine Arts",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Sculpture & Crafts",
+    "difficulty": "easy",
+    "prompt": "A three-dimensional artwork created by carving, modelling, or casting is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "print"
+      },
+      {
+        "key": "B",
+        "text": "sculpture"
+      },
+      {
+        "key": "C",
+        "text": "painting"
+      },
+      {
+        "key": "D",
+        "text": "sketch"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Sculpture is three-dimensional art formed by carving, modelling or casting."
+  },
+  {
+    "id": "waec-art-sculpture-crafts-2",
+    "subject": "Fine Arts",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Sculpture & Crafts",
+    "difficulty": "medium",
+    "prompt": "The process of pouring molten material, such as bronze, into a mould to create a sculpture is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "modelling"
+      },
+      {
+        "key": "B",
+        "text": "carving"
+      },
+      {
+        "key": "C",
+        "text": "assembling"
+      },
+      {
+        "key": "D",
+        "text": "casting"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Casting shapes molten material by pouring it into a mould."
+  },
+  {
+    "id": "waec-art-sculpture-crafts-3",
+    "subject": "Fine Arts",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Sculpture & Crafts",
+    "difficulty": "hard",
+    "prompt": "A sculptural technique in which material is progressively removed from a solid block, such as wood or stone, is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "carving"
+      },
+      {
+        "key": "B",
+        "text": "constructing"
+      },
+      {
+        "key": "C",
+        "text": "modelling"
+      },
+      {
+        "key": "D",
+        "text": "casting"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Carving removes material from a solid block to reveal a form."
+  },
+  {
+    "id": "waec-art-sculpture-crafts-4",
+    "subject": "Fine Arts",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Sculpture & Crafts",
+    "difficulty": "medium",
+    "prompt": "A sculptural technique in which soft materials, such as clay, are shaped and built up by hand is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "assembling"
+      },
+      {
+        "key": "B",
+        "text": "casting"
+      },
+      {
+        "key": "C",
+        "text": "modelling"
+      },
+      {
+        "key": "D",
+        "text": "carving"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Modelling builds up a form from a pliable material like clay."
+  },
+  {
+    "id": "waec-art-sculpture-crafts-5",
+    "subject": "Fine Arts",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Sculpture & Crafts",
+    "difficulty": "easy",
+    "prompt": "A traditionally woven or plaited craft item, such as a basket or mat, made from natural fibres, is a form of",
+    "options": [
+      {
+        "key": "A",
+        "text": "printmaking"
+      },
+      {
+        "key": "B",
+        "text": "painting"
+      },
+      {
+        "key": "C",
+        "text": "sculpture casting"
+      },
+      {
+        "key": "D",
+        "text": "weaving/craft art"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Woven baskets and mats are traditional craft forms using natural fibres."
+  },
+  {
+    "id": "waec-art-colour-theory-1",
+    "subject": "Fine Arts",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Colour Theory",
+    "difficulty": "easy",
+    "prompt": "Red, yellow and blue are known in art as the",
+    "options": [
+      {
+        "key": "A",
+        "text": "secondary colours"
+      },
+      {
+        "key": "B",
+        "text": "primary colours"
+      },
+      {
+        "key": "C",
+        "text": "complementary colours"
+      },
+      {
+        "key": "D",
+        "text": "neutral colours"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Red, yellow and blue are the primary colours from which others are mixed."
+  },
+  {
+    "id": "waec-art-colour-theory-2",
+    "subject": "Fine Arts",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Colour Theory",
+    "difficulty": "medium",
+    "prompt": "Colours produced by mixing two primary colours, such as green (blue+yellow), are called",
+    "options": [
+      {
+        "key": "A",
+        "text": "secondary colours"
+      },
+      {
+        "key": "B",
+        "text": "primary colours"
+      },
+      {
+        "key": "C",
+        "text": "tertiary colours"
+      },
+      {
+        "key": "D",
+        "text": "achromatic colours"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Secondary colours result from mixing two primary colours."
+  },
+  {
+    "id": "waec-art-colour-theory-3",
+    "subject": "Fine Arts",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Colour Theory",
+    "difficulty": "hard",
+    "prompt": "Colours positioned opposite each other on the colour wheel, such as red and green, are called",
+    "options": [
+      {
+        "key": "A",
+        "text": "primary colours"
+      },
+      {
+        "key": "B",
+        "text": "complementary colours"
+      },
+      {
+        "key": "C",
+        "text": "monochromatic colours"
+      },
+      {
+        "key": "D",
+        "text": "analogous colours"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Complementary colours sit opposite each other on the colour wheel."
+  },
+  {
+    "id": "waec-art-colour-theory-4",
+    "subject": "Fine Arts",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Colour Theory",
+    "difficulty": "medium",
+    "prompt": "A colour scheme using different tones, shades and tints of a single colour is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "monochromatic colour scheme"
+      },
+      {
+        "key": "B",
+        "text": "triadic colour scheme"
+      },
+      {
+        "key": "C",
+        "text": "analogous colour scheme"
+      },
+      {
+        "key": "D",
+        "text": "complementary colour scheme"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "A monochromatic scheme uses variations of one colour."
+  },
+  {
+    "id": "waec-art-colour-theory-5",
+    "subject": "Fine Arts",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Colour Theory",
+    "difficulty": "easy",
+    "prompt": "Black, white and grey, which have no true hue, are referred to as",
+    "options": [
+      {
+        "key": "A",
+        "text": "neutral (achromatic) colours"
+      },
+      {
+        "key": "B",
+        "text": "warm colours"
+      },
+      {
+        "key": "C",
+        "text": "secondary colours"
+      },
+      {
+        "key": "D",
+        "text": "primary colours"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Neutral colours lack a distinct hue, such as black, white and grey."
+  },
+  {
+    "id": "waec-music-elements-1",
+    "subject": "Music",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Elements of Music",
+    "difficulty": "easy",
+    "prompt": "The speed at which a piece of music is played is called its",
+    "options": [
+      {
+        "key": "A",
+        "text": "pitch"
+      },
+      {
+        "key": "B",
+        "text": "tempo"
+      },
+      {
+        "key": "C",
+        "text": "dynamics"
+      },
+      {
+        "key": "D",
+        "text": "timbre"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Tempo refers to the speed of a musical piece."
+  },
+  {
+    "id": "waec-music-elements-2",
+    "subject": "Music",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Elements of Music",
+    "difficulty": "medium",
+    "prompt": "The relative highness or lowness of a musical sound is called its",
+    "options": [
+      {
+        "key": "A",
+        "text": "tempo"
+      },
+      {
+        "key": "B",
+        "text": "pitch"
+      },
+      {
+        "key": "C",
+        "text": "harmony"
+      },
+      {
+        "key": "D",
+        "text": "rhythm"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Pitch describes how high or low a sound is."
+  },
+  {
+    "id": "waec-music-elements-3",
+    "subject": "Music",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Elements of Music",
+    "difficulty": "hard",
+    "prompt": "The distinctive quality or 'colour' of a sound that distinguishes one instrument or voice from another, even at the same pitch, is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "tempo"
+      },
+      {
+        "key": "B",
+        "text": "dynamics"
+      },
+      {
+        "key": "C",
+        "text": "timbre"
+      },
+      {
+        "key": "D",
+        "text": "pitch"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Timbre is the tonal quality that differentiates sound sources."
+  },
+  {
+    "id": "waec-music-elements-4",
+    "subject": "Music",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Elements of Music",
+    "difficulty": "medium",
+    "prompt": "The pattern of long and short sounds and silences in music is called its",
+    "options": [
+      {
+        "key": "A",
+        "text": "rhythm"
+      },
+      {
+        "key": "B",
+        "text": "texture"
+      },
+      {
+        "key": "C",
+        "text": "pitch"
+      },
+      {
+        "key": "D",
+        "text": "timbre"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Rhythm is the pattern of note durations and rests over time."
+  },
+  {
+    "id": "waec-music-elements-5",
+    "subject": "Music",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Elements of Music",
+    "difficulty": "easy",
+    "prompt": "The combination of two or more musical notes sounded simultaneously to produce a pleasing effect is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "harmony"
+      },
+      {
+        "key": "B",
+        "text": "melody"
+      },
+      {
+        "key": "C",
+        "text": "rhythm"
+      },
+      {
+        "key": "D",
+        "text": "tempo"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Harmony is the simultaneous combination of pitches."
+  },
+  {
+    "id": "waec-music-notation-1",
+    "subject": "Music",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Musical Notation",
+    "difficulty": "easy",
+    "prompt": "The five horizontal lines and four spaces on which musical notes are written is called the",
+    "options": [
+      {
+        "key": "A",
+        "text": "staff (stave)"
+      },
+      {
+        "key": "B",
+        "text": "time signature"
+      },
+      {
+        "key": "C",
+        "text": "bar line"
+      },
+      {
+        "key": "D",
+        "text": "clef"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "The staff is the set of five lines and four spaces used to notate pitch."
+  },
+  {
+    "id": "waec-music-notation-2",
+    "subject": "Music",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Musical Notation",
+    "difficulty": "medium",
+    "prompt": "The symbol placed at the beginning of a staff to indicate the pitch of the notes is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "time signature"
+      },
+      {
+        "key": "B",
+        "text": "rest"
+      },
+      {
+        "key": "C",
+        "text": "clef"
+      },
+      {
+        "key": "D",
+        "text": "bar line"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "A clef fixes the pitch reference for notes on the staff."
+  },
+  {
+    "id": "waec-music-notation-3",
+    "subject": "Music",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Musical Notation",
+    "difficulty": "hard",
+    "prompt": "A symbol indicating a period of silence of a specific duration in music is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "sharp"
+      },
+      {
+        "key": "B",
+        "text": "rest"
+      },
+      {
+        "key": "C",
+        "text": "clef"
+      },
+      {
+        "key": "D",
+        "text": "natural"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "A rest marks a specific duration of silence in music."
+  },
+  {
+    "id": "waec-music-notation-4",
+    "subject": "Music",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Musical Notation",
+    "difficulty": "medium",
+    "prompt": "The numbers at the beginning of a piece of music indicating the number of beats per bar and the note value of a beat are called the",
+    "options": [
+      {
+        "key": "A",
+        "text": "tempo marking"
+      },
+      {
+        "key": "B",
+        "text": "clef"
+      },
+      {
+        "key": "C",
+        "text": "time signature"
+      },
+      {
+        "key": "D",
+        "text": "key signature"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "The time signature indicates beats per bar and the note value of one beat."
+  },
+  {
+    "id": "waec-music-notation-5",
+    "subject": "Music",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Musical Notation",
+    "difficulty": "easy",
+    "prompt": "A vertical line dividing a staff into equal sections, called measures, is a",
+    "options": [
+      {
+        "key": "A",
+        "text": "rest"
+      },
+      {
+        "key": "B",
+        "text": "clef"
+      },
+      {
+        "key": "C",
+        "text": "bar line"
+      },
+      {
+        "key": "D",
+        "text": "slur"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Bar lines divide music into measures (bars)."
+  },
+  {
+    "id": "waec-music-nigerian-traditional-1",
+    "subject": "Music",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Nigerian Traditional Music",
+    "difficulty": "easy",
+    "prompt": "Traditional Nigerian talking drums are especially known for their ability to",
+    "options": [
+      {
+        "key": "A",
+        "text": "play only Western classical melodies"
+      },
+      {
+        "key": "B",
+        "text": "produce electronic sounds"
+      },
+      {
+        "key": "C",
+        "text": "imitate the tone and rhythm patterns of spoken language"
+      },
+      {
+        "key": "D",
+        "text": "function only as decoration"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Talking drums mimic the tonal patterns of spoken language."
+  },
+  {
+    "id": "waec-music-nigerian-traditional-2",
+    "subject": "Music",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Nigerian Traditional Music",
+    "difficulty": "medium",
+    "prompt": "Traditional Nigerian music is often performed to accompany",
+    "options": [
+      {
+        "key": "A",
+        "text": "only private, solitary listening"
+      },
+      {
+        "key": "B",
+        "text": "only broadcast radio"
+      },
+      {
+        "key": "C",
+        "text": "festivals, ceremonies and communal social events"
+      },
+      {
+        "key": "D",
+        "text": "only foreign audiences"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Traditional music is deeply tied to communal festivals and ceremonies."
+  },
+  {
+    "id": "waec-music-nigerian-traditional-3",
+    "subject": "Music",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Nigerian Traditional Music",
+    "difficulty": "hard",
+    "prompt": "Call-and-response, a common feature of traditional Nigerian and African music, involves",
+    "options": [
+      {
+        "key": "A",
+        "text": "a leader singing a phrase, answered by a chorus or group"
+      },
+      {
+        "key": "B",
+        "text": "a single performer singing alone throughout"
+      },
+      {
+        "key": "C",
+        "text": "only instrumental music with no vocals"
+      },
+      {
+        "key": "D",
+        "text": "pre-recorded playback only"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Call-and-response alternates a leader's phrase with a group's response."
+  },
+  {
+    "id": "waec-music-nigerian-traditional-4",
+    "subject": "Music",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Nigerian Traditional Music",
+    "difficulty": "medium",
+    "prompt": "The 'gangan' and 'dundun' are traditional Yoruba examples of",
+    "options": [
+      {
+        "key": "A",
+        "text": "talking drums"
+      },
+      {
+        "key": "B",
+        "text": "wind instruments"
+      },
+      {
+        "key": "C",
+        "text": "string instruments"
+      },
+      {
+        "key": "D",
+        "text": "keyboard instruments"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Gangan and dundun are Yoruba hourglass-shaped talking drums."
+  },
+  {
+    "id": "waec-music-nigerian-traditional-5",
+    "subject": "Music",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Nigerian Traditional Music",
+    "difficulty": "easy",
+    "prompt": "Traditional Nigerian music is typically passed from one generation to another mainly through",
+    "options": [
+      {
+        "key": "A",
+        "text": "formal university degrees only"
+      },
+      {
+        "key": "B",
+        "text": "foreign textbooks"
+      },
+      {
+        "key": "C",
+        "text": "oral tradition and practical demonstration"
+      },
+      {
+        "key": "D",
+        "text": "written sheet music only"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Traditional music is transmitted orally and through hands-on practice."
+  },
+  {
+    "id": "waec-music-instruments-1",
+    "subject": "Music",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Musical Instruments",
+    "difficulty": "easy",
+    "prompt": "Instruments that produce sound when struck, shaken, or scraped, such as drums and xylophones, are classified as",
+    "options": [
+      {
+        "key": "A",
+        "text": "wind instruments"
+      },
+      {
+        "key": "B",
+        "text": "electronic instruments"
+      },
+      {
+        "key": "C",
+        "text": "string instruments"
+      },
+      {
+        "key": "D",
+        "text": "percussion instruments"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Percussion instruments produce sound through striking, shaking or scraping."
+  },
+  {
+    "id": "waec-music-instruments-2",
+    "subject": "Music",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Musical Instruments",
+    "difficulty": "medium",
+    "prompt": "Instruments that produce sound through vibrating strings, such as the guitar and violin, are classified as",
+    "options": [
+      {
+        "key": "A",
+        "text": "percussion instruments"
+      },
+      {
+        "key": "B",
+        "text": "string instruments"
+      },
+      {
+        "key": "C",
+        "text": "brass instruments"
+      },
+      {
+        "key": "D",
+        "text": "wind instruments"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "String instruments generate sound via vibrating strings."
+  },
+  {
+    "id": "waec-music-instruments-3",
+    "subject": "Music",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Musical Instruments",
+    "difficulty": "hard",
+    "prompt": "Instruments that produce sound by the vibration of air within a tube, such as the flute, are classified as",
+    "options": [
+      {
+        "key": "A",
+        "text": "string instruments"
+      },
+      {
+        "key": "B",
+        "text": "idiophones"
+      },
+      {
+        "key": "C",
+        "text": "percussion instruments"
+      },
+      {
+        "key": "D",
+        "text": "wind instruments"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Wind instruments produce sound from vibrating air columns."
+  },
+  {
+    "id": "waec-music-instruments-4",
+    "subject": "Music",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Musical Instruments",
+    "difficulty": "medium",
+    "prompt": "The 'kora', a traditional West African instrument with many strings played like a harp-lute, is classified as a",
+    "options": [
+      {
+        "key": "A",
+        "text": "brass instrument"
+      },
+      {
+        "key": "B",
+        "text": "wind instrument"
+      },
+      {
+        "key": "C",
+        "text": "string instrument"
+      },
+      {
+        "key": "D",
+        "text": "percussion instrument"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "The kora is a plucked string instrument combining harp and lute features."
+  },
+  {
+    "id": "waec-music-instruments-5",
+    "subject": "Music",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Musical Instruments",
+    "difficulty": "easy",
+    "prompt": "The piano produces sound through hammers striking strings inside the instrument, classifying it broadly as a",
+    "options": [
+      {
+        "key": "A",
+        "text": "string (keyboard) instrument"
+      },
+      {
+        "key": "B",
+        "text": "percussion instrument only"
+      },
+      {
+        "key": "C",
+        "text": "wind instrument"
+      },
+      {
+        "key": "D",
+        "text": "electronic instrument"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "The piano is a keyboard instrument that sounds strings via hammers."
+  },
+  {
+    "id": "waec-music-voice-1",
+    "subject": "Music",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Voice & Vocal Music",
+    "difficulty": "easy",
+    "prompt": "The lowest common adult male singing voice range is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "soprano"
+      },
+      {
+        "key": "B",
+        "text": "alto"
+      },
+      {
+        "key": "C",
+        "text": "tenor"
+      },
+      {
+        "key": "D",
+        "text": "bass"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Bass is the lowest standard adult male vocal range."
+  },
+  {
+    "id": "waec-music-voice-2",
+    "subject": "Music",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Voice & Vocal Music",
+    "difficulty": "medium",
+    "prompt": "The highest common adult female singing voice range is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "alto"
+      },
+      {
+        "key": "B",
+        "text": "baritone"
+      },
+      {
+        "key": "C",
+        "text": "soprano"
+      },
+      {
+        "key": "D",
+        "text": "bass"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Soprano is the highest standard adult female vocal range."
+  },
+  {
+    "id": "waec-music-voice-3",
+    "subject": "Music",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Voice & Vocal Music",
+    "difficulty": "hard",
+    "prompt": "A song written to be sung by a group of voices, each singing a different, harmonizing part, is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "instrumental etude"
+      },
+      {
+        "key": "B",
+        "text": "choral (part-song) composition"
+      },
+      {
+        "key": "C",
+        "text": "solo composition"
+      },
+      {
+        "key": "D",
+        "text": "monophonic chant"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Choral music is written for multiple, harmonizing vocal parts."
+  },
+  {
+    "id": "waec-music-voice-4",
+    "subject": "Music",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Voice & Vocal Music",
+    "difficulty": "medium",
+    "prompt": "The adult male voice range between bass and tenor is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "soprano"
+      },
+      {
+        "key": "B",
+        "text": "alto"
+      },
+      {
+        "key": "C",
+        "text": "contralto"
+      },
+      {
+        "key": "D",
+        "text": "baritone"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Baritone sits between bass and tenor in the male vocal range."
+  },
+  {
+    "id": "waec-music-voice-5",
+    "subject": "Music",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Voice & Vocal Music",
+    "difficulty": "easy",
+    "prompt": "A song performed by a single singer, without other voices, is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "solo"
+      },
+      {
+        "key": "B",
+        "text": "chorus"
+      },
+      {
+        "key": "C",
+        "text": "duet"
+      },
+      {
+        "key": "D",
+        "text": "choir performance"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "A solo is performed by one singer alone."
+  },
+  {
+    "id": "waec-french-grammar-1",
+    "subject": "French",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Basic Grammar",
+    "difficulty": "easy",
+    "prompt": "Choose the correct definite article for 'table' (a feminine noun): '___ table'",
+    "options": [
+      {
+        "key": "A",
+        "text": "L'"
+      },
+      {
+        "key": "B",
+        "text": "Les"
+      },
+      {
+        "key": "C",
+        "text": "La"
+      },
+      {
+        "key": "D",
+        "text": "Le"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "'Table' is feminine, so it takes the definite article 'la'."
+  },
+  {
+    "id": "waec-french-grammar-2",
+    "subject": "French",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Basic Grammar",
+    "difficulty": "medium",
+    "prompt": "Choose the correct form: 'Il ___ un livre.' (He has a book.)",
+    "options": [
+      {
+        "key": "A",
+        "text": "avons"
+      },
+      {
+        "key": "B",
+        "text": "as"
+      },
+      {
+        "key": "C",
+        "text": "a"
+      },
+      {
+        "key": "D",
+        "text": "ont"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "'Il a' is the third-person singular form of the verb 'avoir' (to have)."
+  },
+  {
+    "id": "waec-french-grammar-3",
+    "subject": "French",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Basic Grammar",
+    "difficulty": "hard",
+    "prompt": "Choose the correct possessive adjective: '___ mère est gentille.' (My mother is kind.)",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mes"
+      },
+      {
+        "key": "B",
+        "text": "Ma"
+      },
+      {
+        "key": "C",
+        "text": "Mon"
+      },
+      {
+        "key": "D",
+        "text": "Ton"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "'Mère' is feminine singular, taking the possessive 'ma' for 'my'."
+  },
+  {
+    "id": "waec-french-grammar-4",
+    "subject": "French",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Basic Grammar",
+    "difficulty": "medium",
+    "prompt": "Choose the correct plural form of 'le cheval' (the horse).",
+    "options": [
+      {
+        "key": "A",
+        "text": "le chevaux"
+      },
+      {
+        "key": "B",
+        "text": "les cheval"
+      },
+      {
+        "key": "C",
+        "text": "les chevaux"
+      },
+      {
+        "key": "D",
+        "text": "les chevals"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "'Cheval' has the irregular plural 'chevaux'."
+  },
+  {
+    "id": "waec-french-grammar-5",
+    "subject": "French",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Basic Grammar",
+    "difficulty": "easy",
+    "prompt": "Choose the correct indefinite article for 'garçon' (a masculine noun): '___ garçon'",
+    "options": [
+      {
+        "key": "A",
+        "text": "Un"
+      },
+      {
+        "key": "B",
+        "text": "Le"
+      },
+      {
+        "key": "C",
+        "text": "Une"
+      },
+      {
+        "key": "D",
+        "text": "Des"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "'Garçon' is masculine, taking the indefinite article 'un'."
+  },
+  {
+    "id": "waec-french-vocabulary-1",
+    "subject": "French",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Vocabulary",
+    "difficulty": "easy",
+    "prompt": "What is the French word for 'book'?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Livre"
+      },
+      {
+        "key": "B",
+        "text": "Chaise"
+      },
+      {
+        "key": "C",
+        "text": "Table"
+      },
+      {
+        "key": "D",
+        "text": "Porte"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "'Livre' is the French word for 'book'."
+  },
+  {
+    "id": "waec-french-vocabulary-2",
+    "subject": "French",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Vocabulary",
+    "difficulty": "medium",
+    "prompt": "What is the French word for 'school'?",
+    "options": [
+      {
+        "key": "A",
+        "text": "École"
+      },
+      {
+        "key": "B",
+        "text": "Hôpital"
+      },
+      {
+        "key": "C",
+        "text": "Maison"
+      },
+      {
+        "key": "D",
+        "text": "Marché"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "'École' is the French word for 'school'."
+  },
+  {
+    "id": "waec-french-vocabulary-3",
+    "subject": "French",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Vocabulary",
+    "difficulty": "hard",
+    "prompt": "What is the French word for 'yesterday'?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Demain"
+      },
+      {
+        "key": "B",
+        "text": "Aujourd'hui"
+      },
+      {
+        "key": "C",
+        "text": "Hier"
+      },
+      {
+        "key": "D",
+        "text": "Toujours"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "'Hier' is the French word for 'yesterday'."
+  },
+  {
+    "id": "waec-french-vocabulary-4",
+    "subject": "French",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Vocabulary",
+    "difficulty": "medium",
+    "prompt": "What is the French word for 'family'?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Enfants"
+      },
+      {
+        "key": "B",
+        "text": "Amis"
+      },
+      {
+        "key": "C",
+        "text": "Voisins"
+      },
+      {
+        "key": "D",
+        "text": "Famille"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "'Famille' is the French word for 'family'."
+  },
+  {
+    "id": "waec-french-vocabulary-5",
+    "subject": "French",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Vocabulary",
+    "difficulty": "easy",
+    "prompt": "What is the French word for 'water'?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Eau"
+      },
+      {
+        "key": "B",
+        "text": "Lait"
+      },
+      {
+        "key": "C",
+        "text": "Pain"
+      },
+      {
+        "key": "D",
+        "text": "Sel"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "'Eau' is the French word for 'water'."
+  },
+  {
+    "id": "waec-french-verbs-1",
+    "subject": "French",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Verb Conjugation",
+    "difficulty": "easy",
+    "prompt": "Choose the correct conjugation: 'Je ___ étudiant.' (I am a student.)",
+    "options": [
+      {
+        "key": "A",
+        "text": "est"
+      },
+      {
+        "key": "B",
+        "text": "suis"
+      },
+      {
+        "key": "C",
+        "text": "sommes"
+      },
+      {
+        "key": "D",
+        "text": "es"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "'Je suis' is the first-person singular form of 'être' (to be)."
+  },
+  {
+    "id": "waec-french-verbs-2",
+    "subject": "French",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Verb Conjugation",
+    "difficulty": "medium",
+    "prompt": "Choose the correct conjugation: 'Nous ___ à l'école tous les jours.' (We go to school every day.)",
+    "options": [
+      {
+        "key": "A",
+        "text": "allons"
+      },
+      {
+        "key": "B",
+        "text": "va"
+      },
+      {
+        "key": "C",
+        "text": "vais"
+      },
+      {
+        "key": "D",
+        "text": "vont"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "'Nous allons' is the first-person plural form of 'aller' (to go)."
+  },
+  {
+    "id": "waec-french-verbs-3",
+    "subject": "French",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Verb Conjugation",
+    "difficulty": "hard",
+    "prompt": "Choose the correct passé composé form: 'Elle ___ (manger) une pomme hier.'",
+    "options": [
+      {
+        "key": "A",
+        "text": "est mangé"
+      },
+      {
+        "key": "B",
+        "text": "a mangé"
+      },
+      {
+        "key": "C",
+        "text": "mange"
+      },
+      {
+        "key": "D",
+        "text": "a mangée"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "'Manger' uses 'avoir' as its auxiliary in the passé composé: 'elle a mangé'."
+  },
+  {
+    "id": "waec-french-verbs-4",
+    "subject": "French",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Verb Conjugation",
+    "difficulty": "medium",
+    "prompt": "Choose the correct conjugation: 'Vous ___ français?' (Do you speak French?)",
+    "options": [
+      {
+        "key": "A",
+        "text": "parlez"
+      },
+      {
+        "key": "B",
+        "text": "parle"
+      },
+      {
+        "key": "C",
+        "text": "parlons"
+      },
+      {
+        "key": "D",
+        "text": "parlent"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "'Vous parlez' is the second-person plural form of 'parler' (to speak)."
+  },
+  {
+    "id": "waec-french-verbs-5",
+    "subject": "French",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Verb Conjugation",
+    "difficulty": "easy",
+    "prompt": "Choose the correct conjugation: 'Tu ___ un ami.' (You have a friend.)",
+    "options": [
+      {
+        "key": "A",
+        "text": "a"
+      },
+      {
+        "key": "B",
+        "text": "ont"
+      },
+      {
+        "key": "C",
+        "text": "as"
+      },
+      {
+        "key": "D",
+        "text": "avez"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "'Tu as' is the second-person singular form of 'avoir' (to have)."
+  },
+  {
+    "id": "waec-french-comprehension-1",
+    "subject": "French",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Comprehension",
+    "difficulty": "easy",
+    "prompt": "'Bonjour, comment allez-vous?' is best translated as",
+    "options": [
+      {
+        "key": "A",
+        "text": "Goodbye, see you soon"
+      },
+      {
+        "key": "B",
+        "text": "Thank you very much"
+      },
+      {
+        "key": "C",
+        "text": "Excuse me, please"
+      },
+      {
+        "key": "D",
+        "text": "Hello, how are you?"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "'Bonjour, comment allez-vous?' means 'Hello, how are you?'"
+  },
+  {
+    "id": "waec-french-comprehension-2",
+    "subject": "French",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Comprehension",
+    "difficulty": "medium",
+    "prompt": "'Je m'appelle Ade.' is best translated as",
+    "options": [
+      {
+        "key": "A",
+        "text": "I am going to Ade's house"
+      },
+      {
+        "key": "B",
+        "text": "I like Ade"
+      },
+      {
+        "key": "C",
+        "text": "Ade is my friend"
+      },
+      {
+        "key": "D",
+        "text": "My name is Ade"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "'Je m'appelle Ade' means 'My name is Ade'."
+  },
+  {
+    "id": "waec-french-comprehension-3",
+    "subject": "French",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Comprehension",
+    "difficulty": "hard",
+    "prompt": "'Il fait beau aujourd'hui.' is best translated as",
+    "options": [
+      {
+        "key": "A",
+        "text": "It is cold today"
+      },
+      {
+        "key": "B",
+        "text": "He is handsome today"
+      },
+      {
+        "key": "C",
+        "text": "The weather is nice today"
+      },
+      {
+        "key": "D",
+        "text": "He is working today"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "'Il fait beau' is a weather expression meaning 'the weather is nice'."
+  },
+  {
+    "id": "waec-french-comprehension-4",
+    "subject": "French",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Comprehension",
+    "difficulty": "medium",
+    "prompt": "'Où habites-tu?' is best translated as",
+    "options": [
+      {
+        "key": "A",
+        "text": "What is your name?"
+      },
+      {
+        "key": "B",
+        "text": "Where do you live?"
+      },
+      {
+        "key": "C",
+        "text": "What time is it?"
+      },
+      {
+        "key": "D",
+        "text": "How old are you?"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "'Où habites-tu?' means 'Where do you live?'"
+  },
+  {
+    "id": "waec-french-comprehension-5",
+    "subject": "French",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Comprehension",
+    "difficulty": "easy",
+    "prompt": "'Merci beaucoup' is best translated as",
+    "options": [
+      {
+        "key": "A",
+        "text": "Thank you very much"
+      },
+      {
+        "key": "B",
+        "text": "I'm sorry"
+      },
+      {
+        "key": "C",
+        "text": "Good morning"
+      },
+      {
+        "key": "D",
+        "text": "See you later"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "'Merci beaucoup' means 'Thank you very much'."
+  },
+  {
+    "id": "waec-french-numbers-1",
+    "subject": "French",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Numbers & Everyday Expressions",
+    "difficulty": "easy",
+    "prompt": "What is the French word for the number 'five'?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Six"
+      },
+      {
+        "key": "B",
+        "text": "Dix"
+      },
+      {
+        "key": "C",
+        "text": "Quatre"
+      },
+      {
+        "key": "D",
+        "text": "Cinq"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "'Cinq' is the French word for 'five'."
+  },
+  {
+    "id": "waec-french-numbers-2",
+    "subject": "French",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Numbers & Everyday Expressions",
+    "difficulty": "medium",
+    "prompt": "What is the French word for the number 'ten'?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Dix"
+      },
+      {
+        "key": "B",
+        "text": "Huit"
+      },
+      {
+        "key": "C",
+        "text": "Neuf"
+      },
+      {
+        "key": "D",
+        "text": "Onze"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "'Dix' is the French word for 'ten'."
+  },
+  {
+    "id": "waec-french-numbers-3",
+    "subject": "French",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Numbers & Everyday Expressions",
+    "difficulty": "hard",
+    "prompt": "What is the correct French word for 'twenty'?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Trente"
+      },
+      {
+        "key": "B",
+        "text": "Vingt"
+      },
+      {
+        "key": "C",
+        "text": "Quinze"
+      },
+      {
+        "key": "D",
+        "text": "Douze"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "'Vingt' is the French word for 'twenty'."
+  },
+  {
+    "id": "waec-french-numbers-4",
+    "subject": "French",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Numbers & Everyday Expressions",
+    "difficulty": "medium",
+    "prompt": "Which of the following is the correct French expression for 'Good evening'?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Au revoir"
+      },
+      {
+        "key": "B",
+        "text": "Bonsoir"
+      },
+      {
+        "key": "C",
+        "text": "Bonjour"
+      },
+      {
+        "key": "D",
+        "text": "Bonne nuit"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "'Bonsoir' means 'Good evening'."
+  },
+  {
+    "id": "waec-french-numbers-5",
+    "subject": "French",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Numbers & Everyday Expressions",
+    "difficulty": "easy",
+    "prompt": "Which of the following is the correct French expression for 'Please'?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Merci"
+      },
+      {
+        "key": "B",
+        "text": "S'il vous plaît"
+      },
+      {
+        "key": "C",
+        "text": "Pardon"
+      },
+      {
+        "key": "D",
+        "text": "Salut"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "'S'il vous plaît' means 'Please'."
+  },
+  {
+    "id": "waec-store-stock-control-1",
+    "subject": "Store Management",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Stock Control & Inventory",
+    "difficulty": "easy",
+    "prompt": "The process of ensuring that a business always has the right amount of goods available for sale or use is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "advertising"
+      },
+      {
+        "key": "B",
+        "text": "stock control"
+      },
+      {
+        "key": "C",
+        "text": "auditing"
+      },
+      {
+        "key": "D",
+        "text": "recruitment"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Stock control ensures goods are neither understocked nor overstocked."
+  },
+  {
+    "id": "waec-store-stock-control-2",
+    "subject": "Store Management",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Stock Control & Inventory",
+    "difficulty": "medium",
+    "prompt": "The stock level at which a new order should be placed to avoid running out of goods is called the",
+    "options": [
+      {
+        "key": "A",
+        "text": "re-order level"
+      },
+      {
+        "key": "B",
+        "text": "minimum stock level"
+      },
+      {
+        "key": "C",
+        "text": "maximum stock level"
+      },
+      {
+        "key": "D",
+        "text": "safety stock"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "The re-order level triggers a new purchase order before stock runs out."
+  },
+  {
+    "id": "waec-store-stock-control-3",
+    "subject": "Store Management",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Stock Control & Inventory",
+    "difficulty": "hard",
+    "prompt": "The stock control method in which items are issued from the store on a 'first in, first out' basis is known by the abbreviation",
+    "options": [
+      {
+        "key": "A",
+        "text": "JIT"
+      },
+      {
+        "key": "B",
+        "text": "EOQ"
+      },
+      {
+        "key": "C",
+        "text": "FIFO"
+      },
+      {
+        "key": "D",
+        "text": "LIFO"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "FIFO issues the oldest stock first, reducing the risk of spoilage or obsolescence."
+  },
+  {
+    "id": "waec-store-stock-control-4",
+    "subject": "Store Management",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Stock Control & Inventory",
+    "difficulty": "medium",
+    "prompt": "The lowest quantity of stock that should be kept to avoid a stock-out is called the",
+    "options": [
+      {
+        "key": "A",
+        "text": "economic order quantity"
+      },
+      {
+        "key": "B",
+        "text": "re-order level"
+      },
+      {
+        "key": "C",
+        "text": "minimum stock level"
+      },
+      {
+        "key": "D",
+        "text": "maximum stock level"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "The minimum stock level is the buffer kept to avoid running out of stock."
+  },
+  {
+    "id": "waec-store-stock-control-5",
+    "subject": "Store Management",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Stock Control & Inventory",
+    "difficulty": "easy",
+    "prompt": "Carrying out a physical count of all goods in the store to verify recorded stock figures is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "stock advertising"
+      },
+      {
+        "key": "B",
+        "text": "stock-taking"
+      },
+      {
+        "key": "C",
+        "text": "stock ordering"
+      },
+      {
+        "key": "D",
+        "text": "stock issuing"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Stock-taking physically verifies actual stock against recorded figures."
+  },
+  {
+    "id": "waec-store-layout-equipment-1",
+    "subject": "Store Management",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Store Layout & Equipment",
+    "difficulty": "easy",
+    "prompt": "A well-organized store layout mainly helps to",
+    "options": [
+      {
+        "key": "A",
+        "text": "eliminate the need for records"
+      },
+      {
+        "key": "B",
+        "text": "increase the sale price of goods"
+      },
+      {
+        "key": "C",
+        "text": "ensure easy and quick access to stored goods"
+      },
+      {
+        "key": "D",
+        "text": "reduce the number of customers"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Good layout speeds up locating and retrieving stored goods."
+  },
+  {
+    "id": "waec-store-layout-equipment-2",
+    "subject": "Store Management",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Store Layout & Equipment",
+    "difficulty": "medium",
+    "prompt": "Equipment such as pallets and racks are used in a store mainly to",
+    "options": [
+      {
+        "key": "A",
+        "text": "advertise products"
+      },
+      {
+        "key": "B",
+        "text": "clean the store floor"
+      },
+      {
+        "key": "C",
+        "text": "store goods safely and make efficient use of space"
+      },
+      {
+        "key": "D",
+        "text": "calculate stock value"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Pallets and racks organize goods safely while maximizing storage space."
+  },
+  {
+    "id": "waec-store-layout-equipment-3",
+    "subject": "Store Management",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Store Layout & Equipment",
+    "difficulty": "hard",
+    "prompt": "A device used to lift and move heavy loads of goods within a store or warehouse is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "cash register"
+      },
+      {
+        "key": "B",
+        "text": "forklift truck"
+      },
+      {
+        "key": "C",
+        "text": "stapler"
+      },
+      {
+        "key": "D",
+        "text": "filing cabinet"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "A forklift truck lifts and transports heavy loads in a store."
+  },
+  {
+    "id": "waec-store-layout-equipment-4",
+    "subject": "Store Management",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Store Layout & Equipment",
+    "difficulty": "medium",
+    "prompt": "Storing heavier and bulkier goods on the lower shelves of a store rack is a practice mainly meant to",
+    "options": [
+      {
+        "key": "A",
+        "text": "improve the appearance of the store only"
+      },
+      {
+        "key": "B",
+        "text": "increase the cost of goods"
+      },
+      {
+        "key": "C",
+        "text": "save floor space only"
+      },
+      {
+        "key": "D",
+        "text": "ensure stability and safety"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Lower placement of heavy goods keeps racking stable and reduces fall risk."
+  },
+  {
+    "id": "waec-store-layout-equipment-5",
+    "subject": "Store Management",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Store Layout & Equipment",
+    "difficulty": "easy",
+    "prompt": "A designated area within a store used to temporarily hold goods before they are shelved or issued is called the",
+    "options": [
+      {
+        "key": "A",
+        "text": "car park"
+      },
+      {
+        "key": "B",
+        "text": "office"
+      },
+      {
+        "key": "C",
+        "text": "sales floor"
+      },
+      {
+        "key": "D",
+        "text": "receiving/staging area"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "The staging area temporarily holds goods awaiting shelving or issue."
+  },
+  {
+    "id": "waec-store-receiving-issuing-1",
+    "subject": "Store Management",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Receiving & Issuing Goods",
+    "difficulty": "easy",
+    "prompt": "When goods are received into a store, they should first be checked against the",
+    "options": [
+      {
+        "key": "A",
+        "text": "delivery note/purchase order"
+      },
+      {
+        "key": "B",
+        "text": "sales invoice to a customer"
+      },
+      {
+        "key": "C",
+        "text": "job advertisement"
+      },
+      {
+        "key": "D",
+        "text": "bank statement"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Received goods are verified against the delivery note or original purchase order."
+  },
+  {
+    "id": "waec-store-receiving-issuing-2",
+    "subject": "Store Management",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Receiving & Issuing Goods",
+    "difficulty": "medium",
+    "prompt": "A document used to request the release of goods from the store to a department within the organisation is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "purchase order"
+      },
+      {
+        "key": "B",
+        "text": "sales invoice"
+      },
+      {
+        "key": "C",
+        "text": "delivery note"
+      },
+      {
+        "key": "D",
+        "text": "requisition (issue) note/form"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "A requisition form authorizes goods to be issued internally."
+  },
+  {
+    "id": "waec-store-receiving-issuing-3",
+    "subject": "Store Management",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Receiving & Issuing Goods",
+    "difficulty": "hard",
+    "prompt": "If goods received are found to be damaged or short in quantity, the storekeeper should",
+    "options": [
+      {
+        "key": "A",
+        "text": "issue the goods to customers as normal"
+      },
+      {
+        "key": "B",
+        "text": "record the discrepancy and report it to the appropriate department immediately"
+      },
+      {
+        "key": "C",
+        "text": "accept the goods without comment"
+      },
+      {
+        "key": "D",
+        "text": "discard the goods without reporting"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Discrepancies must be recorded and reported for corrective action."
+  },
+  {
+    "id": "waec-store-receiving-issuing-4",
+    "subject": "Store Management",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Receiving & Issuing Goods",
+    "difficulty": "medium",
+    "prompt": "The document sent by a supplier along with goods, listing the items delivered, is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "job card"
+      },
+      {
+        "key": "B",
+        "text": "stock card"
+      },
+      {
+        "key": "C",
+        "text": "delivery note"
+      },
+      {
+        "key": "D",
+        "text": "requisition form"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "A delivery note lists the items a supplier has delivered."
+  },
+  {
+    "id": "waec-store-receiving-issuing-5",
+    "subject": "Store Management",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Receiving & Issuing Goods",
+    "difficulty": "easy",
+    "prompt": "Goods leaving the store to be used or sold are said to be",
+    "options": [
+      {
+        "key": "A",
+        "text": "received"
+      },
+      {
+        "key": "B",
+        "text": "returned"
+      },
+      {
+        "key": "C",
+        "text": "ordered"
+      },
+      {
+        "key": "D",
+        "text": "issued"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Goods leaving the store for use or sale are 'issued'."
+  },
+  {
+    "id": "waec-store-records-1",
+    "subject": "Store Management",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Stock Records & Documentation",
+    "difficulty": "easy",
+    "prompt": "A card kept for each item in the store, recording every receipt and issue of that item, is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "invoice"
+      },
+      {
+        "key": "B",
+        "text": "bin card/stock card"
+      },
+      {
+        "key": "C",
+        "text": "payslip"
+      },
+      {
+        "key": "D",
+        "text": "cheque"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "A bin card tracks all movements of a specific stock item."
+  },
+  {
+    "id": "waec-store-records-2",
+    "subject": "Store Management",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Stock Records & Documentation",
+    "difficulty": "medium",
+    "prompt": "The document used to place an order for goods with a supplier is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "requisition form"
+      },
+      {
+        "key": "B",
+        "text": "purchase order"
+      },
+      {
+        "key": "C",
+        "text": "delivery note"
+      },
+      {
+        "key": "D",
+        "text": "sales invoice"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "A purchase order formally requests goods from a supplier."
+  },
+  {
+    "id": "waec-store-records-3",
+    "subject": "Store Management",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Stock Records & Documentation",
+    "difficulty": "hard",
+    "prompt": "A perpetual (continuous) inventory system differs from a periodic inventory system mainly because it",
+    "options": [
+      {
+        "key": "A",
+        "text": "never records stock at all"
+      },
+      {
+        "key": "B",
+        "text": "requires no documentation whatsoever"
+      },
+      {
+        "key": "C",
+        "text": "updates stock records after every single transaction, rather than at fixed intervals"
+      },
+      {
+        "key": "D",
+        "text": "only counts stock once a year"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Perpetual systems update records continuously, unlike periodic counting."
+  },
+  {
+    "id": "waec-store-records-4",
+    "subject": "Store Management",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Stock Records & Documentation",
+    "difficulty": "medium",
+    "prompt": "Accurate stock records help management mainly to",
+    "options": [
+      {
+        "key": "A",
+        "text": "set employee salaries"
+      },
+      {
+        "key": "B",
+        "text": "increase advertising expenditure"
+      },
+      {
+        "key": "C",
+        "text": "make informed decisions on purchasing and avoid stock-outs or overstocking"
+      },
+      {
+        "key": "D",
+        "text": "determine tax rates"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Reliable stock records support better purchasing and inventory decisions."
+  },
+  {
+    "id": "waec-store-records-5",
+    "subject": "Store Management",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Stock Records & Documentation",
+    "difficulty": "easy",
+    "prompt": "The total value of all goods held in a store at a given time is called the",
+    "options": [
+      {
+        "key": "A",
+        "text": "cost of transport"
+      },
+      {
+        "key": "B",
+        "text": "wage bill"
+      },
+      {
+        "key": "C",
+        "text": "value of stock (inventory value)"
+      },
+      {
+        "key": "D",
+        "text": "sales value"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Inventory value is the total worth of goods currently held in stock."
+  },
+  {
+    "id": "waec-store-safety-security-1",
+    "subject": "Store Management",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Safety & Security in the Store",
+    "difficulty": "easy",
+    "prompt": "Keeping the store free from fire hazards, such as properly storing flammable materials, is an example of",
+    "options": [
+      {
+        "key": "A",
+        "text": "store safety practice"
+      },
+      {
+        "key": "B",
+        "text": "customer service"
+      },
+      {
+        "key": "C",
+        "text": "advertising"
+      },
+      {
+        "key": "D",
+        "text": "stock control"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Proper handling of flammable materials is a key store safety practice."
+  },
+  {
+    "id": "waec-store-safety-security-2",
+    "subject": "Store Management",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Safety & Security in the Store",
+    "difficulty": "medium",
+    "prompt": "Restricting access to the store to only authorized personnel is a measure to improve",
+    "options": [
+      {
+        "key": "A",
+        "text": "store security"
+      },
+      {
+        "key": "B",
+        "text": "stock rotation"
+      },
+      {
+        "key": "C",
+        "text": "product pricing"
+      },
+      {
+        "key": "D",
+        "text": "sales promotion"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Limiting access helps prevent theft and unauthorized handling of stock."
+  },
+  {
+    "id": "waec-store-safety-security-3",
+    "subject": "Store Management",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Safety & Security in the Store",
+    "difficulty": "hard",
+    "prompt": "Regularly checking fire extinguishers and emergency exits in a store is important mainly to",
+    "options": [
+      {
+        "key": "A",
+        "text": "reduce the number of staff needed"
+      },
+      {
+        "key": "B",
+        "text": "improve product packaging"
+      },
+      {
+        "key": "C",
+        "text": "ensure readiness in case of a fire emergency"
+      },
+      {
+        "key": "D",
+        "text": "increase the value of stock"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Regular checks ensure safety equipment works when actually needed."
+  },
+  {
+    "id": "waec-store-safety-security-4",
+    "subject": "Store Management",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Safety & Security in the Store",
+    "difficulty": "medium",
+    "prompt": "A common cause of stock loss in a poorly secured store is",
+    "options": [
+      {
+        "key": "A",
+        "text": "frequent stock-taking"
+      },
+      {
+        "key": "B",
+        "text": "excess air conditioning"
+      },
+      {
+        "key": "C",
+        "text": "theft/pilferage"
+      },
+      {
+        "key": "D",
+        "text": "too much lighting"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Poor security commonly leads to theft or pilferage of stock."
+  },
+  {
+    "id": "waec-store-safety-security-5",
+    "subject": "Store Management",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Safety & Security in the Store",
+    "difficulty": "easy",
+    "prompt": "Wearing protective clothing, such as gloves and safety boots, in a store is mainly meant to",
+    "options": [
+      {
+        "key": "A",
+        "text": "speed up deliveries"
+      },
+      {
+        "key": "B",
+        "text": "protect workers from injury"
+      },
+      {
+        "key": "C",
+        "text": "make workers look uniform only"
+      },
+      {
+        "key": "D",
+        "text": "increase product prices"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Protective clothing guards store workers against physical injury."
+  },
+  {
+    "id": "waec-insurance-principles-1",
+    "subject": "Insurance",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Principles of Insurance",
+    "difficulty": "easy",
+    "prompt": "A contract in which one party (the insurer) agrees to compensate another (the insured) against a specified loss, in return for a premium, is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "a trust deed"
+      },
+      {
+        "key": "B",
+        "text": "an insurance policy"
+      },
+      {
+        "key": "C",
+        "text": "a loan agreement"
+      },
+      {
+        "key": "D",
+        "text": "a partnership agreement"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "An insurance policy is the contract compensating against a specified loss for a premium."
+  },
+  {
+    "id": "waec-insurance-principles-2",
+    "subject": "Insurance",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Principles of Insurance",
+    "difficulty": "medium",
+    "prompt": "The insurance principle that requires the insured to have a genuine financial stake in the item or life being insured is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "insurable interest"
+      },
+      {
+        "key": "B",
+        "text": "utmost good faith"
+      },
+      {
+        "key": "C",
+        "text": "proximate cause"
+      },
+      {
+        "key": "D",
+        "text": "indemnity"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Insurable interest requires a genuine financial stake in the insured subject."
+  },
+  {
+    "id": "waec-insurance-principles-3",
+    "subject": "Insurance",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Principles of Insurance",
+    "difficulty": "hard",
+    "prompt": "The principle of 'proximate cause' in insurance is used to determine",
+    "options": [
+      {
+        "key": "A",
+        "text": "the identity of the policyholder"
+      },
+      {
+        "key": "B",
+        "text": "the most direct, effective cause of a loss for the purpose of a claim"
+      },
+      {
+        "key": "C",
+        "text": "the premium rate to be charged"
+      },
+      {
+        "key": "D",
+        "text": "the exact monetary value of a lost item"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Proximate cause identifies the dominant cause of a loss for claims purposes."
+  },
+  {
+    "id": "waec-insurance-principles-4",
+    "subject": "Insurance",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Principles of Insurance",
+    "difficulty": "medium",
+    "prompt": "The principle that requires both the insurer and the insured to disclose all material facts honestly is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "utmost good faith"
+      },
+      {
+        "key": "B",
+        "text": "indemnity"
+      },
+      {
+        "key": "C",
+        "text": "subrogation"
+      },
+      {
+        "key": "D",
+        "text": "contribution"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Utmost good faith obliges honest disclosure of all material facts."
+  },
+  {
+    "id": "waec-insurance-principles-5",
+    "subject": "Insurance",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Principles of Insurance",
+    "difficulty": "easy",
+    "prompt": "The amount of money the insured pays periodically to keep an insurance policy active is called the",
+    "options": [
+      {
+        "key": "A",
+        "text": "premium"
+      },
+      {
+        "key": "B",
+        "text": "indemnity"
+      },
+      {
+        "key": "C",
+        "text": "commission"
+      },
+      {
+        "key": "D",
+        "text": "dividend"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "The premium is the periodic payment that keeps a policy in force."
+  },
+  {
+    "id": "waec-insurance-types-1",
+    "subject": "Insurance",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Types of Insurance Policies",
+    "difficulty": "easy",
+    "prompt": "Insurance that covers the insured against financial loss arising from vehicle accidents is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "marine insurance"
+      },
+      {
+        "key": "B",
+        "text": "motor insurance"
+      },
+      {
+        "key": "C",
+        "text": "fidelity insurance"
+      },
+      {
+        "key": "D",
+        "text": "life insurance"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Motor insurance covers losses from vehicle-related accidents."
+  },
+  {
+    "id": "waec-insurance-types-2",
+    "subject": "Insurance",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Types of Insurance Policies",
+    "difficulty": "medium",
+    "prompt": "Insurance that provides financial protection to a person's dependants in the event of their death is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "marine insurance"
+      },
+      {
+        "key": "B",
+        "text": "life insurance"
+      },
+      {
+        "key": "C",
+        "text": "fire insurance"
+      },
+      {
+        "key": "D",
+        "text": "motor insurance"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Life insurance protects dependants financially upon the insured's death."
+  },
+  {
+    "id": "waec-insurance-types-3",
+    "subject": "Insurance",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Types of Insurance Policies",
+    "difficulty": "hard",
+    "prompt": "Insurance that protects an employer against loss caused by the dishonesty of an employee, such as theft or fraud, is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "motor insurance"
+      },
+      {
+        "key": "B",
+        "text": "marine insurance"
+      },
+      {
+        "key": "C",
+        "text": "fidelity guarantee insurance"
+      },
+      {
+        "key": "D",
+        "text": "life insurance"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Fidelity guarantee insurance covers losses from employee dishonesty."
+  },
+  {
+    "id": "waec-insurance-types-4",
+    "subject": "Insurance",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Types of Insurance Policies",
+    "difficulty": "medium",
+    "prompt": "Insurance that covers loss or damage to buildings and property caused by fire outbreaks is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "life insurance"
+      },
+      {
+        "key": "B",
+        "text": "marine insurance"
+      },
+      {
+        "key": "C",
+        "text": "fire insurance"
+      },
+      {
+        "key": "D",
+        "text": "fidelity insurance"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Fire insurance covers loss or damage caused by fire."
+  },
+  {
+    "id": "waec-insurance-types-5",
+    "subject": "Insurance",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Types of Insurance Policies",
+    "difficulty": "easy",
+    "prompt": "Insurance that covers goods and cargo transported by sea against loss or damage is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "life insurance"
+      },
+      {
+        "key": "B",
+        "text": "fire insurance"
+      },
+      {
+        "key": "C",
+        "text": "marine insurance"
+      },
+      {
+        "key": "D",
+        "text": "motor insurance"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Marine insurance covers sea-transported goods and cargo."
+  },
+  {
+    "id": "waec-insurance-institutions-1",
+    "subject": "Insurance",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Insurance Institutions & Regulation",
+    "difficulty": "easy",
+    "prompt": "In Nigeria, the government body responsible for regulating and supervising insurance companies is the",
+    "options": [
+      {
+        "key": "A",
+        "text": "Nigerian Stock Exchange"
+      },
+      {
+        "key": "B",
+        "text": "Federal Inland Revenue Service"
+      },
+      {
+        "key": "C",
+        "text": "Central Bank of Nigeria"
+      },
+      {
+        "key": "D",
+        "text": "National Insurance Commission (NAICOM)"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "NAICOM is Nigeria's insurance industry regulator."
+  },
+  {
+    "id": "waec-insurance-institutions-2",
+    "subject": "Insurance",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Insurance Institutions & Regulation",
+    "difficulty": "medium",
+    "prompt": "A person or firm that acts as an intermediary between the insured and the insurer, earning commission on policies sold, is called an",
+    "options": [
+      {
+        "key": "A",
+        "text": "actuary"
+      },
+      {
+        "key": "B",
+        "text": "underwriter directly employed by the insurer"
+      },
+      {
+        "key": "C",
+        "text": "insurance broker/agent"
+      },
+      {
+        "key": "D",
+        "text": "loss adjuster"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Brokers/agents intermediate between insured clients and insurers, earning commission."
+  },
+  {
+    "id": "waec-insurance-institutions-3",
+    "subject": "Insurance",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Insurance Institutions & Regulation",
+    "difficulty": "hard",
+    "prompt": "An organisation formed by several insurance companies to share large risks that a single insurer could not bear alone is called a/an",
+    "options": [
+      {
+        "key": "A",
+        "text": "actuarial society"
+      },
+      {
+        "key": "B",
+        "text": "reinsurance pool/company"
+      },
+      {
+        "key": "C",
+        "text": "regulatory agency"
+      },
+      {
+        "key": "D",
+        "text": "insurance brokerage"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Reinsurance pools spread large risks across several insurers."
+  },
+  {
+    "id": "waec-insurance-institutions-4",
+    "subject": "Insurance",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Insurance Institutions & Regulation",
+    "difficulty": "medium",
+    "prompt": "A professional who uses statistics and mathematics to calculate insurance risks and premiums is called an",
+    "options": [
+      {
+        "key": "A",
+        "text": "underwriter"
+      },
+      {
+        "key": "B",
+        "text": "loss adjuster"
+      },
+      {
+        "key": "C",
+        "text": "insurance agent"
+      },
+      {
+        "key": "D",
+        "text": "actuary"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Actuaries apply statistical methods to assess risk and set premiums."
+  },
+  {
+    "id": "waec-insurance-institutions-5",
+    "subject": "Insurance",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Insurance Institutions & Regulation",
+    "difficulty": "easy",
+    "prompt": "The body of laws and regulations governing the operation of insurance business in a country forms the",
+    "options": [
+      {
+        "key": "A",
+        "text": "company's articles of association only"
+      },
+      {
+        "key": "B",
+        "text": "tax code"
+      },
+      {
+        "key": "C",
+        "text": "insurance regulatory framework"
+      },
+      {
+        "key": "D",
+        "text": "national budget"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "The regulatory framework is the set of laws governing insurance operations."
+  },
+  {
+    "id": "waec-insurance-underwriting-claims-1",
+    "subject": "Insurance",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Underwriting & Claims",
+    "difficulty": "easy",
+    "prompt": "The process by which an insurance company assesses a risk and decides whether and on what terms to accept it is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "underwriting"
+      },
+      {
+        "key": "B",
+        "text": "claiming"
+      },
+      {
+        "key": "C",
+        "text": "auditing"
+      },
+      {
+        "key": "D",
+        "text": "indemnifying"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Underwriting evaluates and decides on the terms for accepting a risk."
+  },
+  {
+    "id": "waec-insurance-underwriting-claims-2",
+    "subject": "Insurance",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Underwriting & Claims",
+    "difficulty": "medium",
+    "prompt": "A formal request made by the insured to the insurer for payment following a loss covered by the policy is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "quotation"
+      },
+      {
+        "key": "B",
+        "text": "endorsement"
+      },
+      {
+        "key": "C",
+        "text": "claim"
+      },
+      {
+        "key": "D",
+        "text": "premium"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "A claim is a formal request for compensation following a covered loss."
+  },
+  {
+    "id": "waec-insurance-underwriting-claims-3",
+    "subject": "Insurance",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Underwriting & Claims",
+    "difficulty": "hard",
+    "prompt": "A professional appointed to assess the extent of damage or loss in an insurance claim and recommend a settlement amount is called a/an",
+    "options": [
+      {
+        "key": "A",
+        "text": "reinsurer"
+      },
+      {
+        "key": "B",
+        "text": "loss adjuster (assessor)"
+      },
+      {
+        "key": "C",
+        "text": "underwriter"
+      },
+      {
+        "key": "D",
+        "text": "actuary"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "A loss adjuster assesses damage and recommends a claim settlement."
+  },
+  {
+    "id": "waec-insurance-underwriting-claims-4",
+    "subject": "Insurance",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Underwriting & Claims",
+    "difficulty": "medium",
+    "prompt": "If an insurance company rejects a claim because the insured provided false information, this is most likely a breach of the principle of",
+    "options": [
+      {
+        "key": "A",
+        "text": "contribution"
+      },
+      {
+        "key": "B",
+        "text": "indemnity"
+      },
+      {
+        "key": "C",
+        "text": "insurable interest"
+      },
+      {
+        "key": "D",
+        "text": "utmost good faith"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "False information at application breaches the duty of utmost good faith."
+  },
+  {
+    "id": "waec-insurance-underwriting-claims-5",
+    "subject": "Insurance",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Underwriting & Claims",
+    "difficulty": "easy",
+    "prompt": "The document that confirms the details and terms of an insurance contract between insurer and insured is called the",
+    "options": [
+      {
+        "key": "A",
+        "text": "insurance policy (certificate)"
+      },
+      {
+        "key": "B",
+        "text": "cheque"
+      },
+      {
+        "key": "C",
+        "text": "invoice"
+      },
+      {
+        "key": "D",
+        "text": "receipt"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "The policy document sets out the agreed terms of the insurance contract."
+  },
+  {
+    "id": "waec-insurance-life-assurance-1",
+    "subject": "Insurance",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Life Assurance",
+    "difficulty": "easy",
+    "prompt": "Life assurance, unlike other forms of insurance, is designed mainly to provide benefits in the case of",
+    "options": [
+      {
+        "key": "A",
+        "text": "motor vehicle accidents"
+      },
+      {
+        "key": "B",
+        "text": "loss of cargo at sea"
+      },
+      {
+        "key": "C",
+        "text": "fire outbreak"
+      },
+      {
+        "key": "D",
+        "text": "death or survival to a specified age"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Life assurance pays out on death or on survival to a specified age."
+  },
+  {
+    "id": "waec-insurance-life-assurance-2",
+    "subject": "Insurance",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Life Assurance",
+    "difficulty": "medium",
+    "prompt": "A type of life assurance that pays out only if the insured dies within a specified period, with no payout if they survive, is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "term assurance"
+      },
+      {
+        "key": "B",
+        "text": "whole life assurance"
+      },
+      {
+        "key": "C",
+        "text": "annuity"
+      },
+      {
+        "key": "D",
+        "text": "endowment assurance"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Term assurance pays out only if death occurs within the policy term."
+  },
+  {
+    "id": "waec-insurance-life-assurance-3",
+    "subject": "Insurance",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Life Assurance",
+    "difficulty": "hard",
+    "prompt": "A type of life assurance policy that pays out either on death or at the end of a fixed term, whichever occurs first, is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "endowment assurance"
+      },
+      {
+        "key": "B",
+        "text": "whole life assurance"
+      },
+      {
+        "key": "C",
+        "text": "term assurance"
+      },
+      {
+        "key": "D",
+        "text": "fidelity insurance"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Endowment assurance pays out on death or at the term's end, whichever is first."
+  },
+  {
+    "id": "waec-insurance-life-assurance-4",
+    "subject": "Insurance",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Life Assurance",
+    "difficulty": "medium",
+    "prompt": "A life assurance policy that provides cover for the whole of the insured's life, paying out whenever death occurs, is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "whole life assurance"
+      },
+      {
+        "key": "B",
+        "text": "term assurance"
+      },
+      {
+        "key": "C",
+        "text": "endowment assurance"
+      },
+      {
+        "key": "D",
+        "text": "motor insurance"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Whole life assurance guarantees a payout whenever death eventually occurs."
+  },
+  {
+    "id": "waec-insurance-life-assurance-5",
+    "subject": "Insurance",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Life Assurance",
+    "difficulty": "easy",
+    "prompt": "An arrangement in which a person pays a lump sum to an insurance company in exchange for regular income payments, often after retirement, is called a/an",
+    "options": [
+      {
+        "key": "A",
+        "text": "annuity"
+      },
+      {
+        "key": "B",
+        "text": "marine policy"
+      },
+      {
+        "key": "C",
+        "text": "fire policy"
+      },
+      {
+        "key": "D",
+        "text": "term assurance"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "An annuity converts a lump sum into a regular income stream."
+  },
+  {
+    "id": "waec-marketing-concepts-1",
+    "subject": "Marketing",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Marketing Concepts",
+    "difficulty": "easy",
+    "prompt": "Marketing is best defined as the process of",
+    "options": [
+      {
+        "key": "A",
+        "text": "only manufacturing goods"
+      },
+      {
+        "key": "B",
+        "text": "only transporting goods"
+      },
+      {
+        "key": "C",
+        "text": "only storing goods"
+      },
+      {
+        "key": "D",
+        "text": "identifying, anticipating and satisfying customer needs profitably"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Marketing centres on identifying and profitably satisfying customer needs."
+  },
+  {
+    "id": "waec-marketing-concepts-2",
+    "subject": "Marketing",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Marketing Concepts",
+    "difficulty": "medium",
+    "prompt": "A business philosophy that focuses on producing goods as efficiently as possible, assuming customers mainly want low-cost, widely available products, is called the",
+    "options": [
+      {
+        "key": "A",
+        "text": "production concept"
+      },
+      {
+        "key": "B",
+        "text": "societal concept"
+      },
+      {
+        "key": "C",
+        "text": "selling concept"
+      },
+      {
+        "key": "D",
+        "text": "marketing concept"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "The production concept prioritizes efficiency and availability over customer research."
+  },
+  {
+    "id": "waec-marketing-concepts-3",
+    "subject": "Marketing",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Marketing Concepts",
+    "difficulty": "hard",
+    "prompt": "The marketing concept that emphasizes understanding and satisfying customer needs better than competitors, as the key to business success, is called the",
+    "options": [
+      {
+        "key": "A",
+        "text": "production concept"
+      },
+      {
+        "key": "B",
+        "text": "selling concept"
+      },
+      {
+        "key": "C",
+        "text": "product concept"
+      },
+      {
+        "key": "D",
+        "text": "marketing concept"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "The marketing concept centres business strategy on customer needs."
+  },
+  {
+    "id": "waec-marketing-concepts-4",
+    "subject": "Marketing",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Marketing Concepts",
+    "difficulty": "medium",
+    "prompt": "The group of customers that a business specifically aims to serve with its products is called its",
+    "options": [
+      {
+        "key": "A",
+        "text": "marketing mix"
+      },
+      {
+        "key": "B",
+        "text": "sales team"
+      },
+      {
+        "key": "C",
+        "text": "distribution channel"
+      },
+      {
+        "key": "D",
+        "text": "target market"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "The target market is the specific customer group a business aims to serve."
+  },
+  {
+    "id": "waec-marketing-concepts-5",
+    "subject": "Marketing",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Marketing Concepts",
+    "difficulty": "easy",
+    "prompt": "The process of dividing a broad market into smaller groups of consumers with similar needs is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "market segmentation"
+      },
+      {
+        "key": "B",
+        "text": "advertising"
+      },
+      {
+        "key": "C",
+        "text": "market research"
+      },
+      {
+        "key": "D",
+        "text": "product development"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Market segmentation divides a broad market into groups with similar needs."
+  },
+  {
+    "id": "waec-marketing-mix-1",
+    "subject": "Marketing",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Marketing Mix (4 Ps)",
+    "difficulty": "easy",
+    "prompt": "The four traditional elements of the marketing mix are Product, Price, Place and",
+    "options": [
+      {
+        "key": "A",
+        "text": "Promotion"
+      },
+      {
+        "key": "B",
+        "text": "Packaging"
+      },
+      {
+        "key": "C",
+        "text": "Process"
+      },
+      {
+        "key": "D",
+        "text": "People"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "The classic 4 Ps of marketing are Product, Price, Place and Promotion."
+  },
+  {
+    "id": "waec-marketing-mix-2",
+    "subject": "Marketing",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Marketing Mix (4 Ps)",
+    "difficulty": "medium",
+    "prompt": "Decisions about where and how a product will be made available to customers fall under which element of the marketing mix?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Place (distribution)"
+      },
+      {
+        "key": "B",
+        "text": "Product"
+      },
+      {
+        "key": "C",
+        "text": "Promotion"
+      },
+      {
+        "key": "D",
+        "text": "Price"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Place covers distribution decisions about product availability."
+  },
+  {
+    "id": "waec-marketing-mix-3",
+    "subject": "Marketing",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Marketing Mix (4 Ps)",
+    "difficulty": "hard",
+    "prompt": "A pricing strategy in which a new product is initially priced low to quickly attract many customers and gain market share is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "premium pricing"
+      },
+      {
+        "key": "B",
+        "text": "cost-plus pricing"
+      },
+      {
+        "key": "C",
+        "text": "price skimming"
+      },
+      {
+        "key": "D",
+        "text": "penetration pricing"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Penetration pricing uses low initial prices to build market share quickly."
+  },
+  {
+    "id": "waec-marketing-mix-4",
+    "subject": "Marketing",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Marketing Mix (4 Ps)",
+    "difficulty": "medium",
+    "prompt": "A pricing strategy in which a new, innovative product is initially priced high to maximize profit from early adopters before lowering the price is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "penetration pricing"
+      },
+      {
+        "key": "B",
+        "text": "competitive pricing"
+      },
+      {
+        "key": "C",
+        "text": "price skimming"
+      },
+      {
+        "key": "D",
+        "text": "loss-leader pricing"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Price skimming charges high initial prices before gradually lowering them."
+  },
+  {
+    "id": "waec-marketing-mix-5",
+    "subject": "Marketing",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Marketing Mix (4 Ps)",
+    "difficulty": "easy",
+    "prompt": "Activities such as advertising, sales promotion and personal selling, aimed at informing and persuading customers, fall under which element of the marketing mix?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Promotion"
+      },
+      {
+        "key": "B",
+        "text": "Place"
+      },
+      {
+        "key": "C",
+        "text": "Price"
+      },
+      {
+        "key": "D",
+        "text": "Product"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Promotion covers activities that inform and persuade customers."
+  },
+  {
+    "id": "waec-marketing-research-1",
+    "subject": "Marketing",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Market Research",
+    "difficulty": "easy",
+    "prompt": "The systematic gathering and analysis of information about customers, competitors and the market is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "warehousing"
+      },
+      {
+        "key": "B",
+        "text": "product development"
+      },
+      {
+        "key": "C",
+        "text": "market research"
+      },
+      {
+        "key": "D",
+        "text": "advertising"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Market research systematically gathers and analyses market information."
+  },
+  {
+    "id": "waec-marketing-research-2",
+    "subject": "Marketing",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Market Research",
+    "difficulty": "medium",
+    "prompt": "Data collected directly from customers for the first time, specifically for a current research purpose, is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "published data"
+      },
+      {
+        "key": "B",
+        "text": "primary data"
+      },
+      {
+        "key": "C",
+        "text": "secondary data"
+      },
+      {
+        "key": "D",
+        "text": "historical data"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Primary data is collected firsthand for a specific research purpose."
+  },
+  {
+    "id": "waec-marketing-research-3",
+    "subject": "Marketing",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Market Research",
+    "difficulty": "hard",
+    "prompt": "Data that has already been collected and published by someone else for a different original purpose, but reused by a researcher, is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "primary data"
+      },
+      {
+        "key": "B",
+        "text": "secondary data"
+      },
+      {
+        "key": "C",
+        "text": "raw data"
+      },
+      {
+        "key": "D",
+        "text": "field data"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Secondary data is pre-existing data reused from another original source."
+  },
+  {
+    "id": "waec-marketing-research-4",
+    "subject": "Marketing",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Market Research",
+    "difficulty": "medium",
+    "prompt": "A method of collecting primary market research data by asking a structured set of questions to respondents is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "questionnaire/survey"
+      },
+      {
+        "key": "B",
+        "text": "trial balance"
+      },
+      {
+        "key": "C",
+        "text": "balance sheet"
+      },
+      {
+        "key": "D",
+        "text": "ledger"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "A questionnaire gathers structured responses directly from respondents."
+  },
+  {
+    "id": "waec-marketing-research-5",
+    "subject": "Marketing",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Market Research",
+    "difficulty": "easy",
+    "prompt": "Observing and studying how customers actually behave while shopping, without directly asking them questions, is a market research method known as",
+    "options": [
+      {
+        "key": "A",
+        "text": "interview"
+      },
+      {
+        "key": "B",
+        "text": "experimentation"
+      },
+      {
+        "key": "C",
+        "text": "desk research"
+      },
+      {
+        "key": "D",
+        "text": "observation"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Observation studies actual customer behaviour without direct questioning."
+  },
+  {
+    "id": "waec-marketing-advertising-promotion-1",
+    "subject": "Marketing",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Advertising & Promotion",
+    "difficulty": "easy",
+    "prompt": "Paid, non-personal communication about a product, transmitted through media such as television or radio, is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "packaging"
+      },
+      {
+        "key": "B",
+        "text": "personal selling"
+      },
+      {
+        "key": "C",
+        "text": "advertising"
+      },
+      {
+        "key": "D",
+        "text": "public relations"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Advertising is paid, non-personal mass communication about a product."
+  },
+  {
+    "id": "waec-marketing-advertising-promotion-2",
+    "subject": "Marketing",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Advertising & Promotion",
+    "difficulty": "medium",
+    "prompt": "A short-term incentive, such as a discount or free sample, designed to encourage the immediate purchase of a product, is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "direct marketing"
+      },
+      {
+        "key": "B",
+        "text": "public relations"
+      },
+      {
+        "key": "C",
+        "text": "sales promotion"
+      },
+      {
+        "key": "D",
+        "text": "advertising"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Sales promotion offers short-term incentives to boost immediate purchases."
+  },
+  {
+    "id": "waec-marketing-advertising-promotion-3",
+    "subject": "Marketing",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Advertising & Promotion",
+    "difficulty": "hard",
+    "prompt": "Efforts by a business to build and maintain a good image and relationship with the public, often through non-paid media coverage, are called",
+    "options": [
+      {
+        "key": "A",
+        "text": "sales promotion"
+      },
+      {
+        "key": "B",
+        "text": "public relations"
+      },
+      {
+        "key": "C",
+        "text": "personal selling"
+      },
+      {
+        "key": "D",
+        "text": "direct marketing"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Public relations manages a business's public image, often via unpaid coverage."
+  },
+  {
+    "id": "waec-marketing-advertising-promotion-4",
+    "subject": "Marketing",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Advertising & Promotion",
+    "difficulty": "medium",
+    "prompt": "Face-to-face communication between a salesperson and a potential customer, aimed at making a sale, is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "sales promotion"
+      },
+      {
+        "key": "B",
+        "text": "advertising"
+      },
+      {
+        "key": "C",
+        "text": "public relations"
+      },
+      {
+        "key": "D",
+        "text": "personal selling"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Personal selling involves direct, face-to-face sales communication."
+  },
+  {
+    "id": "waec-marketing-advertising-promotion-5",
+    "subject": "Marketing",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Advertising & Promotion",
+    "difficulty": "easy",
+    "prompt": "The overall combination of advertising, sales promotion, personal selling and public relations used by a business is called the",
+    "options": [
+      {
+        "key": "A",
+        "text": "promotional mix"
+      },
+      {
+        "key": "B",
+        "text": "product mix"
+      },
+      {
+        "key": "C",
+        "text": "pricing mix"
+      },
+      {
+        "key": "D",
+        "text": "distribution mix"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "The promotional mix combines all the tools used to promote a product."
+  },
+  {
+    "id": "waec-marketing-consumer-behaviour-1",
+    "subject": "Marketing",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Consumer Behaviour",
+    "difficulty": "easy",
+    "prompt": "The study of how individuals make decisions to buy, use and dispose of goods and services is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "consumer behaviour"
+      },
+      {
+        "key": "B",
+        "text": "financial accounting"
+      },
+      {
+        "key": "C",
+        "text": "production management"
+      },
+      {
+        "key": "D",
+        "text": "human resource management"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Consumer behaviour studies how individuals make purchase and usage decisions."
+  },
+  {
+    "id": "waec-marketing-consumer-behaviour-2",
+    "subject": "Marketing",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Consumer Behaviour",
+    "difficulty": "medium",
+    "prompt": "Factors such as a person's age, income and occupation, which influence their buying decisions, are called",
+    "options": [
+      {
+        "key": "A",
+        "text": "psychological factors"
+      },
+      {
+        "key": "B",
+        "text": "social factors"
+      },
+      {
+        "key": "C",
+        "text": "personal factors"
+      },
+      {
+        "key": "D",
+        "text": "cultural factors"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Personal factors include age, income, occupation and lifestyle."
+  },
+  {
+    "id": "waec-marketing-consumer-behaviour-3",
+    "subject": "Marketing",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Consumer Behaviour",
+    "difficulty": "hard",
+    "prompt": "The stage in the consumer buying decision process in which a buyer realizes they have an unmet need is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "purchase decision"
+      },
+      {
+        "key": "B",
+        "text": "information search"
+      },
+      {
+        "key": "C",
+        "text": "need (problem) recognition"
+      },
+      {
+        "key": "D",
+        "text": "post-purchase evaluation"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Need recognition is the first stage, where a buyer identifies an unmet need."
+  },
+  {
+    "id": "waec-marketing-consumer-behaviour-4",
+    "subject": "Marketing",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Consumer Behaviour",
+    "difficulty": "medium",
+    "prompt": "The final stage in the consumer decision-making process, in which the buyer assesses whether the product met their expectations, is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "evaluation of alternatives"
+      },
+      {
+        "key": "B",
+        "text": "post-purchase evaluation"
+      },
+      {
+        "key": "C",
+        "text": "need recognition"
+      },
+      {
+        "key": "D",
+        "text": "information search"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Post-purchase evaluation assesses satisfaction after the purchase."
+  },
+  {
+    "id": "waec-marketing-consumer-behaviour-5",
+    "subject": "Marketing",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Consumer Behaviour",
+    "difficulty": "easy",
+    "prompt": "Recommendations and opinions shared informally between friends and family about a product are known as",
+    "options": [
+      {
+        "key": "A",
+        "text": "word-of-mouth"
+      },
+      {
+        "key": "B",
+        "text": "sales promotion"
+      },
+      {
+        "key": "C",
+        "text": "public relations"
+      },
+      {
+        "key": "D",
+        "text": "mass advertising"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Word-of-mouth is informal product discussion between individuals."
+  }
+]

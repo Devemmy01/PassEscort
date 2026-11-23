@@ -25,12 +25,12 @@ Nigerian JAMB/WASSCE/NECO candidates need cheap, engaging, high-repetition pract
 | Mobile client | React Native + Expo, TypeScript | Single codebase, Android & iOS |
 | Backend API | Node.js + Express, TypeScript | Replaces the original Supabase-based backend |
 | Primary database | MongoDB (Mongoose) | Replaces the original Postgres (Supabase) |
-| Auth | Firebase Authentication | Replaces Supabase Auth; backend verifies Firebase ID tokens |
-| Push notifications | Firebase Cloud Messaging (planned) | For streak reminders, duel invites |
-| AI explanations | Groq API / Gemini API (planned) | Unchanged from original plan — cheap/free tier RAG for step-by-step solutions |
-| Payments | Paystack / Flutterwave (planned) | Unchanged from original plan |
-| Realtime (1v1 duels) | TBD — Socket.io is the working assumption | Original plan used Supabase Realtime, which is no longer in the stack; see Open Decisions |
-| On-device offline storage | TBD | Original plan used WatermelonDB/SQLite; see Open Decisions |
+| Auth | Firebase Authentication | Replaces Supabase Auth; backend verifies Firebase ID tokens. Email/password and Google sign-in |
+| Push notifications | Firebase Cloud Messaging, through the Expo push service | Built: streak reminders (6 pm WAT cron), duel invites, friend joined, payout sent. Per-category opt-out |
+| AI explanations | Groq API (`openai/gpt-oss-120b`) with Gemini (`gemini-flash-lite-latest`) fallback | Built. Both free tiers; explanations are cached per question and can be pre-generated once (`npm run ai:pregenerate`) |
+| Payments | Paystack | Built (hosted checkout, verification, webhook). Flutterwave not needed for v1 |
+| Realtime (1v1 duels) | Socket.io | Built; see Open Decisions |
+| On-device offline storage | expo-sqlite (SQLite + FTS5) | Decided — see Section 10/11; question bank is bulk-seeded into an on-device SQLite database with an FTS5 index for instant local search/filtering |
 | CI/CD | GitHub Actions | Separate workflows for `frontend/` and `backend/`, path-filtered |
 
 ## 5. Core Features
@@ -122,14 +122,47 @@ The original masterplan assumed a 4-person volunteer team (Founder, Developer, U
 ## 10. Current Status
 
 - Git repo initialized (`main` branch).
-- `frontend/`: Expo + React Native + TypeScript scaffold, branded as PassEscort, passes `tsc` and `expo-doctor`.
-- `backend/`: Express + TypeScript scaffold with MongoDB (Mongoose) connection, Firebase Admin SDK setup, Firebase ID-token auth middleware, initial `User` model, and `/users/me` GET/POST routes.
-- CI/CD: GitHub Actions workflows for `frontend/` (typecheck + `expo-doctor`) and `backend/` (typecheck + build), path-filtered so each only runs on relevant changes.
-- Explicitly **not** doing: local SQLite schema configuration, since MongoDB is the database of record and the original Supabase/SQLite split no longer applies as originally scoped.
+- **Product build (2026-11-21): every §5 feature is implemented end to end.** See the root `README.md` for running it.
+  - `shared/`: one copy of the rules both apps compile against: XP and levels, streaks (WAT calendar days), badges, mastery, pricing, referral and ambassador rules, duel scoring, and the typed HTTP and Socket.io contracts.
+  - `backend/`: Express + MongoDB + Firebase Admin. The server is the source of truth for scores and payments (§6):
+    - offline practice sync that re-marks every answer and computes XP, streaks, badges and mastery;
+    - question content sync, and paywalled theory solutions;
+    - AI explanations from Groq with Gemini fallback, cached per question, 3 free a day;
+    - Paystack checkout, verification, webhook and idempotent fulfilment;
+    - referrals; the ambassador program with commissions, payout accounts and a weekly payout run;
+    - realtime duels on Socket.io (matchmaking, invite links, server clock, reconnect, labelled practice bot).
+    - Every external service has a local dev/mock mode, which production refuses. 43 tests: HTTP and Socket.io integration against a real `mongod`, plus the shared rules.
+  - `frontend/`: the app boots into the real flow: Firebase auth, onboarding, Home. Practice runs offline from the on-device bank, and answers queue in a persistent outbox that syncs to the server. AI Explain, Paystack checkout (in-app browser), streak repair, duels, share-card image export, ambassador screens and deep links (`/d/…`, `/r/…`) all go through the API. The design prototype is still available as demo mode (`EXPO_PUBLIC_START=prototype`, web review links).
+- **Product decisions build (2026-11-21):** Google sign-in; push notifications (registration, Android channels, tap routing, Settings screen with per-category switches, 6 pm streak-reminder cron `npm run push:reminders`); weekly/friends/all-time leaderboards as a fifth tab; streak calendar; duel emoji reactions; Figma flat component style. Backend 43 tests, frontend 128.
+- CI/CD: GitHub Actions for `frontend/` (typecheck, tests, `expo-doctor`) and `backend/` (typecheck, tests, build). Both also run on `shared/` changes.
+- `frontend/src/db/`: offline-first question bank engine on top of `expo-sqlite` — idempotent bulk JSON import (`seedQuestions`, hash-gated so re-seeding an unchanged dataset is a no-op), validation of imported records, and an FTS5-backed search/filter API (`searchQuestions`, `getFilterFacets`) for instant on-device search across prompt/topic/option text plus subject/exam-body/year/topic/difficulty filters. Covered by `node --test` unit tests run against Node's built-in SQLite (`npm test` in `frontend/`). A small cross-exam-body fixture (`frontend/src/data/sampleQuestions.json`) backs the engine's own tests. The NECO source PDFs on the shared drive turned out to be auto-generated placeholder text (identical dummy options, no answer keys, self-disclaimed as "not a reproduction of NECO examination papers") rather than real digitized past questions, so `frontend/src/data/necoQuestions.json` (220 questions, examBody NECO) was hand-authored instead, covering the app's six initial subjects using the real per-subject topic taxonomy extracted from those PDFs (Physics' generated topic list was generic filler and was replaced with a real syllabus topic set). `frontend/src/data/allQuestions.ts` aggregates all seed sources; the Question bank screen (`frontend/src/screens/QuestionBankScreen.tsx`, linked from the Practice hub) seeds and searches the combined set end-to-end. The other 36 NECO subject files (mostly vocational/trade subjects) are still placeholder-only and need either real sourcing or dedicated subject-matter authoring; the same placeholder-vs-real split was spotted in the WAEC and JAMB drive folders and hasn't been triaged yet. MongoDB remains the server-side source of truth for content authored/updated centrally.
+- Design weeks 1–6 delivered in code: design tokens (`frontend/src/theme`, contrast-tested), component library (`frontend/src/components`), and a clickable hi-fi prototype of onboarding/auth, both practice modes, gamification, AI Explain + paywall + Paystack checkout, and duels/sharing (`frontend/src/screens`, app root is the Prototype index).
+- Design weeks 7–14 delivered (2026-11-21):
+  - **Figma brand sync.** Vector logomark, wordmark lockups, Passy the owl in 8 poses, tier shields. App icon and splash regenerated to the Figma brand.
+  - **Ambassador/referral program (§5.9).** Intro, earnings dashboard, payout flow, code "pass", and a starter kit of graphics and message templates. Rules live in `frontend/src/game/referral.ts`; the numbers are placeholders pending product.
+  - **Polish.** Duels polished. Share cards redrawn to Figma and built from real data. Subject iconography for all 21 bank subjects. Reduce-motion support.
+  - **Store assets.** Rendered from the real app: `npm run store:assets` writes to `docs/store/`; listing copy is in `docs/store/LISTING.md`.
+  - **Release QA and launch.** Release-candidate design QA with a 22-item fix list (`docs/design/DESIGN_QA.md`), and a launch-support plan (`docs/design/LAUNCH.md`).
+- Spec and open product questions: `docs/design/DESIGN_SPEC.md`.
+- Store and marketing copy says "practice questions", not "real past questions", until question provenance is confirmed (see the NECO note above).
+- The bundled bank is 1,785 questions across 21 subjects, dated 2012–2023, short of the 2010–2025 target in §5.2. (The 25-question engine test fixture is no longer shipped.)
+- **Content fix (2026-11-21):** every question's correct answer was option A, so always picking A scored 100%. Options were reordered per question with a reproducible seeded shuffle; the answers themselves are unchanged (`frontend/scripts/rebalance-answer-keys.py`), and a test now guards the distribution. The server also marks answers by option *text*, so phones running an older bundle still score correctly after content changes.
 
 ## 11. Open Decisions
 
-- **On-device offline storage:** the original plan relied on WatermelonDB/SQLite for a fully offline-first client. Moving to MongoDB as the server DB doesn't remove the need for *some* on-device cache if offline practice is still a requirement — this needs an explicit decision (e.g., `expo-sqlite`, WatermelonDB, or accept an online-only v1 and defer offline support).
-- **Realtime transport for duels:** Socket.io on the Express server is the working assumption; needs confirming before Phase 6 (Realtime duels) starts.
-- **Firebase scope:** currently scoped to Auth only. Confirm whether Firebase Cloud Messaging (push) and/or Firebase Storage are also in scope, or if those move to another provider.
-- **Hosting target for the backend** (Render/Fly/Railway/etc.) is not yet chosen.
+- **On-device offline storage:** ~~the original plan relied on WatermelonDB/SQLite...~~ **Decided:** `expo-sqlite`, with an FTS5 index for local search. The question bank is bulk-imported from JSON into on-device SQLite (see Section 10); MongoDB stays the server-side content source, synced to the device via a seed dataset rather than queried live during practice.
+- **Realtime transport for duels:** **Decided and built:** Socket.io on the Express server (namespace `/duels`). The state is single-instance; running several API instances needs the Socket.io Redis adapter and sticky sessions.
+- **Firebase scope:** **Decided and built (2026-11-21):** Auth with email/password and Google sign-in (native Google Sign-In → Firebase credential; popup on web), and push notifications delivered by FCM on Android and APNs on iOS through the Expo push service. Keys to supply: the Google web OAuth client ID, the iOS URL scheme, `google-services.json`, the EAS project ID and the FCM V1 service-account key (`eas credentials`). See the root `README.md`.
+- **Hosting target for the backend** (Render/Fly/Railway/etc.) is not yet chosen. It needs: Node 24, MongoDB Atlas, the env in `backend/.env.example`, Paystack's webhook pointed at `/payments/webhook`, and a weekly cron for `npm run payouts:process`.
+- **Business numbers:** **Decided (2026-11-21), kept as built:** 50 starting gems; a streak repair costs 200 gems, or uses one of Monthly's 2 free repairs a month; 3 free AI explanations a day; Day Pass ₦100, Monthly ₦800; gem packs 250 gems for ₦100 and 800 for ₦250; invites pay 100 gems to both students once the friend finishes a first session; ambassadors earn 20% commission on Day Pass and Monthly for 12 months, held 7 days, ₦1,000 minimum payout, paid weekly. Ambassador codes give the buyer no discount in v1. All live in `shared/pricing.ts` and `shared/referral.ts`.
+- **Product decisions from the Figma review (2026-11-21, `docs/design/DESIGN_QA.md` F5–F16):**
+  - Home stays the dashboard; the swipe feed is not in v1 (it needs a card-ranking service).
+  - Five tabs: Home · Practice · Duels · Ranks · Profile. Weekly (resets Monday 00:00 WAT), friends and all-time leaderboards, and a streak calendar, are built.
+  - Onboarding stays short (exam → subjects → target → sign up), per the under-2-minutes goal; the extra Figma questions are left out.
+  - Components follow Figma's flat style (12px radius, 1px borders, darker fill on press).
+  - The paid tier is named **PassEscort+** (Day Pass and Monthly).
+  - Level tiers follow Figma's shields: Novice (1), Scholar (10), Strategist (20), Sharpshooter (30), Legend (40), UTME Legend (50).
+  - Duels are 10 rounds of 15 seconds, with emoji reactions (a fixed set, rate-limited, relayed by the server).
+  - Mini games and the Play hub are out of scope (not in this PRD).
+  - Launch market is Nigeria only (JAMB, WAEC, NECO; Naira; Nigerian banks).
+  - iPad is supported alongside iPhone: any orientation and Split View on iPad (wider content column), portrait on phones.

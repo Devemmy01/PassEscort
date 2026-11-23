@@ -1,0 +1,4352 @@
+[
+  {
+    "id": "jamb-art-elements-1",
+    "subject": "Fine Arts",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Elements of Art",
+    "difficulty": "easy",
+    "prompt": "A flat, enclosed two-dimensional area, such as a triangle or rectangle, is referred to in art as a",
+    "options": [
+      {
+        "key": "A",
+        "text": "form"
+      },
+      {
+        "key": "B",
+        "text": "shape"
+      },
+      {
+        "key": "C",
+        "text": "value"
+      },
+      {
+        "key": "D",
+        "text": "line"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "A shape is a flat, bounded two-dimensional area."
+  },
+  {
+    "id": "jamb-art-elements-2",
+    "subject": "Fine Arts",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Elements of Art",
+    "difficulty": "medium",
+    "prompt": "The perceived roughness or smoothness of a surface, whether real or implied, is referred to in art as",
+    "options": [
+      {
+        "key": "A",
+        "text": "space"
+      },
+      {
+        "key": "B",
+        "text": "form"
+      },
+      {
+        "key": "C",
+        "text": "texture"
+      },
+      {
+        "key": "D",
+        "text": "hue"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Texture refers to a surface's tactile or visual quality."
+  },
+  {
+    "id": "jamb-art-elements-3",
+    "subject": "Fine Arts",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Elements of Art",
+    "difficulty": "hard",
+    "prompt": "An artwork's use of light and dark areas to suggest depth and volume relies mainly on the element of",
+    "options": [
+      {
+        "key": "A",
+        "text": "hue"
+      },
+      {
+        "key": "B",
+        "text": "texture"
+      },
+      {
+        "key": "C",
+        "text": "value (tone)"
+      },
+      {
+        "key": "D",
+        "text": "line"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Value (light and dark contrast) helps create the illusion of depth and volume."
+  },
+  {
+    "id": "jamb-art-elements-4",
+    "subject": "Fine Arts",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Elements of Art",
+    "difficulty": "medium",
+    "prompt": "A three-dimensional object, such as a sphere or cube, possesses the art element known as",
+    "options": [
+      {
+        "key": "A",
+        "text": "hue"
+      },
+      {
+        "key": "B",
+        "text": "line"
+      },
+      {
+        "key": "C",
+        "text": "form"
+      },
+      {
+        "key": "D",
+        "text": "shape"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Form describes three-dimensional objects with height, width and depth."
+  },
+  {
+    "id": "jamb-art-elements-5",
+    "subject": "Fine Arts",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Elements of Art",
+    "difficulty": "easy",
+    "prompt": "The purity or brightness of a colour, indicating how vivid or dull it appears, is called its",
+    "options": [
+      {
+        "key": "A",
+        "text": "value"
+      },
+      {
+        "key": "B",
+        "text": "intensity"
+      },
+      {
+        "key": "C",
+        "text": "texture"
+      },
+      {
+        "key": "D",
+        "text": "hue"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Intensity (saturation) describes a colour's vividness or dullness."
+  },
+  {
+    "id": "jamb-art-drawing-painting-1",
+    "subject": "Fine Arts",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Drawing & Painting Techniques",
+    "difficulty": "easy",
+    "prompt": "A rendering technique using dots of varying density to represent light and shadow is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "hatching"
+      },
+      {
+        "key": "B",
+        "text": "stippling"
+      },
+      {
+        "key": "C",
+        "text": "glazing"
+      },
+      {
+        "key": "D",
+        "text": "blending"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Stippling builds tone using clusters of small dots."
+  },
+  {
+    "id": "jamb-art-drawing-painting-2",
+    "subject": "Fine Arts",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Drawing & Painting Techniques",
+    "difficulty": "medium",
+    "prompt": "A drawing or painting technique in which tones are smoothly merged into one another, without visible lines, is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "sgraffito"
+      },
+      {
+        "key": "B",
+        "text": "hatching"
+      },
+      {
+        "key": "C",
+        "text": "blending"
+      },
+      {
+        "key": "D",
+        "text": "stippling"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Blending smooths transitions between tones without visible edges."
+  },
+  {
+    "id": "jamb-art-drawing-painting-3",
+    "subject": "Fine Arts",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Drawing & Painting Techniques",
+    "difficulty": "hard",
+    "prompt": "Cross-hatching differs from simple hatching in that it uses",
+    "options": [
+      {
+        "key": "A",
+        "text": "only a single unbroken line"
+      },
+      {
+        "key": "B",
+        "text": "no lines at all"
+      },
+      {
+        "key": "C",
+        "text": "two or more sets of intersecting parallel lines"
+      },
+      {
+        "key": "D",
+        "text": "only dots"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Cross-hatching layers intersecting lines at different angles to deepen tone."
+  },
+  {
+    "id": "jamb-art-drawing-painting-4",
+    "subject": "Fine Arts",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Drawing & Painting Techniques",
+    "difficulty": "medium",
+    "prompt": "A painting style characterized by visible, loose brushstrokes and rapid execution to capture a fleeting moment is closely associated with",
+    "options": [
+      {
+        "key": "A",
+        "text": "Minimalism"
+      },
+      {
+        "key": "B",
+        "text": "Impressionism"
+      },
+      {
+        "key": "C",
+        "text": "Photorealism"
+      },
+      {
+        "key": "D",
+        "text": "Cubism"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Impressionist painters used loose, visible brushwork to capture transient effects."
+  },
+  {
+    "id": "jamb-art-drawing-painting-5",
+    "subject": "Fine Arts",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Drawing & Painting Techniques",
+    "difficulty": "easy",
+    "prompt": "A composition sketch made quickly to plan the placement of elements before a final artwork is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "fresco"
+      },
+      {
+        "key": "B",
+        "text": "mural"
+      },
+      {
+        "key": "C",
+        "text": "mosaic"
+      },
+      {
+        "key": "D",
+        "text": "thumbnail sketch"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "A thumbnail sketch is a small, quick planning drawing for a composition."
+  },
+  {
+    "id": "jamb-art-history-1",
+    "subject": "Fine Arts",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Art History & Movements",
+    "difficulty": "easy",
+    "prompt": "Ife bronze and terracotta heads, celebrated for their naturalism, originate from the ancient",
+    "options": [
+      {
+        "key": "A",
+        "text": "Sokoto Caliphate"
+      },
+      {
+        "key": "B",
+        "text": "Benin Kingdom"
+      },
+      {
+        "key": "C",
+        "text": "Kanem-Borno Empire"
+      },
+      {
+        "key": "D",
+        "text": "Yoruba Kingdom of Ife"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "The Ife Kingdom is renowned for its naturalistic bronze and terracotta sculptures."
+  },
+  {
+    "id": "jamb-art-history-2",
+    "subject": "Fine Arts",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Art History & Movements",
+    "difficulty": "medium",
+    "prompt": "The art movement that rejected traditional representation in favour of pure form, colour and abstraction, without recognizable subjects, is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "Realism"
+      },
+      {
+        "key": "B",
+        "text": "Abstract art"
+      },
+      {
+        "key": "C",
+        "text": "Classicism"
+      },
+      {
+        "key": "D",
+        "text": "Baroque"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Abstract art moves away from realistic depiction toward pure form and colour."
+  },
+  {
+    "id": "jamb-art-history-3",
+    "subject": "Fine Arts",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Art History & Movements",
+    "difficulty": "hard",
+    "prompt": "The Baroque art movement, prominent in 17th-century Europe, is generally characterized by",
+    "options": [
+      {
+        "key": "A",
+        "text": "dramatic use of light, shadow and movement"
+      },
+      {
+        "key": "B",
+        "text": "flat, simplified shapes with no shading"
+      },
+      {
+        "key": "C",
+        "text": "a total absence of colour"
+      },
+      {
+        "key": "D",
+        "text": "purely geometric abstraction"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Baroque art emphasizes dramatic contrasts of light and dynamic movement."
+  },
+  {
+    "id": "jamb-art-history-4",
+    "subject": "Fine Arts",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Art History & Movements",
+    "difficulty": "medium",
+    "prompt": "Uli art, a traditional design tradition using linear patterns, originates from which Nigerian ethnic group?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Igbo"
+      },
+      {
+        "key": "B",
+        "text": "Efik"
+      },
+      {
+        "key": "C",
+        "text": "Hausa"
+      },
+      {
+        "key": "D",
+        "text": "Yoruba"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Uli is a traditional Igbo body and wall painting design tradition."
+  },
+  {
+    "id": "jamb-art-history-5",
+    "subject": "Fine Arts",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Art History & Movements",
+    "difficulty": "easy",
+    "prompt": "Pop Art, which emerged in the mid-20th century, is known for drawing imagery from",
+    "options": [
+      {
+        "key": "A",
+        "text": "purely abstract mathematical forms"
+      },
+      {
+        "key": "B",
+        "text": "medieval European tapestries"
+      },
+      {
+        "key": "C",
+        "text": "ancient religious scripture exclusively"
+      },
+      {
+        "key": "D",
+        "text": "popular and consumer culture, such as advertising and comic books"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Pop Art drew heavily on imagery from mass consumer and popular culture."
+  },
+  {
+    "id": "jamb-art-sculpture-crafts-1",
+    "subject": "Fine Arts",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Sculpture & Crafts",
+    "difficulty": "easy",
+    "prompt": "A sculpture built by joining together separate pre-made or found materials is created using the technique of",
+    "options": [
+      {
+        "key": "A",
+        "text": "assemblage/construction"
+      },
+      {
+        "key": "B",
+        "text": "casting"
+      },
+      {
+        "key": "C",
+        "text": "carving"
+      },
+      {
+        "key": "D",
+        "text": "modelling"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Assemblage constructs sculpture from joined separate materials or objects."
+  },
+  {
+    "id": "jamb-art-sculpture-crafts-2",
+    "subject": "Fine Arts",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Sculpture & Crafts",
+    "difficulty": "medium",
+    "prompt": "The lost-wax casting method, traditionally used for Benin bronzes, involves creating a model in",
+    "options": [
+      {
+        "key": "A",
+        "text": "stone carved directly into final form"
+      },
+      {
+        "key": "B",
+        "text": "paper mache only"
+      },
+      {
+        "key": "C",
+        "text": "clay that is never melted"
+      },
+      {
+        "key": "D",
+        "text": "wax, which is later melted away and replaced by molten metal"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Lost-wax casting shapes a wax model, which is melted out and replaced by metal."
+  },
+  {
+    "id": "jamb-art-sculpture-crafts-3",
+    "subject": "Fine Arts",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Sculpture & Crafts",
+    "difficulty": "hard",
+    "prompt": "A textile craft in which coloured threads are woven together on a loom to form cloth is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "weaving"
+      },
+      {
+        "key": "B",
+        "text": "carving"
+      },
+      {
+        "key": "C",
+        "text": "modelling"
+      },
+      {
+        "key": "D",
+        "text": "casting"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Weaving interlaces threads on a loom to produce fabric."
+  },
+  {
+    "id": "jamb-art-sculpture-crafts-4",
+    "subject": "Fine Arts",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Sculpture & Crafts",
+    "difficulty": "medium",
+    "prompt": "Aso-oke, a traditional hand-woven textile associated with the Yoruba, is typically made using a",
+    "options": [
+      {
+        "key": "A",
+        "text": "sewing machine only"
+      },
+      {
+        "key": "B",
+        "text": "traditional narrow-strip loom"
+      },
+      {
+        "key": "C",
+        "text": "printing press"
+      },
+      {
+        "key": "D",
+        "text": "potter's wheel"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Aso-oke is traditionally woven on narrow-strip looms by Yoruba weavers."
+  },
+  {
+    "id": "jamb-art-sculpture-crafts-5",
+    "subject": "Fine Arts",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Sculpture & Crafts",
+    "difficulty": "easy",
+    "prompt": "Beadwork, a traditional craft found across many Nigerian cultures, primarily involves",
+    "options": [
+      {
+        "key": "A",
+        "text": "carving wood into figures"
+      },
+      {
+        "key": "B",
+        "text": "casting metal using moulds"
+      },
+      {
+        "key": "C",
+        "text": "dyeing fabric with indigo"
+      },
+      {
+        "key": "D",
+        "text": "stringing and arranging small beads into decorative patterns"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Beadwork arranges small beads into patterns for jewellery and regalia."
+  },
+  {
+    "id": "jamb-art-colour-theory-1",
+    "subject": "Fine Arts",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Colour Theory",
+    "difficulty": "easy",
+    "prompt": "On the traditional colour wheel, colours formed by mixing a primary and an adjacent secondary colour are called",
+    "options": [
+      {
+        "key": "A",
+        "text": "primary colours"
+      },
+      {
+        "key": "B",
+        "text": "secondary colours"
+      },
+      {
+        "key": "C",
+        "text": "tertiary colours"
+      },
+      {
+        "key": "D",
+        "text": "achromatic colours"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Tertiary colours result from mixing a primary with a neighbouring secondary colour."
+  },
+  {
+    "id": "jamb-art-colour-theory-2",
+    "subject": "Fine Arts",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Colour Theory",
+    "difficulty": "medium",
+    "prompt": "A colour scheme built around three colours evenly spaced around the colour wheel is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "monochromatic colour scheme"
+      },
+      {
+        "key": "B",
+        "text": "complementary colour scheme"
+      },
+      {
+        "key": "C",
+        "text": "analogous colour scheme"
+      },
+      {
+        "key": "D",
+        "text": "triadic colour scheme"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "A triadic scheme uses three colours spaced equally around the wheel."
+  },
+  {
+    "id": "jamb-art-colour-theory-3",
+    "subject": "Fine Arts",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Colour Theory",
+    "difficulty": "hard",
+    "prompt": "The term 'chroma' in colour theory refers most closely to a colour's",
+    "options": [
+      {
+        "key": "A",
+        "text": "lightness or darkness"
+      },
+      {
+        "key": "B",
+        "text": "temperature only, warm versus cool"
+      },
+      {
+        "key": "C",
+        "text": "name (hue)"
+      },
+      {
+        "key": "D",
+        "text": "intensity or purity"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Chroma describes a colour's saturation or purity, similar to intensity."
+  },
+  {
+    "id": "jamb-art-colour-theory-4",
+    "subject": "Fine Arts",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Colour Theory",
+    "difficulty": "medium",
+    "prompt": "Complementary colours, when placed side by side in a painting, tend to make each other appear",
+    "options": [
+      {
+        "key": "A",
+        "text": "more vivid and intense by contrast"
+      },
+      {
+        "key": "B",
+        "text": "identical in hue"
+      },
+      {
+        "key": "C",
+        "text": "duller and less noticeable"
+      },
+      {
+        "key": "D",
+        "text": "invisible"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Complementary colours enhance each other's vibrancy through simultaneous contrast."
+  },
+  {
+    "id": "jamb-art-colour-theory-5",
+    "subject": "Fine Arts",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Colour Theory",
+    "difficulty": "easy",
+    "prompt": "A colour scheme relying entirely on black, white and shades of grey, with no true hue, is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "a monochromatic colour scheme"
+      },
+      {
+        "key": "B",
+        "text": "a triadic colour scheme"
+      },
+      {
+        "key": "C",
+        "text": "an achromatic (neutral) colour scheme"
+      },
+      {
+        "key": "D",
+        "text": "an analogous colour scheme"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Achromatic schemes use only neutral tones without a distinct hue."
+  },
+  {
+    "id": "jamb-music-elements-1",
+    "subject": "Music",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Elements of Music",
+    "difficulty": "easy",
+    "prompt": "The overall structural organisation of sections within a piece of music, such as verse-chorus form, is called its",
+    "options": [
+      {
+        "key": "A",
+        "text": "pitch"
+      },
+      {
+        "key": "B",
+        "text": "timbre"
+      },
+      {
+        "key": "C",
+        "text": "form (structure)"
+      },
+      {
+        "key": "D",
+        "text": "dynamics"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Musical form describes how sections of a piece are organized."
+  },
+  {
+    "id": "jamb-music-elements-2",
+    "subject": "Music",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Elements of Music",
+    "difficulty": "medium",
+    "prompt": "A steady, recurring pulse that underlies most music is called the",
+    "options": [
+      {
+        "key": "A",
+        "text": "timbre"
+      },
+      {
+        "key": "B",
+        "text": "beat"
+      },
+      {
+        "key": "C",
+        "text": "texture"
+      },
+      {
+        "key": "D",
+        "text": "dynamics"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "The beat is the regular, underlying pulse of a piece of music."
+  },
+  {
+    "id": "jamb-music-elements-3",
+    "subject": "Music",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Elements of Music",
+    "difficulty": "hard",
+    "prompt": "Music in which multiple independent melodic lines are woven together simultaneously is said to have a",
+    "options": [
+      {
+        "key": "A",
+        "text": "monophonic texture"
+      },
+      {
+        "key": "B",
+        "text": "homophonic texture"
+      },
+      {
+        "key": "C",
+        "text": "polyphonic texture"
+      },
+      {
+        "key": "D",
+        "text": "unison texture"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Polyphonic texture layers independent, simultaneous melodic lines."
+  },
+  {
+    "id": "jamb-music-elements-4",
+    "subject": "Music",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Elements of Music",
+    "difficulty": "medium",
+    "prompt": "Music consisting of a single melodic line with no harmonic accompaniment is described as",
+    "options": [
+      {
+        "key": "A",
+        "text": "polyphonic"
+      },
+      {
+        "key": "B",
+        "text": "monophonic"
+      },
+      {
+        "key": "C",
+        "text": "orchestral"
+      },
+      {
+        "key": "D",
+        "text": "homophonic"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Monophonic texture has just one unaccompanied melodic line."
+  },
+  {
+    "id": "jamb-music-elements-5",
+    "subject": "Music",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Elements of Music",
+    "difficulty": "easy",
+    "prompt": "A gradual increase in the loudness of music, indicated by the term",
+    "options": [
+      {
+        "key": "A",
+        "text": "diminuendo"
+      },
+      {
+        "key": "B",
+        "text": "staccato"
+      },
+      {
+        "key": "C",
+        "text": "legato"
+      },
+      {
+        "key": "D",
+        "text": "crescendo"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Crescendo instructs performers to gradually increase volume."
+  },
+  {
+    "id": "jamb-music-notation-1",
+    "subject": "Music",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Musical Notation",
+    "difficulty": "easy",
+    "prompt": "A dot placed after a note increases its duration by",
+    "options": [
+      {
+        "key": "A",
+        "text": "a fixed one beat regardless of note value"
+      },
+      {
+        "key": "B",
+        "text": "double its original value"
+      },
+      {
+        "key": "C",
+        "text": "half of its original value"
+      },
+      {
+        "key": "D",
+        "text": "nothing at all"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "A dotted note's duration extends by half its original value."
+  },
+  {
+    "id": "jamb-music-notation-2",
+    "subject": "Music",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Musical Notation",
+    "difficulty": "medium",
+    "prompt": "A symbol placed over or under a note indicating it should be played short and detached is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "legato"
+      },
+      {
+        "key": "B",
+        "text": "fermata"
+      },
+      {
+        "key": "C",
+        "text": "tie"
+      },
+      {
+        "key": "D",
+        "text": "staccato"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Staccato marks indicate notes should be played short and separated."
+  },
+  {
+    "id": "jamb-music-notation-3",
+    "subject": "Music",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Musical Notation",
+    "difficulty": "hard",
+    "prompt": "A symbol indicating that a note should be held longer than its usual value, at the performer's discretion, is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "staccato"
+      },
+      {
+        "key": "B",
+        "text": "sharp"
+      },
+      {
+        "key": "C",
+        "text": "flat"
+      },
+      {
+        "key": "D",
+        "text": "fermata (pause)"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "A fermata extends a note's duration beyond its written value."
+  },
+  {
+    "id": "jamb-music-notation-4",
+    "subject": "Music",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Musical Notation",
+    "difficulty": "medium",
+    "prompt": "A term instructing performers to play notes smoothly connected, without gaps, is",
+    "options": [
+      {
+        "key": "A",
+        "text": "staccato"
+      },
+      {
+        "key": "B",
+        "text": "legato"
+      },
+      {
+        "key": "C",
+        "text": "pizzicato"
+      },
+      {
+        "key": "D",
+        "text": "forte"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Legato indicates smooth, connected playing without separation between notes."
+  },
+  {
+    "id": "jamb-music-notation-5",
+    "subject": "Music",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Musical Notation",
+    "difficulty": "easy",
+    "prompt": "The Italian term 'forte', found in musical notation, instructs performers to play",
+    "options": [
+      {
+        "key": "A",
+        "text": "loudly"
+      },
+      {
+        "key": "B",
+        "text": "softly"
+      },
+      {
+        "key": "C",
+        "text": "quickly"
+      },
+      {
+        "key": "D",
+        "text": "slowly"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "'Forte' is the musical direction for playing loudly."
+  },
+  {
+    "id": "jamb-music-nigerian-traditional-1",
+    "subject": "Music",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Nigerian Traditional Music",
+    "difficulty": "easy",
+    "prompt": "Highlife music, a popular genre with roots in West Africa including Nigeria, characteristically blends",
+    "options": [
+      {
+        "key": "A",
+        "text": "Gregorian chant traditions"
+      },
+      {
+        "key": "B",
+        "text": "traditional African rhythms with Western instruments such as guitars and horns"
+      },
+      {
+        "key": "C",
+        "text": "only classical European orchestral instruments"
+      },
+      {
+        "key": "D",
+        "text": "purely electronic synthesized sounds"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Highlife fuses indigenous West African rhythms with imported instruments."
+  },
+  {
+    "id": "jamb-music-nigerian-traditional-2",
+    "subject": "Music",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Nigerian Traditional Music",
+    "difficulty": "medium",
+    "prompt": "Juju music, pioneered by artists using talking drums alongside guitars, developed primarily among the",
+    "options": [
+      {
+        "key": "A",
+        "text": "Efik"
+      },
+      {
+        "key": "B",
+        "text": "Igbo"
+      },
+      {
+        "key": "C",
+        "text": "Hausa"
+      },
+      {
+        "key": "D",
+        "text": "Yoruba"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Juju music emerged as a popular genre among the Yoruba, blending traditional and guitar-based styles."
+  },
+  {
+    "id": "jamb-music-nigerian-traditional-3",
+    "subject": "Music",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Nigerian Traditional Music",
+    "difficulty": "hard",
+    "prompt": "The use of polyrhythm, where multiple contrasting rhythmic patterns are played simultaneously, is a hallmark of much",
+    "options": [
+      {
+        "key": "A",
+        "text": "Gregorian chant"
+      },
+      {
+        "key": "B",
+        "text": "minimalist Western classical music"
+      },
+      {
+        "key": "C",
+        "text": "traditional African music"
+      },
+      {
+        "key": "D",
+        "text": "solo unaccompanied vocal music only"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Polyrhythm, layering distinct simultaneous rhythms, is characteristic of much traditional African music."
+  },
+  {
+    "id": "jamb-music-nigerian-traditional-4",
+    "subject": "Music",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Nigerian Traditional Music",
+    "difficulty": "medium",
+    "prompt": "Apala music, a genre rooted in traditional Yoruba drumming and vocal styles, developed originally to",
+    "options": [
+      {
+        "key": "A",
+        "text": "wake worshippers for pre-dawn Ramadan meals and later evolved into wider entertainment"
+      },
+      {
+        "key": "B",
+        "text": "serve purely as military marching music"
+      },
+      {
+        "key": "C",
+        "text": "replace all traditional instruments with electric ones"
+      },
+      {
+        "key": "D",
+        "text": "accompany only Christian church services"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Apala originated among Yoruba Muslims for waking people during Ramadan, later becoming broader entertainment music."
+  },
+  {
+    "id": "jamb-music-nigerian-traditional-5",
+    "subject": "Music",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Nigerian Traditional Music",
+    "difficulty": "easy",
+    "prompt": "The 'shekere', a traditional Nigerian percussion instrument made from a dried gourd covered with beads, is played by",
+    "options": [
+      {
+        "key": "A",
+        "text": "plucking strings attached to it"
+      },
+      {
+        "key": "B",
+        "text": "striking metal keys on it"
+      },
+      {
+        "key": "C",
+        "text": "blowing air through it"
+      },
+      {
+        "key": "D",
+        "text": "shaking or striking it to produce a rattling sound"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "The shekere produces sound through shaking or striking the beaded gourd."
+  },
+  {
+    "id": "jamb-music-instruments-1",
+    "subject": "Music",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Musical Instruments",
+    "difficulty": "easy",
+    "prompt": "Instruments played by blowing air across or into them to vibrate a column of air, without a reed, such as the flute, belong to which subclass of aerophones?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Flutes (edge-blown/labrosone-free aerophones)"
+      },
+      {
+        "key": "B",
+        "text": "Brass instruments"
+      },
+      {
+        "key": "C",
+        "text": "Reed instruments"
+      },
+      {
+        "key": "D",
+        "text": "Idiophones"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Flutes produce sound by air vibrating across an edge, without a reed."
+  },
+  {
+    "id": "jamb-music-instruments-2",
+    "subject": "Music",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Musical Instruments",
+    "difficulty": "medium",
+    "prompt": "The clarinet and saxophone produce sound through the vibration of a",
+    "options": [
+      {
+        "key": "A",
+        "text": "string"
+      },
+      {
+        "key": "B",
+        "text": "membrane"
+      },
+      {
+        "key": "C",
+        "text": "metal bell alone"
+      },
+      {
+        "key": "D",
+        "text": "reed"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Clarinets and saxophones use a vibrating reed to produce sound."
+  },
+  {
+    "id": "jamb-music-instruments-3",
+    "subject": "Music",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Musical Instruments",
+    "difficulty": "hard",
+    "prompt": "An instrument's family classification as a 'chordophone' indicates that it produces sound primarily through",
+    "options": [
+      {
+        "key": "A",
+        "text": "vibrating air columns"
+      },
+      {
+        "key": "B",
+        "text": "vibrating strings"
+      },
+      {
+        "key": "C",
+        "text": "the vibration of its own solid body"
+      },
+      {
+        "key": "D",
+        "text": "vibrating membranes"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Chordophones, like guitars and violins, generate sound via vibrating strings."
+  },
+  {
+    "id": "jamb-music-instruments-4",
+    "subject": "Music",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Musical Instruments",
+    "difficulty": "medium",
+    "prompt": "The 'udu', a traditional Igbo percussion instrument made from clay, produces sound mainly by",
+    "options": [
+      {
+        "key": "A",
+        "text": "blowing air through a reed"
+      },
+      {
+        "key": "B",
+        "text": "plucking strings stretched across it"
+      },
+      {
+        "key": "C",
+        "text": "striking metal keys arranged on a frame"
+      },
+      {
+        "key": "D",
+        "text": "striking or tapping openings on its clay pot-like body"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "The udu is a clay pot drum played by striking its openings to produce resonant tones."
+  },
+  {
+    "id": "jamb-music-instruments-5",
+    "subject": "Music",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Musical Instruments",
+    "difficulty": "easy",
+    "prompt": "A pipe organ produces sound by forcing air through",
+    "options": [
+      {
+        "key": "A",
+        "text": "vibrating strings under tension"
+      },
+      {
+        "key": "B",
+        "text": "sets of pipes of varying length and width"
+      },
+      {
+        "key": "C",
+        "text": "a single stretched membrane"
+      },
+      {
+        "key": "D",
+        "text": "wooden bars struck by mallets"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Pipe organs generate sound by forcing air through numerous tuned pipes."
+  },
+  {
+    "id": "jamb-music-voice-1",
+    "subject": "Music",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Voice & Vocal Music",
+    "difficulty": "easy",
+    "prompt": "A vocal composition performed by three singers, typically on three different parts, is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "solo"
+      },
+      {
+        "key": "B",
+        "text": "trio"
+      },
+      {
+        "key": "C",
+        "text": "duet"
+      },
+      {
+        "key": "D",
+        "text": "quartet"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "A trio is a vocal (or instrumental) piece for exactly three performers."
+  },
+  {
+    "id": "jamb-music-voice-2",
+    "subject": "Music",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Voice & Vocal Music",
+    "difficulty": "medium",
+    "prompt": "Antiphonal singing, in which two groups of singers alternate in performing musical phrases, is closely related to the technique of",
+    "options": [
+      {
+        "key": "A",
+        "text": "staccato articulation"
+      },
+      {
+        "key": "B",
+        "text": "monophony strictly single line"
+      },
+      {
+        "key": "C",
+        "text": "call-and-response"
+      },
+      {
+        "key": "D",
+        "text": "legato phrasing"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Antiphonal singing shares the alternating structure of call-and-response performance."
+  },
+  {
+    "id": "jamb-music-voice-3",
+    "subject": "Music",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Voice & Vocal Music",
+    "difficulty": "hard",
+    "prompt": "A capella singing refers to vocal music performed",
+    "options": [
+      {
+        "key": "A",
+        "text": "with a full orchestra"
+      },
+      {
+        "key": "B",
+        "text": "without instrumental accompaniment"
+      },
+      {
+        "key": "C",
+        "text": "only by a single singer"
+      },
+      {
+        "key": "D",
+        "text": "only in Latin"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "A capella means voices sing unaccompanied by instruments."
+  },
+  {
+    "id": "jamb-music-voice-4",
+    "subject": "Music",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Voice & Vocal Music",
+    "difficulty": "medium",
+    "prompt": "The adult male voice type sitting above tenor, used for particularly high male vocal parts, is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "baritone"
+      },
+      {
+        "key": "B",
+        "text": "bass"
+      },
+      {
+        "key": "C",
+        "text": "contralto"
+      },
+      {
+        "key": "D",
+        "text": "countertenor"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Countertenor is the highest common adult male vocal range."
+  },
+  {
+    "id": "jamb-music-voice-5",
+    "subject": "Music",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Voice & Vocal Music",
+    "difficulty": "easy",
+    "prompt": "A vocal ensemble made up of male voices singing without accompaniment, common in some traditional and gospel styles, is broadly called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "brass band"
+      },
+      {
+        "key": "B",
+        "text": "wind ensemble"
+      },
+      {
+        "key": "C",
+        "text": "male a capella group"
+      },
+      {
+        "key": "D",
+        "text": "string quartet"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Unaccompanied male vocal ensembles are described as male a capella groups."
+  },
+  {
+    "id": "jamb-french-grammar-1",
+    "subject": "French",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Basic Grammar",
+    "difficulty": "easy",
+    "prompt": "Choose the correct definite article for 'chaise' (a feminine noun): '___ chaise'",
+    "options": [
+      {
+        "key": "A",
+        "text": "Le"
+      },
+      {
+        "key": "B",
+        "text": "L'"
+      },
+      {
+        "key": "C",
+        "text": "La"
+      },
+      {
+        "key": "D",
+        "text": "Les"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "'Chaise' is feminine, taking the definite article 'la'."
+  },
+  {
+    "id": "jamb-french-grammar-2",
+    "subject": "French",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Basic Grammar",
+    "difficulty": "medium",
+    "prompt": "Choose the correct form: 'Vous ___ fatigués.' (You [plural] are tired.)",
+    "options": [
+      {
+        "key": "A",
+        "text": "est"
+      },
+      {
+        "key": "B",
+        "text": "sommes"
+      },
+      {
+        "key": "C",
+        "text": "êtes"
+      },
+      {
+        "key": "D",
+        "text": "sont"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "'Vous êtes' is the second-person plural form of 'être' (to be)."
+  },
+  {
+    "id": "jamb-french-grammar-3",
+    "subject": "French",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Basic Grammar",
+    "difficulty": "hard",
+    "prompt": "Choose the correct possessive adjective: '___ amis sont sympathiques.' (My friends are nice.)",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ton"
+      },
+      {
+        "key": "B",
+        "text": "Mes"
+      },
+      {
+        "key": "C",
+        "text": "Ma"
+      },
+      {
+        "key": "D",
+        "text": "Mon"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "'Amis' is plural, so it takes the plural possessive 'mes' for 'my'."
+  },
+  {
+    "id": "jamb-french-grammar-4",
+    "subject": "French",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Basic Grammar",
+    "difficulty": "medium",
+    "prompt": "Choose the correct plural form of 'l'animal' (the animal).",
+    "options": [
+      {
+        "key": "A",
+        "text": "les animaux"
+      },
+      {
+        "key": "B",
+        "text": "les animal"
+      },
+      {
+        "key": "C",
+        "text": "l'animaux"
+      },
+      {
+        "key": "D",
+        "text": "les animals"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "'Animal' has the irregular plural 'animaux'."
+  },
+  {
+    "id": "jamb-french-grammar-5",
+    "subject": "French",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Basic Grammar",
+    "difficulty": "easy",
+    "prompt": "Choose the correct indefinite article for 'école' (a feminine noun): '___ école'",
+    "options": [
+      {
+        "key": "A",
+        "text": "Un"
+      },
+      {
+        "key": "B",
+        "text": "La"
+      },
+      {
+        "key": "C",
+        "text": "Une"
+      },
+      {
+        "key": "D",
+        "text": "Des"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "'École' is feminine, taking the indefinite article 'une'."
+  },
+  {
+    "id": "jamb-french-vocabulary-1",
+    "subject": "French",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Vocabulary",
+    "difficulty": "easy",
+    "prompt": "What is the French word for 'sister'?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Sœur"
+      },
+      {
+        "key": "B",
+        "text": "Fille"
+      },
+      {
+        "key": "C",
+        "text": "Frère"
+      },
+      {
+        "key": "D",
+        "text": "Mère"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "'Sœur' is the French word for 'sister'."
+  },
+  {
+    "id": "jamb-french-vocabulary-2",
+    "subject": "French",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Vocabulary",
+    "difficulty": "medium",
+    "prompt": "What is the French word for 'market'?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Marché"
+      },
+      {
+        "key": "B",
+        "text": "Bureau"
+      },
+      {
+        "key": "C",
+        "text": "Maison"
+      },
+      {
+        "key": "D",
+        "text": "École"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "'Marché' is the French word for 'market'."
+  },
+  {
+    "id": "jamb-french-vocabulary-3",
+    "subject": "French",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Vocabulary",
+    "difficulty": "hard",
+    "prompt": "What is the French word for 'today'?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Toujours"
+      },
+      {
+        "key": "B",
+        "text": "Aujourd'hui"
+      },
+      {
+        "key": "C",
+        "text": "Demain"
+      },
+      {
+        "key": "D",
+        "text": "Hier"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "'Aujourd'hui' is the French word for 'today'."
+  },
+  {
+    "id": "jamb-french-vocabulary-4",
+    "subject": "French",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Vocabulary",
+    "difficulty": "medium",
+    "prompt": "What is the French word for 'work' (noun)?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Jeu"
+      },
+      {
+        "key": "B",
+        "text": "Repos"
+      },
+      {
+        "key": "C",
+        "text": "Sommeil"
+      },
+      {
+        "key": "D",
+        "text": "Travail"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "'Travail' is the French word for 'work'."
+  },
+  {
+    "id": "jamb-french-vocabulary-5",
+    "subject": "French",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Vocabulary",
+    "difficulty": "easy",
+    "prompt": "What is the French word for 'milk'?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Lait"
+      },
+      {
+        "key": "B",
+        "text": "Eau"
+      },
+      {
+        "key": "C",
+        "text": "Sel"
+      },
+      {
+        "key": "D",
+        "text": "Pain"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "'Lait' is the French word for 'milk'."
+  },
+  {
+    "id": "jamb-french-verbs-1",
+    "subject": "French",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Verb Conjugation",
+    "difficulty": "easy",
+    "prompt": "Choose the correct conjugation: 'Vous ___ un professeur.' (You [formal] have a teacher.)",
+    "options": [
+      {
+        "key": "A",
+        "text": "as"
+      },
+      {
+        "key": "B",
+        "text": "avons"
+      },
+      {
+        "key": "C",
+        "text": "avez"
+      },
+      {
+        "key": "D",
+        "text": "ont"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "'Vous avez' is the second-person formal/plural form of 'avoir' (to have)."
+  },
+  {
+    "id": "jamb-french-verbs-2",
+    "subject": "French",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Verb Conjugation",
+    "difficulty": "medium",
+    "prompt": "Choose the correct conjugation: 'Elles ___ au marché le matin.' (They [feminine] go to the market in the morning.)",
+    "options": [
+      {
+        "key": "A",
+        "text": "allez"
+      },
+      {
+        "key": "B",
+        "text": "vont"
+      },
+      {
+        "key": "C",
+        "text": "va"
+      },
+      {
+        "key": "D",
+        "text": "allons"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "'Elles vont' is the third-person plural form of 'aller' (to go)."
+  },
+  {
+    "id": "jamb-french-verbs-3",
+    "subject": "French",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Verb Conjugation",
+    "difficulty": "hard",
+    "prompt": "Choose the correct passé composé form: 'Il ___ (finir) son travail hier.'",
+    "options": [
+      {
+        "key": "A",
+        "text": "est fini"
+      },
+      {
+        "key": "B",
+        "text": "finissait"
+      },
+      {
+        "key": "C",
+        "text": "finit"
+      },
+      {
+        "key": "D",
+        "text": "a fini"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "'Finir' uses 'avoir' as its auxiliary in the passé composé: 'il a fini'."
+  },
+  {
+    "id": "jamb-french-verbs-4",
+    "subject": "French",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Verb Conjugation",
+    "difficulty": "medium",
+    "prompt": "Choose the correct conjugation: 'Tu ___ intelligent.' (You are intelligent.)",
+    "options": [
+      {
+        "key": "A",
+        "text": "sont"
+      },
+      {
+        "key": "B",
+        "text": "suis"
+      },
+      {
+        "key": "C",
+        "text": "es"
+      },
+      {
+        "key": "D",
+        "text": "est"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "'Tu es' is the second-person singular form of 'être' (to be)."
+  },
+  {
+    "id": "jamb-french-verbs-5",
+    "subject": "French",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Verb Conjugation",
+    "difficulty": "easy",
+    "prompt": "Choose the correct conjugation: 'Nous ___ un livre.' (We have a book.)",
+    "options": [
+      {
+        "key": "A",
+        "text": "ont"
+      },
+      {
+        "key": "B",
+        "text": "avons"
+      },
+      {
+        "key": "C",
+        "text": "a"
+      },
+      {
+        "key": "D",
+        "text": "avez"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "'Nous avons' is the first-person plural form of 'avoir' (to have)."
+  },
+  {
+    "id": "jamb-french-comprehension-1",
+    "subject": "French",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Comprehension",
+    "difficulty": "easy",
+    "prompt": "'Quel âge as-tu?' is best translated as",
+    "options": [
+      {
+        "key": "A",
+        "text": "How old are you?"
+      },
+      {
+        "key": "B",
+        "text": "Where do you live?"
+      },
+      {
+        "key": "C",
+        "text": "What is your name?"
+      },
+      {
+        "key": "D",
+        "text": "What time is it?"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "'Quel âge as-tu?' means 'How old are you?'"
+  },
+  {
+    "id": "jamb-french-comprehension-2",
+    "subject": "French",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Comprehension",
+    "difficulty": "medium",
+    "prompt": "'Ma sœur travaille à l'hôpital.' is best translated as",
+    "options": [
+      {
+        "key": "A",
+        "text": "My sister is sick"
+      },
+      {
+        "key": "B",
+        "text": "My mother is a doctor"
+      },
+      {
+        "key": "C",
+        "text": "I am going to the hospital"
+      },
+      {
+        "key": "D",
+        "text": "My sister works at the hospital"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "'Ma sœur travaille à l'hôpital' means 'My sister works at the hospital'."
+  },
+  {
+    "id": "jamb-french-comprehension-3",
+    "subject": "French",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Comprehension",
+    "difficulty": "hard",
+    "prompt": "'Il pleut beaucoup en juillet.' is best translated as",
+    "options": [
+      {
+        "key": "A",
+        "text": "It snows in July"
+      },
+      {
+        "key": "B",
+        "text": "It is cold in December"
+      },
+      {
+        "key": "C",
+        "text": "It rains a lot in July"
+      },
+      {
+        "key": "D",
+        "text": "It is sunny in July"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "'Il pleut beaucoup en juillet' means 'It rains a lot in July'."
+  },
+  {
+    "id": "jamb-french-comprehension-4",
+    "subject": "French",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Comprehension",
+    "difficulty": "medium",
+    "prompt": "'Combien coûte ce livre?' is best translated as",
+    "options": [
+      {
+        "key": "A",
+        "text": "Where is this book from?"
+      },
+      {
+        "key": "B",
+        "text": "Is this book interesting?"
+      },
+      {
+        "key": "C",
+        "text": "How much does this book cost?"
+      },
+      {
+        "key": "D",
+        "text": "Who wrote this book?"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "'Combien coûte ce livre?' means 'How much does this book cost?'"
+  },
+  {
+    "id": "jamb-french-comprehension-5",
+    "subject": "French",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Comprehension",
+    "difficulty": "easy",
+    "prompt": "'Bonne chance' is best translated as",
+    "options": [
+      {
+        "key": "A",
+        "text": "Congratulations"
+      },
+      {
+        "key": "B",
+        "text": "Good luck"
+      },
+      {
+        "key": "C",
+        "text": "Good morning"
+      },
+      {
+        "key": "D",
+        "text": "Good night"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "'Bonne chance' means 'Good luck'."
+  },
+  {
+    "id": "jamb-french-numbers-1",
+    "subject": "French",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Numbers & Everyday Expressions",
+    "difficulty": "easy",
+    "prompt": "What is the French word for the number 'seven'?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Huit"
+      },
+      {
+        "key": "B",
+        "text": "Neuf"
+      },
+      {
+        "key": "C",
+        "text": "Sept"
+      },
+      {
+        "key": "D",
+        "text": "Six"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "'Sept' is the French word for 'seven'."
+  },
+  {
+    "id": "jamb-french-numbers-2",
+    "subject": "French",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Numbers & Everyday Expressions",
+    "difficulty": "medium",
+    "prompt": "What is the French word for the number 'fifty'?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Quatre-vingts"
+      },
+      {
+        "key": "B",
+        "text": "Soixante"
+      },
+      {
+        "key": "C",
+        "text": "Cinquante"
+      },
+      {
+        "key": "D",
+        "text": "Quinze"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "'Cinquante' is the French word for 'fifty'."
+  },
+  {
+    "id": "jamb-french-numbers-3",
+    "subject": "French",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Numbers & Everyday Expressions",
+    "difficulty": "hard",
+    "prompt": "What is the correct French word for 'a thousand'?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Million"
+      },
+      {
+        "key": "B",
+        "text": "Dix mille"
+      },
+      {
+        "key": "C",
+        "text": "Cent"
+      },
+      {
+        "key": "D",
+        "text": "Mille"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "'Mille' is the French word for 'a thousand'."
+  },
+  {
+    "id": "jamb-french-numbers-4",
+    "subject": "French",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Numbers & Everyday Expressions",
+    "difficulty": "medium",
+    "prompt": "Which of the following is the correct French expression for 'Welcome'?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Au revoir"
+      },
+      {
+        "key": "B",
+        "text": "Bienvenue"
+      },
+      {
+        "key": "C",
+        "text": "Salut"
+      },
+      {
+        "key": "D",
+        "text": "Bonsoir"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "'Bienvenue' means 'Welcome'."
+  },
+  {
+    "id": "jamb-french-numbers-5",
+    "subject": "French",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Numbers & Everyday Expressions",
+    "difficulty": "easy",
+    "prompt": "Which of the following is the correct French expression for 'You're welcome'?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Merci"
+      },
+      {
+        "key": "B",
+        "text": "De rien"
+      },
+      {
+        "key": "C",
+        "text": "Pardon"
+      },
+      {
+        "key": "D",
+        "text": "S'il vous plaît"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "'De rien' means 'You're welcome' (literally 'it's nothing')."
+  },
+  {
+    "id": "jamb-store-stock-control-1",
+    "subject": "Store Management",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Stock Control & Inventory",
+    "difficulty": "easy",
+    "prompt": "The stock control document that shows the minimum, maximum and re-order levels for each item is typically the",
+    "options": [
+      {
+        "key": "A",
+        "text": "delivery note"
+      },
+      {
+        "key": "B",
+        "text": "bin card/stock record card"
+      },
+      {
+        "key": "C",
+        "text": "sales invoice"
+      },
+      {
+        "key": "D",
+        "text": "cheque book"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Bin cards typically record key stock control levels for each item."
+  },
+  {
+    "id": "jamb-store-stock-control-2",
+    "subject": "Store Management",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Stock Control & Inventory",
+    "difficulty": "medium",
+    "prompt": "The quantity of stock ordered at a time to minimize the combined cost of ordering and holding stock is called the",
+    "options": [
+      {
+        "key": "A",
+        "text": "Maximum stock level"
+      },
+      {
+        "key": "B",
+        "text": "Minimum stock level"
+      },
+      {
+        "key": "C",
+        "text": "Economic Order Quantity (EOQ)"
+      },
+      {
+        "key": "D",
+        "text": "Buffer stock"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "The EOQ balances ordering costs against holding costs to find an optimal order size."
+  },
+  {
+    "id": "jamb-store-stock-control-3",
+    "subject": "Store Management",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Stock Control & Inventory",
+    "difficulty": "hard",
+    "prompt": "A perpetual inventory system continuously updates stock records after every transaction, mainly to",
+    "options": [
+      {
+        "key": "A",
+        "text": "eliminate the need for stock-taking permanently"
+      },
+      {
+        "key": "B",
+        "text": "reduce the accuracy of stock figures"
+      },
+      {
+        "key": "C",
+        "text": "provide an accurate, real-time picture of stock levels at any time"
+      },
+      {
+        "key": "D",
+        "text": "avoid recording any stock movement"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Continuous updates give management an accurate, current view of stock levels."
+  },
+  {
+    "id": "jamb-store-stock-control-4",
+    "subject": "Store Management",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Stock Control & Inventory",
+    "difficulty": "medium",
+    "prompt": "Just-in-time (JIT) inventory management aims to",
+    "options": [
+      {
+        "key": "A",
+        "text": "eliminate the need for suppliers"
+      },
+      {
+        "key": "B",
+        "text": "maximize stock holding at all times"
+      },
+      {
+        "key": "C",
+        "text": "ignore customer demand entirely"
+      },
+      {
+        "key": "D",
+        "text": "minimize stock holding by receiving goods only as they are needed"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "JIT reduces inventory costs by timing deliveries closely with actual need."
+  },
+  {
+    "id": "jamb-store-stock-control-5",
+    "subject": "Store Management",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Stock Control & Inventory",
+    "difficulty": "easy",
+    "prompt": "Slow-moving stock that ties up capital without generating sales is a concern mainly because it",
+    "options": [
+      {
+        "key": "A",
+        "text": "has no effect on business finances"
+      },
+      {
+        "key": "B",
+        "text": "always improves company profitability"
+      },
+      {
+        "key": "C",
+        "text": "increases storage costs and reduces available working capital"
+      },
+      {
+        "key": "D",
+        "text": "guarantees future high demand"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Slow-moving stock incurs holding costs while locking up capital unproductively."
+  },
+  {
+    "id": "jamb-store-layout-equipment-1",
+    "subject": "Store Management",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Store Layout & Equipment",
+    "difficulty": "easy",
+    "prompt": "Grouping fast-moving items near the store's dispatch area is a layout strategy mainly intended to",
+    "options": [
+      {
+        "key": "A",
+        "text": "make items harder to find"
+      },
+      {
+        "key": "B",
+        "text": "reduce the time and distance needed to retrieve frequently requested items"
+      },
+      {
+        "key": "C",
+        "text": "increase walking distance for staff"
+      },
+      {
+        "key": "D",
+        "text": "reduce the total storage capacity"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Placing popular items near dispatch speeds up frequent retrieval and reduces travel time."
+  },
+  {
+    "id": "jamb-store-layout-equipment-2",
+    "subject": "Store Management",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Store Layout & Equipment",
+    "difficulty": "medium",
+    "prompt": "A conveyor belt system used in a large warehouse mainly helps to",
+    "options": [
+      {
+        "key": "A",
+        "text": "move goods efficiently between different sections of the store"
+      },
+      {
+        "key": "B",
+        "text": "count stock automatically without any equipment"
+      },
+      {
+        "key": "C",
+        "text": "replace the need for stock records"
+      },
+      {
+        "key": "D",
+        "text": "advertise products to customers"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Conveyor systems streamline the physical movement of goods within a facility."
+  },
+  {
+    "id": "jamb-store-layout-equipment-3",
+    "subject": "Store Management",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Store Layout & Equipment",
+    "difficulty": "hard",
+    "prompt": "Adequate lighting and ventilation in a store are important mainly to",
+    "options": [
+      {
+        "key": "A",
+        "text": "reduce the number of items stored"
+      },
+      {
+        "key": "B",
+        "text": "increase the sale price of goods"
+      },
+      {
+        "key": "C",
+        "text": "ensure staff can work safely, accurately and comfortably"
+      },
+      {
+        "key": "D",
+        "text": "eliminate the need for stock records"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Good lighting and ventilation support safe, accurate and comfortable working conditions."
+  },
+  {
+    "id": "jamb-store-layout-equipment-4",
+    "subject": "Store Management",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Store Layout & Equipment",
+    "difficulty": "medium",
+    "prompt": "A weighing scale is essential store equipment mainly used to",
+    "options": [
+      {
+        "key": "A",
+        "text": "verify the quantity or weight of goods received or issued"
+      },
+      {
+        "key": "B",
+        "text": "transport heavy goods within the store"
+      },
+      {
+        "key": "C",
+        "text": "secure the store against theft"
+      },
+      {
+        "key": "D",
+        "text": "print stock labels"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Weighing scales verify the correct quantity of goods by weight."
+  },
+  {
+    "id": "jamb-store-layout-equipment-5",
+    "subject": "Store Management",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Store Layout & Equipment",
+    "difficulty": "easy",
+    "prompt": "Barcoding of stock items in modern stores primarily assists with",
+    "options": [
+      {
+        "key": "A",
+        "text": "faster and more accurate identification and tracking of stock"
+      },
+      {
+        "key": "B",
+        "text": "increasing the physical size of items"
+      },
+      {
+        "key": "C",
+        "text": "reducing the number of items a store can hold"
+      },
+      {
+        "key": "D",
+        "text": "eliminating the need for any documentation"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Barcodes enable quick, accurate stock identification and tracking."
+  },
+  {
+    "id": "jamb-store-receiving-issuing-1",
+    "subject": "Store Management",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Receiving & Issuing Goods",
+    "difficulty": "easy",
+    "prompt": "Quality inspection of goods upon receipt is carried out mainly to",
+    "options": [
+      {
+        "key": "A",
+        "text": "avoid the need for any records"
+      },
+      {
+        "key": "B",
+        "text": "increase the quantity of goods received"
+      },
+      {
+        "key": "C",
+        "text": "ensure the goods meet the required specifications and are undamaged"
+      },
+      {
+        "key": "D",
+        "text": "reduce the supplier's invoice amount automatically"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Inspection confirms received goods match specifications and are in good condition."
+  },
+  {
+    "id": "jamb-store-receiving-issuing-2",
+    "subject": "Store Management",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Receiving & Issuing Goods",
+    "difficulty": "medium",
+    "prompt": "A bulk issue of stock, as opposed to individual small issues, is typically made when",
+    "options": [
+      {
+        "key": "A",
+        "text": "no requisition has been submitted"
+      },
+      {
+        "key": "B",
+        "text": "goods are being returned to a supplier"
+      },
+      {
+        "key": "C",
+        "text": "a department requests a large quantity for a specific project or period"
+      },
+      {
+        "key": "D",
+        "text": "the store has run out of the item"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Bulk issues serve departments needing large quantities at once, backed by a requisition."
+  },
+  {
+    "id": "jamb-store-receiving-issuing-3",
+    "subject": "Store Management",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Receiving & Issuing Goods",
+    "difficulty": "hard",
+    "prompt": "A 'first in, first out' (FIFO) issuing policy is especially important for stock that is",
+    "options": [
+      {
+        "key": "A",
+        "text": "never going to be issued"
+      },
+      {
+        "key": "B",
+        "text": "completely non-perishable and unaffected by time"
+      },
+      {
+        "key": "C",
+        "text": "always issued in the exact reverse order of arrival"
+      },
+      {
+        "key": "D",
+        "text": "perishable or subject to deterioration over time"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "FIFO prevents older perishable stock from spoiling by issuing it before newer stock."
+  },
+  {
+    "id": "jamb-store-receiving-issuing-4",
+    "subject": "Store Management",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Receiving & Issuing Goods",
+    "difficulty": "medium",
+    "prompt": "When a supplier delivers more goods than were ordered, the storekeeper should",
+    "options": [
+      {
+        "key": "A",
+        "text": "automatically accept and pay for all goods delivered"
+      },
+      {
+        "key": "B",
+        "text": "record the discrepancy and inform the purchasing department before accepting the excess"
+      },
+      {
+        "key": "C",
+        "text": "issue the extra goods to customers without approval"
+      },
+      {
+        "key": "D",
+        "text": "discard the extra goods immediately"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Discrepancies between ordered and delivered quantities should be reported before acceptance."
+  },
+  {
+    "id": "jamb-store-receiving-issuing-5",
+    "subject": "Store Management",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Receiving & Issuing Goods",
+    "difficulty": "easy",
+    "prompt": "A returns note is used when goods are",
+    "options": [
+      {
+        "key": "A",
+        "text": "advertised for sale"
+      },
+      {
+        "key": "B",
+        "text": "sent back to a supplier or received back from a department"
+      },
+      {
+        "key": "C",
+        "text": "counted during stock-taking"
+      },
+      {
+        "key": "D",
+        "text": "newly ordered from a supplier"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Returns notes document goods being sent back or received back into the store."
+  },
+  {
+    "id": "jamb-store-records-1",
+    "subject": "Store Management",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Stock Records & Documentation",
+    "difficulty": "easy",
+    "prompt": "A stores ledger account, unlike a bin card, typically also records the",
+    "options": [
+      {
+        "key": "A",
+        "text": "names of customers only"
+      },
+      {
+        "key": "B",
+        "text": "monetary value of stock, alongside quantities"
+      },
+      {
+        "key": "C",
+        "text": "physical location of the store only"
+      },
+      {
+        "key": "D",
+        "text": "colour of the packaging only"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Stores ledger accounts track both quantity and monetary value of stock, unlike bin cards which usually track quantity only."
+  },
+  {
+    "id": "jamb-store-records-2",
+    "subject": "Store Management",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Stock Records & Documentation",
+    "difficulty": "medium",
+    "prompt": "Regularly reconciling bin card balances with physical stock counts helps to",
+    "options": [
+      {
+        "key": "A",
+        "text": "reduce the accuracy of stock records"
+      },
+      {
+        "key": "B",
+        "text": "eliminate the need for stock-taking permanently"
+      },
+      {
+        "key": "C",
+        "text": "identify and correct discrepancies promptly"
+      },
+      {
+        "key": "D",
+        "text": "increase the total stock held automatically"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Reconciliation catches discrepancies between recorded and actual stock early."
+  },
+  {
+    "id": "jamb-store-records-3",
+    "subject": "Store Management",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Stock Records & Documentation",
+    "difficulty": "hard",
+    "prompt": "A stock discrepancy report is prepared mainly to document",
+    "options": [
+      {
+        "key": "A",
+        "text": "differences found between recorded stock levels and actual physical counts"
+      },
+      {
+        "key": "B",
+        "text": "customer complaints"
+      },
+      {
+        "key": "C",
+        "text": "the total sales revenue of the business"
+      },
+      {
+        "key": "D",
+        "text": "employee attendance records"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "This report documents mismatches between book stock and physical stock."
+  },
+  {
+    "id": "jamb-store-records-4",
+    "subject": "Store Management",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Stock Records & Documentation",
+    "difficulty": "medium",
+    "prompt": "Computerized stock control systems offer an advantage over manual systems mainly by",
+    "options": [
+      {
+        "key": "A",
+        "text": "processing and updating stock information more quickly and accurately"
+      },
+      {
+        "key": "B",
+        "text": "requiring no data entry at all"
+      },
+      {
+        "key": "C",
+        "text": "making stock records permanently inaccessible"
+      },
+      {
+        "key": "D",
+        "text": "eliminating the need for any staff"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Computerized systems process and update stock data faster and with fewer errors."
+  },
+  {
+    "id": "jamb-store-records-5",
+    "subject": "Store Management",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Stock Records & Documentation",
+    "difficulty": "easy",
+    "prompt": "The unique code assigned to each distinct stock item, used for identification in records, is called a/an",
+    "options": [
+      {
+        "key": "A",
+        "text": "invoice number"
+      },
+      {
+        "key": "B",
+        "text": "cheque number"
+      },
+      {
+        "key": "C",
+        "text": "employee number"
+      },
+      {
+        "key": "D",
+        "text": "stock (item) code"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Stock codes uniquely identify individual items within records."
+  },
+  {
+    "id": "jamb-store-safety-security-1",
+    "subject": "Store Management",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Safety & Security in the Store",
+    "difficulty": "easy",
+    "prompt": "Regular stock audits by an independent party help to prevent",
+    "options": [
+      {
+        "key": "A",
+        "text": "customers from placing orders"
+      },
+      {
+        "key": "B",
+        "text": "suppliers from being paid"
+      },
+      {
+        "key": "C",
+        "text": "internal theft and fraud going undetected"
+      },
+      {
+        "key": "D",
+        "text": "goods from being delivered on time"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Independent audits deter and detect internal theft or fraudulent record-keeping."
+  },
+  {
+    "id": "jamb-store-safety-security-2",
+    "subject": "Store Management",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Safety & Security in the Store",
+    "difficulty": "medium",
+    "prompt": "Storing hazardous chemicals separately from food items in a warehouse is a practice required mainly for",
+    "options": [
+      {
+        "key": "A",
+        "text": "improving product advertising"
+      },
+      {
+        "key": "B",
+        "text": "safety and to prevent contamination"
+      },
+      {
+        "key": "C",
+        "text": "increasing the store's floor space"
+      },
+      {
+        "key": "D",
+        "text": "reducing the total number of items stored"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Separation prevents contamination and reduces safety hazards from mixing incompatible goods."
+  },
+  {
+    "id": "jamb-store-safety-security-3",
+    "subject": "Store Management",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Safety & Security in the Store",
+    "difficulty": "hard",
+    "prompt": "An emergency evacuation plan displayed in a store is intended mainly to",
+    "options": [
+      {
+        "key": "A",
+        "text": "advertise the store's products"
+      },
+      {
+        "key": "B",
+        "text": "calculate the value of stock held"
+      },
+      {
+        "key": "C",
+        "text": "record daily stock movements"
+      },
+      {
+        "key": "D",
+        "text": "guide staff and visitors to safety quickly during an emergency"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Evacuation plans direct people to safety efficiently during emergencies."
+  },
+  {
+    "id": "jamb-store-safety-security-4",
+    "subject": "Store Management",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Safety & Security in the Store",
+    "difficulty": "medium",
+    "prompt": "Employing security personnel at store entry and exit points is a measure aimed mainly at",
+    "options": [
+      {
+        "key": "A",
+        "text": "preventing unauthorized removal of goods"
+      },
+      {
+        "key": "B",
+        "text": "increasing the speed of stock delivery"
+      },
+      {
+        "key": "C",
+        "text": "reducing the cost of goods"
+      },
+      {
+        "key": "D",
+        "text": "improving product packaging"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Security personnel help control and prevent unauthorized stock removal."
+  },
+  {
+    "id": "jamb-store-safety-security-5",
+    "subject": "Store Management",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Safety & Security in the Store",
+    "difficulty": "easy",
+    "prompt": "Proper stacking of goods, avoiding excessive height, is a safety measure meant to prevent",
+    "options": [
+      {
+        "key": "A",
+        "text": "increased storage capacity"
+      },
+      {
+        "key": "B",
+        "text": "goods from being sold too quickly"
+      },
+      {
+        "key": "C",
+        "text": "stacks toppling over and causing injury"
+      },
+      {
+        "key": "D",
+        "text": "faster stock rotation"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Safe stacking heights reduce the risk of goods falling and causing injury."
+  },
+  {
+    "id": "jamb-insurance-principles-1",
+    "subject": "Insurance",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Principles of Insurance",
+    "difficulty": "easy",
+    "prompt": "The basic purpose of insurance is to provide financial protection against",
+    "options": [
+      {
+        "key": "A",
+        "text": "unforeseen and uncertain losses"
+      },
+      {
+        "key": "B",
+        "text": "routine, predictable costs"
+      },
+      {
+        "key": "C",
+        "text": "planned business investments"
+      },
+      {
+        "key": "D",
+        "text": "guaranteed, certain expenses"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Insurance protects against losses that are uncertain and unforeseen, not routine costs."
+  },
+  {
+    "id": "jamb-insurance-principles-2",
+    "subject": "Insurance",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Principles of Insurance",
+    "difficulty": "medium",
+    "prompt": "The principle that a person can only insure something in which they would suffer a genuine financial loss is",
+    "options": [
+      {
+        "key": "A",
+        "text": "subrogation"
+      },
+      {
+        "key": "B",
+        "text": "indemnity"
+      },
+      {
+        "key": "C",
+        "text": "utmost good faith"
+      },
+      {
+        "key": "D",
+        "text": "insurable interest"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Insurable interest requires a real financial stake in the item or life insured."
+  },
+  {
+    "id": "jamb-insurance-principles-3",
+    "subject": "Insurance",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Principles of Insurance",
+    "difficulty": "hard",
+    "prompt": "The 'law of large numbers' underpins insurance by showing that, with a large enough group, insurers can",
+    "options": [
+      {
+        "key": "A",
+        "text": "predict the likely overall frequency of losses fairly accurately"
+      },
+      {
+        "key": "B",
+        "text": "avoid the need to charge any premium"
+      },
+      {
+        "key": "C",
+        "text": "guarantee no losses will ever occur"
+      },
+      {
+        "key": "D",
+        "text": "eliminate all risk entirely"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Averaging over large numbers of policyholders allows insurers to predict aggregate loss patterns."
+  },
+  {
+    "id": "jamb-insurance-principles-4",
+    "subject": "Insurance",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Principles of Insurance",
+    "difficulty": "medium",
+    "prompt": "The principle preventing the insured from being paid more than the actual value of their loss is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "contribution"
+      },
+      {
+        "key": "B",
+        "text": "insurable interest"
+      },
+      {
+        "key": "C",
+        "text": "indemnity"
+      },
+      {
+        "key": "D",
+        "text": "utmost good faith"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Indemnity restricts compensation to the actual financial loss suffered."
+  },
+  {
+    "id": "jamb-insurance-principles-5",
+    "subject": "Insurance",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Principles of Insurance",
+    "difficulty": "easy",
+    "prompt": "An insurance contract is generally regarded as one of 'utmost good faith' because",
+    "options": [
+      {
+        "key": "A",
+        "text": "only the insured must act honestly"
+      },
+      {
+        "key": "B",
+        "text": "only the insurer must act honestly"
+      },
+      {
+        "key": "C",
+        "text": "no disclosure obligations exist for either party"
+      },
+      {
+        "key": "D",
+        "text": "both parties must disclose all material facts honestly"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Both insurer and insured are bound to disclose material facts truthfully."
+  },
+  {
+    "id": "jamb-insurance-types-1",
+    "subject": "Insurance",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Types of Insurance Policies",
+    "difficulty": "easy",
+    "prompt": "Insurance that protects a professional, such as a doctor or lawyer, against claims arising from errors in their professional work is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "marine insurance"
+      },
+      {
+        "key": "B",
+        "text": "professional indemnity insurance"
+      },
+      {
+        "key": "C",
+        "text": "life insurance"
+      },
+      {
+        "key": "D",
+        "text": "fire insurance"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Professional indemnity insurance covers liability from professional negligence or errors."
+  },
+  {
+    "id": "jamb-insurance-types-2",
+    "subject": "Insurance",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Types of Insurance Policies",
+    "difficulty": "medium",
+    "prompt": "Burglary insurance is designed to compensate for loss resulting from",
+    "options": [
+      {
+        "key": "A",
+        "text": "vehicle accidents"
+      },
+      {
+        "key": "B",
+        "text": "theft involving forcible or violent entry"
+      },
+      {
+        "key": "C",
+        "text": "employee dishonesty"
+      },
+      {
+        "key": "D",
+        "text": "natural disasters like floods"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Burglary insurance specifically covers losses from forced-entry theft."
+  },
+  {
+    "id": "jamb-insurance-types-3",
+    "subject": "Insurance",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Types of Insurance Policies",
+    "difficulty": "hard",
+    "prompt": "Aviation insurance is a specialized form of insurance covering risks associated with",
+    "options": [
+      {
+        "key": "A",
+        "text": "sea transport of goods"
+      },
+      {
+        "key": "B",
+        "text": "aircraft operations, including damage and liability"
+      },
+      {
+        "key": "C",
+        "text": "life assurance for pilots only"
+      },
+      {
+        "key": "D",
+        "text": "office equipment"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Aviation insurance covers risks specific to aircraft and air transport operations."
+  },
+  {
+    "id": "jamb-insurance-types-4",
+    "subject": "Insurance",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Types of Insurance Policies",
+    "difficulty": "medium",
+    "prompt": "Workmen's compensation insurance protects employers against claims arising from",
+    "options": [
+      {
+        "key": "A",
+        "text": "damage to company vehicles"
+      },
+      {
+        "key": "B",
+        "text": "loss of company profits"
+      },
+      {
+        "key": "C",
+        "text": "injuries or illnesses suffered by employees in the course of their work"
+      },
+      {
+        "key": "D",
+        "text": "theft by third parties"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Workmen's compensation covers employer liability for work-related employee injury or illness."
+  },
+  {
+    "id": "jamb-insurance-types-5",
+    "subject": "Insurance",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Types of Insurance Policies",
+    "difficulty": "easy",
+    "prompt": "Crop insurance is a specialized policy designed to protect farmers against losses caused by",
+    "options": [
+      {
+        "key": "A",
+        "text": "natural events such as drought, flood or pest infestation damaging crops"
+      },
+      {
+        "key": "B",
+        "text": "fluctuations in farmland ownership"
+      },
+      {
+        "key": "C",
+        "text": "employee dishonesty on the farm"
+      },
+      {
+        "key": "D",
+        "text": "loss of farm machinery only"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Crop insurance compensates farmers for losses from adverse natural events affecting harvests."
+  },
+  {
+    "id": "jamb-insurance-institutions-1",
+    "subject": "Insurance",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Insurance Institutions & Regulation",
+    "difficulty": "easy",
+    "prompt": "An insurance ombudsman or complaints bureau exists mainly to",
+    "options": [
+      {
+        "key": "A",
+        "text": "set insurance premiums directly"
+      },
+      {
+        "key": "B",
+        "text": "help resolve disputes between policyholders and insurance companies"
+      },
+      {
+        "key": "C",
+        "text": "sell insurance policies to the public"
+      },
+      {
+        "key": "D",
+        "text": "manufacture insurance forms"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Ombudsman schemes provide an avenue for resolving policyholder-insurer disputes."
+  },
+  {
+    "id": "jamb-insurance-institutions-2",
+    "subject": "Insurance",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Insurance Institutions & Regulation",
+    "difficulty": "medium",
+    "prompt": "A co-insurance arrangement involves",
+    "options": [
+      {
+        "key": "A",
+        "text": "a single insurer covering an entire risk alone"
+      },
+      {
+        "key": "B",
+        "text": "the insured bearing the entire risk with no insurer"
+      },
+      {
+        "key": "C",
+        "text": "two or more insurers jointly sharing a single large risk"
+      },
+      {
+        "key": "D",
+        "text": "an insurer insuring itself against its own risks"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Co-insurance splits a large risk across multiple insurers sharing the exposure."
+  },
+  {
+    "id": "jamb-insurance-institutions-3",
+    "subject": "Insurance",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Insurance Institutions & Regulation",
+    "difficulty": "hard",
+    "prompt": "Solvency margin requirements imposed on insurance companies by regulators are meant to ensure insurers",
+    "options": [
+      {
+        "key": "A",
+        "text": "operate without any regulatory oversight"
+      },
+      {
+        "key": "B",
+        "text": "avoid holding any capital reserves"
+      },
+      {
+        "key": "C",
+        "text": "maintain sufficient financial reserves to meet policyholder claims"
+      },
+      {
+        "key": "D",
+        "text": "maximize dividends to shareholders regardless of risk"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Solvency margins require insurers to hold adequate reserves to honour claims."
+  },
+  {
+    "id": "jamb-insurance-institutions-4",
+    "subject": "Insurance",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Insurance Institutions & Regulation",
+    "difficulty": "medium",
+    "prompt": "An insurance underwriter working directly for an insurance company differs from an independent broker mainly because the underwriter",
+    "options": [
+      {
+        "key": "A",
+        "text": "represents the interests of the insurance company in assessing and pricing risk"
+      },
+      {
+        "key": "B",
+        "text": "represents only the interests of the insured"
+      },
+      {
+        "key": "C",
+        "text": "never assesses any risk"
+      },
+      {
+        "key": "D",
+        "text": "works exclusively for government agencies"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "In-house underwriters assess and price risk on behalf of their employing insurer."
+  },
+  {
+    "id": "jamb-insurance-institutions-5",
+    "subject": "Insurance",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Insurance Institutions & Regulation",
+    "difficulty": "easy",
+    "prompt": "Bancassurance refers to the practice of",
+    "options": [
+      {
+        "key": "A",
+        "text": "banks selling insurance products to their customers"
+      },
+      {
+        "key": "B",
+        "text": "governments nationalizing insurance companies"
+      },
+      {
+        "key": "C",
+        "text": "insurance companies lending money directly"
+      },
+      {
+        "key": "D",
+        "text": "insurance companies operating as banks"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Bancassurance is the distribution of insurance products through banking channels."
+  },
+  {
+    "id": "jamb-insurance-underwriting-claims-1",
+    "subject": "Insurance",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Underwriting & Claims",
+    "difficulty": "easy",
+    "prompt": "A pre-existing condition disclosed during underwriting may lead an insurer to",
+    "options": [
+      {
+        "key": "A",
+        "text": "ignore the disclosure entirely"
+      },
+      {
+        "key": "B",
+        "text": "provide unlimited free cover"
+      },
+      {
+        "key": "C",
+        "text": "automatically reject every application without exception"
+      },
+      {
+        "key": "D",
+        "text": "adjust the premium or exclude that specific risk from cover"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Insurers may adjust terms, exclude specific risks, or adjust premiums based on disclosed risk factors."
+  },
+  {
+    "id": "jamb-insurance-underwriting-claims-2",
+    "subject": "Insurance",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Underwriting & Claims",
+    "difficulty": "medium",
+    "prompt": "A 'no-claims discount' rewards policyholders who",
+    "options": [
+      {
+        "key": "A",
+        "text": "have made multiple claims in a year"
+      },
+      {
+        "key": "B",
+        "text": "have switched insurers frequently"
+      },
+      {
+        "key": "C",
+        "text": "have cancelled their policy"
+      },
+      {
+        "key": "D",
+        "text": "have not made a claim over a specified period"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "No-claims discounts reward a claim-free history with reduced premiums."
+  },
+  {
+    "id": "jamb-insurance-underwriting-claims-3",
+    "subject": "Insurance",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Underwriting & Claims",
+    "difficulty": "hard",
+    "prompt": "An excess (deductible) in an insurance policy refers to the",
+    "options": [
+      {
+        "key": "A",
+        "text": "total premium paid annually"
+      },
+      {
+        "key": "B",
+        "text": "amount the insured must pay towards a claim before the insurer pays the rest"
+      },
+      {
+        "key": "C",
+        "text": "commission paid to the broker"
+      },
+      {
+        "key": "D",
+        "text": "maximum amount the insurer will ever pay"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "An excess is the portion of a claim the insured bears before insurer payment begins."
+  },
+  {
+    "id": "jamb-insurance-underwriting-claims-4",
+    "subject": "Insurance",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Underwriting & Claims",
+    "difficulty": "medium",
+    "prompt": "A repudiated claim is one that the insurer has",
+    "options": [
+      {
+        "key": "A",
+        "text": "rejected, usually citing a breach of policy terms"
+      },
+      {
+        "key": "B",
+        "text": "increased in value"
+      },
+      {
+        "key": "C",
+        "text": "fully paid without question"
+      },
+      {
+        "key": "D",
+        "text": "transferred to another insurer"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Repudiation means the insurer has formally rejected the claim."
+  },
+  {
+    "id": "jamb-insurance-underwriting-claims-5",
+    "subject": "Insurance",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Underwriting & Claims",
+    "difficulty": "easy",
+    "prompt": "The time limit within which a policyholder must notify an insurer of a loss is specified to",
+    "options": [
+      {
+        "key": "A",
+        "text": "allow prompt investigation and processing of the claim"
+      },
+      {
+        "key": "B",
+        "text": "increase the premium retroactively"
+      },
+      {
+        "key": "C",
+        "text": "eliminate the need for a policy document"
+      },
+      {
+        "key": "D",
+        "text": "prevent the insurer from ever paying claims"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Prompt notification supports timely, accurate claim investigation."
+  },
+  {
+    "id": "jamb-insurance-life-assurance-1",
+    "subject": "Insurance",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Life Assurance",
+    "difficulty": "easy",
+    "prompt": "A 'with-profits' life assurance policy differs from a standard policy in that it",
+    "options": [
+      {
+        "key": "A",
+        "text": "excludes death from natural causes"
+      },
+      {
+        "key": "B",
+        "text": "guarantees no premium is ever required"
+      },
+      {
+        "key": "C",
+        "text": "never pays out any benefit"
+      },
+      {
+        "key": "D",
+        "text": "shares a portion of the insurer's investment profits with policyholders"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "With-profits policies add a share of investment surplus to the policyholder's payout."
+  },
+  {
+    "id": "jamb-insurance-life-assurance-2",
+    "subject": "Insurance",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Life Assurance",
+    "difficulty": "medium",
+    "prompt": "A joint life assurance policy, common among married couples, typically pays out",
+    "options": [
+      {
+        "key": "A",
+        "text": "on the death of the first of the two insured persons"
+      },
+      {
+        "key": "B",
+        "text": "only after both insured persons have died"
+      },
+      {
+        "key": "C",
+        "text": "regardless of whether either insured person dies"
+      },
+      {
+        "key": "D",
+        "text": "only to a third party unrelated to the policy"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Most joint life policies pay out upon the first death of the two insured lives."
+  },
+  {
+    "id": "jamb-insurance-life-assurance-3",
+    "subject": "Insurance",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Life Assurance",
+    "difficulty": "hard",
+    "prompt": "Underwriters assess an applicant's life assurance risk partly using factors such as",
+    "options": [
+      {
+        "key": "A",
+        "text": "favourite colour and hobbies only"
+      },
+      {
+        "key": "B",
+        "text": "the make of car they drive"
+      },
+      {
+        "key": "C",
+        "text": "political opinions"
+      },
+      {
+        "key": "D",
+        "text": "age, health condition and occupation"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Life assurance underwriting considers factors like age, health and occupational risk."
+  },
+  {
+    "id": "jamb-insurance-life-assurance-4",
+    "subject": "Insurance",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Life Assurance",
+    "difficulty": "medium",
+    "prompt": "A surrender value is the amount a policyholder receives if they",
+    "options": [
+      {
+        "key": "A",
+        "text": "cancel a life assurance policy with a savings element before its maturity"
+      },
+      {
+        "key": "B",
+        "text": "make a valid death claim"
+      },
+      {
+        "key": "C",
+        "text": "renew the policy for another term"
+      },
+      {
+        "key": "D",
+        "text": "switch to a different insurer"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Surrender value is paid when a policy with savings value is cancelled early."
+  },
+  {
+    "id": "jamb-insurance-life-assurance-5",
+    "subject": "Insurance",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Life Assurance",
+    "difficulty": "easy",
+    "prompt": "Mortgage protection life assurance is specifically designed to",
+    "options": [
+      {
+        "key": "A",
+        "text": "protect against loss of employment"
+      },
+      {
+        "key": "B",
+        "text": "insure the physical building against fire"
+      },
+      {
+        "key": "C",
+        "text": "pay off an outstanding mortgage balance if the borrower dies before it is repaid"
+      },
+      {
+        "key": "D",
+        "text": "cover the cost of moving house"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "This policy ensures a mortgage is cleared if the borrower dies before full repayment."
+  },
+  {
+    "id": "jamb-marketing-concepts-1",
+    "subject": "Marketing",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Marketing Concepts",
+    "difficulty": "easy",
+    "prompt": "The marketing concept most focused on inventing genuinely new products and letting customer demand follow is closest to the",
+    "options": [
+      {
+        "key": "A",
+        "text": "production concept exclusively"
+      },
+      {
+        "key": "B",
+        "text": "product concept, with some overlap with innovation-led strategy"
+      },
+      {
+        "key": "C",
+        "text": "selling concept exclusively"
+      },
+      {
+        "key": "D",
+        "text": "societal marketing concept exclusively"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "A focus on product excellence and innovation aligns with the product concept."
+  },
+  {
+    "id": "jamb-marketing-concepts-2",
+    "subject": "Marketing",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Marketing Concepts",
+    "difficulty": "medium",
+    "prompt": "Marketing myopia refers to a business's mistaken focus on",
+    "options": [
+      {
+        "key": "A",
+        "text": "too much attention to societal welfare"
+      },
+      {
+        "key": "B",
+        "text": "its existing products rather than the broader customer needs it actually serves"
+      },
+      {
+        "key": "C",
+        "text": "overly diversified product lines"
+      },
+      {
+        "key": "D",
+        "text": "excessive customer research"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Marketing myopia is a narrow product focus that overlooks the underlying customer need."
+  },
+  {
+    "id": "jamb-marketing-concepts-3",
+    "subject": "Marketing",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Marketing Concepts",
+    "difficulty": "hard",
+    "prompt": "A business adopting the marketing concept would primarily start its planning process by",
+    "options": [
+      {
+        "key": "A",
+        "text": "researching and understanding customer needs and wants"
+      },
+      {
+        "key": "B",
+        "text": "fixing prices before any research"
+      },
+      {
+        "key": "C",
+        "text": "setting the advertising budget first"
+      },
+      {
+        "key": "D",
+        "text": "deciding on production capacity first"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "The marketing concept places customer needs research at the centre of planning."
+  },
+  {
+    "id": "jamb-marketing-concepts-4",
+    "subject": "Marketing",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Marketing Concepts",
+    "difficulty": "medium",
+    "prompt": "Positioning, in marketing, refers to the effort to",
+    "options": [
+      {
+        "key": "A",
+        "text": "physically locate a warehouse"
+      },
+      {
+        "key": "B",
+        "text": "reduce production costs"
+      },
+      {
+        "key": "C",
+        "text": "establish a distinct image or perception of a product in customers' minds relative to competitors"
+      },
+      {
+        "key": "D",
+        "text": "hire new sales staff"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Positioning shapes how a product is perceived relative to competing offerings."
+  },
+  {
+    "id": "jamb-marketing-concepts-5",
+    "subject": "Marketing",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Marketing Concepts",
+    "difficulty": "easy",
+    "prompt": "A niche market strategy involves a business focusing on",
+    "options": [
+      {
+        "key": "A",
+        "text": "the entire mass market indiscriminately"
+      },
+      {
+        "key": "B",
+        "text": "only government customers"
+      },
+      {
+        "key": "C",
+        "text": "eliminating all competitors instantly"
+      },
+      {
+        "key": "D",
+        "text": "a small, specific segment of the overall market with distinct needs"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Niche marketing targets a narrow, well-defined customer segment."
+  },
+  {
+    "id": "jamb-marketing-mix-1",
+    "subject": "Marketing",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Marketing Mix (4 Ps)",
+    "difficulty": "easy",
+    "prompt": "Some marketers extend the traditional 4 Ps with a fifth 'P' representing the staff who deliver a service, called",
+    "options": [
+      {
+        "key": "A",
+        "text": "Physical evidence"
+      },
+      {
+        "key": "B",
+        "text": "Packaging"
+      },
+      {
+        "key": "C",
+        "text": "Process"
+      },
+      {
+        "key": "D",
+        "text": "People"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "'People' is a commonly added element covering staff involved in delivering a service."
+  },
+  {
+    "id": "jamb-marketing-mix-2",
+    "subject": "Marketing",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Marketing Mix (4 Ps)",
+    "difficulty": "medium",
+    "prompt": "Product line extension, part of product strategy in the marketing mix, involves",
+    "options": [
+      {
+        "key": "A",
+        "text": "closing distribution channels"
+      },
+      {
+        "key": "B",
+        "text": "lowering prices on all products simultaneously"
+      },
+      {
+        "key": "C",
+        "text": "adding new variants or versions of an existing product line"
+      },
+      {
+        "key": "D",
+        "text": "discontinuing all existing products"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Line extension adds new variants to an existing product range."
+  },
+  {
+    "id": "jamb-marketing-mix-3",
+    "subject": "Marketing",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Marketing Mix (4 Ps)",
+    "difficulty": "hard",
+    "prompt": "A pricing strategy that sets prices just below a round number, such as ₦999 instead of ₦1000, is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "psychological pricing"
+      },
+      {
+        "key": "B",
+        "text": "penetration pricing"
+      },
+      {
+        "key": "C",
+        "text": "cost-plus pricing"
+      },
+      {
+        "key": "D",
+        "text": "price skimming"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Psychological pricing uses figures like ₦999 to make prices appear lower."
+  },
+  {
+    "id": "jamb-marketing-mix-4",
+    "subject": "Marketing",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Marketing Mix (4 Ps)",
+    "difficulty": "medium",
+    "prompt": "Intensive distribution, as a 'Place' strategy, aims to make a product available",
+    "options": [
+      {
+        "key": "A",
+        "text": "in only one exclusive outlet"
+      },
+      {
+        "key": "B",
+        "text": "in as many outlets as possible"
+      },
+      {
+        "key": "C",
+        "text": "only through direct mail"
+      },
+      {
+        "key": "D",
+        "text": "only in the manufacturer's own stores"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Intensive distribution maximizes availability across many retail outlets."
+  },
+  {
+    "id": "jamb-marketing-mix-5",
+    "subject": "Marketing",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Marketing Mix (4 Ps)",
+    "difficulty": "easy",
+    "prompt": "Exclusive distribution, as a 'Place' strategy, typically involves",
+    "options": [
+      {
+        "key": "A",
+        "text": "granting only a limited number of outlets the right to sell a product"
+      },
+      {
+        "key": "B",
+        "text": "eliminating all retail intermediaries"
+      },
+      {
+        "key": "C",
+        "text": "selling only through government stores"
+      },
+      {
+        "key": "D",
+        "text": "selling a product in every possible outlet"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Exclusive distribution restricts sales rights to a select few outlets."
+  },
+  {
+    "id": "jamb-marketing-research-1",
+    "subject": "Marketing",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Market Research",
+    "difficulty": "easy",
+    "prompt": "A pilot survey is conducted before a full market research study mainly to",
+    "options": [
+      {
+        "key": "A",
+        "text": "replace the need for a full study entirely"
+      },
+      {
+        "key": "B",
+        "text": "advertise the product to the public"
+      },
+      {
+        "key": "C",
+        "text": "test and refine the research methods and questionnaire before wider use"
+      },
+      {
+        "key": "D",
+        "text": "collect the final results directly"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Pilot studies help identify and fix problems in research design before full rollout."
+  },
+  {
+    "id": "jamb-marketing-research-2",
+    "subject": "Marketing",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Market Research",
+    "difficulty": "medium",
+    "prompt": "Qualitative market research methods, such as focus groups, are especially useful for",
+    "options": [
+      {
+        "key": "A",
+        "text": "replacing the need for any sampling"
+      },
+      {
+        "key": "B",
+        "text": "producing precise numerical statistics only"
+      },
+      {
+        "key": "C",
+        "text": "exploring in-depth attitudes, feelings and motivations behind consumer behaviour"
+      },
+      {
+        "key": "D",
+        "text": "eliminating researcher bias completely"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Qualitative methods explore the depth and nuance behind consumer attitudes."
+  },
+  {
+    "id": "jamb-marketing-research-3",
+    "subject": "Marketing",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Market Research",
+    "difficulty": "hard",
+    "prompt": "Quantitative market research, such as large-scale surveys, is especially valuable for",
+    "options": [
+      {
+        "key": "A",
+        "text": "producing numerical data that can be statistically analysed and generalized"
+      },
+      {
+        "key": "B",
+        "text": "replacing the need for sampling"
+      },
+      {
+        "key": "C",
+        "text": "eliminating the need for questionnaires"
+      },
+      {
+        "key": "D",
+        "text": "exploring deep personal motivations in detail"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Quantitative research generates numerical data suited to statistical generalization."
+  },
+  {
+    "id": "jamb-marketing-research-4",
+    "subject": "Marketing",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Market Research",
+    "difficulty": "medium",
+    "prompt": "Test marketing involves launching a product in a",
+    "options": [
+      {
+        "key": "A",
+        "text": "competitor's own store"
+      },
+      {
+        "key": "B",
+        "text": "foreign country exclusively, skipping the home market"
+      },
+      {
+        "key": "C",
+        "text": "limited geographic area to gauge consumer response before a full launch"
+      },
+      {
+        "key": "D",
+        "text": "single customer's home only"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Test marketing trials a product regionally before committing to a full-scale launch."
+  },
+  {
+    "id": "jamb-marketing-research-5",
+    "subject": "Marketing",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Market Research",
+    "difficulty": "easy",
+    "prompt": "Omnibus surveys allow multiple companies to",
+    "options": [
+      {
+        "key": "A",
+        "text": "merge into a single company"
+      },
+      {
+        "key": "B",
+        "text": "share the cost of a single survey by each adding their own questions"
+      },
+      {
+        "key": "C",
+        "text": "avoid paying for any market research"
+      },
+      {
+        "key": "D",
+        "text": "conduct entirely separate, unrelated surveys"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Omnibus surveys let several clients share survey costs by including their own questions."
+  },
+  {
+    "id": "jamb-marketing-advertising-promotion-1",
+    "subject": "Marketing",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Advertising & Promotion",
+    "difficulty": "easy",
+    "prompt": "Informative advertising is used mainly during a product's",
+    "options": [
+      {
+        "key": "A",
+        "text": "maturity stage exclusively"
+      },
+      {
+        "key": "B",
+        "text": "introduction stage, to build awareness of a new product"
+      },
+      {
+        "key": "C",
+        "text": "decline stage exclusively"
+      },
+      {
+        "key": "D",
+        "text": "period after it has been withdrawn from sale"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Informative advertising builds initial awareness when a product is newly introduced."
+  },
+  {
+    "id": "jamb-marketing-advertising-promotion-2",
+    "subject": "Marketing",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Advertising & Promotion",
+    "difficulty": "medium",
+    "prompt": "Persuasive advertising is most commonly used during a product's",
+    "options": [
+      {
+        "key": "A",
+        "text": "decline stage only"
+      },
+      {
+        "key": "B",
+        "text": "pre-launch research phase only"
+      },
+      {
+        "key": "C",
+        "text": "growth and competitive stages, to encourage preference over rivals"
+      },
+      {
+        "key": "D",
+        "text": "introduction stage only"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Persuasive advertising aims to build preference as competition intensifies."
+  },
+  {
+    "id": "jamb-marketing-advertising-promotion-3",
+    "subject": "Marketing",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Advertising & Promotion",
+    "difficulty": "hard",
+    "prompt": "Reminder advertising is typically used for products in their",
+    "options": [
+      {
+        "key": "A",
+        "text": "pre-development stage only"
+      },
+      {
+        "key": "B",
+        "text": "introduction stage only"
+      },
+      {
+        "key": "C",
+        "text": "research and development phase only"
+      },
+      {
+        "key": "D",
+        "text": "maturity stage, to keep the brand in customers' minds"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Reminder advertising sustains awareness of well-established, mature products."
+  },
+  {
+    "id": "jamb-marketing-advertising-promotion-4",
+    "subject": "Marketing",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Advertising & Promotion",
+    "difficulty": "medium",
+    "prompt": "Sponsorship, as a form of promotion, involves a business",
+    "options": [
+      {
+        "key": "A",
+        "text": "financially supporting an event or organisation in exchange for brand visibility"
+      },
+      {
+        "key": "B",
+        "text": "distributing free product samples only"
+      },
+      {
+        "key": "C",
+        "text": "conducting internal staff training"
+      },
+      {
+        "key": "D",
+        "text": "reducing prices temporarily"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Sponsorship exchanges financial support for visibility and association benefits."
+  },
+  {
+    "id": "jamb-marketing-advertising-promotion-5",
+    "subject": "Marketing",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Advertising & Promotion",
+    "difficulty": "easy",
+    "prompt": "A brand ambassador is used in promotion mainly to",
+    "options": [
+      {
+        "key": "A",
+        "text": "conduct market research surveys"
+      },
+      {
+        "key": "B",
+        "text": "endorse and build positive associations with a product or brand"
+      },
+      {
+        "key": "C",
+        "text": "handle customer complaints exclusively"
+      },
+      {
+        "key": "D",
+        "text": "manage a company's financial accounts"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Brand ambassadors lend their image and credibility to endorse a product."
+  },
+  {
+    "id": "jamb-marketing-consumer-behaviour-1",
+    "subject": "Marketing",
+    "examBody": "JAMB",
+    "year": 2015,
+    "topic": "Consumer Behaviour",
+    "difficulty": "easy",
+    "prompt": "Reference groups, such as friends, colleagues or admired figures, influence consumer behaviour mainly through",
+    "options": [
+      {
+        "key": "A",
+        "text": "shaping attitudes, aspirations and perceived social norms"
+      },
+      {
+        "key": "B",
+        "text": "setting national interest rates"
+      },
+      {
+        "key": "C",
+        "text": "controlling product manufacturing"
+      },
+      {
+        "key": "D",
+        "text": "determining tax obligations"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Reference groups shape consumer attitudes and behaviour through social influence."
+  },
+  {
+    "id": "jamb-marketing-consumer-behaviour-2",
+    "subject": "Marketing",
+    "examBody": "JAMB",
+    "year": 2017,
+    "topic": "Consumer Behaviour",
+    "difficulty": "medium",
+    "prompt": "A consumer exhibiting high involvement in a purchase decision, such as buying a car, is likely to",
+    "options": [
+      {
+        "key": "A",
+        "text": "ignore all product information entirely"
+      },
+      {
+        "key": "B",
+        "text": "buy on impulse without any thought"
+      },
+      {
+        "key": "C",
+        "text": "make the decision instantly with no research"
+      },
+      {
+        "key": "D",
+        "text": "engage in extensive information search and comparison before deciding"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "High-involvement purchases typically prompt thorough research and comparison."
+  },
+  {
+    "id": "jamb-marketing-consumer-behaviour-3",
+    "subject": "Marketing",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Consumer Behaviour",
+    "difficulty": "hard",
+    "prompt": "Cognitive dissonance in consumer behaviour refers to the discomfort a buyer may feel",
+    "options": [
+      {
+        "key": "A",
+        "text": "only when no alternatives existed"
+      },
+      {
+        "key": "B",
+        "text": "before ever considering a purchase"
+      },
+      {
+        "key": "C",
+        "text": "after a purchase, questioning whether they made the right choice"
+      },
+      {
+        "key": "D",
+        "text": "only when a purchase is extremely cheap"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Cognitive dissonance is post-purchase doubt about whether the decision was correct."
+  },
+  {
+    "id": "jamb-marketing-consumer-behaviour-4",
+    "subject": "Marketing",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Consumer Behaviour",
+    "difficulty": "medium",
+    "prompt": "A consumer's perception of a product is shaped significantly by",
+    "options": [
+      {
+        "key": "A",
+        "text": "government regulations alone"
+      },
+      {
+        "key": "B",
+        "text": "the manufacturer's internal costs only"
+      },
+      {
+        "key": "C",
+        "text": "how they interpret sensory information such as packaging, price and advertising"
+      },
+      {
+        "key": "D",
+        "text": "the exact chemical composition of the product only"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Perception is shaped by how consumers interpret sensory and marketing cues, not just objective facts."
+  },
+  {
+    "id": "jamb-marketing-consumer-behaviour-5",
+    "subject": "Marketing",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Consumer Behaviour",
+    "difficulty": "easy",
+    "prompt": "Habitual buying behaviour typically occurs when a consumer purchases",
+    "options": [
+      {
+        "key": "A",
+        "text": "a product they have never heard of"
+      },
+      {
+        "key": "B",
+        "text": "a highly complex, expensive item for the first time"
+      },
+      {
+        "key": "C",
+        "text": "a product only after extensive research"
+      },
+      {
+        "key": "D",
+        "text": "low-involvement, frequently bought items with little brand difference"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Habitual buying applies to routine, low-involvement purchases like everyday household items."
+  }
+]

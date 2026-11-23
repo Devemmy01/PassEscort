@@ -5,10 +5,12 @@ on:
     branches: [main]
     paths:
       - "frontend/**"
+      - "shared/**"
       - ".github/workflows/frontend-ci.yml"
   pull_request:
     paths:
       - "frontend/**"
+      - "shared/**"
       - ".github/workflows/frontend-ci.yml"
 
 defaults:
@@ -29,4 +31,5 @@ jobs:
 
       - run: npm ci
       - run: npx tsc --noEmit
+      - run: npm test
       - run: npx expo-doctor

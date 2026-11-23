@@ -1,0 +1,6527 @@
+[
+  {
+    "id": "waec-govt-basic-concepts-1",
+    "subject": "Government",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Basic Concepts",
+    "difficulty": "easy",
+    "prompt": "Which of the following is NOT an essential element of a state?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Defined territory"
+      },
+      {
+        "key": "B",
+        "text": "Population"
+      },
+      {
+        "key": "C",
+        "text": "Political party"
+      },
+      {
+        "key": "D",
+        "text": "Government"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "The essential elements of a state are population, territory, government and sovereignty; political parties are not."
+  },
+  {
+    "id": "waec-govt-basic-concepts-2",
+    "subject": "Government",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Basic Concepts",
+    "difficulty": "medium",
+    "prompt": "The supreme and final authority of a state to make and enforce laws without external control is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "citizenship"
+      },
+      {
+        "key": "B",
+        "text": "nationality"
+      },
+      {
+        "key": "C",
+        "text": "legitimacy"
+      },
+      {
+        "key": "D",
+        "text": "sovereignty"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Sovereignty is the supreme, independent authority of a state over its territory and people."
+  },
+  {
+    "id": "waec-govt-basic-concepts-3",
+    "subject": "Government",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Basic Concepts",
+    "difficulty": "hard",
+    "prompt": "Which of the following best distinguishes a 'state' from a 'government'?",
+    "options": [
+      {
+        "key": "A",
+        "text": "A state and government mean exactly the same thing"
+      },
+      {
+        "key": "B",
+        "text": "A state refers only to physical land while government refers to laws"
+      },
+      {
+        "key": "C",
+        "text": "A state is a permanent political entity, while government is the machinery that runs it and can change"
+      },
+      {
+        "key": "D",
+        "text": "A state is temporary while government is permanent"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "The state persists over time, while the government in power can change through elections or other means."
+  },
+  {
+    "id": "waec-govt-basic-concepts-4",
+    "subject": "Government",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Basic Concepts",
+    "difficulty": "medium",
+    "prompt": "A person who enjoys full legal rights and obligations in a country by birth or naturalization is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "refugee"
+      },
+      {
+        "key": "B",
+        "text": "diplomat"
+      },
+      {
+        "key": "C",
+        "text": "citizen"
+      },
+      {
+        "key": "D",
+        "text": "alien"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "A citizen is a legally recognized member of a state with full rights and duties."
+  },
+  {
+    "id": "waec-govt-basic-concepts-5",
+    "subject": "Government",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Basic Concepts",
+    "difficulty": "easy",
+    "prompt": "Government is best defined as",
+    "options": [
+      {
+        "key": "A",
+        "text": "the body of persons that makes and enforces laws for a state"
+      },
+      {
+        "key": "B",
+        "text": "an international organisation"
+      },
+      {
+        "key": "C",
+        "text": "a political party in opposition"
+      },
+      {
+        "key": "D",
+        "text": "a group of citizens holding elections"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Government refers to the institutions and persons with authority to make and enforce laws."
+  },
+  {
+    "id": "waec-govt-arms-1",
+    "subject": "Government",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Arms of Government",
+    "difficulty": "easy",
+    "prompt": "The three arms of government are the executive, the legislature and the",
+    "options": [
+      {
+        "key": "A",
+        "text": "police"
+      },
+      {
+        "key": "B",
+        "text": "judiciary"
+      },
+      {
+        "key": "C",
+        "text": "civil service"
+      },
+      {
+        "key": "D",
+        "text": "electoral commission"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "The three arms of government are the executive, legislature and judiciary."
+  },
+  {
+    "id": "waec-govt-arms-2",
+    "subject": "Government",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Arms of Government",
+    "difficulty": "medium",
+    "prompt": "The arm of government responsible for making laws is the",
+    "options": [
+      {
+        "key": "A",
+        "text": "judiciary"
+      },
+      {
+        "key": "B",
+        "text": "bureaucracy"
+      },
+      {
+        "key": "C",
+        "text": "executive"
+      },
+      {
+        "key": "D",
+        "text": "legislature"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "The legislature (parliament/national assembly) enacts laws."
+  },
+  {
+    "id": "waec-govt-arms-3",
+    "subject": "Government",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Arms of Government",
+    "difficulty": "hard",
+    "prompt": "The principle that ensures the three arms of government check and balance one another's powers is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "rule of law"
+      },
+      {
+        "key": "B",
+        "text": "separation of powers"
+      },
+      {
+        "key": "C",
+        "text": "federalism"
+      },
+      {
+        "key": "D",
+        "text": "fundamental human rights"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Separation of powers distributes authority among the arms of government to prevent abuse of power."
+  },
+  {
+    "id": "waec-govt-arms-4",
+    "subject": "Government",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Arms of Government",
+    "difficulty": "medium",
+    "prompt": "The arm of government responsible for interpreting the law and administering justice is the",
+    "options": [
+      {
+        "key": "A",
+        "text": "executive"
+      },
+      {
+        "key": "B",
+        "text": "judiciary"
+      },
+      {
+        "key": "C",
+        "text": "civil service"
+      },
+      {
+        "key": "D",
+        "text": "legislature"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "The judiciary interprets laws and settles disputes according to them."
+  },
+  {
+    "id": "waec-govt-arms-5",
+    "subject": "Government",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Arms of Government",
+    "difficulty": "easy",
+    "prompt": "The head of the executive arm of government in a presidential system is the",
+    "options": [
+      {
+        "key": "A",
+        "text": "President"
+      },
+      {
+        "key": "B",
+        "text": "Prime Minister"
+      },
+      {
+        "key": "C",
+        "text": "Speaker"
+      },
+      {
+        "key": "D",
+        "text": "Chief Justice"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "In a presidential system, the President is both head of state and head of the executive."
+  },
+  {
+    "id": "waec-govt-systems-1",
+    "subject": "Government",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Systems of Government",
+    "difficulty": "easy",
+    "prompt": "A system of government in which powers are shared between a central government and component states is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "confederation"
+      },
+      {
+        "key": "B",
+        "text": "federalism"
+      },
+      {
+        "key": "C",
+        "text": "unitary system"
+      },
+      {
+        "key": "D",
+        "text": "monarchy"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Federalism divides power constitutionally between a central authority and regional/state governments."
+  },
+  {
+    "id": "waec-govt-systems-2",
+    "subject": "Government",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Systems of Government",
+    "difficulty": "medium",
+    "prompt": "In a unitary system of government, political power is",
+    "options": [
+      {
+        "key": "A",
+        "text": "concentrated in a single central authority"
+      },
+      {
+        "key": "B",
+        "text": "held entirely by regional governments"
+      },
+      {
+        "key": "C",
+        "text": "shared equally between central and regional governments"
+      },
+      {
+        "key": "D",
+        "text": "absent altogether"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "A unitary system centralizes governmental authority, though it may delegate some functions locally."
+  },
+  {
+    "id": "waec-govt-systems-3",
+    "subject": "Government",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Systems of Government",
+    "difficulty": "hard",
+    "prompt": "Under a parliamentary system of government, the head of government is normally",
+    "options": [
+      {
+        "key": "A",
+        "text": "a monarch with full executive powers"
+      },
+      {
+        "key": "B",
+        "text": "the Prime Minister, chosen from the majority party in the legislature"
+      },
+      {
+        "key": "C",
+        "text": "the Chief Justice"
+      },
+      {
+        "key": "D",
+        "text": "a President elected directly by the people"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "In parliamentary systems, the Prime Minister leads government and is drawn from the legislature's majority."
+  },
+  {
+    "id": "waec-govt-systems-4",
+    "subject": "Government",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Systems of Government",
+    "difficulty": "medium",
+    "prompt": "A key feature of a federal system of government is",
+    "options": [
+      {
+        "key": "A",
+        "text": "all powers vested in local governments"
+      },
+      {
+        "key": "B",
+        "text": "no independent judiciary"
+      },
+      {
+        "key": "C",
+        "text": "absence of a constitution"
+      },
+      {
+        "key": "D",
+        "text": "a written constitution that clearly divides powers between central and state governments"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Federations typically rely on a written constitution to define and protect the division of powers."
+  },
+  {
+    "id": "waec-govt-systems-5",
+    "subject": "Government",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Systems of Government",
+    "difficulty": "easy",
+    "prompt": "Nigeria practices which system of government?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Federal system"
+      },
+      {
+        "key": "B",
+        "text": "Absolute monarchy"
+      },
+      {
+        "key": "C",
+        "text": "Confederal system"
+      },
+      {
+        "key": "D",
+        "text": "Unitary system"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Nigeria operates a federal system, with power shared between the federal, state and local governments."
+  },
+  {
+    "id": "waec-govt-constitution-1",
+    "subject": "Government",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "The Constitution",
+    "difficulty": "easy",
+    "prompt": "A constitution is best described as",
+    "options": [
+      {
+        "key": "A",
+        "text": "the body of rules and principles by which a state is governed"
+      },
+      {
+        "key": "B",
+        "text": "a single law passed by parliament"
+      },
+      {
+        "key": "C",
+        "text": "a political party's manifesto"
+      },
+      {
+        "key": "D",
+        "text": "an agreement between two countries"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "A constitution establishes the framework, powers and limits of government."
+  },
+  {
+    "id": "waec-govt-constitution-2",
+    "subject": "Government",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "The Constitution",
+    "difficulty": "medium",
+    "prompt": "A constitution that is written in a single document and difficult to amend is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "a flexible, unwritten constitution"
+      },
+      {
+        "key": "B",
+        "text": "a partial constitution"
+      },
+      {
+        "key": "C",
+        "text": "a rigid, written constitution"
+      },
+      {
+        "key": "D",
+        "text": "a customary constitution"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "A rigid, codified constitution requires a special procedure to amend, unlike a flexible one."
+  },
+  {
+    "id": "waec-govt-constitution-3",
+    "subject": "Government",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "The Constitution",
+    "difficulty": "hard",
+    "prompt": "The supremacy of the constitution means that",
+    "options": [
+      {
+        "key": "A",
+        "text": "any law inconsistent with the constitution is void to the extent of that inconsistency"
+      },
+      {
+        "key": "B",
+        "text": "the executive is above the constitution"
+      },
+      {
+        "key": "C",
+        "text": "the constitution applies only to the judiciary"
+      },
+      {
+        "key": "D",
+        "text": "the constitution can be changed by ordinary legislation"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Constitutional supremacy makes the constitution the highest law, overriding any conflicting statute."
+  },
+  {
+    "id": "waec-govt-constitution-4",
+    "subject": "Government",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "The Constitution",
+    "difficulty": "medium",
+    "prompt": "Fundamental human rights are usually entrenched in the",
+    "options": [
+      {
+        "key": "A",
+        "text": "constitution"
+      },
+      {
+        "key": "B",
+        "text": "standing orders of parliament"
+      },
+      {
+        "key": "C",
+        "text": "electoral act"
+      },
+      {
+        "key": "D",
+        "text": "penal code"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Most constitutions guarantee and protect fundamental rights as entrenched provisions."
+  },
+  {
+    "id": "waec-govt-constitution-5",
+    "subject": "Government",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "The Constitution",
+    "difficulty": "easy",
+    "prompt": "The process of formally changing or altering provisions of a constitution is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "adjournment"
+      },
+      {
+        "key": "B",
+        "text": "amendment"
+      },
+      {
+        "key": "C",
+        "text": "ratification"
+      },
+      {
+        "key": "D",
+        "text": "repeal of statute"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Amendment is the formal procedure for altering constitutional provisions."
+  },
+  {
+    "id": "waec-govt-international-orgs-1",
+    "subject": "Government",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "International Organisations",
+    "difficulty": "easy",
+    "prompt": "The international organisation established in 1945 to maintain global peace and security is the",
+    "options": [
+      {
+        "key": "A",
+        "text": "African Union (AU)"
+      },
+      {
+        "key": "B",
+        "text": "United Nations (UN)"
+      },
+      {
+        "key": "C",
+        "text": "ECOWAS"
+      },
+      {
+        "key": "D",
+        "text": "Commonwealth"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "The UN was founded in 1945 after World War II to promote peace and cooperation among nations."
+  },
+  {
+    "id": "waec-govt-international-orgs-2",
+    "subject": "Government",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "International Organisations",
+    "difficulty": "medium",
+    "prompt": "The regional organisation established in 1975 to promote economic integration among West African states is",
+    "options": [
+      {
+        "key": "A",
+        "text": "ECOWAS"
+      },
+      {
+        "key": "B",
+        "text": "United Nations"
+      },
+      {
+        "key": "C",
+        "text": "OPEC"
+      },
+      {
+        "key": "D",
+        "text": "African Union"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "The Economic Community of West African States (ECOWAS) was founded in 1975."
+  },
+  {
+    "id": "waec-govt-international-orgs-3",
+    "subject": "Government",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "International Organisations",
+    "difficulty": "hard",
+    "prompt": "The African Union (AU), established in 2002, succeeded which earlier organisation?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Commonwealth of Nations"
+      },
+      {
+        "key": "B",
+        "text": "Non-Aligned Movement"
+      },
+      {
+        "key": "C",
+        "text": "United Nations"
+      },
+      {
+        "key": "D",
+        "text": "Organisation of African Unity (OAU)"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "The AU replaced the OAU, which had existed since 1963, to deepen African unity and integration."
+  },
+  {
+    "id": "waec-govt-international-orgs-4",
+    "subject": "Government",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "International Organisations",
+    "difficulty": "medium",
+    "prompt": "One major function of the United Nations Security Council is to",
+    "options": [
+      {
+        "key": "A",
+        "text": "issue international currency"
+      },
+      {
+        "key": "B",
+        "text": "regulate international sporting events"
+      },
+      {
+        "key": "C",
+        "text": "maintain international peace and security"
+      },
+      {
+        "key": "D",
+        "text": "manage global trade tariffs"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "The Security Council has primary responsibility for maintaining international peace and security."
+  },
+  {
+    "id": "waec-govt-international-orgs-5",
+    "subject": "Government",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "International Organisations",
+    "difficulty": "easy",
+    "prompt": "Nigeria became a member of the United Nations in",
+    "options": [
+      {
+        "key": "A",
+        "text": "1945"
+      },
+      {
+        "key": "B",
+        "text": "1999"
+      },
+      {
+        "key": "C",
+        "text": "1975"
+      },
+      {
+        "key": "D",
+        "text": "1960"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Nigeria joined the UN shortly after gaining independence in October 1960."
+  },
+  {
+    "id": "waec-lit-appreciation-1",
+    "subject": "Literature-in-English",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Literary Appreciation & Terms",
+    "difficulty": "easy",
+    "prompt": "A figure of speech that compares two unlike things using 'like' or 'as' is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "simile"
+      },
+      {
+        "key": "B",
+        "text": "personification"
+      },
+      {
+        "key": "C",
+        "text": "metaphor"
+      },
+      {
+        "key": "D",
+        "text": "hyperbole"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "A simile makes an explicit comparison using 'like' or 'as'."
+  },
+  {
+    "id": "waec-lit-appreciation-2",
+    "subject": "Literature-in-English",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Literary Appreciation & Terms",
+    "difficulty": "medium",
+    "prompt": "The repetition of consonant sounds at the beginning of neighbouring words is known as",
+    "options": [
+      {
+        "key": "A",
+        "text": "assonance"
+      },
+      {
+        "key": "B",
+        "text": "rhyme"
+      },
+      {
+        "key": "C",
+        "text": "onomatopoeia"
+      },
+      {
+        "key": "D",
+        "text": "alliteration"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Alliteration repeats initial consonant sounds, e.g. 'wild and windy'."
+  },
+  {
+    "id": "waec-lit-appreciation-3",
+    "subject": "Literature-in-English",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Literary Appreciation & Terms",
+    "difficulty": "hard",
+    "prompt": "A literary technique in which a writer gives hints of what is to happen later in the story is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "flashback"
+      },
+      {
+        "key": "B",
+        "text": "anti-climax"
+      },
+      {
+        "key": "C",
+        "text": "denouement"
+      },
+      {
+        "key": "D",
+        "text": "foreshadowing"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Foreshadowing plants clues that hint at future events in a narrative."
+  },
+  {
+    "id": "waec-lit-appreciation-4",
+    "subject": "Literature-in-English",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Literary Appreciation & Terms",
+    "difficulty": "medium",
+    "prompt": "The central message or underlying idea of a literary work is called its",
+    "options": [
+      {
+        "key": "A",
+        "text": "plot"
+      },
+      {
+        "key": "B",
+        "text": "motif"
+      },
+      {
+        "key": "C",
+        "text": "theme"
+      },
+      {
+        "key": "D",
+        "text": "setting"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "The theme is the central idea or insight a literary work explores."
+  },
+  {
+    "id": "waec-lit-appreciation-5",
+    "subject": "Literature-in-English",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Literary Appreciation & Terms",
+    "difficulty": "easy",
+    "prompt": "A word that imitates the sound it describes, such as 'buzz' or 'clang', is an example of",
+    "options": [
+      {
+        "key": "A",
+        "text": "onomatopoeia"
+      },
+      {
+        "key": "B",
+        "text": "assonance"
+      },
+      {
+        "key": "C",
+        "text": "irony"
+      },
+      {
+        "key": "D",
+        "text": "alliteration"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Onomatopoeic words phonetically resemble the sounds they describe."
+  },
+  {
+    "id": "waec-lit-poetry-1",
+    "subject": "Literature-in-English",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Poetry",
+    "difficulty": "easy",
+    "prompt": "A poem of fourteen lines, usually written in iambic pentameter, is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "sonnet"
+      },
+      {
+        "key": "B",
+        "text": "ballad"
+      },
+      {
+        "key": "C",
+        "text": "ode"
+      },
+      {
+        "key": "D",
+        "text": "elegy"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "A sonnet is a fixed 14-line poem, traditionally in iambic pentameter."
+  },
+  {
+    "id": "waec-lit-poetry-2",
+    "subject": "Literature-in-English",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Poetry",
+    "difficulty": "medium",
+    "prompt": "A poem that mourns the death of a person is called a/an",
+    "options": [
+      {
+        "key": "A",
+        "text": "sonnet"
+      },
+      {
+        "key": "B",
+        "text": "limerick"
+      },
+      {
+        "key": "C",
+        "text": "elegy"
+      },
+      {
+        "key": "D",
+        "text": "epic"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "An elegy is a mournful poem, typically lamenting someone's death."
+  },
+  {
+    "id": "waec-lit-poetry-3",
+    "subject": "Literature-in-English",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Poetry",
+    "difficulty": "hard",
+    "prompt": "The regular pattern of stressed and unstressed syllables in a line of poetry is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "metre"
+      },
+      {
+        "key": "B",
+        "text": "stanza"
+      },
+      {
+        "key": "C",
+        "text": "refrain"
+      },
+      {
+        "key": "D",
+        "text": "rhyme scheme"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Metre refers to the rhythmic structure of stressed and unstressed syllables in verse."
+  },
+  {
+    "id": "waec-lit-poetry-4",
+    "subject": "Literature-in-English",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Poetry",
+    "difficulty": "medium",
+    "prompt": "A long narrative poem celebrating the deeds of a legendary or heroic figure is called a/an",
+    "options": [
+      {
+        "key": "A",
+        "text": "haiku"
+      },
+      {
+        "key": "B",
+        "text": "epic"
+      },
+      {
+        "key": "C",
+        "text": "limerick"
+      },
+      {
+        "key": "D",
+        "text": "sonnet"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "An epic is a lengthy narrative poem recounting heroic achievements."
+  },
+  {
+    "id": "waec-lit-poetry-5",
+    "subject": "Literature-in-English",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Poetry",
+    "difficulty": "easy",
+    "prompt": "The line repeated at intervals throughout a poem or song, especially at the end of a stanza, is called the",
+    "options": [
+      {
+        "key": "A",
+        "text": "refrain"
+      },
+      {
+        "key": "B",
+        "text": "stanza"
+      },
+      {
+        "key": "C",
+        "text": "verse"
+      },
+      {
+        "key": "D",
+        "text": "prologue"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "A refrain is a recurring line or set of lines in a poem or song."
+  },
+  {
+    "id": "waec-lit-drama-1",
+    "subject": "Literature-in-English",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Drama",
+    "difficulty": "easy",
+    "prompt": "A speech delivered by a character alone on stage, revealing inner thoughts to the audience, is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "monologue to another character"
+      },
+      {
+        "key": "B",
+        "text": "dialogue"
+      },
+      {
+        "key": "C",
+        "text": "soliloquy"
+      },
+      {
+        "key": "D",
+        "text": "prologue"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "A soliloquy is spoken by a character alone, expressing private thoughts to the audience."
+  },
+  {
+    "id": "waec-lit-drama-2",
+    "subject": "Literature-in-English",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Drama",
+    "difficulty": "medium",
+    "prompt": "The turning point in a drama, where the tension reaches its highest point, is called the",
+    "options": [
+      {
+        "key": "A",
+        "text": "denouement"
+      },
+      {
+        "key": "B",
+        "text": "exposition"
+      },
+      {
+        "key": "C",
+        "text": "climax"
+      },
+      {
+        "key": "D",
+        "text": "resolution"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "The climax is the point of greatest tension or the decisive turning point in a plot."
+  },
+  {
+    "id": "waec-lit-drama-3",
+    "subject": "Literature-in-English",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Drama",
+    "difficulty": "hard",
+    "prompt": "A play that ends happily, typically involving humour and light-hearted conflict, is classified as a",
+    "options": [
+      {
+        "key": "A",
+        "text": "melodrama"
+      },
+      {
+        "key": "B",
+        "text": "tragedy"
+      },
+      {
+        "key": "C",
+        "text": "comedy"
+      },
+      {
+        "key": "D",
+        "text": "tragicomedy"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Comedies are characterized by humour and a happy resolution."
+  },
+  {
+    "id": "waec-lit-drama-4",
+    "subject": "Literature-in-English",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Drama",
+    "difficulty": "medium",
+    "prompt": "Words spoken by an actor directly to the audience, unheard by other characters on stage, are called",
+    "options": [
+      {
+        "key": "A",
+        "text": "a soliloquy"
+      },
+      {
+        "key": "B",
+        "text": "stage directions"
+      },
+      {
+        "key": "C",
+        "text": "a prologue"
+      },
+      {
+        "key": "D",
+        "text": "an aside"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "An aside is a brief remark made to the audience that other characters are assumed not to hear."
+  },
+  {
+    "id": "waec-lit-drama-5",
+    "subject": "Literature-in-English",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Drama",
+    "difficulty": "easy",
+    "prompt": "The part of a play that introduces the characters, setting and background information is called the",
+    "options": [
+      {
+        "key": "A",
+        "text": "exposition"
+      },
+      {
+        "key": "B",
+        "text": "climax"
+      },
+      {
+        "key": "C",
+        "text": "denouement"
+      },
+      {
+        "key": "D",
+        "text": "catastrophe"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "The exposition provides the background information needed to understand the story."
+  },
+  {
+    "id": "waec-lit-prose-1",
+    "subject": "Literature-in-English",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Prose Fiction",
+    "difficulty": "easy",
+    "prompt": "The person who tells the story in a novel is called the",
+    "options": [
+      {
+        "key": "A",
+        "text": "narrator"
+      },
+      {
+        "key": "B",
+        "text": "editor"
+      },
+      {
+        "key": "C",
+        "text": "protagonist"
+      },
+      {
+        "key": "D",
+        "text": "antagonist"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "The narrator is the voice that relates the events of the story to the reader."
+  },
+  {
+    "id": "waec-lit-prose-2",
+    "subject": "Literature-in-English",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Prose Fiction",
+    "difficulty": "medium",
+    "prompt": "A story told from the point of view of a narrator who is a character within the story, using 'I', is written in",
+    "options": [
+      {
+        "key": "A",
+        "text": "objective point of view"
+      },
+      {
+        "key": "B",
+        "text": "third-person omniscient point of view"
+      },
+      {
+        "key": "C",
+        "text": "second-person point of view"
+      },
+      {
+        "key": "D",
+        "text": "first-person point of view"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "First-person narration is told by a character using 'I' or 'we'."
+  },
+  {
+    "id": "waec-lit-prose-3",
+    "subject": "Literature-in-English",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Prose Fiction",
+    "difficulty": "hard",
+    "prompt": "The main character around whom the events of a story revolve is called the",
+    "options": [
+      {
+        "key": "A",
+        "text": "narrator"
+      },
+      {
+        "key": "B",
+        "text": "foil"
+      },
+      {
+        "key": "C",
+        "text": "protagonist"
+      },
+      {
+        "key": "D",
+        "text": "antagonist"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "The protagonist is the central character whose actions drive the plot."
+  },
+  {
+    "id": "waec-lit-prose-4",
+    "subject": "Literature-in-English",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Prose Fiction",
+    "difficulty": "medium",
+    "prompt": "A character who opposes or is in conflict with the main character in a story is called the",
+    "options": [
+      {
+        "key": "A",
+        "text": "confidant"
+      },
+      {
+        "key": "B",
+        "text": "protagonist"
+      },
+      {
+        "key": "C",
+        "text": "narrator"
+      },
+      {
+        "key": "D",
+        "text": "antagonist"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "The antagonist opposes the protagonist, creating the story's central conflict."
+  },
+  {
+    "id": "waec-lit-prose-5",
+    "subject": "Literature-in-English",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Prose Fiction",
+    "difficulty": "easy",
+    "prompt": "The time and place in which the events of a story occur is called the",
+    "options": [
+      {
+        "key": "A",
+        "text": "setting"
+      },
+      {
+        "key": "B",
+        "text": "theme"
+      },
+      {
+        "key": "C",
+        "text": "point of view"
+      },
+      {
+        "key": "D",
+        "text": "plot"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Setting refers to the time and location of a story's events."
+  },
+  {
+    "id": "waec-lit-african-1",
+    "subject": "Literature-in-English",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "African Literature",
+    "difficulty": "easy",
+    "prompt": "African literature written in European languages such as English and French is often studied alongside literature written in",
+    "options": [
+      {
+        "key": "A",
+        "text": "Latin only"
+      },
+      {
+        "key": "B",
+        "text": "ancient Greek only"
+      },
+      {
+        "key": "C",
+        "text": "Sanskrit"
+      },
+      {
+        "key": "D",
+        "text": "indigenous African languages"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "African literature spans both European-language and indigenous-language works."
+  },
+  {
+    "id": "waec-lit-african-2",
+    "subject": "Literature-in-English",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "African Literature",
+    "difficulty": "medium",
+    "prompt": "A recurring theme in much of African literature dealing with the clash between traditional African values and Western influence is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "existentialism"
+      },
+      {
+        "key": "B",
+        "text": "absurdism"
+      },
+      {
+        "key": "C",
+        "text": "romantic idealism"
+      },
+      {
+        "key": "D",
+        "text": "culture conflict"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Culture conflict explores tensions between indigenous traditions and colonial or Western influence."
+  },
+  {
+    "id": "waec-lit-african-3",
+    "subject": "Literature-in-English",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "African Literature",
+    "difficulty": "hard",
+    "prompt": "The use of proverbs, folktales and oral traditions in written African literature reflects the influence of",
+    "options": [
+      {
+        "key": "A",
+        "text": "European Renaissance literature"
+      },
+      {
+        "key": "B",
+        "text": "modernist poetry"
+      },
+      {
+        "key": "C",
+        "text": "Gothic fiction"
+      },
+      {
+        "key": "D",
+        "text": "oral tradition/oral literature"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Many African writers draw on the oral storytelling traditions of their communities."
+  },
+  {
+    "id": "waec-lit-african-4",
+    "subject": "Literature-in-English",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "African Literature",
+    "difficulty": "medium",
+    "prompt": "A story that uses animal characters to teach a moral lesson, common in African oral tradition, is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "sonnet"
+      },
+      {
+        "key": "B",
+        "text": "fable"
+      },
+      {
+        "key": "C",
+        "text": "elegy"
+      },
+      {
+        "key": "D",
+        "text": "epic"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "A fable uses animal characters and a clear moral, a form common in African folklore."
+  },
+  {
+    "id": "waec-lit-african-5",
+    "subject": "Literature-in-English",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "African Literature",
+    "difficulty": "easy",
+    "prompt": "Literature that was passed down by word of mouth from generation to generation before being written down is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "epistolary literature"
+      },
+      {
+        "key": "B",
+        "text": "dramatic literature"
+      },
+      {
+        "key": "C",
+        "text": "oral literature"
+      },
+      {
+        "key": "D",
+        "text": "modern literature"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Oral literature is transmitted verbally rather than through writing."
+  },
+  {
+    "id": "waec-hist-precolonial-1",
+    "subject": "History",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Pre-colonial Nigerian Societies",
+    "difficulty": "easy",
+    "prompt": "Before colonial rule, the Hausa states in Northern Nigeria were organized mainly around",
+    "options": [
+      {
+        "key": "A",
+        "text": "stateless village democracies only"
+      },
+      {
+        "key": "B",
+        "text": "a single centralized empire with no rulers"
+      },
+      {
+        "key": "C",
+        "text": "republics with elected presidents"
+      },
+      {
+        "key": "D",
+        "text": "city-states/emirates headed by an Emir"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "The Hausa states were organized as separate city-states, later emirates after the Sokoto jihad."
+  },
+  {
+    "id": "waec-hist-precolonial-2",
+    "subject": "History",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Pre-colonial Nigerian Societies",
+    "difficulty": "medium",
+    "prompt": "The pre-colonial Yoruba political system was centred mainly on",
+    "options": [
+      {
+        "key": "A",
+        "text": "a confederation of European trading posts"
+      },
+      {
+        "key": "B",
+        "text": "a single unified nation-state"
+      },
+      {
+        "key": "C",
+        "text": "stateless egalitarian communities only"
+      },
+      {
+        "key": "D",
+        "text": "city-states/kingdoms headed by an Oba"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Yoruba political organisation was based on independent kingdoms, each ruled by an Oba."
+  },
+  {
+    "id": "waec-hist-precolonial-3",
+    "subject": "History",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Pre-colonial Nigerian Societies",
+    "difficulty": "hard",
+    "prompt": "The pre-colonial Igbo political system in most areas was best described as",
+    "options": [
+      {
+        "key": "A",
+        "text": "a colonial protectorate"
+      },
+      {
+        "key": "B",
+        "text": "a single Igbo empire ruled by one king"
+      },
+      {
+        "key": "C",
+        "text": "a decentralized, stateless (segmentary) system without central kings"
+      },
+      {
+        "key": "D",
+        "text": "a highly centralized monarchy"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Most Igbo communities were organized around village councils and age-grades rather than centralized kings."
+  },
+  {
+    "id": "waec-hist-precolonial-4",
+    "subject": "History",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Pre-colonial Nigerian Societies",
+    "difficulty": "medium",
+    "prompt": "The Sokoto Caliphate was established in the early 19th century following the",
+    "options": [
+      {
+        "key": "A",
+        "text": "Trans-Atlantic slave trade"
+      },
+      {
+        "key": "B",
+        "text": "Usman dan Fodio jihad"
+      },
+      {
+        "key": "C",
+        "text": "Berlin Conference"
+      },
+      {
+        "key": "D",
+        "text": "British colonial conquest"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Usman dan Fodio led a jihad from 1804 that established the Sokoto Caliphate."
+  },
+  {
+    "id": "waec-hist-precolonial-5",
+    "subject": "History",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Pre-colonial Nigerian Societies",
+    "difficulty": "easy",
+    "prompt": "The ancient Kingdom of Benin was known for its highly developed",
+    "options": [
+      {
+        "key": "A",
+        "text": "oil exploration"
+      },
+      {
+        "key": "B",
+        "text": "textile industry only"
+      },
+      {
+        "key": "C",
+        "text": "bronze and brass artworks"
+      },
+      {
+        "key": "D",
+        "text": "railway network"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Benin is famous for its intricate bronze and brass castings, especially the Benin Bronzes."
+  },
+  {
+    "id": "waec-hist-colonialism-1",
+    "subject": "History",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Colonialism in Nigeria",
+    "difficulty": "easy",
+    "prompt": "The conference at which European powers partitioned Africa into colonial territories was held in",
+    "options": [
+      {
+        "key": "A",
+        "text": "Berlin (1884-85)"
+      },
+      {
+        "key": "B",
+        "text": "Vienna"
+      },
+      {
+        "key": "C",
+        "text": "London"
+      },
+      {
+        "key": "D",
+        "text": "Versailles"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "The Berlin Conference of 1884-85 set the rules for the European partition of Africa."
+  },
+  {
+    "id": "waec-hist-colonialism-2",
+    "subject": "History",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Colonialism in Nigeria",
+    "difficulty": "medium",
+    "prompt": "The system of colonial administration in which the British ruled through existing local chiefs and traditional institutions is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "Indirect Rule"
+      },
+      {
+        "key": "B",
+        "text": "Assimilation"
+      },
+      {
+        "key": "C",
+        "text": "Association"
+      },
+      {
+        "key": "D",
+        "text": "Direct Rule"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Indirect Rule used existing traditional rulers as agents of colonial administration."
+  },
+  {
+    "id": "waec-hist-colonialism-3",
+    "subject": "History",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Colonialism in Nigeria",
+    "difficulty": "hard",
+    "prompt": "Indirect Rule, as practised by Lord Lugard, worked most smoothly in Northern Nigeria mainly because",
+    "options": [
+      {
+        "key": "A",
+        "text": "there was already a centralized emirate system compatible with the policy"
+      },
+      {
+        "key": "B",
+        "text": "there were no local rulers at all"
+      },
+      {
+        "key": "C",
+        "text": "the North had already adopted British law"
+      },
+      {
+        "key": "D",
+        "text": "the North had no resistance to colonial rule"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "The existing emirate structure provided a ready-made hierarchy for indirect colonial administration."
+  },
+  {
+    "id": "waec-hist-colonialism-4",
+    "subject": "History",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Colonialism in Nigeria",
+    "difficulty": "medium",
+    "prompt": "The amalgamation of the Northern and Southern Protectorates of Nigeria took place in",
+    "options": [
+      {
+        "key": "A",
+        "text": "1960"
+      },
+      {
+        "key": "B",
+        "text": "1914"
+      },
+      {
+        "key": "C",
+        "text": "1954"
+      },
+      {
+        "key": "D",
+        "text": "1900"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Lord Lugard amalgamated the two protectorates into a single Nigeria on 1 January 1914."
+  },
+  {
+    "id": "waec-hist-colonialism-5",
+    "subject": "History",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Colonialism in Nigeria",
+    "difficulty": "easy",
+    "prompt": "The French colonial policy of trying to turn Africans into culturally French citizens was called",
+    "options": [
+      {
+        "key": "A",
+        "text": "federation"
+      },
+      {
+        "key": "B",
+        "text": "trusteeship"
+      },
+      {
+        "key": "C",
+        "text": "assimilation"
+      },
+      {
+        "key": "D",
+        "text": "Indirect Rule"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Assimilation aimed to integrate colonial subjects into French culture and citizenship."
+  },
+  {
+    "id": "waec-hist-nationalism-1",
+    "subject": "History",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Nationalism & Independence",
+    "difficulty": "easy",
+    "prompt": "A strong feeling of pride in and desire for self-government of one's own nation is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "federalism"
+      },
+      {
+        "key": "B",
+        "text": "colonialism"
+      },
+      {
+        "key": "C",
+        "text": "nationalism"
+      },
+      {
+        "key": "D",
+        "text": "imperialism"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Nationalism is devotion to one's nation, often including a demand for self-rule."
+  },
+  {
+    "id": "waec-hist-nationalism-2",
+    "subject": "History",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Nationalism & Independence",
+    "difficulty": "medium",
+    "prompt": "The National Council of Nigeria and the Cameroons (NCNC) was founded in",
+    "options": [
+      {
+        "key": "A",
+        "text": "1914"
+      },
+      {
+        "key": "B",
+        "text": "1960"
+      },
+      {
+        "key": "C",
+        "text": "1922"
+      },
+      {
+        "key": "D",
+        "text": "1944"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "The NCNC was founded in 1944 by Herbert Macaulay and Nnamdi Azikiwe, among others."
+  },
+  {
+    "id": "waec-hist-nationalism-3",
+    "subject": "History",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Nationalism & Independence",
+    "difficulty": "hard",
+    "prompt": "One major factor that fuelled the growth of Nigerian nationalism after World War II was",
+    "options": [
+      {
+        "key": "A",
+        "text": "the discovery of crude oil"
+      },
+      {
+        "key": "B",
+        "text": "a sudden decline in colonial taxation"
+      },
+      {
+        "key": "C",
+        "text": "the return of ex-servicemen demanding better treatment and self-rule"
+      },
+      {
+        "key": "D",
+        "text": "the abolition of Indirect Rule"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Ex-servicemen who fought in WWII returned with heightened political awareness and demands for change."
+  },
+  {
+    "id": "waec-hist-nationalism-4",
+    "subject": "History",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Nationalism & Independence",
+    "difficulty": "medium",
+    "prompt": "Nigeria gained independence from British colonial rule on",
+    "options": [
+      {
+        "key": "A",
+        "text": "15 January 1966"
+      },
+      {
+        "key": "B",
+        "text": "1 October 1963"
+      },
+      {
+        "key": "C",
+        "text": "1 October 1960"
+      },
+      {
+        "key": "D",
+        "text": "6 July 1967"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Nigeria became an independent nation on 1 October 1960."
+  },
+  {
+    "id": "waec-hist-nationalism-5",
+    "subject": "History",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Nationalism & Independence",
+    "difficulty": "easy",
+    "prompt": "Nigeria became a republic, with an executive president replacing the British monarch as head of state, in",
+    "options": [
+      {
+        "key": "A",
+        "text": "1966"
+      },
+      {
+        "key": "B",
+        "text": "1963"
+      },
+      {
+        "key": "C",
+        "text": "1979"
+      },
+      {
+        "key": "D",
+        "text": "1960"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Nigeria adopted a republican constitution on 1 October 1963."
+  },
+  {
+    "id": "waec-hist-scramble-1",
+    "subject": "History",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "The Scramble for Africa",
+    "difficulty": "easy",
+    "prompt": "The rapid colonization of Africa by European powers in the late 19th century is generally known as",
+    "options": [
+      {
+        "key": "A",
+        "text": "the African Renaissance"
+      },
+      {
+        "key": "B",
+        "text": "the Scramble for Africa"
+      },
+      {
+        "key": "C",
+        "text": "decolonization"
+      },
+      {
+        "key": "D",
+        "text": "the Pan-African Movement"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "The 'Scramble for Africa' describes the rapid European conquest and colonization of the continent."
+  },
+  {
+    "id": "waec-hist-scramble-2",
+    "subject": "History",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "The Scramble for Africa",
+    "difficulty": "medium",
+    "prompt": "A major economic motive behind European colonization of Africa was",
+    "options": [
+      {
+        "key": "A",
+        "text": "a desire to learn African languages"
+      },
+      {
+        "key": "B",
+        "text": "the abolition of European taxation"
+      },
+      {
+        "key": "C",
+        "text": "the search for raw materials and new markets"
+      },
+      {
+        "key": "D",
+        "text": "the spread of African culture to Europe"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "European powers sought African raw materials and markets for manufactured goods."
+  },
+  {
+    "id": "waec-hist-scramble-3",
+    "subject": "History",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "The Scramble for Africa",
+    "difficulty": "hard",
+    "prompt": "The principle of 'effective occupation' agreed at the Berlin Conference required a European power to",
+    "options": [
+      {
+        "key": "A",
+        "text": "simply declare a claim on paper without any presence"
+      },
+      {
+        "key": "B",
+        "text": "pay a fee to other European powers"
+      },
+      {
+        "key": "C",
+        "text": "obtain approval from African kings before any claim"
+      },
+      {
+        "key": "D",
+        "text": "demonstrate actual administrative control over a claimed territory before its claim would be recognized"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Effective occupation meant a claim had to be backed by real administrative presence to be internationally recognized."
+  },
+  {
+    "id": "waec-hist-scramble-4",
+    "subject": "History",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "The Scramble for Africa",
+    "difficulty": "medium",
+    "prompt": "Among the stated motives for European colonization, the '3 Cs' often refer to",
+    "options": [
+      {
+        "key": "A",
+        "text": "Cocoa, Cotton and Copper"
+      },
+      {
+        "key": "B",
+        "text": "Commerce, Christianity and Civilization"
+      },
+      {
+        "key": "C",
+        "text": "Culture, Chiefs and Coastlines"
+      },
+      {
+        "key": "D",
+        "text": "Currency, Colonies and Conquest"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "European colonizers often justified expansion using the '3 Cs': Commerce, Christianity and Civilization."
+  },
+  {
+    "id": "waec-hist-scramble-5",
+    "subject": "History",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "The Scramble for Africa",
+    "difficulty": "easy",
+    "prompt": "The last African country to fall under formal European colonial rule was",
+    "options": [
+      {
+        "key": "A",
+        "text": "Nigeria"
+      },
+      {
+        "key": "B",
+        "text": "Ghana"
+      },
+      {
+        "key": "C",
+        "text": "Ethiopia, though only briefly under Italian occupation (1936-41)"
+      },
+      {
+        "key": "D",
+        "text": "Egypt"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Ethiopia largely resisted colonization, remaining independent apart from a brief Italian occupation."
+  },
+  {
+    "id": "waec-hist-world-wars-1",
+    "subject": "History",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "World Wars (General World History)",
+    "difficulty": "easy",
+    "prompt": "World War I lasted from",
+    "options": [
+      {
+        "key": "A",
+        "text": "1900 to 1910"
+      },
+      {
+        "key": "B",
+        "text": "1914 to 1918"
+      },
+      {
+        "key": "C",
+        "text": "1939 to 1945"
+      },
+      {
+        "key": "D",
+        "text": "1920 to 1930"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "World War I began in 1914 and ended in 1918."
+  },
+  {
+    "id": "waec-hist-world-wars-2",
+    "subject": "History",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "World Wars (General World History)",
+    "difficulty": "medium",
+    "prompt": "World War II formally ended in",
+    "options": [
+      {
+        "key": "A",
+        "text": "1945"
+      },
+      {
+        "key": "B",
+        "text": "1950"
+      },
+      {
+        "key": "C",
+        "text": "1918"
+      },
+      {
+        "key": "D",
+        "text": "1939"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "World War II ended in 1945 with the surrender of Germany and Japan."
+  },
+  {
+    "id": "waec-hist-world-wars-3",
+    "subject": "History",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "World Wars (General World History)",
+    "difficulty": "hard",
+    "prompt": "The treaty that formally ended World War I and imposed heavy reparations on Germany was the Treaty of",
+    "options": [
+      {
+        "key": "A",
+        "text": "Versailles"
+      },
+      {
+        "key": "B",
+        "text": "Berlin"
+      },
+      {
+        "key": "C",
+        "text": "Paris (1783)"
+      },
+      {
+        "key": "D",
+        "text": "Vienna"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "The Treaty of Versailles (1919) formally ended WWI and imposed reparations on Germany."
+  },
+  {
+    "id": "waec-hist-world-wars-4",
+    "subject": "History",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "World Wars (General World History)",
+    "difficulty": "medium",
+    "prompt": "Many African soldiers, including Nigerians, served in World War II mainly as",
+    "options": [
+      {
+        "key": "A",
+        "text": "naval officers only"
+      },
+      {
+        "key": "B",
+        "text": "diplomats"
+      },
+      {
+        "key": "C",
+        "text": "independent commanders of European armies"
+      },
+      {
+        "key": "D",
+        "text": "conscripted or recruited troops supporting the British war effort"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "African colonial troops, including Nigerians, were recruited to fight alongside British forces."
+  },
+  {
+    "id": "waec-hist-world-wars-5",
+    "subject": "History",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "World Wars (General World History)",
+    "difficulty": "easy",
+    "prompt": "The international organisation formed after World War II to prevent future global conflicts was the",
+    "options": [
+      {
+        "key": "A",
+        "text": "United Nations"
+      },
+      {
+        "key": "B",
+        "text": "League of Nations"
+      },
+      {
+        "key": "C",
+        "text": "European Union"
+      },
+      {
+        "key": "D",
+        "text": "Commonwealth"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "The United Nations was established in 1945, after WWII, replacing the failed League of Nations."
+  },
+  {
+    "id": "waec-crs-creation-1",
+    "subject": "Christian Religious Studies",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Creation & Patriarchal Narratives",
+    "difficulty": "easy",
+    "prompt": "According to the Book of Genesis, God created the world in",
+    "options": [
+      {
+        "key": "A",
+        "text": "forty days"
+      },
+      {
+        "key": "B",
+        "text": "seven days without rest"
+      },
+      {
+        "key": "C",
+        "text": "six days, resting on the seventh"
+      },
+      {
+        "key": "D",
+        "text": "one day"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Genesis 1-2 describes creation over six days, with God resting on the seventh."
+  },
+  {
+    "id": "waec-crs-creation-2",
+    "subject": "Christian Religious Studies",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Creation & Patriarchal Narratives",
+    "difficulty": "medium",
+    "prompt": "According to Genesis, the first man created by God was",
+    "options": [
+      {
+        "key": "A",
+        "text": "Moses"
+      },
+      {
+        "key": "B",
+        "text": "Noah"
+      },
+      {
+        "key": "C",
+        "text": "Abraham"
+      },
+      {
+        "key": "D",
+        "text": "Adam"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Genesis describes Adam as the first human being God created."
+  },
+  {
+    "id": "waec-crs-creation-3",
+    "subject": "Christian Religious Studies",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Creation & Patriarchal Narratives",
+    "difficulty": "hard",
+    "prompt": "According to Genesis, God tested Abraham's faith by asking him to sacrifice his son",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ishmael"
+      },
+      {
+        "key": "B",
+        "text": "Isaac"
+      },
+      {
+        "key": "C",
+        "text": "Jacob"
+      },
+      {
+        "key": "D",
+        "text": "Esau"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Genesis 22 recounts God testing Abraham by asking him to sacrifice Isaac."
+  },
+  {
+    "id": "waec-crs-creation-4",
+    "subject": "Christian Religious Studies",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Creation & Patriarchal Narratives",
+    "difficulty": "medium",
+    "prompt": "According to Genesis, the great flood in Noah's time was survived by Noah, his family, and",
+    "options": [
+      {
+        "key": "A",
+        "text": "only human beings"
+      },
+      {
+        "key": "B",
+        "text": "only birds"
+      },
+      {
+        "key": "C",
+        "text": "pairs of every kind of animal"
+      },
+      {
+        "key": "D",
+        "text": "no animals at all"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Genesis describes Noah bringing animals of every kind into the ark to survive the flood."
+  },
+  {
+    "id": "waec-crs-creation-5",
+    "subject": "Christian Religious Studies",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Creation & Patriarchal Narratives",
+    "difficulty": "easy",
+    "prompt": "According to Genesis, Cain killed his brother",
+    "options": [
+      {
+        "key": "A",
+        "text": "Seth"
+      },
+      {
+        "key": "B",
+        "text": "Abel"
+      },
+      {
+        "key": "C",
+        "text": "Isaac"
+      },
+      {
+        "key": "D",
+        "text": "Lot"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Genesis 4 recounts Cain killing his brother Abel out of jealousy."
+  },
+  {
+    "id": "waec-crs-exodus-1",
+    "subject": "Christian Religious Studies",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Moses & The Exodus",
+    "difficulty": "easy",
+    "prompt": "According to the Book of Exodus, Moses led the Israelites out of slavery in",
+    "options": [
+      {
+        "key": "A",
+        "text": "Babylon"
+      },
+      {
+        "key": "B",
+        "text": "Assyria"
+      },
+      {
+        "key": "C",
+        "text": "Egypt"
+      },
+      {
+        "key": "D",
+        "text": "Persia"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Exodus recounts Moses leading the Israelites out of slavery in Egypt."
+  },
+  {
+    "id": "waec-crs-exodus-2",
+    "subject": "Christian Religious Studies",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Moses & The Exodus",
+    "difficulty": "medium",
+    "prompt": "According to Exodus, God gave Moses the Ten Commandments on",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mount Ararat"
+      },
+      {
+        "key": "B",
+        "text": "Mount Zion"
+      },
+      {
+        "key": "C",
+        "text": "Mount Sinai"
+      },
+      {
+        "key": "D",
+        "text": "Mount Carmel"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Exodus 19-20 describes God giving Moses the Ten Commandments on Mount Sinai."
+  },
+  {
+    "id": "waec-crs-exodus-3",
+    "subject": "Christian Religious Studies",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Moses & The Exodus",
+    "difficulty": "hard",
+    "prompt": "According to Exodus, the ten plagues were sent upon Egypt because",
+    "options": [
+      {
+        "key": "A",
+        "text": "the Egyptians converted to worship God"
+      },
+      {
+        "key": "B",
+        "text": "Pharaoh refused to let the Israelites go"
+      },
+      {
+        "key": "C",
+        "text": "Moses disobeyed God's instructions"
+      },
+      {
+        "key": "D",
+        "text": "the Israelites disobeyed God"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "The plagues were divine judgements meant to pressure Pharaoh into releasing the Israelites."
+  },
+  {
+    "id": "waec-crs-exodus-4",
+    "subject": "Christian Religious Studies",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Moses & The Exodus",
+    "difficulty": "medium",
+    "prompt": "According to Exodus, the Israelites crossed which body of water while escaping from Egypt?",
+    "options": [
+      {
+        "key": "A",
+        "text": "The Red Sea"
+      },
+      {
+        "key": "B",
+        "text": "The Nile River"
+      },
+      {
+        "key": "C",
+        "text": "The Jordan River"
+      },
+      {
+        "key": "D",
+        "text": "The Dead Sea"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Exodus 14 describes the Israelites crossing the Red Sea as it parted."
+  },
+  {
+    "id": "waec-crs-exodus-5",
+    "subject": "Christian Religious Studies",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Moses & The Exodus",
+    "difficulty": "easy",
+    "prompt": "According to the Bible, Moses' brother who served as his spokesman before Pharaoh was",
+    "options": [
+      {
+        "key": "A",
+        "text": "Aaron"
+      },
+      {
+        "key": "B",
+        "text": "Levi"
+      },
+      {
+        "key": "C",
+        "text": "Caleb"
+      },
+      {
+        "key": "D",
+        "text": "Joshua"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Aaron spoke on Moses' behalf, as recorded in Exodus 4."
+  },
+  {
+    "id": "waec-crs-kings-prophets-1",
+    "subject": "Christian Religious Studies",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Kings & Prophets of Israel",
+    "difficulty": "easy",
+    "prompt": "According to the Bible, the first king of Israel was",
+    "options": [
+      {
+        "key": "A",
+        "text": "Samuel"
+      },
+      {
+        "key": "B",
+        "text": "Solomon"
+      },
+      {
+        "key": "C",
+        "text": "Saul"
+      },
+      {
+        "key": "D",
+        "text": "David"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "1 Samuel describes Saul being anointed as Israel's first king."
+  },
+  {
+    "id": "waec-crs-kings-prophets-2",
+    "subject": "Christian Religious Studies",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Kings & Prophets of Israel",
+    "difficulty": "medium",
+    "prompt": "According to the Bible, King David defeated the Philistine giant known as",
+    "options": [
+      {
+        "key": "A",
+        "text": "Goliath"
+      },
+      {
+        "key": "B",
+        "text": "Nebuchadnezzar"
+      },
+      {
+        "key": "C",
+        "text": "Absalom"
+      },
+      {
+        "key": "D",
+        "text": "Samson"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "1 Samuel 17 recounts David's victory over the giant Goliath."
+  },
+  {
+    "id": "waec-crs-kings-prophets-3",
+    "subject": "Christian Religious Studies",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Kings & Prophets of Israel",
+    "difficulty": "hard",
+    "prompt": "According to the Bible, King Solomon was renowned chiefly for his",
+    "options": [
+      {
+        "key": "A",
+        "text": "military conquests"
+      },
+      {
+        "key": "B",
+        "text": "wisdom"
+      },
+      {
+        "key": "C",
+        "text": "poverty"
+      },
+      {
+        "key": "D",
+        "text": "rejection of God"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "1 Kings 3 describes Solomon asking God for wisdom, which he became famous for."
+  },
+  {
+    "id": "waec-crs-kings-prophets-4",
+    "subject": "Christian Religious Studies",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Kings & Prophets of Israel",
+    "difficulty": "medium",
+    "prompt": "According to the Bible, the prophet who confronted the prophets of Baal on Mount Carmel was",
+    "options": [
+      {
+        "key": "A",
+        "text": "Jeremiah"
+      },
+      {
+        "key": "B",
+        "text": "Elisha"
+      },
+      {
+        "key": "C",
+        "text": "Elijah"
+      },
+      {
+        "key": "D",
+        "text": "Isaiah"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "1 Kings 18 recounts Elijah's confrontation with the prophets of Baal on Mount Carmel."
+  },
+  {
+    "id": "waec-crs-kings-prophets-5",
+    "subject": "Christian Religious Studies",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Kings & Prophets of Israel",
+    "difficulty": "easy",
+    "prompt": "According to the Bible, Israel's kingdom split into two after the reign of",
+    "options": [
+      {
+        "key": "A",
+        "text": "Solomon"
+      },
+      {
+        "key": "B",
+        "text": "Samuel"
+      },
+      {
+        "key": "C",
+        "text": "David"
+      },
+      {
+        "key": "D",
+        "text": "Saul"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "1 Kings 12 describes the kingdom dividing into Israel and Judah after Solomon's death."
+  },
+  {
+    "id": "waec-crs-jesus-1",
+    "subject": "Christian Religious Studies",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Life & Teachings of Jesus Christ",
+    "difficulty": "easy",
+    "prompt": "According to the New Testament, Jesus Christ was born in",
+    "options": [
+      {
+        "key": "A",
+        "text": "Jerusalem"
+      },
+      {
+        "key": "B",
+        "text": "Nazareth"
+      },
+      {
+        "key": "C",
+        "text": "Galilee"
+      },
+      {
+        "key": "D",
+        "text": "Bethlehem"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "The Gospels of Matthew and Luke record Jesus' birth in Bethlehem."
+  },
+  {
+    "id": "waec-crs-jesus-2",
+    "subject": "Christian Religious Studies",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Life & Teachings of Jesus Christ",
+    "difficulty": "medium",
+    "prompt": "According to the Gospels, Jesus performed his first recorded miracle at a wedding in",
+    "options": [
+      {
+        "key": "A",
+        "text": "Cana"
+      },
+      {
+        "key": "B",
+        "text": "Bethany"
+      },
+      {
+        "key": "C",
+        "text": "Jericho"
+      },
+      {
+        "key": "D",
+        "text": "Capernaum"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "John 2 records Jesus turning water into wine at a wedding in Cana."
+  },
+  {
+    "id": "waec-crs-jesus-3",
+    "subject": "Christian Religious Studies",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Life & Teachings of Jesus Christ",
+    "difficulty": "hard",
+    "prompt": "According to the Gospels, the sermon in which Jesus taught the Beatitudes ('Blessed are...') is known as the",
+    "options": [
+      {
+        "key": "A",
+        "text": "Parable of the Sower"
+      },
+      {
+        "key": "B",
+        "text": "Sermon on the Plain"
+      },
+      {
+        "key": "C",
+        "text": "Lord's Prayer"
+      },
+      {
+        "key": "D",
+        "text": "Sermon on the Mount"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Matthew 5-7 records the Sermon on the Mount, which includes the Beatitudes."
+  },
+  {
+    "id": "waec-crs-jesus-4",
+    "subject": "Christian Religious Studies",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Life & Teachings of Jesus Christ",
+    "difficulty": "medium",
+    "prompt": "According to the Gospels, Jesus was betrayed by one of his twelve disciples named",
+    "options": [
+      {
+        "key": "A",
+        "text": "Thomas"
+      },
+      {
+        "key": "B",
+        "text": "Peter"
+      },
+      {
+        "key": "C",
+        "text": "Judas Iscariot"
+      },
+      {
+        "key": "D",
+        "text": "John"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "The Gospels record Judas Iscariot betraying Jesus to the authorities."
+  },
+  {
+    "id": "waec-crs-jesus-5",
+    "subject": "Christian Religious Studies",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Life & Teachings of Jesus Christ",
+    "difficulty": "easy",
+    "prompt": "According to the New Testament, the Christian celebration commemorating Jesus' resurrection from the dead is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "Pentecost"
+      },
+      {
+        "key": "B",
+        "text": "Christmas"
+      },
+      {
+        "key": "C",
+        "text": "Easter"
+      },
+      {
+        "key": "D",
+        "text": "Passover"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Easter is the Christian festival celebrating Jesus' resurrection."
+  },
+  {
+    "id": "waec-crs-early-church-1",
+    "subject": "Christian Religious Studies",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "The Early Church",
+    "difficulty": "easy",
+    "prompt": "According to the Book of Acts, the Holy Spirit descended upon the apostles at",
+    "options": [
+      {
+        "key": "A",
+        "text": "the Last Supper"
+      },
+      {
+        "key": "B",
+        "text": "the Transfiguration"
+      },
+      {
+        "key": "C",
+        "text": "Passover"
+      },
+      {
+        "key": "D",
+        "text": "Pentecost"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Acts 2 describes the Holy Spirit descending on the apostles at Pentecost."
+  },
+  {
+    "id": "waec-crs-early-church-2",
+    "subject": "Christian Religious Studies",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "The Early Church",
+    "difficulty": "medium",
+    "prompt": "According to the Book of Acts, Saul (later called Paul) was converted to Christianity on the road to",
+    "options": [
+      {
+        "key": "A",
+        "text": "Antioch"
+      },
+      {
+        "key": "B",
+        "text": "Jerusalem"
+      },
+      {
+        "key": "C",
+        "text": "Damascus"
+      },
+      {
+        "key": "D",
+        "text": "Rome"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Acts 9 recounts Saul's dramatic conversion on the road to Damascus."
+  },
+  {
+    "id": "waec-crs-early-church-3",
+    "subject": "Christian Religious Studies",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "The Early Church",
+    "difficulty": "hard",
+    "prompt": "According to the New Testament, Paul wrote many of his letters (epistles) primarily to",
+    "options": [
+      {
+        "key": "A",
+        "text": "early Christian churches and individuals to guide their faith and conduct"
+      },
+      {
+        "key": "B",
+        "text": "historians recording Roman history"
+      },
+      {
+        "key": "C",
+        "text": "Jewish priests to renounce Christianity"
+      },
+      {
+        "key": "D",
+        "text": "Roman emperors demanding tax exemption"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Paul's epistles were written to instruct and encourage early Christian communities and leaders."
+  },
+  {
+    "id": "waec-crs-early-church-4",
+    "subject": "Christian Religious Studies",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "The Early Church",
+    "difficulty": "medium",
+    "prompt": "According to the Book of Acts, the first Christian martyr, stoned to death for his faith, was",
+    "options": [
+      {
+        "key": "A",
+        "text": "Stephen"
+      },
+      {
+        "key": "B",
+        "text": "Peter"
+      },
+      {
+        "key": "C",
+        "text": "James"
+      },
+      {
+        "key": "D",
+        "text": "Timothy"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Acts 7 records Stephen being stoned to death, making him the first Christian martyr."
+  },
+  {
+    "id": "waec-crs-early-church-5",
+    "subject": "Christian Religious Studies",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "The Early Church",
+    "difficulty": "easy",
+    "prompt": "According to Acts, the city where believers were first called 'Christians' was",
+    "options": [
+      {
+        "key": "A",
+        "text": "Antioch"
+      },
+      {
+        "key": "B",
+        "text": "Rome"
+      },
+      {
+        "key": "C",
+        "text": "Jerusalem"
+      },
+      {
+        "key": "D",
+        "text": "Corinth"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Acts 11:26 states that disciples were first called Christians in Antioch."
+  },
+  {
+    "id": "waec-irs-pillars-1",
+    "subject": "Islamic Religious Studies",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Pillars of Islam",
+    "difficulty": "easy",
+    "prompt": "The declaration of faith in Islam, affirming belief in one God and Muhammad as His messenger, is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "Zakat"
+      },
+      {
+        "key": "B",
+        "text": "Shahada"
+      },
+      {
+        "key": "C",
+        "text": "Hajj"
+      },
+      {
+        "key": "D",
+        "text": "Salat"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "The Shahada is the Islamic testimony of faith, the first of the Five Pillars."
+  },
+  {
+    "id": "waec-irs-pillars-2",
+    "subject": "Islamic Religious Studies",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Pillars of Islam",
+    "difficulty": "medium",
+    "prompt": "The Islamic obligatory almsgiving, in which a portion of one's wealth is given to the poor, is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "Shahada"
+      },
+      {
+        "key": "B",
+        "text": "Zakat"
+      },
+      {
+        "key": "C",
+        "text": "Sawm"
+      },
+      {
+        "key": "D",
+        "text": "Salat"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Zakat is the obligatory charitable giving required of Muslims who meet the wealth threshold."
+  },
+  {
+    "id": "waec-irs-pillars-3",
+    "subject": "Islamic Religious Studies",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Pillars of Islam",
+    "difficulty": "hard",
+    "prompt": "The Five Pillars of Islam are Shahada, Salat, Zakat, Sawm and",
+    "options": [
+      {
+        "key": "A",
+        "text": "Halal dietary laws"
+      },
+      {
+        "key": "B",
+        "text": "Nikah (marriage)"
+      },
+      {
+        "key": "C",
+        "text": "Jihad"
+      },
+      {
+        "key": "D",
+        "text": "Hajj (pilgrimage to Makkah)"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Hajj, the pilgrimage to Makkah, completes the Five Pillars of Islam."
+  },
+  {
+    "id": "waec-irs-pillars-4",
+    "subject": "Islamic Religious Studies",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Pillars of Islam",
+    "difficulty": "medium",
+    "prompt": "The Islamic fast observed during the month of Ramadan is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "Zakat"
+      },
+      {
+        "key": "B",
+        "text": "Sawm"
+      },
+      {
+        "key": "C",
+        "text": "Salat"
+      },
+      {
+        "key": "D",
+        "text": "Hajj"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Sawm is the obligatory fasting observed by Muslims during Ramadan."
+  },
+  {
+    "id": "waec-irs-pillars-5",
+    "subject": "Islamic Religious Studies",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Pillars of Islam",
+    "difficulty": "easy",
+    "prompt": "Muslims are required to perform ritual prayer (Salat) how many times a day?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Seven"
+      },
+      {
+        "key": "B",
+        "text": "Two"
+      },
+      {
+        "key": "C",
+        "text": "Five"
+      },
+      {
+        "key": "D",
+        "text": "Three"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Salat is performed five times daily by practising Muslims."
+  },
+  {
+    "id": "waec-irs-prophet-muhammad-1",
+    "subject": "Islamic Religious Studies",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Life of Prophet Muhammad",
+    "difficulty": "easy",
+    "prompt": "Prophet Muhammad (SAW) was born in the city of",
+    "options": [
+      {
+        "key": "A",
+        "text": "Jerusalem"
+      },
+      {
+        "key": "B",
+        "text": "Madinah"
+      },
+      {
+        "key": "C",
+        "text": "Makkah"
+      },
+      {
+        "key": "D",
+        "text": "Baghdad"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Prophet Muhammad was born in Makkah around 570 CE."
+  },
+  {
+    "id": "waec-irs-prophet-muhammad-2",
+    "subject": "Islamic Religious Studies",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Life of Prophet Muhammad",
+    "difficulty": "medium",
+    "prompt": "The migration of Prophet Muhammad and his followers from Makkah to Madinah is called the",
+    "options": [
+      {
+        "key": "A",
+        "text": "Isra"
+      },
+      {
+        "key": "B",
+        "text": "Mi'raj"
+      },
+      {
+        "key": "C",
+        "text": "Hijrah"
+      },
+      {
+        "key": "D",
+        "text": "Hajj"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "The Hijrah refers to the migration from Makkah to Madinah in 622 CE."
+  },
+  {
+    "id": "waec-irs-prophet-muhammad-3",
+    "subject": "Islamic Religious Studies",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Life of Prophet Muhammad",
+    "difficulty": "hard",
+    "prompt": "According to Islamic tradition, Prophet Muhammad first received revelation from Allah through the angel",
+    "options": [
+      {
+        "key": "A",
+        "text": "Israfil"
+      },
+      {
+        "key": "B",
+        "text": "Jibril (Gabriel)"
+      },
+      {
+        "key": "C",
+        "text": "Malik"
+      },
+      {
+        "key": "D",
+        "text": "Mikail"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Islamic tradition holds that the angel Jibril delivered Allah's revelations to Muhammad."
+  },
+  {
+    "id": "waec-irs-prophet-muhammad-4",
+    "subject": "Islamic Religious Studies",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Life of Prophet Muhammad",
+    "difficulty": "medium",
+    "prompt": "The Hijrah (migration to Madinah) marks the beginning of",
+    "options": [
+      {
+        "key": "A",
+        "text": "the Islamic (Hijri) calendar"
+      },
+      {
+        "key": "B",
+        "text": "the Hajj pilgrimage"
+      },
+      {
+        "key": "C",
+        "text": "the month of Ramadan"
+      },
+      {
+        "key": "D",
+        "text": "the Battle of Badr"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "The Islamic calendar counts its years from the Hijrah of 622 CE."
+  },
+  {
+    "id": "waec-irs-prophet-muhammad-5",
+    "subject": "Islamic Religious Studies",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Life of Prophet Muhammad",
+    "difficulty": "easy",
+    "prompt": "Prophet Muhammad is regarded by Muslims as the",
+    "options": [
+      {
+        "key": "A",
+        "text": "final messenger of Allah"
+      },
+      {
+        "key": "B",
+        "text": "an angel"
+      },
+      {
+        "key": "C",
+        "text": "founder of a new god"
+      },
+      {
+        "key": "D",
+        "text": "a historical king only"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Muslims regard Muhammad as the last (Seal) of the Prophets sent by Allah."
+  },
+  {
+    "id": "waec-irs-quran-hadith-1",
+    "subject": "Islamic Religious Studies",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "The Qur'an & Hadith",
+    "difficulty": "easy",
+    "prompt": "The holy book of Islam, believed by Muslims to be the word of Allah revealed to Prophet Muhammad, is called the",
+    "options": [
+      {
+        "key": "A",
+        "text": "Torah"
+      },
+      {
+        "key": "B",
+        "text": "Zabur"
+      },
+      {
+        "key": "C",
+        "text": "Injil"
+      },
+      {
+        "key": "D",
+        "text": "Qur'an"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "The Qur'an is the central religious text of Islam, believed to be Allah's revealed word."
+  },
+  {
+    "id": "waec-irs-quran-hadith-2",
+    "subject": "Islamic Religious Studies",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "The Qur'an & Hadith",
+    "difficulty": "medium",
+    "prompt": "The recorded sayings and actions of Prophet Muhammad, used alongside the Qur'an as a source of Islamic guidance, are called",
+    "options": [
+      {
+        "key": "A",
+        "text": "Hadith"
+      },
+      {
+        "key": "B",
+        "text": "Sunnah as practice only"
+      },
+      {
+        "key": "C",
+        "text": "Fatwa"
+      },
+      {
+        "key": "D",
+        "text": "Sharia"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Hadith are the collected reports of Muhammad's sayings and actions."
+  },
+  {
+    "id": "waec-irs-quran-hadith-3",
+    "subject": "Islamic Religious Studies",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "The Qur'an & Hadith",
+    "difficulty": "hard",
+    "prompt": "The Qur'an is divided into chapters known as",
+    "options": [
+      {
+        "key": "A",
+        "text": "Juz only"
+      },
+      {
+        "key": "B",
+        "text": "Surahs"
+      },
+      {
+        "key": "C",
+        "text": "Ayahs only"
+      },
+      {
+        "key": "D",
+        "text": "Hizb only"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "The Qur'an's chapters are called Surahs, further divided into verses (Ayahs)."
+  },
+  {
+    "id": "waec-irs-quran-hadith-4",
+    "subject": "Islamic Religious Studies",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "The Qur'an & Hadith",
+    "difficulty": "medium",
+    "prompt": "Islamic law derived from the Qur'an, the Sunnah and other sources is generally referred to as",
+    "options": [
+      {
+        "key": "A",
+        "text": "Fiqh strictly synonymous with Sharia"
+      },
+      {
+        "key": "B",
+        "text": "Hadith only"
+      },
+      {
+        "key": "C",
+        "text": "Sharia"
+      },
+      {
+        "key": "D",
+        "text": "Tafsir only"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Sharia is the body of Islamic law derived from the Qur'an, Sunnah and related sources."
+  },
+  {
+    "id": "waec-irs-quran-hadith-5",
+    "subject": "Islamic Religious Studies",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "The Qur'an & Hadith",
+    "difficulty": "easy",
+    "prompt": "The verses of the Qur'an are called",
+    "options": [
+      {
+        "key": "A",
+        "text": "Hadiths"
+      },
+      {
+        "key": "B",
+        "text": "Ayahs"
+      },
+      {
+        "key": "C",
+        "text": "Surahs"
+      },
+      {
+        "key": "D",
+        "text": "Fatwas"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Individual verses within a Surah are called Ayahs."
+  },
+  {
+    "id": "waec-irs-caliphs-1",
+    "subject": "Islamic Religious Studies",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Rightly Guided Caliphs",
+    "difficulty": "easy",
+    "prompt": "After the death of Prophet Muhammad, the first caliph (leader of the Muslim community) was",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ali ibn Abi Talib"
+      },
+      {
+        "key": "B",
+        "text": "Abu Bakr"
+      },
+      {
+        "key": "C",
+        "text": "Umar ibn al-Khattab"
+      },
+      {
+        "key": "D",
+        "text": "Uthman ibn Affan"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Abu Bakr was chosen as the first caliph following Muhammad's death in 632 CE."
+  },
+  {
+    "id": "waec-irs-caliphs-2",
+    "subject": "Islamic Religious Studies",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Rightly Guided Caliphs",
+    "difficulty": "medium",
+    "prompt": "The second Rightly Guided Caliph, known for expanding the Islamic empire significantly, was",
+    "options": [
+      {
+        "key": "A",
+        "text": "Umar ibn al-Khattab"
+      },
+      {
+        "key": "B",
+        "text": "Ali ibn Abi Talib"
+      },
+      {
+        "key": "C",
+        "text": "Uthman ibn Affan"
+      },
+      {
+        "key": "D",
+        "text": "Abu Bakr"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Umar ibn al-Khattab oversaw major territorial expansion during his caliphate."
+  },
+  {
+    "id": "waec-irs-caliphs-3",
+    "subject": "Islamic Religious Studies",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Rightly Guided Caliphs",
+    "difficulty": "hard",
+    "prompt": "The compilation of the Qur'an into a single standardized written text is most associated with the caliphate of",
+    "options": [
+      {
+        "key": "A",
+        "text": "Uthman ibn Affan"
+      },
+      {
+        "key": "B",
+        "text": "Ali ibn Abi Talib"
+      },
+      {
+        "key": "C",
+        "text": "Umar ibn al-Khattab"
+      },
+      {
+        "key": "D",
+        "text": "Abu Bakr"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Uthman ibn Affan is credited with standardizing the written text of the Qur'an."
+  },
+  {
+    "id": "waec-irs-caliphs-4",
+    "subject": "Islamic Religious Studies",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Rightly Guided Caliphs",
+    "difficulty": "medium",
+    "prompt": "The fourth and last of the Rightly Guided Caliphs was",
+    "options": [
+      {
+        "key": "A",
+        "text": "Abu Bakr"
+      },
+      {
+        "key": "B",
+        "text": "Ali ibn Abi Talib"
+      },
+      {
+        "key": "C",
+        "text": "Uthman ibn Affan"
+      },
+      {
+        "key": "D",
+        "text": "Umar ibn al-Khattab"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Ali ibn Abi Talib, Muhammad's cousin and son-in-law, was the fourth Rightly Guided Caliph."
+  },
+  {
+    "id": "waec-irs-caliphs-5",
+    "subject": "Islamic Religious Studies",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Rightly Guided Caliphs",
+    "difficulty": "easy",
+    "prompt": "The period of the four Rightly Guided Caliphs directly followed the death of",
+    "options": [
+      {
+        "key": "A",
+        "text": "Uthman ibn Affan"
+      },
+      {
+        "key": "B",
+        "text": "Umar ibn al-Khattab"
+      },
+      {
+        "key": "C",
+        "text": "Prophet Muhammad"
+      },
+      {
+        "key": "D",
+        "text": "Abu Bakr"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "The Rightly Guided Caliphate began immediately after Prophet Muhammad's death in 632 CE."
+  },
+  {
+    "id": "waec-irs-moral-teachings-1",
+    "subject": "Islamic Religious Studies",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Islamic Moral Teachings",
+    "difficulty": "easy",
+    "prompt": "In Islam, acts of worship and good conduct are generally guided by belief in",
+    "options": [
+      {
+        "key": "A",
+        "text": "accountability to Allah on the Day of Judgement"
+      },
+      {
+        "key": "B",
+        "text": "no moral framework"
+      },
+      {
+        "key": "C",
+        "text": "cultural tradition only"
+      },
+      {
+        "key": "D",
+        "text": "personal preference alone"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Islamic ethics are grounded in the belief that individuals will be held accountable before Allah."
+  },
+  {
+    "id": "waec-irs-moral-teachings-2",
+    "subject": "Islamic Religious Studies",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Islamic Moral Teachings",
+    "difficulty": "medium",
+    "prompt": "Honesty, kindness to parents, and charity to the poor are examples of",
+    "options": [
+      {
+        "key": "A",
+        "text": "practices discouraged in Islam"
+      },
+      {
+        "key": "B",
+        "text": "pre-Islamic customs abolished by Islam"
+      },
+      {
+        "key": "C",
+        "text": "rituals unrelated to morality"
+      },
+      {
+        "key": "D",
+        "text": "Islamic moral virtues"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Islam strongly emphasizes honesty, filial kindness and charity as core moral virtues."
+  },
+  {
+    "id": "waec-irs-moral-teachings-3",
+    "subject": "Islamic Religious Studies",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Islamic Moral Teachings",
+    "difficulty": "hard",
+    "prompt": "The Islamic concept of 'Taqwa' refers most closely to",
+    "options": [
+      {
+        "key": "A",
+        "text": "God-consciousness and mindfulness of Allah in one's actions"
+      },
+      {
+        "key": "B",
+        "text": "physical cleanliness only"
+      },
+      {
+        "key": "C",
+        "text": "financial wealth"
+      },
+      {
+        "key": "D",
+        "text": "political leadership"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Taqwa describes a deep awareness of and reverence for Allah that guides a believer's conduct."
+  },
+  {
+    "id": "waec-irs-moral-teachings-4",
+    "subject": "Islamic Religious Studies",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Islamic Moral Teachings",
+    "difficulty": "medium",
+    "prompt": "In Islam, treating one's parents with kindness and respect is considered",
+    "options": [
+      {
+        "key": "A",
+        "text": "optional and unimportant"
+      },
+      {
+        "key": "B",
+        "text": "a religious duty"
+      },
+      {
+        "key": "C",
+        "text": "relevant only to fathers"
+      },
+      {
+        "key": "D",
+        "text": "forbidden"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "The Qur'an emphasizes kindness to both parents as a significant religious obligation."
+  },
+  {
+    "id": "waec-irs-moral-teachings-5",
+    "subject": "Islamic Religious Studies",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Islamic Moral Teachings",
+    "difficulty": "easy",
+    "prompt": "Islam teaches that wealth should be earned and spent",
+    "options": [
+      {
+        "key": "A",
+        "text": "only for personal pleasure"
+      },
+      {
+        "key": "B",
+        "text": "without any moral restriction"
+      },
+      {
+        "key": "C",
+        "text": "lawfully and with regard for the needs of others"
+      },
+      {
+        "key": "D",
+        "text": "by any means necessary"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Islamic teaching requires wealth to be acquired through lawful means and used responsibly, including helping others."
+  },
+  {
+    "id": "waec-geo-map-reading-1",
+    "subject": "Geography",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Map Reading & Interpretation",
+    "difficulty": "easy",
+    "prompt": "The ratio between a distance on a map and the corresponding distance on the ground is called the",
+    "options": [
+      {
+        "key": "A",
+        "text": "scale"
+      },
+      {
+        "key": "B",
+        "text": "contour"
+      },
+      {
+        "key": "C",
+        "text": "legend"
+      },
+      {
+        "key": "D",
+        "text": "grid reference"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Scale expresses the relationship between map distance and actual ground distance."
+  },
+  {
+    "id": "waec-geo-map-reading-2",
+    "subject": "Geography",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Map Reading & Interpretation",
+    "difficulty": "medium",
+    "prompt": "Lines on a map joining places of equal height above sea level are called",
+    "options": [
+      {
+        "key": "A",
+        "text": "contour lines"
+      },
+      {
+        "key": "B",
+        "text": "isobars"
+      },
+      {
+        "key": "C",
+        "text": "longitude lines"
+      },
+      {
+        "key": "D",
+        "text": "latitude lines"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Contour lines connect points of equal elevation, showing relief on a map."
+  },
+  {
+    "id": "waec-geo-map-reading-3",
+    "subject": "Geography",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Map Reading & Interpretation",
+    "difficulty": "hard",
+    "prompt": "A map scale expressed as '1:50,000' is an example of a",
+    "options": [
+      {
+        "key": "A",
+        "text": "linear scale only"
+      },
+      {
+        "key": "B",
+        "text": "statement scale only"
+      },
+      {
+        "key": "C",
+        "text": "vertical scale"
+      },
+      {
+        "key": "D",
+        "text": "representative fraction (RF) scale"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "A representative fraction expresses scale as a ratio, such as 1:50,000."
+  },
+  {
+    "id": "waec-geo-map-reading-4",
+    "subject": "Geography",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Map Reading & Interpretation",
+    "difficulty": "medium",
+    "prompt": "The symbol explaining what the various signs and colours on a map represent is called the",
+    "options": [
+      {
+        "key": "A",
+        "text": "scale"
+      },
+      {
+        "key": "B",
+        "text": "compass rose"
+      },
+      {
+        "key": "C",
+        "text": "key/legend"
+      },
+      {
+        "key": "D",
+        "text": "grid"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "The legend (or key) explains the symbols and colours used on a map."
+  },
+  {
+    "id": "waec-geo-map-reading-5",
+    "subject": "Geography",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Map Reading & Interpretation",
+    "difficulty": "easy",
+    "prompt": "The direction-finding tool typically included on a map to show North is the",
+    "options": [
+      {
+        "key": "A",
+        "text": "grid reference"
+      },
+      {
+        "key": "B",
+        "text": "compass rose"
+      },
+      {
+        "key": "C",
+        "text": "contour line"
+      },
+      {
+        "key": "D",
+        "text": "scale bar"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "A compass rose indicates cardinal directions, usually pointing to North."
+  },
+  {
+    "id": "waec-geo-weather-climate-1",
+    "subject": "Geography",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Weather & Climate",
+    "difficulty": "easy",
+    "prompt": "The instrument used to measure atmospheric pressure is the",
+    "options": [
+      {
+        "key": "A",
+        "text": "barometer"
+      },
+      {
+        "key": "B",
+        "text": "anemometer"
+      },
+      {
+        "key": "C",
+        "text": "thermometer"
+      },
+      {
+        "key": "D",
+        "text": "rain gauge"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "A barometer measures atmospheric pressure."
+  },
+  {
+    "id": "waec-geo-weather-climate-2",
+    "subject": "Geography",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Weather & Climate",
+    "difficulty": "medium",
+    "prompt": "The instrument used to measure wind speed is the",
+    "options": [
+      {
+        "key": "A",
+        "text": "hygrometer"
+      },
+      {
+        "key": "B",
+        "text": "barometer"
+      },
+      {
+        "key": "C",
+        "text": "anemometer"
+      },
+      {
+        "key": "D",
+        "text": "rain gauge"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "An anemometer measures the speed of wind."
+  },
+  {
+    "id": "waec-geo-weather-climate-3",
+    "subject": "Geography",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Weather & Climate",
+    "difficulty": "hard",
+    "prompt": "The climate type found around the equator, characterized by high temperatures and heavy rainfall throughout the year, is the",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mediterranean climate"
+      },
+      {
+        "key": "B",
+        "text": "equatorial/tropical rainforest climate"
+      },
+      {
+        "key": "C",
+        "text": "polar climate"
+      },
+      {
+        "key": "D",
+        "text": "desert climate"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Equatorial regions experience consistently high temperature and rainfall year-round."
+  },
+  {
+    "id": "waec-geo-weather-climate-4",
+    "subject": "Geography",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Weather & Climate",
+    "difficulty": "medium",
+    "prompt": "The instrument used to measure the amount of rainfall in an area is the",
+    "options": [
+      {
+        "key": "A",
+        "text": "thermometer"
+      },
+      {
+        "key": "B",
+        "text": "barometer"
+      },
+      {
+        "key": "C",
+        "text": "rain gauge"
+      },
+      {
+        "key": "D",
+        "text": "anemometer"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "A rain gauge collects and measures the amount of precipitation."
+  },
+  {
+    "id": "waec-geo-weather-climate-5",
+    "subject": "Geography",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Weather & Climate",
+    "difficulty": "easy",
+    "prompt": "Weather refers to",
+    "options": [
+      {
+        "key": "A",
+        "text": "the average atmospheric condition of a place over a long period"
+      },
+      {
+        "key": "B",
+        "text": "the day-to-day atmospheric condition of a place"
+      },
+      {
+        "key": "C",
+        "text": "the soil type of a region"
+      },
+      {
+        "key": "D",
+        "text": "the vegetation cover of a region"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Weather describes short-term atmospheric conditions, as opposed to climate's long-term averages."
+  },
+  {
+    "id": "waec-geo-landforms-1",
+    "subject": "Geography",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Landforms",
+    "difficulty": "easy",
+    "prompt": "A large, flat, elevated area of land is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "valley"
+      },
+      {
+        "key": "B",
+        "text": "basin"
+      },
+      {
+        "key": "C",
+        "text": "delta"
+      },
+      {
+        "key": "D",
+        "text": "plateau"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "A plateau is a raised, generally flat area of land."
+  },
+  {
+    "id": "waec-geo-landforms-2",
+    "subject": "Geography",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Landforms",
+    "difficulty": "medium",
+    "prompt": "A triangular landform deposited at the mouth of a river where it meets a larger body of water is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "delta"
+      },
+      {
+        "key": "B",
+        "text": "plateau"
+      },
+      {
+        "key": "C",
+        "text": "escarpment"
+      },
+      {
+        "key": "D",
+        "text": "peninsula"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "A delta forms from sediment deposited where a river enters a sea or lake."
+  },
+  {
+    "id": "waec-geo-landforms-3",
+    "subject": "Geography",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Landforms",
+    "difficulty": "hard",
+    "prompt": "A steep slope or cliff formed where there is a sudden change in elevation, often marking the edge of a plateau, is called an",
+    "options": [
+      {
+        "key": "A",
+        "text": "delta"
+      },
+      {
+        "key": "B",
+        "text": "isthmus"
+      },
+      {
+        "key": "C",
+        "text": "archipelago"
+      },
+      {
+        "key": "D",
+        "text": "escarpment"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "An escarpment is a steep slope separating two relatively level areas at different elevations."
+  },
+  {
+    "id": "waec-geo-landforms-4",
+    "subject": "Geography",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Landforms",
+    "difficulty": "medium",
+    "prompt": "A narrow strip of land connecting two larger landmasses is called an",
+    "options": [
+      {
+        "key": "A",
+        "text": "isthmus"
+      },
+      {
+        "key": "B",
+        "text": "delta"
+      },
+      {
+        "key": "C",
+        "text": "plateau"
+      },
+      {
+        "key": "D",
+        "text": "peninsula"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "An isthmus is a narrow land bridge joining two larger areas of land."
+  },
+  {
+    "id": "waec-geo-landforms-5",
+    "subject": "Geography",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Landforms",
+    "difficulty": "easy",
+    "prompt": "Landforms shaped mainly by the action of moving water over long periods are said to be formed by",
+    "options": [
+      {
+        "key": "A",
+        "text": "fluvial (river) erosion"
+      },
+      {
+        "key": "B",
+        "text": "human construction"
+      },
+      {
+        "key": "C",
+        "text": "wind deposition only"
+      },
+      {
+        "key": "D",
+        "text": "volcanic eruption only"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Fluvial processes describe landform shaping by rivers and running water."
+  },
+  {
+    "id": "waec-geo-population-settlement-1",
+    "subject": "Geography",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Population & Settlement",
+    "difficulty": "easy",
+    "prompt": "The branch of geography that studies the size, distribution and characteristics of human populations is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "geomorphology"
+      },
+      {
+        "key": "B",
+        "text": "cartography"
+      },
+      {
+        "key": "C",
+        "text": "physical geography"
+      },
+      {
+        "key": "D",
+        "text": "population geography (demography)"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Population geography examines the size, distribution and structure of human populations."
+  },
+  {
+    "id": "waec-geo-population-settlement-2",
+    "subject": "Geography",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Population & Settlement",
+    "difficulty": "medium",
+    "prompt": "A settlement pattern in which houses are built close together, usually around a central point, is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "isolated settlement"
+      },
+      {
+        "key": "B",
+        "text": "nucleated settlement"
+      },
+      {
+        "key": "C",
+        "text": "dispersed settlement"
+      },
+      {
+        "key": "D",
+        "text": "linear settlement"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Nucleated settlements cluster tightly around a central feature such as a market or water source."
+  },
+  {
+    "id": "waec-geo-population-settlement-3",
+    "subject": "Geography",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Population & Settlement",
+    "difficulty": "hard",
+    "prompt": "The movement of people from rural areas to urban areas in search of better opportunities is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "rural-urban migration"
+      },
+      {
+        "key": "B",
+        "text": "immigration only"
+      },
+      {
+        "key": "C",
+        "text": "emigration only"
+      },
+      {
+        "key": "D",
+        "text": "urban-rural migration"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Rural-urban migration describes movement from the countryside to cities."
+  },
+  {
+    "id": "waec-geo-population-settlement-4",
+    "subject": "Geography",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Population & Settlement",
+    "difficulty": "medium",
+    "prompt": "A settlement pattern in which houses are scattered and spread out over a wide area is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "linear settlement"
+      },
+      {
+        "key": "B",
+        "text": "dispersed settlement"
+      },
+      {
+        "key": "C",
+        "text": "nucleated settlement"
+      },
+      {
+        "key": "D",
+        "text": "compact settlement"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Dispersed settlements have widely spaced dwellings, common in farming areas."
+  },
+  {
+    "id": "waec-geo-population-settlement-5",
+    "subject": "Geography",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Population & Settlement",
+    "difficulty": "easy",
+    "prompt": "The total number of people living in a given area at a particular time is referred to as its",
+    "options": [
+      {
+        "key": "A",
+        "text": "settlement pattern"
+      },
+      {
+        "key": "B",
+        "text": "population"
+      },
+      {
+        "key": "C",
+        "text": "birth rate"
+      },
+      {
+        "key": "D",
+        "text": "population density"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Population is the total count of people inhabiting an area."
+  },
+  {
+    "id": "waec-geo-agriculture-1",
+    "subject": "Geography",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Agriculture",
+    "difficulty": "easy",
+    "prompt": "Farming carried out mainly to feed the farmer's family, with little or no surplus for sale, is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "plantation farming"
+      },
+      {
+        "key": "B",
+        "text": "commercial farming"
+      },
+      {
+        "key": "C",
+        "text": "mechanized farming"
+      },
+      {
+        "key": "D",
+        "text": "subsistence farming"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Subsistence farming produces mainly for the farmer's household consumption."
+  },
+  {
+    "id": "waec-geo-agriculture-2",
+    "subject": "Geography",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Agriculture",
+    "difficulty": "medium",
+    "prompt": "Large-scale farming of a single crop, such as cocoa or oil palm, mainly for sale, is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "subsistence farming"
+      },
+      {
+        "key": "B",
+        "text": "nomadic herding"
+      },
+      {
+        "key": "C",
+        "text": "shifting cultivation"
+      },
+      {
+        "key": "D",
+        "text": "plantation/commercial farming"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Plantation farming involves large-scale, single-crop cultivation for commercial sale."
+  },
+  {
+    "id": "waec-geo-agriculture-3",
+    "subject": "Geography",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Agriculture",
+    "difficulty": "hard",
+    "prompt": "The farming practice in which farmers clear a plot of land, cultivate it for a few years, then abandon it to fallow and move to a new plot, is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "shifting cultivation"
+      },
+      {
+        "key": "B",
+        "text": "plantation farming"
+      },
+      {
+        "key": "C",
+        "text": "mechanized farming"
+      },
+      {
+        "key": "D",
+        "text": "mixed farming"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Shifting cultivation rotates farming plots to allow soil fertility to recover through fallowing."
+  },
+  {
+    "id": "waec-geo-agriculture-4",
+    "subject": "Geography",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Agriculture",
+    "difficulty": "medium",
+    "prompt": "The practice of rearing livestock and growing crops together on the same farm is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "nomadic herding"
+      },
+      {
+        "key": "B",
+        "text": "shifting cultivation"
+      },
+      {
+        "key": "C",
+        "text": "mixed farming"
+      },
+      {
+        "key": "D",
+        "text": "monoculture"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Mixed farming combines crop cultivation and livestock rearing on one farm."
+  },
+  {
+    "id": "waec-geo-agriculture-5",
+    "subject": "Geography",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Agriculture",
+    "difficulty": "easy",
+    "prompt": "A major cash crop grown extensively in the forest belt of southern Nigeria is",
+    "options": [
+      {
+        "key": "A",
+        "text": "groundnut"
+      },
+      {
+        "key": "B",
+        "text": "millet"
+      },
+      {
+        "key": "C",
+        "text": "wheat"
+      },
+      {
+        "key": "D",
+        "text": "cocoa"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Cocoa thrives in the humid forest belt of southern Nigeria and is a major cash crop there."
+  },
+  {
+    "id": "waec-facc-basic-concepts-1",
+    "subject": "Financial Accounting",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Basic Accounting Concepts",
+    "difficulty": "easy",
+    "prompt": "The accounting equation is correctly expressed as",
+    "options": [
+      {
+        "key": "A",
+        "text": "Assets = Liabilities + Capital"
+      },
+      {
+        "key": "B",
+        "text": "Liabilities = Assets + Capital"
+      },
+      {
+        "key": "C",
+        "text": "Capital = Assets + Liabilities"
+      },
+      {
+        "key": "D",
+        "text": "Assets = Liabilities - Capital"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "The fundamental accounting equation states that assets equal liabilities plus capital (owner's equity)."
+  },
+  {
+    "id": "waec-facc-basic-concepts-2",
+    "subject": "Financial Accounting",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Basic Accounting Concepts",
+    "difficulty": "medium",
+    "prompt": "The accounting concept that assumes a business will continue operating indefinitely, unless there is evidence to the contrary, is called the",
+    "options": [
+      {
+        "key": "A",
+        "text": "realization concept"
+      },
+      {
+        "key": "B",
+        "text": "matching concept"
+      },
+      {
+        "key": "C",
+        "text": "prudence concept"
+      },
+      {
+        "key": "D",
+        "text": "going concern concept"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "The going concern concept assumes a business will continue operations into the foreseeable future."
+  },
+  {
+    "id": "waec-facc-basic-concepts-3",
+    "subject": "Financial Accounting",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Basic Accounting Concepts",
+    "difficulty": "hard",
+    "prompt": "The accounting concept requiring that revenue be matched with the expenses incurred in earning it, within the same accounting period, is called the",
+    "options": [
+      {
+        "key": "A",
+        "text": "going concern concept"
+      },
+      {
+        "key": "B",
+        "text": "consistency concept"
+      },
+      {
+        "key": "C",
+        "text": "matching concept"
+      },
+      {
+        "key": "D",
+        "text": "materiality concept"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "The matching concept aligns expenses with the revenue they help generate in the same period."
+  },
+  {
+    "id": "waec-facc-basic-concepts-4",
+    "subject": "Financial Accounting",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Basic Accounting Concepts",
+    "difficulty": "medium",
+    "prompt": "The document that records the day-to-day cash transactions of a business, showing receipts and payments, is called the",
+    "options": [
+      {
+        "key": "A",
+        "text": "cash book"
+      },
+      {
+        "key": "B",
+        "text": "trial balance"
+      },
+      {
+        "key": "C",
+        "text": "ledger"
+      },
+      {
+        "key": "D",
+        "text": "journal proper"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "The cash book records all cash and bank receipts and payments chronologically."
+  },
+  {
+    "id": "waec-facc-basic-concepts-5",
+    "subject": "Financial Accounting",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Basic Accounting Concepts",
+    "difficulty": "easy",
+    "prompt": "The person who owns and invests capital into a business is generally referred to, in accounting, as the",
+    "options": [
+      {
+        "key": "A",
+        "text": "auditor"
+      },
+      {
+        "key": "B",
+        "text": "proprietor"
+      },
+      {
+        "key": "C",
+        "text": "debtor"
+      },
+      {
+        "key": "D",
+        "text": "creditor"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "The proprietor is the owner who contributes capital to the business."
+  },
+  {
+    "id": "waec-facc-ledger-double-entry-1",
+    "subject": "Financial Accounting",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Ledger & Double Entry",
+    "difficulty": "easy",
+    "prompt": "In the double-entry system, every transaction affects at least",
+    "options": [
+      {
+        "key": "A",
+        "text": "no accounts"
+      },
+      {
+        "key": "B",
+        "text": "three accounts always"
+      },
+      {
+        "key": "C",
+        "text": "two accounts"
+      },
+      {
+        "key": "D",
+        "text": "one account only"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Double-entry bookkeeping requires every transaction to be recorded in at least two accounts."
+  },
+  {
+    "id": "waec-facc-ledger-double-entry-2",
+    "subject": "Financial Accounting",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Ledger & Double Entry",
+    "difficulty": "medium",
+    "prompt": "An increase in an asset account is recorded on the",
+    "options": [
+      {
+        "key": "A",
+        "text": "credit side"
+      },
+      {
+        "key": "B",
+        "text": "debit side"
+      },
+      {
+        "key": "C",
+        "text": "both sides equally"
+      },
+      {
+        "key": "D",
+        "text": "neither side"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Assets increase with debit entries under the double-entry system."
+  },
+  {
+    "id": "waec-facc-ledger-double-entry-3",
+    "subject": "Financial Accounting",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Ledger & Double Entry",
+    "difficulty": "hard",
+    "prompt": "When a business receives cash from a debtor, the correct double entry is to",
+    "options": [
+      {
+        "key": "A",
+        "text": "debit Cash account and credit the Debtor's account"
+      },
+      {
+        "key": "B",
+        "text": "debit Sales account and credit Cash account"
+      },
+      {
+        "key": "C",
+        "text": "debit Cash account and credit Sales account"
+      },
+      {
+        "key": "D",
+        "text": "debit the Debtor's account and credit Cash account"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Cash (an asset) increases, so it is debited; the debtor's balance decreases, so it is credited."
+  },
+  {
+    "id": "waec-facc-ledger-double-entry-4",
+    "subject": "Financial Accounting",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Ledger & Double Entry",
+    "difficulty": "medium",
+    "prompt": "An increase in a liability account is recorded on the",
+    "options": [
+      {
+        "key": "A",
+        "text": "credit side"
+      },
+      {
+        "key": "B",
+        "text": "debit side"
+      },
+      {
+        "key": "C",
+        "text": "both sides equally"
+      },
+      {
+        "key": "D",
+        "text": "neither side"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Liabilities increase with credit entries under the double-entry system."
+  },
+  {
+    "id": "waec-facc-ledger-double-entry-5",
+    "subject": "Financial Accounting",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Ledger & Double Entry",
+    "difficulty": "easy",
+    "prompt": "The book in which all the individual accounts (assets, liabilities, capital, income, expenses) of a business are kept is called the",
+    "options": [
+      {
+        "key": "A",
+        "text": "ledger"
+      },
+      {
+        "key": "B",
+        "text": "trial balance"
+      },
+      {
+        "key": "C",
+        "text": "journal"
+      },
+      {
+        "key": "D",
+        "text": "cash book"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "The ledger contains all the individual accounts of a business."
+  },
+  {
+    "id": "waec-facc-trial-balance-1",
+    "subject": "Financial Accounting",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Trial Balance",
+    "difficulty": "easy",
+    "prompt": "A trial balance is prepared mainly to",
+    "options": [
+      {
+        "key": "A",
+        "text": "check the arithmetical accuracy of the ledger accounts"
+      },
+      {
+        "key": "B",
+        "text": "show the financial position of a business"
+      },
+      {
+        "key": "C",
+        "text": "record daily cash transactions"
+      },
+      {
+        "key": "D",
+        "text": "show the profit or loss of a business"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "A trial balance verifies that total debits equal total credits in the ledger."
+  },
+  {
+    "id": "waec-facc-trial-balance-2",
+    "subject": "Financial Accounting",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Trial Balance",
+    "difficulty": "medium",
+    "prompt": "If a trial balance fails to balance, this most likely indicates",
+    "options": [
+      {
+        "key": "A",
+        "text": "the business has excess cash"
+      },
+      {
+        "key": "B",
+        "text": "an error has been made in recording one or more transactions"
+      },
+      {
+        "key": "C",
+        "text": "there is no error at all"
+      },
+      {
+        "key": "D",
+        "text": "the business has made a loss"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "An imbalance in the trial balance typically points to a recording or posting error."
+  },
+  {
+    "id": "waec-facc-trial-balance-3",
+    "subject": "Financial Accounting",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Trial Balance",
+    "difficulty": "hard",
+    "prompt": "An error in which a transaction is completely omitted from the books, so that neither the debit nor the credit entry is made, is called an error of",
+    "options": [
+      {
+        "key": "A",
+        "text": "original entry"
+      },
+      {
+        "key": "B",
+        "text": "principle"
+      },
+      {
+        "key": "C",
+        "text": "omission"
+      },
+      {
+        "key": "D",
+        "text": "commission"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "An error of omission occurs when a transaction is left out of the books entirely."
+  },
+  {
+    "id": "waec-facc-trial-balance-4",
+    "subject": "Financial Accounting",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Trial Balance",
+    "difficulty": "medium",
+    "prompt": "On a trial balance, balances such as sundry debtors and cash in hand are normally listed on the",
+    "options": [
+      {
+        "key": "A",
+        "text": "neither column"
+      },
+      {
+        "key": "B",
+        "text": "debit column"
+      },
+      {
+        "key": "C",
+        "text": "credit column"
+      },
+      {
+        "key": "D",
+        "text": "both columns"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Debtors and cash are assets, which carry debit balances."
+  },
+  {
+    "id": "waec-facc-trial-balance-5",
+    "subject": "Financial Accounting",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Trial Balance",
+    "difficulty": "easy",
+    "prompt": "On a trial balance, balances such as sundry creditors and capital are normally listed on the",
+    "options": [
+      {
+        "key": "A",
+        "text": "neither column"
+      },
+      {
+        "key": "B",
+        "text": "debit column"
+      },
+      {
+        "key": "C",
+        "text": "credit column"
+      },
+      {
+        "key": "D",
+        "text": "both columns"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Creditors and capital are liabilities/equity, which carry credit balances."
+  },
+  {
+    "id": "waec-facc-final-accounts-1",
+    "subject": "Financial Accounting",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Final Accounts",
+    "difficulty": "easy",
+    "prompt": "The account prepared to determine the gross profit or gross loss of a business is called the",
+    "options": [
+      {
+        "key": "A",
+        "text": "cash book"
+      },
+      {
+        "key": "B",
+        "text": "balance sheet"
+      },
+      {
+        "key": "C",
+        "text": "profit and loss account"
+      },
+      {
+        "key": "D",
+        "text": "trading account"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "The trading account calculates gross profit by comparing sales with cost of goods sold."
+  },
+  {
+    "id": "waec-facc-final-accounts-2",
+    "subject": "Financial Accounting",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Final Accounts",
+    "difficulty": "medium",
+    "prompt": "Gross profit is calculated as",
+    "options": [
+      {
+        "key": "A",
+        "text": "net sales plus cost of goods sold"
+      },
+      {
+        "key": "B",
+        "text": "net sales minus total expenses"
+      },
+      {
+        "key": "C",
+        "text": "net sales minus cost of goods sold"
+      },
+      {
+        "key": "D",
+        "text": "total expenses minus net sales"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Gross profit equals net sales revenue minus the cost of goods sold."
+  },
+  {
+    "id": "waec-facc-final-accounts-3",
+    "subject": "Financial Accounting",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Final Accounts",
+    "difficulty": "hard",
+    "prompt": "In the trading account, carriage inwards (on purchases) is treated by",
+    "options": [
+      {
+        "key": "A",
+        "text": "adding it to sales"
+      },
+      {
+        "key": "B",
+        "text": "ignoring it completely"
+      },
+      {
+        "key": "C",
+        "text": "deducting it from sales"
+      },
+      {
+        "key": "D",
+        "text": "adding it to the cost of purchases"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Carriage inwards is a cost of bringing goods to the business, so it is added to purchases."
+  },
+  {
+    "id": "waec-facc-final-accounts-4",
+    "subject": "Financial Accounting",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Final Accounts",
+    "difficulty": "medium",
+    "prompt": "The account prepared after the trading account to determine the net profit or net loss of a business is the",
+    "options": [
+      {
+        "key": "A",
+        "text": "ledger"
+      },
+      {
+        "key": "B",
+        "text": "trading account"
+      },
+      {
+        "key": "C",
+        "text": "profit and loss account"
+      },
+      {
+        "key": "D",
+        "text": "balance sheet"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "The profit and loss account deducts operating expenses from gross profit to find net profit."
+  },
+  {
+    "id": "waec-facc-final-accounts-5",
+    "subject": "Financial Accounting",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Final Accounts",
+    "difficulty": "easy",
+    "prompt": "Net profit is calculated by deducting",
+    "options": [
+      {
+        "key": "A",
+        "text": "cost of goods sold from net sales"
+      },
+      {
+        "key": "B",
+        "text": "total operating expenses from gross profit"
+      },
+      {
+        "key": "C",
+        "text": "capital from total assets"
+      },
+      {
+        "key": "D",
+        "text": "liabilities from assets"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Net profit is gross profit minus all other operating expenses."
+  },
+  {
+    "id": "waec-facc-depreciation-1",
+    "subject": "Financial Accounting",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Depreciation",
+    "difficulty": "easy",
+    "prompt": "Depreciation refers to",
+    "options": [
+      {
+        "key": "A",
+        "text": "an increase in the value of a fixed asset"
+      },
+      {
+        "key": "B",
+        "text": "the reduction in the value of a fixed asset over time due to wear and tear or obsolescence"
+      },
+      {
+        "key": "C",
+        "text": "the cash received from selling an asset"
+      },
+      {
+        "key": "D",
+        "text": "the total cost of purchasing an asset"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Depreciation is the systematic allocation of an asset's cost as it loses value over its useful life."
+  },
+  {
+    "id": "waec-facc-depreciation-2",
+    "subject": "Financial Accounting",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Depreciation",
+    "difficulty": "medium",
+    "prompt": "Under the straight-line method, a machine costing ₦50,000 with a useful life of 5 years and no residual value has an annual depreciation charge of",
+    "options": [
+      {
+        "key": "A",
+        "text": "₦5,000"
+      },
+      {
+        "key": "B",
+        "text": "₦25,000"
+      },
+      {
+        "key": "C",
+        "text": "₦10,000"
+      },
+      {
+        "key": "D",
+        "text": "₦50,000"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Annual depreciation = cost/useful life = 50,000/5 = ₦10,000."
+  },
+  {
+    "id": "waec-facc-depreciation-3",
+    "subject": "Financial Accounting",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Depreciation",
+    "difficulty": "hard",
+    "prompt": "Under the reducing balance (diminishing balance) method of depreciation, the depreciation charge each year is calculated on the",
+    "options": [
+      {
+        "key": "A",
+        "text": "residual value only"
+      },
+      {
+        "key": "B",
+        "text": "a fixed amount every year regardless of value"
+      },
+      {
+        "key": "C",
+        "text": "original cost of the asset every year"
+      },
+      {
+        "key": "D",
+        "text": "net book value at the start of that year"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "The reducing balance method applies a fixed percentage to the asset's remaining net book value each year."
+  },
+  {
+    "id": "waec-facc-depreciation-4",
+    "subject": "Financial Accounting",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Depreciation",
+    "difficulty": "medium",
+    "prompt": "The accumulated depreciation of a fixed asset is shown in the balance sheet as a",
+    "options": [
+      {
+        "key": "A",
+        "text": "a current liability"
+      },
+      {
+        "key": "B",
+        "text": "deduction from the cost of the asset"
+      },
+      {
+        "key": "C",
+        "text": "an addition to the cost of the asset"
+      },
+      {
+        "key": "D",
+        "text": "a current asset"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Accumulated depreciation is subtracted from the asset's cost to show its net book value."
+  },
+  {
+    "id": "waec-facc-depreciation-5",
+    "subject": "Financial Accounting",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Depreciation",
+    "difficulty": "easy",
+    "prompt": "The main reason businesses charge depreciation on fixed assets is to",
+    "options": [
+      {
+        "key": "A",
+        "text": "increase the reported profit each year"
+      },
+      {
+        "key": "B",
+        "text": "avoid paying for the asset"
+      },
+      {
+        "key": "C",
+        "text": "spread the cost of the asset over its useful life"
+      },
+      {
+        "key": "D",
+        "text": "show an increase in asset value"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Depreciation matches an asset's cost against the revenue it helps generate over its useful life."
+  },
+  {
+    "id": "waec-comm-trade-classification-1",
+    "subject": "Commerce",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Trade & Its Classification",
+    "difficulty": "easy",
+    "prompt": "The buying and selling of goods and services is generally referred to as",
+    "options": [
+      {
+        "key": "A",
+        "text": "distribution"
+      },
+      {
+        "key": "B",
+        "text": "consumption"
+      },
+      {
+        "key": "C",
+        "text": "trade"
+      },
+      {
+        "key": "D",
+        "text": "production"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Trade is the exchange of goods and services between buyers and sellers."
+  },
+  {
+    "id": "waec-comm-trade-classification-2",
+    "subject": "Commerce",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Trade & Its Classification",
+    "difficulty": "medium",
+    "prompt": "Trade carried out between buyers and sellers within the same country is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "foreign trade"
+      },
+      {
+        "key": "B",
+        "text": "bilateral trade"
+      },
+      {
+        "key": "C",
+        "text": "entrepot trade"
+      },
+      {
+        "key": "D",
+        "text": "home (domestic) trade"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Home trade takes place entirely within a country's borders."
+  },
+  {
+    "id": "waec-comm-trade-classification-3",
+    "subject": "Commerce",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Trade & Its Classification",
+    "difficulty": "hard",
+    "prompt": "Trade that involves importing goods into a country mainly for the purpose of re-exporting them to another country is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "entrepot trade"
+      },
+      {
+        "key": "B",
+        "text": "retail trade"
+      },
+      {
+        "key": "C",
+        "text": "home trade"
+      },
+      {
+        "key": "D",
+        "text": "wholesale trade"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Entrepot trade involves importing goods for subsequent re-export, often after minor processing."
+  },
+  {
+    "id": "waec-comm-trade-classification-4",
+    "subject": "Commerce",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Trade & Its Classification",
+    "difficulty": "medium",
+    "prompt": "A trader who buys goods in large quantities from producers and sells in smaller quantities to retailers is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "manufacturer"
+      },
+      {
+        "key": "B",
+        "text": "retailer"
+      },
+      {
+        "key": "C",
+        "text": "consumer"
+      },
+      {
+        "key": "D",
+        "text": "wholesaler"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Wholesalers bridge producers and retailers by buying in bulk and selling in smaller lots."
+  },
+  {
+    "id": "waec-comm-trade-classification-5",
+    "subject": "Commerce",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Trade & Its Classification",
+    "difficulty": "easy",
+    "prompt": "A trader who sells goods in small quantities directly to final consumers is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "retailer"
+      },
+      {
+        "key": "B",
+        "text": "importer"
+      },
+      {
+        "key": "C",
+        "text": "wholesaler"
+      },
+      {
+        "key": "D",
+        "text": "exporter"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Retailers sell directly to the final consumer, usually in small quantities."
+  },
+  {
+    "id": "waec-comm-aids-to-trade-1",
+    "subject": "Commerce",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Aids to Trade",
+    "difficulty": "easy",
+    "prompt": "Services that support and facilitate the smooth conduct of trade, such as banking, insurance and transport, are collectively called",
+    "options": [
+      {
+        "key": "A",
+        "text": "import duties"
+      },
+      {
+        "key": "B",
+        "text": "trade barriers"
+      },
+      {
+        "key": "C",
+        "text": "aids to trade"
+      },
+      {
+        "key": "D",
+        "text": "trade restrictions"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Aids to trade are the supporting services that make trade possible and efficient."
+  },
+  {
+    "id": "waec-comm-aids-to-trade-2",
+    "subject": "Commerce",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Aids to Trade",
+    "difficulty": "medium",
+    "prompt": "The aid to trade concerned with the safe storage of goods before they are needed for sale is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "warehousing"
+      },
+      {
+        "key": "B",
+        "text": "advertising"
+      },
+      {
+        "key": "C",
+        "text": "insurance"
+      },
+      {
+        "key": "D",
+        "text": "banking"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Warehousing provides storage facilities for goods awaiting sale or distribution."
+  },
+  {
+    "id": "waec-comm-aids-to-trade-3",
+    "subject": "Commerce",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Aids to Trade",
+    "difficulty": "hard",
+    "prompt": "The aid to trade that provides financial protection against loss or damage to goods in transit is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "transport"
+      },
+      {
+        "key": "B",
+        "text": "communication"
+      },
+      {
+        "key": "C",
+        "text": "insurance"
+      },
+      {
+        "key": "D",
+        "text": "warehousing"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Insurance compensates for financial losses arising from risks such as damage in transit."
+  },
+  {
+    "id": "waec-comm-aids-to-trade-4",
+    "subject": "Commerce",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Aids to Trade",
+    "difficulty": "medium",
+    "prompt": "The aid to trade primarily responsible for moving goods from the place of production to the place of consumption is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "insurance"
+      },
+      {
+        "key": "B",
+        "text": "advertising"
+      },
+      {
+        "key": "C",
+        "text": "transport"
+      },
+      {
+        "key": "D",
+        "text": "warehousing"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Transport physically moves goods from producers to consumers."
+  },
+  {
+    "id": "waec-comm-aids-to-trade-5",
+    "subject": "Commerce",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Aids to Trade",
+    "difficulty": "easy",
+    "prompt": "Informing and persuading potential customers about a product in order to boost sales is the role of",
+    "options": [
+      {
+        "key": "A",
+        "text": "warehousing"
+      },
+      {
+        "key": "B",
+        "text": "insurance"
+      },
+      {
+        "key": "C",
+        "text": "banking"
+      },
+      {
+        "key": "D",
+        "text": "advertising"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Advertising promotes products to inform and persuade potential customers."
+  },
+  {
+    "id": "waec-comm-business-organisation-1",
+    "subject": "Commerce",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Business Organisation",
+    "difficulty": "easy",
+    "prompt": "A business owned and controlled by one person, who bears all the risks and enjoys all the profits, is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "partnership"
+      },
+      {
+        "key": "B",
+        "text": "private limited company"
+      },
+      {
+        "key": "C",
+        "text": "cooperative society"
+      },
+      {
+        "key": "D",
+        "text": "sole proprietorship"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "A sole proprietorship is owned and run by a single individual who bears full risk and reward."
+  },
+  {
+    "id": "waec-comm-business-organisation-2",
+    "subject": "Commerce",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Business Organisation",
+    "difficulty": "medium",
+    "prompt": "A business formed by two or more people who agree to share profits and manage a business together is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "partnership"
+      },
+      {
+        "key": "B",
+        "text": "statutory corporation"
+      },
+      {
+        "key": "C",
+        "text": "public limited company"
+      },
+      {
+        "key": "D",
+        "text": "sole proprietorship"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "A partnership involves two or more people jointly owning and running a business."
+  },
+  {
+    "id": "waec-comm-business-organisation-3",
+    "subject": "Commerce",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Business Organisation",
+    "difficulty": "hard",
+    "prompt": "A key advantage of a limited liability company over a sole proprietorship is that",
+    "options": [
+      {
+        "key": "A",
+        "text": "shareholders' liability is limited to the amount they invested"
+      },
+      {
+        "key": "B",
+        "text": "it cannot raise capital from the public"
+      },
+      {
+        "key": "C",
+        "text": "it requires no legal registration"
+      },
+      {
+        "key": "D",
+        "text": "it has unlimited liability, protecting creditors more"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Limited liability protects shareholders from losing more than their invested capital."
+  },
+  {
+    "id": "waec-comm-business-organisation-4",
+    "subject": "Commerce",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Business Organisation",
+    "difficulty": "medium",
+    "prompt": "A business organisation owned by its members, who pool resources to meet common economic needs and share benefits, is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "sole proprietorship"
+      },
+      {
+        "key": "B",
+        "text": "cooperative society"
+      },
+      {
+        "key": "C",
+        "text": "public corporation"
+      },
+      {
+        "key": "D",
+        "text": "multinational corporation"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Cooperative societies are member-owned organisations formed to serve common economic interests."
+  },
+  {
+    "id": "waec-comm-business-organisation-5",
+    "subject": "Commerce",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Business Organisation",
+    "difficulty": "easy",
+    "prompt": "A business organisation owned and controlled by the government to provide essential public services is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "sole proprietorship"
+      },
+      {
+        "key": "B",
+        "text": "public corporation (state enterprise)"
+      },
+      {
+        "key": "C",
+        "text": "cooperative society"
+      },
+      {
+        "key": "D",
+        "text": "partnership"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Public corporations are government-owned enterprises set up to provide essential services."
+  },
+  {
+    "id": "waec-comm-money-banking-1",
+    "subject": "Commerce",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Money & Banking",
+    "difficulty": "easy",
+    "prompt": "Anything generally accepted as a medium of exchange for goods and services is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "collateral"
+      },
+      {
+        "key": "B",
+        "text": "capital"
+      },
+      {
+        "key": "C",
+        "text": "money"
+      },
+      {
+        "key": "D",
+        "text": "credit"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Money is anything widely accepted in exchange for goods, services or debt settlement."
+  },
+  {
+    "id": "waec-comm-money-banking-2",
+    "subject": "Commerce",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Money & Banking",
+    "difficulty": "medium",
+    "prompt": "A bank account that allows frequent withdrawals and deposits, typically by cheque, but usually earns little or no interest, is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "fixed deposit account"
+      },
+      {
+        "key": "B",
+        "text": "domiciliary account"
+      },
+      {
+        "key": "C",
+        "text": "savings account"
+      },
+      {
+        "key": "D",
+        "text": "current account"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Current accounts allow frequent transactions but typically pay little or no interest."
+  },
+  {
+    "id": "waec-comm-money-banking-3",
+    "subject": "Commerce",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Money & Banking",
+    "difficulty": "hard",
+    "prompt": "The main function of a central bank in an economy includes",
+    "options": [
+      {
+        "key": "A",
+        "text": "setting the prices of all goods in the economy"
+      },
+      {
+        "key": "B",
+        "text": "directly selling goods to consumers"
+      },
+      {
+        "key": "C",
+        "text": "regulating the money supply and supervising commercial banks"
+      },
+      {
+        "key": "D",
+        "text": "manufacturing consumer products"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Central banks regulate money supply, interest rates and oversee commercial banking activities."
+  },
+  {
+    "id": "waec-comm-money-banking-4",
+    "subject": "Commerce",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Money & Banking",
+    "difficulty": "medium",
+    "prompt": "A bank account that encourages saving and generally pays interest, but with some restriction on withdrawals, is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "chequing account"
+      },
+      {
+        "key": "B",
+        "text": "overdraft account"
+      },
+      {
+        "key": "C",
+        "text": "current account"
+      },
+      {
+        "key": "D",
+        "text": "savings account"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Savings accounts pay interest and typically limit the frequency of withdrawals."
+  },
+  {
+    "id": "waec-comm-money-banking-5",
+    "subject": "Commerce",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Money & Banking",
+    "difficulty": "easy",
+    "prompt": "The document issued by a bank instructing it to pay a stated sum of money to a named person is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "cheque"
+      },
+      {
+        "key": "B",
+        "text": "receipt"
+      },
+      {
+        "key": "C",
+        "text": "waybill"
+      },
+      {
+        "key": "D",
+        "text": "invoice"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "A cheque is a written order instructing a bank to pay a specified amount to a named payee."
+  },
+  {
+    "id": "waec-comm-insurance-1",
+    "subject": "Commerce",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Insurance",
+    "difficulty": "easy",
+    "prompt": "A contract in which one party agrees to compensate another against a specified loss, in exchange for a premium, is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "insurance"
+      },
+      {
+        "key": "B",
+        "text": "warehousing"
+      },
+      {
+        "key": "C",
+        "text": "advertising"
+      },
+      {
+        "key": "D",
+        "text": "banking"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Insurance is a contractual arrangement providing compensation against specified risks, for a premium."
+  },
+  {
+    "id": "waec-comm-insurance-2",
+    "subject": "Commerce",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Insurance",
+    "difficulty": "medium",
+    "prompt": "The regular payment made by a person or business to an insurance company to keep an insurance policy active is called the",
+    "options": [
+      {
+        "key": "A",
+        "text": "commission"
+      },
+      {
+        "key": "B",
+        "text": "indemnity"
+      },
+      {
+        "key": "C",
+        "text": "dividend"
+      },
+      {
+        "key": "D",
+        "text": "premium"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "The premium is the periodic payment made to maintain an insurance policy."
+  },
+  {
+    "id": "waec-comm-insurance-3",
+    "subject": "Commerce",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Insurance",
+    "difficulty": "hard",
+    "prompt": "The principle of insurance which states that the insured should not profit from a claim, only be restored to the financial position before the loss, is called the principle of",
+    "options": [
+      {
+        "key": "A",
+        "text": "subrogation"
+      },
+      {
+        "key": "B",
+        "text": "indemnity"
+      },
+      {
+        "key": "C",
+        "text": "utmost good faith"
+      },
+      {
+        "key": "D",
+        "text": "insurable interest"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Indemnity ensures the insured is compensated for their actual loss, without making a profit."
+  },
+  {
+    "id": "waec-comm-insurance-4",
+    "subject": "Commerce",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Insurance",
+    "difficulty": "medium",
+    "prompt": "The insurance principle requiring the insured to disclose all material facts truthfully when applying for a policy is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "utmost good faith"
+      },
+      {
+        "key": "B",
+        "text": "subrogation"
+      },
+      {
+        "key": "C",
+        "text": "contribution"
+      },
+      {
+        "key": "D",
+        "text": "indemnity"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Utmost good faith obliges both parties to disclose all relevant facts honestly."
+  },
+  {
+    "id": "waec-comm-insurance-5",
+    "subject": "Commerce",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Insurance",
+    "difficulty": "easy",
+    "prompt": "Insurance that covers loss or damage to goods being transported by sea is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "fire insurance"
+      },
+      {
+        "key": "B",
+        "text": "fidelity insurance"
+      },
+      {
+        "key": "C",
+        "text": "life insurance"
+      },
+      {
+        "key": "D",
+        "text": "marine insurance"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Marine insurance specifically covers risks to goods and vessels transported by sea."
+  },
+  {
+    "id": "waec-office-organisation-1",
+    "subject": "Office Practice",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Office Organisation",
+    "difficulty": "easy",
+    "prompt": "The section of a business responsible for planning, coordinating and controlling administrative activities is called the",
+    "options": [
+      {
+        "key": "A",
+        "text": "warehouse"
+      },
+      {
+        "key": "B",
+        "text": "showroom"
+      },
+      {
+        "key": "C",
+        "text": "office"
+      },
+      {
+        "key": "D",
+        "text": "factory"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "The office handles the administrative coordination of a business's activities."
+  },
+  {
+    "id": "waec-office-organisation-2",
+    "subject": "Office Practice",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Office Organisation",
+    "difficulty": "medium",
+    "prompt": "An office layout in which many workers share one large room without partitions is called a/an",
+    "options": [
+      {
+        "key": "A",
+        "text": "conference room"
+      },
+      {
+        "key": "B",
+        "text": "open-plan office"
+      },
+      {
+        "key": "C",
+        "text": "private/cellular office"
+      },
+      {
+        "key": "D",
+        "text": "landscaped garden"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "An open-plan office houses many staff in one large, undivided space."
+  },
+  {
+    "id": "waec-office-organisation-3",
+    "subject": "Office Practice",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Office Organisation",
+    "difficulty": "hard",
+    "prompt": "One major advantage of an open-plan office over a private (cellular) office layout is that it",
+    "options": [
+      {
+        "key": "A",
+        "text": "eliminates all noise distractions"
+      },
+      {
+        "key": "B",
+        "text": "guarantees complete privacy for every worker"
+      },
+      {
+        "key": "C",
+        "text": "requires no furniture"
+      },
+      {
+        "key": "D",
+        "text": "makes supervision and communication among staff easier"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Open-plan layouts allow supervisors to easily observe staff and facilitate quick communication."
+  },
+  {
+    "id": "waec-office-organisation-4",
+    "subject": "Office Practice",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Office Organisation",
+    "difficulty": "medium",
+    "prompt": "The office arranged so that each department or individual has a separate, enclosed room is called a/an",
+    "options": [
+      {
+        "key": "A",
+        "text": "open-plan office"
+      },
+      {
+        "key": "B",
+        "text": "mobile office"
+      },
+      {
+        "key": "C",
+        "text": "private/cellular office"
+      },
+      {
+        "key": "D",
+        "text": "landscaped office"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "A private (cellular) office layout gives each department or person an enclosed room."
+  },
+  {
+    "id": "waec-office-organisation-5",
+    "subject": "Office Practice",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Office Organisation",
+    "difficulty": "easy",
+    "prompt": "One key function of an office in a business organisation is to",
+    "options": [
+      {
+        "key": "A",
+        "text": "manufacture the company's products"
+      },
+      {
+        "key": "B",
+        "text": "transport goods to customers"
+      },
+      {
+        "key": "C",
+        "text": "sell goods directly to the public"
+      },
+      {
+        "key": "D",
+        "text": "receive, process and distribute information"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "The office's core role is handling information: receiving, processing and distributing it."
+  },
+  {
+    "id": "waec-office-equipment-1",
+    "subject": "Office Practice",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Office Equipment & Machines",
+    "difficulty": "easy",
+    "prompt": "The machine commonly used in offices to make photocopies of documents is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "shredder"
+      },
+      {
+        "key": "B",
+        "text": "calculator"
+      },
+      {
+        "key": "C",
+        "text": "photocopier"
+      },
+      {
+        "key": "D",
+        "text": "typewriter"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "A photocopier reproduces copies of documents."
+  },
+  {
+    "id": "waec-office-equipment-2",
+    "subject": "Office Practice",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Office Equipment & Machines",
+    "difficulty": "medium",
+    "prompt": "A machine used to cut paper documents into small pieces to destroy confidential information is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "stapler"
+      },
+      {
+        "key": "B",
+        "text": "shredder"
+      },
+      {
+        "key": "C",
+        "text": "guillotine"
+      },
+      {
+        "key": "D",
+        "text": "photocopier"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "A shredder cuts paper into fine strips to securely destroy sensitive documents."
+  },
+  {
+    "id": "waec-office-equipment-3",
+    "subject": "Office Practice",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Office Equipment & Machines",
+    "difficulty": "hard",
+    "prompt": "A key advantage of using a computer over a manual typewriter for preparing office documents is that a computer allows",
+    "options": [
+      {
+        "key": "A",
+        "text": "documents to be produced without electricity"
+      },
+      {
+        "key": "B",
+        "text": "easy editing, storage and retrieval of documents"
+      },
+      {
+        "key": "C",
+        "text": "faster typing without any training"
+      },
+      {
+        "key": "D",
+        "text": "automatic delivery of mail"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Computers make it easy to edit, save and retrieve documents, unlike manual typewriters."
+  },
+  {
+    "id": "waec-office-equipment-4",
+    "subject": "Office Practice",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Office Equipment & Machines",
+    "difficulty": "medium",
+    "prompt": "The office equipment used to fasten several sheets of paper together with a metal pin is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "guillotine"
+      },
+      {
+        "key": "B",
+        "text": "shredder"
+      },
+      {
+        "key": "C",
+        "text": "stapler"
+      },
+      {
+        "key": "D",
+        "text": "punch"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "A stapler binds sheets of paper together using metal staples."
+  },
+  {
+    "id": "waec-office-equipment-5",
+    "subject": "Office Practice",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Office Equipment & Machines",
+    "difficulty": "easy",
+    "prompt": "The equipment used to make holes in paper so that documents can be filed in a ring binder is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "photocopier"
+      },
+      {
+        "key": "B",
+        "text": "shredder"
+      },
+      {
+        "key": "C",
+        "text": "stapler"
+      },
+      {
+        "key": "D",
+        "text": "punch"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "A punch creates holes in paper for ring-binder filing."
+  },
+  {
+    "id": "waec-office-filing-1",
+    "subject": "Office Practice",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Filing & Records Management",
+    "difficulty": "easy",
+    "prompt": "The systematic arrangement and storage of documents so they can be easily found when needed is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "auditing"
+      },
+      {
+        "key": "B",
+        "text": "budgeting"
+      },
+      {
+        "key": "C",
+        "text": "filing"
+      },
+      {
+        "key": "D",
+        "text": "advertising"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Filing is the organized storage of documents for easy retrieval."
+  },
+  {
+    "id": "waec-office-filing-2",
+    "subject": "Office Practice",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Filing & Records Management",
+    "difficulty": "medium",
+    "prompt": "A filing system in which documents are arranged strictly according to the letters of the alphabet is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "numerical filing"
+      },
+      {
+        "key": "B",
+        "text": "alphabetical filing"
+      },
+      {
+        "key": "C",
+        "text": "chronological filing"
+      },
+      {
+        "key": "D",
+        "text": "geographical filing"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Alphabetical filing organizes documents by names or subjects in alphabetical order."
+  },
+  {
+    "id": "waec-office-filing-3",
+    "subject": "Office Practice",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Filing & Records Management",
+    "difficulty": "hard",
+    "prompt": "A filing system in which documents are arranged according to the location or region to which they relate is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "subject filing"
+      },
+      {
+        "key": "B",
+        "text": "geographical filing"
+      },
+      {
+        "key": "C",
+        "text": "numerical filing"
+      },
+      {
+        "key": "D",
+        "text": "alphabetical filing"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Geographical filing groups documents based on the location they relate to."
+  },
+  {
+    "id": "waec-office-filing-4",
+    "subject": "Office Practice",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Filing & Records Management",
+    "difficulty": "medium",
+    "prompt": "A filing system in which documents are arranged according to the dates on which they were created or received is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "numerical filing"
+      },
+      {
+        "key": "B",
+        "text": "alphabetical filing"
+      },
+      {
+        "key": "C",
+        "text": "chronological filing"
+      },
+      {
+        "key": "D",
+        "text": "geographical filing"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Chronological filing organizes documents in the order of their dates."
+  },
+  {
+    "id": "waec-office-filing-5",
+    "subject": "Office Practice",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Filing & Records Management",
+    "difficulty": "easy",
+    "prompt": "One major reason for keeping accurate office records is to",
+    "options": [
+      {
+        "key": "A",
+        "text": "provide reliable information for future reference and decision-making"
+      },
+      {
+        "key": "B",
+        "text": "eliminate the need for staff"
+      },
+      {
+        "key": "C",
+        "text": "increase the physical size of the office"
+      },
+      {
+        "key": "D",
+        "text": "reduce the need for communication"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Accurate records support informed decision-making and provide a reliable historical reference."
+  },
+  {
+    "id": "waec-office-mail-1",
+    "subject": "Office Practice",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Mail Handling & Correspondence",
+    "difficulty": "easy",
+    "prompt": "Letters and documents received by an organisation from outside are referred to as",
+    "options": [
+      {
+        "key": "A",
+        "text": "outgoing mail"
+      },
+      {
+        "key": "B",
+        "text": "incoming mail"
+      },
+      {
+        "key": "C",
+        "text": "internal memos"
+      },
+      {
+        "key": "D",
+        "text": "circulars"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Incoming mail refers to correspondence received from external senders."
+  },
+  {
+    "id": "waec-office-mail-2",
+    "subject": "Office Practice",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Mail Handling & Correspondence",
+    "difficulty": "medium",
+    "prompt": "Letters and documents sent out by an organisation to external parties are referred to as",
+    "options": [
+      {
+        "key": "A",
+        "text": "internal memos"
+      },
+      {
+        "key": "B",
+        "text": "minutes"
+      },
+      {
+        "key": "C",
+        "text": "outgoing mail"
+      },
+      {
+        "key": "D",
+        "text": "incoming mail"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Outgoing mail refers to correspondence dispatched to parties outside the organisation."
+  },
+  {
+    "id": "waec-office-mail-3",
+    "subject": "Office Practice",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Mail Handling & Correspondence",
+    "difficulty": "hard",
+    "prompt": "The process of opening, sorting, recording and distributing letters received by an office to the appropriate departments is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "incoming mail handling"
+      },
+      {
+        "key": "B",
+        "text": "outgoing mail handling"
+      },
+      {
+        "key": "C",
+        "text": "auditing"
+      },
+      {
+        "key": "D",
+        "text": "filing"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Incoming mail handling covers the receipt, sorting and distribution of received correspondence."
+  },
+  {
+    "id": "waec-office-mail-4",
+    "subject": "Office Practice",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Mail Handling & Correspondence",
+    "difficulty": "medium",
+    "prompt": "A short, informal written message circulated within an organisation, rather than sent to outside parties, is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "cheque"
+      },
+      {
+        "key": "B",
+        "text": "invoice"
+      },
+      {
+        "key": "C",
+        "text": "business letter"
+      },
+      {
+        "key": "D",
+        "text": "memorandum (memo)"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "A memo is an internal communication used within an organisation."
+  },
+  {
+    "id": "waec-office-mail-5",
+    "subject": "Office Practice",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Mail Handling & Correspondence",
+    "difficulty": "easy",
+    "prompt": "Before an outgoing letter is dispatched, it is usually checked, signed and",
+    "options": [
+      {
+        "key": "A",
+        "text": "destroyed immediately"
+      },
+      {
+        "key": "B",
+        "text": "ignored"
+      },
+      {
+        "key": "C",
+        "text": "recorded in the outgoing mail register"
+      },
+      {
+        "key": "D",
+        "text": "filed as incoming mail"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Outgoing letters are logged in a register before dispatch, for record-keeping purposes."
+  },
+  {
+    "id": "waec-office-personnel-1",
+    "subject": "Office Practice",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Duties of Office Personnel",
+    "difficulty": "easy",
+    "prompt": "The office worker primarily responsible for taking dictation, typing letters and managing an executive's schedule is the",
+    "options": [
+      {
+        "key": "A",
+        "text": "receptionist"
+      },
+      {
+        "key": "B",
+        "text": "messenger"
+      },
+      {
+        "key": "C",
+        "text": "secretary"
+      },
+      {
+        "key": "D",
+        "text": "accountant"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "A secretary handles correspondence, dictation and scheduling for an executive."
+  },
+  {
+    "id": "waec-office-personnel-2",
+    "subject": "Office Practice",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Duties of Office Personnel",
+    "difficulty": "medium",
+    "prompt": "The office worker whose main duty is to welcome visitors and direct them appropriately within an organisation is the",
+    "options": [
+      {
+        "key": "A",
+        "text": "secretary"
+      },
+      {
+        "key": "B",
+        "text": "cashier"
+      },
+      {
+        "key": "C",
+        "text": "receptionist"
+      },
+      {
+        "key": "D",
+        "text": "filing clerk"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "A receptionist greets and directs visitors at the front of an organisation."
+  },
+  {
+    "id": "waec-office-personnel-3",
+    "subject": "Office Practice",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Duties of Office Personnel",
+    "difficulty": "hard",
+    "prompt": "A key quality expected of a good secretary, beyond typing and shorthand skills, is",
+    "options": [
+      {
+        "key": "A",
+        "text": "confidentiality in handling sensitive information"
+      },
+      {
+        "key": "B",
+        "text": "frequent absenteeism"
+      },
+      {
+        "key": "C",
+        "text": "disregard for deadlines"
+      },
+      {
+        "key": "D",
+        "text": "public disclosure of company matters"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Secretaries handle sensitive information and are expected to maintain strict confidentiality."
+  },
+  {
+    "id": "waec-office-personnel-4",
+    "subject": "Office Practice",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Duties of Office Personnel",
+    "difficulty": "medium",
+    "prompt": "The office worker responsible for receiving and recording cash payments in a business is the",
+    "options": [
+      {
+        "key": "A",
+        "text": "filing clerk"
+      },
+      {
+        "key": "B",
+        "text": "messenger"
+      },
+      {
+        "key": "C",
+        "text": "receptionist"
+      },
+      {
+        "key": "D",
+        "text": "cashier"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "A cashier handles the receipt and recording of cash transactions."
+  },
+  {
+    "id": "waec-office-personnel-5",
+    "subject": "Office Practice",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Duties of Office Personnel",
+    "difficulty": "easy",
+    "prompt": "The office worker responsible for delivering letters and documents between departments or to external offices is the",
+    "options": [
+      {
+        "key": "A",
+        "text": "messenger (office assistant)"
+      },
+      {
+        "key": "B",
+        "text": "secretary"
+      },
+      {
+        "key": "C",
+        "text": "accountant"
+      },
+      {
+        "key": "D",
+        "text": "auditor"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "A messenger physically delivers correspondence and documents as needed."
+  }
+]

@@ -1,0 +1,6527 @@
+[
+  {
+    "id": "neco-govt-basic-concepts-1",
+    "subject": "Government",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Basic Concepts",
+    "difficulty": "easy",
+    "prompt": "The permanent population, defined territory, government and sovereignty together make up the essential elements of a",
+    "options": [
+      {
+        "key": "A",
+        "text": "nation only"
+      },
+      {
+        "key": "B",
+        "text": "state"
+      },
+      {
+        "key": "C",
+        "text": "tribe"
+      },
+      {
+        "key": "D",
+        "text": "community"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "A state is defined by population, territory, government and sovereignty."
+  },
+  {
+    "id": "neco-govt-basic-concepts-2",
+    "subject": "Government",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Basic Concepts",
+    "difficulty": "medium",
+    "prompt": "A country that is not under the control of any other country and can independently conduct its own affairs is said to be",
+    "options": [
+      {
+        "key": "A",
+        "text": "confederal"
+      },
+      {
+        "key": "B",
+        "text": "colonial"
+      },
+      {
+        "key": "C",
+        "text": "sovereign"
+      },
+      {
+        "key": "D",
+        "text": "federal"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Sovereignty means independent authority free from external control."
+  },
+  {
+    "id": "neco-govt-basic-concepts-3",
+    "subject": "Government",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Basic Concepts",
+    "difficulty": "hard",
+    "prompt": "Which of the following best describes 'nationality'?",
+    "options": [
+      {
+        "key": "A",
+        "text": "The physical location of a country"
+      },
+      {
+        "key": "B",
+        "text": "The type of government a country practises"
+      },
+      {
+        "key": "C",
+        "text": "The legal status of belonging to a particular nation or state"
+      },
+      {
+        "key": "D",
+        "text": "The population size of a country"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Nationality is the legal bond between an individual and a state."
+  },
+  {
+    "id": "neco-govt-basic-concepts-4",
+    "subject": "Government",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Basic Concepts",
+    "difficulty": "medium",
+    "prompt": "A foreigner who resides in a country but does not hold citizenship of that country is called a/an",
+    "options": [
+      {
+        "key": "A",
+        "text": "diplomat"
+      },
+      {
+        "key": "B",
+        "text": "ambassador"
+      },
+      {
+        "key": "C",
+        "text": "alien"
+      },
+      {
+        "key": "D",
+        "text": "citizen"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "An alien is a non-citizen resident of a country."
+  },
+  {
+    "id": "neco-govt-basic-concepts-5",
+    "subject": "Government",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Basic Concepts",
+    "difficulty": "easy",
+    "prompt": "The study of government, political institutions and political behaviour is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "Sociology"
+      },
+      {
+        "key": "B",
+        "text": "Political Science"
+      },
+      {
+        "key": "C",
+        "text": "Economics"
+      },
+      {
+        "key": "D",
+        "text": "History"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Political Science is the academic discipline studying government and politics."
+  },
+  {
+    "id": "neco-govt-arms-1",
+    "subject": "Government",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Arms of Government",
+    "difficulty": "easy",
+    "prompt": "In most democracies, laws passed by the legislature are enforced by the",
+    "options": [
+      {
+        "key": "A",
+        "text": "civil service alone"
+      },
+      {
+        "key": "B",
+        "text": "executive"
+      },
+      {
+        "key": "C",
+        "text": "judiciary"
+      },
+      {
+        "key": "D",
+        "text": "electorate"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "The executive is responsible for implementing and enforcing laws."
+  },
+  {
+    "id": "neco-govt-arms-2",
+    "subject": "Government",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Arms of Government",
+    "difficulty": "medium",
+    "prompt": "The National Assembly in Nigeria, made up of the Senate and House of Representatives, represents the",
+    "options": [
+      {
+        "key": "A",
+        "text": "executive arm of government"
+      },
+      {
+        "key": "B",
+        "text": "local government arm"
+      },
+      {
+        "key": "C",
+        "text": "legislative arm of government"
+      },
+      {
+        "key": "D",
+        "text": "judicial arm of government"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "The National Assembly is Nigeria's federal legislature."
+  },
+  {
+    "id": "neco-govt-arms-3",
+    "subject": "Government",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Arms of Government",
+    "difficulty": "hard",
+    "prompt": "A situation where the executive arm dominates and controls the other arms of government, with no effective checks, is a departure from the principle of",
+    "options": [
+      {
+        "key": "A",
+        "text": "rule of law"
+      },
+      {
+        "key": "B",
+        "text": "separation of powers"
+      },
+      {
+        "key": "C",
+        "text": "federalism"
+      },
+      {
+        "key": "D",
+        "text": "fundamental rights"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Separation of powers is undermined when one arm dominates the others unchecked."
+  },
+  {
+    "id": "neco-govt-arms-4",
+    "subject": "Government",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Arms of Government",
+    "difficulty": "medium",
+    "prompt": "The highest court in Nigeria's judicial hierarchy is the",
+    "options": [
+      {
+        "key": "A",
+        "text": "Federal High Court"
+      },
+      {
+        "key": "B",
+        "text": "Magistrate Court"
+      },
+      {
+        "key": "C",
+        "text": "Supreme Court"
+      },
+      {
+        "key": "D",
+        "text": "Court of Appeal"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "The Supreme Court is the final appellate court in Nigeria."
+  },
+  {
+    "id": "neco-govt-arms-5",
+    "subject": "Government",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Arms of Government",
+    "difficulty": "easy",
+    "prompt": "The arm of government that includes the President/Governor and their cabinet is the",
+    "options": [
+      {
+        "key": "A",
+        "text": "judiciary"
+      },
+      {
+        "key": "B",
+        "text": "civil service"
+      },
+      {
+        "key": "C",
+        "text": "executive"
+      },
+      {
+        "key": "D",
+        "text": "legislature"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "The executive comprises the head of government and appointed ministers/commissioners."
+  },
+  {
+    "id": "neco-govt-systems-1",
+    "subject": "Government",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Systems of Government",
+    "difficulty": "easy",
+    "prompt": "A government headed by a king or queen whose powers are limited by a constitution is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "constitutional monarchy"
+      },
+      {
+        "key": "B",
+        "text": "theocracy"
+      },
+      {
+        "key": "C",
+        "text": "absolute monarchy"
+      },
+      {
+        "key": "D",
+        "text": "republic"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "In a constitutional monarchy, the monarch's powers are limited by a constitution."
+  },
+  {
+    "id": "neco-govt-systems-2",
+    "subject": "Government",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Systems of Government",
+    "difficulty": "medium",
+    "prompt": "Under a confederal system of government, member states retain",
+    "options": [
+      {
+        "key": "A",
+        "text": "total control by the central government"
+      },
+      {
+        "key": "B",
+        "text": "no constitution"
+      },
+      {
+        "key": "C",
+        "text": "no independence at all"
+      },
+      {
+        "key": "D",
+        "text": "considerable independence, with a weak central authority"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Confederations grant member states significant autonomy over a weak central body."
+  },
+  {
+    "id": "neco-govt-systems-3",
+    "subject": "Government",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Systems of Government",
+    "difficulty": "hard",
+    "prompt": "One key difference between a presidential and a parliamentary system of government is that in a presidential system",
+    "options": [
+      {
+        "key": "A",
+        "text": "the president is elected separately from the legislature and is not a member of it"
+      },
+      {
+        "key": "B",
+        "text": "the head of government must be a member of parliament"
+      },
+      {
+        "key": "C",
+        "text": "the head of state is always a monarch"
+      },
+      {
+        "key": "D",
+        "text": "there is no separation of powers"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Presidential systems separately elect the executive head, unlike parliamentary systems."
+  },
+  {
+    "id": "neco-govt-systems-4",
+    "subject": "Government",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Systems of Government",
+    "difficulty": "medium",
+    "prompt": "A government in which supreme power is vested in the people and their elected representatives is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "autocracy"
+      },
+      {
+        "key": "B",
+        "text": "oligarchy"
+      },
+      {
+        "key": "C",
+        "text": "theocracy"
+      },
+      {
+        "key": "D",
+        "text": "democracy"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Democracy places ultimate political authority in the hands of the people."
+  },
+  {
+    "id": "neco-govt-systems-5",
+    "subject": "Government",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Systems of Government",
+    "difficulty": "easy",
+    "prompt": "A government in which political power is inherited within a single family, generation after generation, is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "republic"
+      },
+      {
+        "key": "B",
+        "text": "federation"
+      },
+      {
+        "key": "C",
+        "text": "democracy"
+      },
+      {
+        "key": "D",
+        "text": "monarchy"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Monarchies typically pass rule down hereditary lines."
+  },
+  {
+    "id": "neco-govt-constitution-1",
+    "subject": "Government",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "The Constitution",
+    "difficulty": "easy",
+    "prompt": "A constitution that is not contained in a single written document, but based on customs, conventions and scattered statutes, is called a/an",
+    "options": [
+      {
+        "key": "A",
+        "text": "federal constitution"
+      },
+      {
+        "key": "B",
+        "text": "written constitution"
+      },
+      {
+        "key": "C",
+        "text": "rigid constitution"
+      },
+      {
+        "key": "D",
+        "text": "unwritten constitution"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "An unwritten constitution, like the UK's, derives from custom and convention rather than one document."
+  },
+  {
+    "id": "neco-govt-constitution-2",
+    "subject": "Government",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "The Constitution",
+    "difficulty": "medium",
+    "prompt": "The 1999 Constitution of the Federal Republic of Nigeria, as amended, is the country's",
+    "options": [
+      {
+        "key": "A",
+        "text": "a regional law only"
+      },
+      {
+        "key": "B",
+        "text": "a temporary decree"
+      },
+      {
+        "key": "C",
+        "text": "first constitution ever"
+      },
+      {
+        "key": "D",
+        "text": "current supreme law"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Nigeria's 1999 Constitution is currently the supreme law of the land."
+  },
+  {
+    "id": "neco-govt-constitution-3",
+    "subject": "Government",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "The Constitution",
+    "difficulty": "hard",
+    "prompt": "A constitution that can be amended through the ordinary law-making process, without any special procedure, is described as",
+    "options": [
+      {
+        "key": "A",
+        "text": "federal"
+      },
+      {
+        "key": "B",
+        "text": "written"
+      },
+      {
+        "key": "C",
+        "text": "rigid"
+      },
+      {
+        "key": "D",
+        "text": "flexible"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "A flexible constitution can be changed like ordinary legislation."
+  },
+  {
+    "id": "neco-govt-constitution-4",
+    "subject": "Government",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "The Constitution",
+    "difficulty": "medium",
+    "prompt": "One major function of a constitution is to",
+    "options": [
+      {
+        "key": "A",
+        "text": "fix the prices of goods in the economy"
+      },
+      {
+        "key": "B",
+        "text": "determine the national currency's exchange rate"
+      },
+      {
+        "key": "C",
+        "text": "select the winners of elections directly"
+      },
+      {
+        "key": "D",
+        "text": "define the powers and limits of the different organs of government"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Constitutions establish and limit governmental powers and structures."
+  },
+  {
+    "id": "neco-govt-constitution-5",
+    "subject": "Government",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "The Constitution",
+    "difficulty": "easy",
+    "prompt": "The formal document that establishes the framework and fundamental principles of a state's government is called its",
+    "options": [
+      {
+        "key": "A",
+        "text": "communique"
+      },
+      {
+        "key": "B",
+        "text": "manifesto"
+      },
+      {
+        "key": "C",
+        "text": "gazette"
+      },
+      {
+        "key": "D",
+        "text": "constitution"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "The constitution is the foundational legal document of a state."
+  },
+  {
+    "id": "neco-govt-international-orgs-1",
+    "subject": "Government",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "International Organisations",
+    "difficulty": "easy",
+    "prompt": "The Commonwealth of Nations is mainly made up of countries that were formerly",
+    "options": [
+      {
+        "key": "A",
+        "text": "Portuguese colonies"
+      },
+      {
+        "key": "B",
+        "text": "British colonies or territories"
+      },
+      {
+        "key": "C",
+        "text": "French colonies"
+      },
+      {
+        "key": "D",
+        "text": "never colonized"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "The Commonwealth largely consists of former territories of the British Empire."
+  },
+  {
+    "id": "neco-govt-international-orgs-2",
+    "subject": "Government",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "International Organisations",
+    "difficulty": "medium",
+    "prompt": "OPEC, an international organisation Nigeria belongs to, mainly coordinates policy among",
+    "options": [
+      {
+        "key": "A",
+        "text": "landlocked countries"
+      },
+      {
+        "key": "B",
+        "text": "agricultural exporting countries"
+      },
+      {
+        "key": "C",
+        "text": "non-aligned nations"
+      },
+      {
+        "key": "D",
+        "text": "petroleum-exporting countries"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "OPEC coordinates oil production and pricing policy among member petroleum exporters."
+  },
+  {
+    "id": "neco-govt-international-orgs-3",
+    "subject": "Government",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "International Organisations",
+    "difficulty": "hard",
+    "prompt": "One key objective of ECOWAS is to promote",
+    "options": [
+      {
+        "key": "A",
+        "text": "colonization of member states"
+      },
+      {
+        "key": "B",
+        "text": "a single global currency"
+      },
+      {
+        "key": "C",
+        "text": "economic integration and free movement of goods and people among West African states"
+      },
+      {
+        "key": "D",
+        "text": "military conquest among member states"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "ECOWAS aims at regional economic integration in West Africa."
+  },
+  {
+    "id": "neco-govt-international-orgs-4",
+    "subject": "Government",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "International Organisations",
+    "difficulty": "medium",
+    "prompt": "The African Union headquarters is located in",
+    "options": [
+      {
+        "key": "A",
+        "text": "Nairobi, Kenya"
+      },
+      {
+        "key": "B",
+        "text": "Lagos, Nigeria"
+      },
+      {
+        "key": "C",
+        "text": "Addis Ababa, Ethiopia"
+      },
+      {
+        "key": "D",
+        "text": "Cairo, Egypt"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "The AU is headquartered in Addis Ababa, Ethiopia."
+  },
+  {
+    "id": "neco-govt-international-orgs-5",
+    "subject": "Government",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "International Organisations",
+    "difficulty": "easy",
+    "prompt": "The United Nations agency primarily concerned with global health issues is the",
+    "options": [
+      {
+        "key": "A",
+        "text": "IMF"
+      },
+      {
+        "key": "B",
+        "text": "World Health Organization (WHO)"
+      },
+      {
+        "key": "C",
+        "text": "UNICEF"
+      },
+      {
+        "key": "D",
+        "text": "UNESCO"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "WHO is the UN's specialized agency for international public health."
+  },
+  {
+    "id": "neco-lit-appreciation-1",
+    "subject": "Literature-in-English",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Literary Appreciation & Terms",
+    "difficulty": "easy",
+    "prompt": "A figure of speech in which human qualities are given to non-human things or ideas is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "onomatopoeia"
+      },
+      {
+        "key": "B",
+        "text": "personification"
+      },
+      {
+        "key": "C",
+        "text": "simile"
+      },
+      {
+        "key": "D",
+        "text": "metaphor"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Personification attributes human characteristics to non-human entities."
+  },
+  {
+    "id": "neco-lit-appreciation-2",
+    "subject": "Literature-in-English",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Literary Appreciation & Terms",
+    "difficulty": "medium",
+    "prompt": "A statement that seems contradictory but may reveal an underlying truth is called a/an",
+    "options": [
+      {
+        "key": "A",
+        "text": "pun"
+      },
+      {
+        "key": "B",
+        "text": "cliché"
+      },
+      {
+        "key": "C",
+        "text": "paradox"
+      },
+      {
+        "key": "D",
+        "text": "euphemism"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "A paradox appears self-contradictory yet expresses a deeper truth."
+  },
+  {
+    "id": "neco-lit-appreciation-3",
+    "subject": "Literature-in-English",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Literary Appreciation & Terms",
+    "difficulty": "hard",
+    "prompt": "The use of a part of something to represent the whole (e.g. 'all hands on deck' meaning all workers) is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "onomatopoeia"
+      },
+      {
+        "key": "B",
+        "text": "alliteration"
+      },
+      {
+        "key": "C",
+        "text": "synecdoche"
+      },
+      {
+        "key": "D",
+        "text": "assonance"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Synecdoche uses a part to stand for the whole, or vice versa."
+  },
+  {
+    "id": "neco-lit-appreciation-4",
+    "subject": "Literature-in-English",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Literary Appreciation & Terms",
+    "difficulty": "medium",
+    "prompt": "A play on words that exploits multiple meanings of a term for a humorous or rhetorical effect is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "elegy"
+      },
+      {
+        "key": "B",
+        "text": "simile"
+      },
+      {
+        "key": "C",
+        "text": "pun"
+      },
+      {
+        "key": "D",
+        "text": "ballad"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "A pun exploits the multiple meanings or sounds of words for effect."
+  },
+  {
+    "id": "neco-lit-appreciation-5",
+    "subject": "Literature-in-English",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Literary Appreciation & Terms",
+    "difficulty": "easy",
+    "prompt": "An exaggerated statement not meant to be taken literally, used for emphasis, is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "irony"
+      },
+      {
+        "key": "B",
+        "text": "understatement"
+      },
+      {
+        "key": "C",
+        "text": "hyperbole"
+      },
+      {
+        "key": "D",
+        "text": "litotes"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Hyperbole is deliberate exaggeration for emphasis or effect."
+  },
+  {
+    "id": "neco-lit-poetry-1",
+    "subject": "Literature-in-English",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Poetry",
+    "difficulty": "easy",
+    "prompt": "A short poem expressing personal thoughts and feelings, often about love or nature, is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "epic"
+      },
+      {
+        "key": "B",
+        "text": "elegy"
+      },
+      {
+        "key": "C",
+        "text": "lyric"
+      },
+      {
+        "key": "D",
+        "text": "sonnet"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "A lyric poem expresses the personal emotions of the speaker."
+  },
+  {
+    "id": "neco-lit-poetry-2",
+    "subject": "Literature-in-English",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Poetry",
+    "difficulty": "medium",
+    "prompt": "A simple narrative poem, often set to music, that tells a story in short stanzas is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "epic"
+      },
+      {
+        "key": "B",
+        "text": "sonnet"
+      },
+      {
+        "key": "C",
+        "text": "haiku"
+      },
+      {
+        "key": "D",
+        "text": "ballad"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "A ballad is a narrative poem, often musical, told in simple stanzas."
+  },
+  {
+    "id": "neco-lit-poetry-3",
+    "subject": "Literature-in-English",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Poetry",
+    "difficulty": "hard",
+    "prompt": "A traditional Japanese poem consisting of three lines with a 5-7-5 syllable pattern is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "ode"
+      },
+      {
+        "key": "B",
+        "text": "sonnet"
+      },
+      {
+        "key": "C",
+        "text": "haiku"
+      },
+      {
+        "key": "D",
+        "text": "ballad"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "A haiku is a three-line Japanese poem with a 5-7-5 syllable structure."
+  },
+  {
+    "id": "neco-lit-poetry-4",
+    "subject": "Literature-in-English",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Poetry",
+    "difficulty": "medium",
+    "prompt": "A poem written in praise of a person, thing, or event, often with an elevated and formal tone, is called a/an",
+    "options": [
+      {
+        "key": "A",
+        "text": "elegy"
+      },
+      {
+        "key": "B",
+        "text": "haiku"
+      },
+      {
+        "key": "C",
+        "text": "ode"
+      },
+      {
+        "key": "D",
+        "text": "limerick"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "An ode is a formal poem of praise or celebration."
+  },
+  {
+    "id": "neco-lit-poetry-5",
+    "subject": "Literature-in-English",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Poetry",
+    "difficulty": "easy",
+    "prompt": "The division of a poem into groups of lines, similar to paragraphs in prose, is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "metre"
+      },
+      {
+        "key": "B",
+        "text": "stanza"
+      },
+      {
+        "key": "C",
+        "text": "refrain"
+      },
+      {
+        "key": "D",
+        "text": "rhyme scheme"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "A stanza is a grouped set of lines forming a unit within a poem."
+  },
+  {
+    "id": "neco-lit-drama-1",
+    "subject": "Literature-in-English",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Drama",
+    "difficulty": "easy",
+    "prompt": "The final part of a play, in which the various plot strands are resolved, is called the",
+    "options": [
+      {
+        "key": "A",
+        "text": "climax"
+      },
+      {
+        "key": "B",
+        "text": "rising action"
+      },
+      {
+        "key": "C",
+        "text": "denouement (resolution)"
+      },
+      {
+        "key": "D",
+        "text": "exposition"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "The denouement resolves the plot's conflicts near the play's end."
+  },
+  {
+    "id": "neco-lit-drama-2",
+    "subject": "Literature-in-English",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Drama",
+    "difficulty": "medium",
+    "prompt": "Instructions written by a playwright, usually in italics, indicating how actors should move or how the stage should be set, are called",
+    "options": [
+      {
+        "key": "A",
+        "text": "prologue"
+      },
+      {
+        "key": "B",
+        "text": "soliloquy"
+      },
+      {
+        "key": "C",
+        "text": "dialogue"
+      },
+      {
+        "key": "D",
+        "text": "stage directions"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Stage directions guide staging, movement and delivery for performers."
+  },
+  {
+    "id": "neco-lit-drama-3",
+    "subject": "Literature-in-English",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Drama",
+    "difficulty": "hard",
+    "prompt": "A play that combines elements of both comedy and tragedy, often with a serious plot but a happy ending, is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "farce"
+      },
+      {
+        "key": "B",
+        "text": "satire"
+      },
+      {
+        "key": "C",
+        "text": "melodrama"
+      },
+      {
+        "key": "D",
+        "text": "tragicomedy"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "A tragicomedy blends serious and comic elements, typically ending happily."
+  },
+  {
+    "id": "neco-lit-drama-4",
+    "subject": "Literature-in-English",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Drama",
+    "difficulty": "medium",
+    "prompt": "The conversation or spoken exchange between two or more characters in a play is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "soliloquy"
+      },
+      {
+        "key": "B",
+        "text": "monologue"
+      },
+      {
+        "key": "C",
+        "text": "dialogue"
+      },
+      {
+        "key": "D",
+        "text": "aside"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Dialogue is the spoken exchange between characters."
+  },
+  {
+    "id": "neco-lit-drama-5",
+    "subject": "Literature-in-English",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Drama",
+    "difficulty": "easy",
+    "prompt": "A brief comic play, often relying on exaggerated and improbable situations for humour, is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "elegy"
+      },
+      {
+        "key": "B",
+        "text": "sonnet"
+      },
+      {
+        "key": "C",
+        "text": "farce"
+      },
+      {
+        "key": "D",
+        "text": "epic"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "A farce uses exaggerated, improbable situations purely for comic effect."
+  },
+  {
+    "id": "neco-lit-prose-1",
+    "subject": "Literature-in-English",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Prose Fiction",
+    "difficulty": "easy",
+    "prompt": "A very short work of prose fiction, usually focused on a single incident or character, is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "novel"
+      },
+      {
+        "key": "B",
+        "text": "play"
+      },
+      {
+        "key": "C",
+        "text": "epic"
+      },
+      {
+        "key": "D",
+        "text": "short story"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "A short story is a brief prose narrative, typically centred on one incident."
+  },
+  {
+    "id": "neco-lit-prose-2",
+    "subject": "Literature-in-English",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Prose Fiction",
+    "difficulty": "medium",
+    "prompt": "A long work of prose fiction with a fully developed plot and multiple characters is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "ballad"
+      },
+      {
+        "key": "B",
+        "text": "sonnet"
+      },
+      {
+        "key": "C",
+        "text": "novel"
+      },
+      {
+        "key": "D",
+        "text": "short story"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "A novel is an extended prose narrative with a complex plot and characters."
+  },
+  {
+    "id": "neco-lit-prose-3",
+    "subject": "Literature-in-English",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Prose Fiction",
+    "difficulty": "hard",
+    "prompt": "A narrative technique in which the story interrupts its chronological sequence to present an earlier event is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "climax"
+      },
+      {
+        "key": "B",
+        "text": "suspense"
+      },
+      {
+        "key": "C",
+        "text": "foreshadowing"
+      },
+      {
+        "key": "D",
+        "text": "flashback"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "A flashback shifts the narrative to an earlier point in time."
+  },
+  {
+    "id": "neco-lit-prose-4",
+    "subject": "Literature-in-English",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Prose Fiction",
+    "difficulty": "medium",
+    "prompt": "A less important character who, by contrast, highlights the traits of the main character, is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "antagonist"
+      },
+      {
+        "key": "B",
+        "text": "narrator"
+      },
+      {
+        "key": "C",
+        "text": "protagonist"
+      },
+      {
+        "key": "D",
+        "text": "foil"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "A foil contrasts with the protagonist to emphasize their traits."
+  },
+  {
+    "id": "neco-lit-prose-5",
+    "subject": "Literature-in-English",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Prose Fiction",
+    "difficulty": "easy",
+    "prompt": "The sequence of events that make up a story, including its conflict and resolution, is called the",
+    "options": [
+      {
+        "key": "A",
+        "text": "theme"
+      },
+      {
+        "key": "B",
+        "text": "setting"
+      },
+      {
+        "key": "C",
+        "text": "plot"
+      },
+      {
+        "key": "D",
+        "text": "point of view"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "The plot is the structured sequence of events in a narrative."
+  },
+  {
+    "id": "neco-lit-african-1",
+    "subject": "Literature-in-English",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "African Literature",
+    "difficulty": "easy",
+    "prompt": "Many pioneering African novelists wrote to correct the distorted portrayal of Africa found in",
+    "options": [
+      {
+        "key": "A",
+        "text": "colonial/European literature about Africa"
+      },
+      {
+        "key": "B",
+        "text": "African oral traditions"
+      },
+      {
+        "key": "C",
+        "text": "local newspapers"
+      },
+      {
+        "key": "D",
+        "text": "contemporary African cinema"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Early African novelists often responded to negative colonial-era depictions of Africa."
+  },
+  {
+    "id": "neco-lit-african-2",
+    "subject": "Literature-in-English",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "African Literature",
+    "difficulty": "medium",
+    "prompt": "The use of pidgin or local expressions within English-language African writing is often intended to",
+    "options": [
+      {
+        "key": "A",
+        "text": "avoid character development"
+      },
+      {
+        "key": "B",
+        "text": "confuse international readers deliberately"
+      },
+      {
+        "key": "C",
+        "text": "replace standard English entirely"
+      },
+      {
+        "key": "D",
+        "text": "reflect authentic local speech and culture"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Local expressions ground African fiction in authentic cultural speech."
+  },
+  {
+    "id": "neco-lit-african-3",
+    "subject": "Literature-in-English",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "African Literature",
+    "difficulty": "hard",
+    "prompt": "A common feature of post-colonial African literature is its exploration of",
+    "options": [
+      {
+        "key": "A",
+        "text": "space exploration"
+      },
+      {
+        "key": "B",
+        "text": "ancient Greek mythology"
+      },
+      {
+        "key": "C",
+        "text": "the impact of colonialism on African identity and society"
+      },
+      {
+        "key": "D",
+        "text": "medieval European history"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Post-colonial African literature frequently examines colonialism's lasting effects."
+  },
+  {
+    "id": "neco-lit-african-4",
+    "subject": "Literature-in-English",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "African Literature",
+    "difficulty": "medium",
+    "prompt": "In many African narratives, the griot or oral storyteller traditionally functions as",
+    "options": [
+      {
+        "key": "A",
+        "text": "a modern journalist only"
+      },
+      {
+        "key": "B",
+        "text": "a custodian and transmitter of history and culture through storytelling"
+      },
+      {
+        "key": "C",
+        "text": "a judge in traditional courts"
+      },
+      {
+        "key": "D",
+        "text": "a colonial administrator"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Griots preserve and transmit oral history and cultural memory through storytelling."
+  },
+  {
+    "id": "neco-lit-african-5",
+    "subject": "Literature-in-English",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "African Literature",
+    "difficulty": "easy",
+    "prompt": "A central concern of much African literature written around the time of independence was",
+    "options": [
+      {
+        "key": "A",
+        "text": "space travel"
+      },
+      {
+        "key": "B",
+        "text": "industrial machinery"
+      },
+      {
+        "key": "C",
+        "text": "the struggle for political freedom and cultural identity"
+      },
+      {
+        "key": "D",
+        "text": "Arctic exploration"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Independence-era African literature often centred on freedom and identity themes."
+  },
+  {
+    "id": "neco-hist-precolonial-1",
+    "subject": "History",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Pre-colonial Nigerian Societies",
+    "difficulty": "easy",
+    "prompt": "The historic Kanem-Borno Empire was located mainly in which part of present-day Nigeria?",
+    "options": [
+      {
+        "key": "A",
+        "text": "South-south"
+      },
+      {
+        "key": "B",
+        "text": "North-central"
+      },
+      {
+        "key": "C",
+        "text": "North-east"
+      },
+      {
+        "key": "D",
+        "text": "South-west"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Kanem-Borno was centred in what is now north-eastern Nigeria."
+  },
+  {
+    "id": "neco-hist-precolonial-2",
+    "subject": "History",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Pre-colonial Nigerian Societies",
+    "difficulty": "medium",
+    "prompt": "The Oyo Empire, one of the most powerful pre-colonial Yoruba states, was governed by a king known as the",
+    "options": [
+      {
+        "key": "A",
+        "text": "Emir"
+      },
+      {
+        "key": "B",
+        "text": "Sarkin"
+      },
+      {
+        "key": "C",
+        "text": "Eze"
+      },
+      {
+        "key": "D",
+        "text": "Alaafin"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "The ruler of the Oyo Empire held the title Alaafin."
+  },
+  {
+    "id": "neco-hist-precolonial-3",
+    "subject": "History",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Pre-colonial Nigerian Societies",
+    "difficulty": "hard",
+    "prompt": "The pre-colonial trans-Saharan trade linked Nigerian societies mainly with",
+    "options": [
+      {
+        "key": "A",
+        "text": "Western Europe directly"
+      },
+      {
+        "key": "B",
+        "text": "North Africa and the Mediterranean world"
+      },
+      {
+        "key": "C",
+        "text": "the Americas"
+      },
+      {
+        "key": "D",
+        "text": "East Asia"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Trans-Saharan trade routes connected West African societies to North Africa."
+  },
+  {
+    "id": "neco-hist-precolonial-4",
+    "subject": "History",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Pre-colonial Nigerian Societies",
+    "difficulty": "medium",
+    "prompt": "Kingship among the pre-colonial Igbo was generally",
+    "options": [
+      {
+        "key": "A",
+        "text": "controlled by a single Igbo emperor"
+      },
+      {
+        "key": "B",
+        "text": "hereditary and centralized like the Yoruba"
+      },
+      {
+        "key": "C",
+        "text": "modelled on the British monarchy"
+      },
+      {
+        "key": "D",
+        "text": "absent in most communities, which were instead governed by councils of elders and age-grades"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Most Igbo communities relied on decentralized governance rather than kingship."
+  },
+  {
+    "id": "neco-hist-precolonial-5",
+    "subject": "History",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Pre-colonial Nigerian Societies",
+    "difficulty": "easy",
+    "prompt": "The Benin Kingdom, known for its bronze works, was ruled by a king known as the",
+    "options": [
+      {
+        "key": "A",
+        "text": "Alaafin"
+      },
+      {
+        "key": "B",
+        "text": "Emir"
+      },
+      {
+        "key": "C",
+        "text": "Oba"
+      },
+      {
+        "key": "D",
+        "text": "Sarki"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "The ruler of the Benin Kingdom held the title Oba."
+  },
+  {
+    "id": "neco-hist-colonialism-1",
+    "subject": "History",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Colonialism in Nigeria",
+    "difficulty": "easy",
+    "prompt": "Direct Rule, in contrast to Indirect Rule, involved",
+    "options": [
+      {
+        "key": "A",
+        "text": "European officials administering territories directly, with less reliance on local chiefs"
+      },
+      {
+        "key": "B",
+        "text": "no colonial administration at all"
+      },
+      {
+        "key": "C",
+        "text": "only religious missionary control"
+      },
+      {
+        "key": "D",
+        "text": "full self-government for African territories"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Direct Rule relied on European administrators rather than local rulers."
+  },
+  {
+    "id": "neco-hist-colonialism-2",
+    "subject": "History",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Colonialism in Nigeria",
+    "difficulty": "medium",
+    "prompt": "One major economic aim of British colonial rule in Nigeria was to",
+    "options": [
+      {
+        "key": "A",
+        "text": "obtain raw materials for British industries and create markets for British goods"
+      },
+      {
+        "key": "B",
+        "text": "promote Nigerian industrialization above all"
+      },
+      {
+        "key": "C",
+        "text": "fund Nigerian universities"
+      },
+      {
+        "key": "D",
+        "text": "abolish all forms of taxation"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Colonial economies were structured to supply raw materials and markets for Britain."
+  },
+  {
+    "id": "neco-hist-colonialism-3",
+    "subject": "History",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Colonialism in Nigeria",
+    "difficulty": "hard",
+    "prompt": "The Aba Women's Riot of 1929 was a protest mainly against",
+    "options": [
+      {
+        "key": "A",
+        "text": "the Nigerian Civil War"
+      },
+      {
+        "key": "B",
+        "text": "colonial taxation policies imposed through warrant chiefs"
+      },
+      {
+        "key": "C",
+        "text": "World War I conscription"
+      },
+      {
+        "key": "D",
+        "text": "the 1914 amalgamation"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "The Aba Women's Riot protested colonial taxation and warrant chief abuses."
+  },
+  {
+    "id": "neco-hist-colonialism-4",
+    "subject": "History",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Colonialism in Nigeria",
+    "difficulty": "medium",
+    "prompt": "Christian missionaries in colonial Nigeria contributed significantly to the spread of",
+    "options": [
+      {
+        "key": "A",
+        "text": "Indirect Rule policy design"
+      },
+      {
+        "key": "B",
+        "text": "trans-Saharan trade"
+      },
+      {
+        "key": "C",
+        "text": "Western education"
+      },
+      {
+        "key": "D",
+        "text": "traditional religion"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Missionaries established many of Nigeria's earliest Western-style schools."
+  },
+  {
+    "id": "neco-hist-colonialism-5",
+    "subject": "History",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Colonialism in Nigeria",
+    "difficulty": "easy",
+    "prompt": "The colonial period in Nigeria is generally dated from the late 19th century to",
+    "options": [
+      {
+        "key": "A",
+        "text": "1967 (civil war)"
+      },
+      {
+        "key": "B",
+        "text": "1999 (Fourth Republic)"
+      },
+      {
+        "key": "C",
+        "text": "1960 (independence)"
+      },
+      {
+        "key": "D",
+        "text": "1914 (amalgamation)"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Colonial rule in Nigeria ended with independence in 1960."
+  },
+  {
+    "id": "neco-hist-nationalism-1",
+    "subject": "History",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Nationalism & Independence",
+    "difficulty": "easy",
+    "prompt": "Herbert Macaulay is widely regarded as a pioneer of",
+    "options": [
+      {
+        "key": "A",
+        "text": "the Berlin Conference"
+      },
+      {
+        "key": "B",
+        "text": "Nigerian nationalism"
+      },
+      {
+        "key": "C",
+        "text": "colonial administration"
+      },
+      {
+        "key": "D",
+        "text": "the Nigerian Civil War"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Macaulay is often called the father of Nigerian nationalism."
+  },
+  {
+    "id": "neco-hist-nationalism-2",
+    "subject": "History",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Nationalism & Independence",
+    "difficulty": "medium",
+    "prompt": "The Richards Constitution of 1946 was significant mainly because it",
+    "options": [
+      {
+        "key": "A",
+        "text": "granted Nigeria full independence"
+      },
+      {
+        "key": "B",
+        "text": "abolished the House of Assembly"
+      },
+      {
+        "key": "C",
+        "text": "ended British colonial rule immediately"
+      },
+      {
+        "key": "D",
+        "text": "introduced regionalism into Nigeria's constitutional structure"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "The Richards Constitution divided Nigeria into three regions for administration."
+  },
+  {
+    "id": "neco-hist-nationalism-3",
+    "subject": "History",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Nationalism & Independence",
+    "difficulty": "hard",
+    "prompt": "A key demand of Nigerian nationalist leaders in the years leading up to independence was",
+    "options": [
+      {
+        "key": "A",
+        "text": "re-partition of Africa"
+      },
+      {
+        "key": "B",
+        "text": "alliance with other colonial powers against Britain"
+      },
+      {
+        "key": "C",
+        "text": "continued indefinite colonial rule"
+      },
+      {
+        "key": "D",
+        "text": "self-government and greater political representation for Nigerians"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Nationalists pushed for self-rule and increased Nigerian political representation."
+  },
+  {
+    "id": "neco-hist-nationalism-4",
+    "subject": "History",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Nationalism & Independence",
+    "difficulty": "medium",
+    "prompt": "Nigeria's independence constitution of 1960 established Nigeria as a",
+    "options": [
+      {
+        "key": "A",
+        "text": "absolute monarchy"
+      },
+      {
+        "key": "B",
+        "text": "federation with a parliamentary system of government"
+      },
+      {
+        "key": "C",
+        "text": "one-party state"
+      },
+      {
+        "key": "D",
+        "text": "unitary state with an executive presidency"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "The 1960 constitution set up a federal, parliamentary system of government."
+  },
+  {
+    "id": "neco-hist-nationalism-5",
+    "subject": "History",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Nationalism & Independence",
+    "difficulty": "easy",
+    "prompt": "Nnamdi Azikiwe served as Nigeria's first",
+    "options": [
+      {
+        "key": "A",
+        "text": "Prime Minister"
+      },
+      {
+        "key": "B",
+        "text": "President (ceremonial, under the 1963 republican constitution)"
+      },
+      {
+        "key": "C",
+        "text": "Military Head of State"
+      },
+      {
+        "key": "D",
+        "text": "colonial Governor-General"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Azikiwe became Nigeria's first President in 1963, a ceremonial head-of-state role."
+  },
+  {
+    "id": "neco-hist-scramble-1",
+    "subject": "History",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "The Scramble for Africa",
+    "difficulty": "easy",
+    "prompt": "Prior to European colonization, most African societies had their own systems of",
+    "options": [
+      {
+        "key": "A",
+        "text": "written constitutions identical to Europe's"
+      },
+      {
+        "key": "B",
+        "text": "a single unified African government"
+      },
+      {
+        "key": "C",
+        "text": "government, trade and social organisation"
+      },
+      {
+        "key": "D",
+        "text": "no form of organized society"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "African societies had established political, economic and social systems before colonization."
+  },
+  {
+    "id": "neco-hist-scramble-2",
+    "subject": "History",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "The Scramble for Africa",
+    "difficulty": "medium",
+    "prompt": "Resistance to European colonization in Africa was led in various regions by",
+    "options": [
+      {
+        "key": "A",
+        "text": "colonial governors"
+      },
+      {
+        "key": "B",
+        "text": "European missionaries"
+      },
+      {
+        "key": "C",
+        "text": "local African rulers and warriors defending their territories"
+      },
+      {
+        "key": "D",
+        "text": "the League of Nations"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "African rulers and communities resisted colonial conquest across the continent."
+  },
+  {
+    "id": "neco-hist-scramble-3",
+    "subject": "History",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "The Scramble for Africa",
+    "difficulty": "hard",
+    "prompt": "One consequence of the arbitrary boundaries drawn during the Scramble for Africa was that they",
+    "options": [
+      {
+        "key": "A",
+        "text": "perfectly matched existing African political boundaries"
+      },
+      {
+        "key": "B",
+        "text": "often split ethnic groups across different colonial territories"
+      },
+      {
+        "key": "C",
+        "text": "were drawn entirely by African leaders"
+      },
+      {
+        "key": "D",
+        "text": "eliminated all future conflict"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Colonial boundaries ignored ethnic and cultural divisions, splitting many groups."
+  },
+  {
+    "id": "neco-hist-scramble-4",
+    "subject": "History",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "The Scramble for Africa",
+    "difficulty": "medium",
+    "prompt": "Along with Britain and France, other European powers involved in the Scramble for Africa included",
+    "options": [
+      {
+        "key": "A",
+        "text": "Germany, Belgium and Portugal, among others"
+      },
+      {
+        "key": "B",
+        "text": "Brazil and Argentina"
+      },
+      {
+        "key": "C",
+        "text": "the United States only"
+      },
+      {
+        "key": "D",
+        "text": "Japan and China"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Several European powers, including Germany, Belgium and Portugal, colonized African territory."
+  },
+  {
+    "id": "neco-hist-scramble-5",
+    "subject": "History",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "The Scramble for Africa",
+    "difficulty": "easy",
+    "prompt": "The Scramble for Africa was largely completed by the",
+    "options": [
+      {
+        "key": "A",
+        "text": "mid-19th century"
+      },
+      {
+        "key": "B",
+        "text": "early 20th century"
+      },
+      {
+        "key": "C",
+        "text": "late 20th century"
+      },
+      {
+        "key": "D",
+        "text": "18th century"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "By the early 1900s, nearly all of Africa had been partitioned among European powers."
+  },
+  {
+    "id": "neco-hist-world-wars-1",
+    "subject": "History",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "World Wars (General World History)",
+    "difficulty": "easy",
+    "prompt": "World War I was triggered by the assassination of",
+    "options": [
+      {
+        "key": "A",
+        "text": "Adolf Hitler"
+      },
+      {
+        "key": "B",
+        "text": "Archduke Franz Ferdinand of Austria-Hungary"
+      },
+      {
+        "key": "C",
+        "text": "Kaiser Wilhelm II"
+      },
+      {
+        "key": "D",
+        "text": "Queen Victoria"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "The assassination of Archduke Franz Ferdinand in 1914 triggered WWI."
+  },
+  {
+    "id": "neco-hist-world-wars-2",
+    "subject": "History",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "World Wars (General World History)",
+    "difficulty": "medium",
+    "prompt": "World War II began in 1939 following Germany's invasion of",
+    "options": [
+      {
+        "key": "A",
+        "text": "the Soviet Union first"
+      },
+      {
+        "key": "B",
+        "text": "France"
+      },
+      {
+        "key": "C",
+        "text": "Britain"
+      },
+      {
+        "key": "D",
+        "text": "Poland"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Germany's invasion of Poland in September 1939 started World War II in Europe."
+  },
+  {
+    "id": "neco-hist-world-wars-3",
+    "subject": "History",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "World Wars (General World History)",
+    "difficulty": "hard",
+    "prompt": "The Nigerian economy during World War II was significantly affected because",
+    "options": [
+      {
+        "key": "A",
+        "text": "the colonial government redirected resources and labour to support the British war effort"
+      },
+      {
+        "key": "B",
+        "text": "Nigeria became fully industrialized to support the war"
+      },
+      {
+        "key": "C",
+        "text": "Nigeria gained independence during the war"
+      },
+      {
+        "key": "D",
+        "text": "all trade with Britain was cut off"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Colonial Nigeria's economy was mobilized to support Britain's war effort."
+  },
+  {
+    "id": "neco-hist-world-wars-4",
+    "subject": "History",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "World Wars (General World History)",
+    "difficulty": "medium",
+    "prompt": "The League of Nations, formed after World War I, ultimately failed to prevent World War II mainly due to its",
+    "options": [
+      {
+        "key": "A",
+        "text": "direct control over all national armies"
+      },
+      {
+        "key": "B",
+        "text": "complete global membership"
+      },
+      {
+        "key": "C",
+        "text": "excessive military strength"
+      },
+      {
+        "key": "D",
+        "text": "lack of enforcement power and non-participation of major powers"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "The League lacked enforcement power and key powers, like the US, never joined."
+  },
+  {
+    "id": "neco-hist-world-wars-5",
+    "subject": "History",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "World Wars (General World History)",
+    "difficulty": "easy",
+    "prompt": "The two main opposing alliances in World War II were the Allied Powers and the",
+    "options": [
+      {
+        "key": "A",
+        "text": "Axis Powers"
+      },
+      {
+        "key": "B",
+        "text": "Central Powers"
+      },
+      {
+        "key": "C",
+        "text": "Warsaw Pact"
+      },
+      {
+        "key": "D",
+        "text": "Non-Aligned Movement"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "WWII was fought between the Allied Powers and the Axis Powers."
+  },
+  {
+    "id": "neco-crs-creation-1",
+    "subject": "Christian Religious Studies",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Creation & Patriarchal Narratives",
+    "difficulty": "easy",
+    "prompt": "According to Genesis, God created light on the",
+    "options": [
+      {
+        "key": "A",
+        "text": "third day"
+      },
+      {
+        "key": "B",
+        "text": "seventh day"
+      },
+      {
+        "key": "C",
+        "text": "sixth day"
+      },
+      {
+        "key": "D",
+        "text": "first day"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Genesis 1 records God creating light on the first day."
+  },
+  {
+    "id": "neco-crs-creation-2",
+    "subject": "Christian Religious Studies",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Creation & Patriarchal Narratives",
+    "difficulty": "medium",
+    "prompt": "According to Genesis, God created Eve from",
+    "options": [
+      {
+        "key": "A",
+        "text": "the dust of the ground directly"
+      },
+      {
+        "key": "B",
+        "text": "one of Adam's ribs"
+      },
+      {
+        "key": "C",
+        "text": "a rib of an angel"
+      },
+      {
+        "key": "D",
+        "text": "nothing at all"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Genesis 2 describes Eve being formed from Adam's rib."
+  },
+  {
+    "id": "neco-crs-creation-3",
+    "subject": "Christian Religious Studies",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Creation & Patriarchal Narratives",
+    "difficulty": "hard",
+    "prompt": "According to Genesis, Abraham's original name before God changed it was",
+    "options": [
+      {
+        "key": "A",
+        "text": "Jacob"
+      },
+      {
+        "key": "B",
+        "text": "Isaac"
+      },
+      {
+        "key": "C",
+        "text": "Terah"
+      },
+      {
+        "key": "D",
+        "text": "Abram"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Genesis 17 records God changing Abram's name to Abraham."
+  },
+  {
+    "id": "neco-crs-creation-4",
+    "subject": "Christian Religious Studies",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Creation & Patriarchal Narratives",
+    "difficulty": "medium",
+    "prompt": "According to Genesis, Jacob's name was changed to 'Israel' after he",
+    "options": [
+      {
+        "key": "A",
+        "text": "married Rachel"
+      },
+      {
+        "key": "B",
+        "text": "wrestled with an angel/God at Peniel"
+      },
+      {
+        "key": "C",
+        "text": "built an altar at Bethel only"
+      },
+      {
+        "key": "D",
+        "text": "fled from Laban"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Genesis 32 recounts Jacob's name changing to Israel after wrestling at Peniel."
+  },
+  {
+    "id": "neco-crs-creation-5",
+    "subject": "Christian Religious Studies",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Creation & Patriarchal Narratives",
+    "difficulty": "easy",
+    "prompt": "According to Genesis, Joseph was sold into slavery in Egypt by his own",
+    "options": [
+      {
+        "key": "A",
+        "text": "brothers"
+      },
+      {
+        "key": "B",
+        "text": "father"
+      },
+      {
+        "key": "C",
+        "text": "wife"
+      },
+      {
+        "key": "D",
+        "text": "uncle"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Genesis 37 recounts Joseph's brothers selling him into slavery."
+  },
+  {
+    "id": "neco-crs-exodus-1",
+    "subject": "Christian Religious Studies",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Moses & The Exodus",
+    "difficulty": "easy",
+    "prompt": "According to Exodus, Moses was found as a baby in a basket on the river by",
+    "options": [
+      {
+        "key": "A",
+        "text": "Pharaoh's wife"
+      },
+      {
+        "key": "B",
+        "text": "Pharaoh's daughter"
+      },
+      {
+        "key": "C",
+        "text": "Moses' own mother, unaided"
+      },
+      {
+        "key": "D",
+        "text": "an Egyptian priest"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Exodus 2 recounts Pharaoh's daughter finding baby Moses in the river."
+  },
+  {
+    "id": "neco-crs-exodus-2",
+    "subject": "Christian Religious Studies",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Moses & The Exodus",
+    "difficulty": "medium",
+    "prompt": "According to Exodus, God first spoke to Moses from a",
+    "options": [
+      {
+        "key": "A",
+        "text": "dream"
+      },
+      {
+        "key": "B",
+        "text": "burning bush"
+      },
+      {
+        "key": "C",
+        "text": "whirlwind"
+      },
+      {
+        "key": "D",
+        "text": "cloud on the mountain"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Exodus 3 records God calling Moses from a burning bush."
+  },
+  {
+    "id": "neco-crs-exodus-3",
+    "subject": "Christian Religious Studies",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Moses & The Exodus",
+    "difficulty": "hard",
+    "prompt": "According to Exodus, the food that God miraculously provided for the Israelites in the wilderness was called",
+    "options": [
+      {
+        "key": "A",
+        "text": "quail as the sole source"
+      },
+      {
+        "key": "B",
+        "text": "manna"
+      },
+      {
+        "key": "C",
+        "text": "unleavened bread only"
+      },
+      {
+        "key": "D",
+        "text": "honey"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Exodus 16 describes manna as the daily bread God provided in the wilderness."
+  },
+  {
+    "id": "neco-crs-exodus-4",
+    "subject": "Christian Religious Studies",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Moses & The Exodus",
+    "difficulty": "medium",
+    "prompt": "According to Exodus, the Ten Commandments were inscribed on",
+    "options": [
+      {
+        "key": "A",
+        "text": "two tablets of stone"
+      },
+      {
+        "key": "B",
+        "text": "a bronze plaque"
+      },
+      {
+        "key": "C",
+        "text": "a scroll of papyrus"
+      },
+      {
+        "key": "D",
+        "text": "wooden tablets"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Exodus 31 describes the commandments being written on two stone tablets."
+  },
+  {
+    "id": "neco-crs-exodus-5",
+    "subject": "Christian Religious Studies",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Moses & The Exodus",
+    "difficulty": "easy",
+    "prompt": "According to Exodus, the Israelites wandered in the wilderness for how many years before reaching the Promised Land?",
+    "options": [
+      {
+        "key": "A",
+        "text": "One hundred years"
+      },
+      {
+        "key": "B",
+        "text": "Forty years"
+      },
+      {
+        "key": "C",
+        "text": "Four years"
+      },
+      {
+        "key": "D",
+        "text": "Ten years"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "The Israelites wandered for forty years before entering Canaan."
+  },
+  {
+    "id": "neco-crs-kings-prophets-1",
+    "subject": "Christian Religious Studies",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Kings & Prophets of Israel",
+    "difficulty": "easy",
+    "prompt": "According to the Bible, David was anointed king while still a",
+    "options": [
+      {
+        "key": "A",
+        "text": "priest"
+      },
+      {
+        "key": "B",
+        "text": "soldier general"
+      },
+      {
+        "key": "C",
+        "text": "young shepherd"
+      },
+      {
+        "key": "D",
+        "text": "old man"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "1 Samuel 16 describes Samuel anointing young shepherd David as king."
+  },
+  {
+    "id": "neco-crs-kings-prophets-2",
+    "subject": "Christian Religious Studies",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Kings & Prophets of Israel",
+    "difficulty": "medium",
+    "prompt": "According to the Bible, Solomon built the great temple of God in the city of",
+    "options": [
+      {
+        "key": "A",
+        "text": "Jerusalem"
+      },
+      {
+        "key": "B",
+        "text": "Bethlehem"
+      },
+      {
+        "key": "C",
+        "text": "Nazareth"
+      },
+      {
+        "key": "D",
+        "text": "Samaria"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "1 Kings describes Solomon building the temple in Jerusalem."
+  },
+  {
+    "id": "neco-crs-kings-prophets-3",
+    "subject": "Christian Religious Studies",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Kings & Prophets of Israel",
+    "difficulty": "hard",
+    "prompt": "According to the Bible, the prophet who anointed both Saul and David as kings of Israel was",
+    "options": [
+      {
+        "key": "A",
+        "text": "Nathan"
+      },
+      {
+        "key": "B",
+        "text": "Elijah"
+      },
+      {
+        "key": "C",
+        "text": "Isaiah"
+      },
+      {
+        "key": "D",
+        "text": "Samuel"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Samuel anointed both Saul and later David as kings of Israel."
+  },
+  {
+    "id": "neco-crs-kings-prophets-4",
+    "subject": "Christian Religious Studies",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Kings & Prophets of Israel",
+    "difficulty": "medium",
+    "prompt": "According to the Bible, the prophet who confronted King David over his sin with Bathsheba was",
+    "options": [
+      {
+        "key": "A",
+        "text": "Nathan"
+      },
+      {
+        "key": "B",
+        "text": "Elisha"
+      },
+      {
+        "key": "C",
+        "text": "Elijah"
+      },
+      {
+        "key": "D",
+        "text": "Samuel"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "2 Samuel 12 records Nathan confronting David over Bathsheba."
+  },
+  {
+    "id": "neco-crs-kings-prophets-5",
+    "subject": "Christian Religious Studies",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Kings & Prophets of Israel",
+    "difficulty": "easy",
+    "prompt": "According to the Bible, after the kingdom of Israel split, the southern kingdom was known as",
+    "options": [
+      {
+        "key": "A",
+        "text": "Assyria"
+      },
+      {
+        "key": "B",
+        "text": "Judah"
+      },
+      {
+        "key": "C",
+        "text": "Samaria"
+      },
+      {
+        "key": "D",
+        "text": "Babylon"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "The divided kingdom split into Israel (north) and Judah (south)."
+  },
+  {
+    "id": "neco-crs-jesus-1",
+    "subject": "Christian Religious Studies",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Life & Teachings of Jesus Christ",
+    "difficulty": "easy",
+    "prompt": "According to the Gospels, Jesus was baptized in the River",
+    "options": [
+      {
+        "key": "A",
+        "text": "Tigris"
+      },
+      {
+        "key": "B",
+        "text": "Jordan"
+      },
+      {
+        "key": "C",
+        "text": "Euphrates"
+      },
+      {
+        "key": "D",
+        "text": "Nile"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "The Gospels record John baptizing Jesus in the Jordan River."
+  },
+  {
+    "id": "neco-crs-jesus-2",
+    "subject": "Christian Religious Studies",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Life & Teachings of Jesus Christ",
+    "difficulty": "medium",
+    "prompt": "According to the Gospels, Jesus chose how many men as his closest disciples (apostles)?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ten"
+      },
+      {
+        "key": "B",
+        "text": "Seven"
+      },
+      {
+        "key": "C",
+        "text": "Twelve"
+      },
+      {
+        "key": "D",
+        "text": "Twenty"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Jesus selected twelve apostles, as recorded across the Gospels."
+  },
+  {
+    "id": "neco-crs-jesus-3",
+    "subject": "Christian Religious Studies",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Life & Teachings of Jesus Christ",
+    "difficulty": "hard",
+    "prompt": "According to the Gospels, the parable in which a father welcomes back his wayward son is known as the Parable of the",
+    "options": [
+      {
+        "key": "A",
+        "text": "Prodigal Son"
+      },
+      {
+        "key": "B",
+        "text": "Sower"
+      },
+      {
+        "key": "C",
+        "text": "Good Samaritan"
+      },
+      {
+        "key": "D",
+        "text": "Lost Sheep"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Luke 15 tells the Parable of the Prodigal Son."
+  },
+  {
+    "id": "neco-crs-jesus-4",
+    "subject": "Christian Religious Studies",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Life & Teachings of Jesus Christ",
+    "difficulty": "medium",
+    "prompt": "According to the Gospels, Jesus fed a large crowd using only five loaves of bread and",
+    "options": [
+      {
+        "key": "A",
+        "text": "no fish at all"
+      },
+      {
+        "key": "B",
+        "text": "five fish"
+      },
+      {
+        "key": "C",
+        "text": "twelve fish"
+      },
+      {
+        "key": "D",
+        "text": "two fish"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "The Gospels record the feeding of the five thousand with five loaves and two fish."
+  },
+  {
+    "id": "neco-crs-jesus-5",
+    "subject": "Christian Religious Studies",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Life & Teachings of Jesus Christ",
+    "difficulty": "easy",
+    "prompt": "According to the Gospels, Jesus was crucified at a place called",
+    "options": [
+      {
+        "key": "A",
+        "text": "Nazareth"
+      },
+      {
+        "key": "B",
+        "text": "Capernaum"
+      },
+      {
+        "key": "C",
+        "text": "Golgotha"
+      },
+      {
+        "key": "D",
+        "text": "Bethany"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "The Gospels name Golgotha as the site of Jesus' crucifixion."
+  },
+  {
+    "id": "neco-crs-early-church-1",
+    "subject": "Christian Religious Studies",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "The Early Church",
+    "difficulty": "easy",
+    "prompt": "According to the Book of Acts, the early Christian believers regularly devoted themselves to prayer, fellowship, and the",
+    "options": [
+      {
+        "key": "A",
+        "text": "Roman civic festivals"
+      },
+      {
+        "key": "B",
+        "text": "building of temples for idol worship"
+      },
+      {
+        "key": "C",
+        "text": "military training"
+      },
+      {
+        "key": "D",
+        "text": "breaking of bread (Lord's Supper) and apostles' teaching"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Acts 2:42 describes the early church's devotion to teaching, fellowship, bread-breaking and prayer."
+  },
+  {
+    "id": "neco-crs-early-church-2",
+    "subject": "Christian Religious Studies",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "The Early Church",
+    "difficulty": "medium",
+    "prompt": "According to the Book of Acts, Peter's vision of a sheet with various animals taught him that the Gospel was also meant for",
+    "options": [
+      {
+        "key": "A",
+        "text": "only the Jews"
+      },
+      {
+        "key": "B",
+        "text": "only the Romans"
+      },
+      {
+        "key": "C",
+        "text": "the Gentiles (non-Jews)"
+      },
+      {
+        "key": "D",
+        "text": "no one outside Jerusalem"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Acts 10 recounts Peter's vision preparing him to preach to Gentiles."
+  },
+  {
+    "id": "neco-crs-early-church-3",
+    "subject": "Christian Religious Studies",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "The Early Church",
+    "difficulty": "hard",
+    "prompt": "According to the New Testament, the Council of Jerusalem was convened mainly to address the question of",
+    "options": [
+      {
+        "key": "A",
+        "text": "where to build the first church building"
+      },
+      {
+        "key": "B",
+        "text": "the date of Jesus' birth"
+      },
+      {
+        "key": "C",
+        "text": "how to appoint the next Roman emperor"
+      },
+      {
+        "key": "D",
+        "text": "whether Gentile converts needed to follow Jewish law, such as circumcision"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Acts 15 records the council resolving requirements for Gentile converts."
+  },
+  {
+    "id": "neco-crs-early-church-4",
+    "subject": "Christian Religious Studies",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "The Early Church",
+    "difficulty": "medium",
+    "prompt": "According to the Book of Acts, Paul was imprisoned in Rome partly because of his",
+    "options": [
+      {
+        "key": "A",
+        "text": "preaching of the Gospel, which provoked opposition"
+      },
+      {
+        "key": "B",
+        "text": "ownership of property"
+      },
+      {
+        "key": "C",
+        "text": "refusal to pay taxes"
+      },
+      {
+        "key": "D",
+        "text": "involvement in Roman politics"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Paul's missionary preaching led to opposition and eventual imprisonment."
+  },
+  {
+    "id": "neco-crs-early-church-5",
+    "subject": "Christian Religious Studies",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "The Early Church",
+    "difficulty": "easy",
+    "prompt": "According to the New Testament, the book of Acts was written by the same author as the Gospel of",
+    "options": [
+      {
+        "key": "A",
+        "text": "Matthew"
+      },
+      {
+        "key": "B",
+        "text": "Luke"
+      },
+      {
+        "key": "C",
+        "text": "Mark"
+      },
+      {
+        "key": "D",
+        "text": "John"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Acts is traditionally understood as a sequel to Luke's Gospel, by the same author."
+  },
+  {
+    "id": "neco-irs-pillars-1",
+    "subject": "Islamic Religious Studies",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Pillars of Islam",
+    "difficulty": "easy",
+    "prompt": "The pillar of Islam that involves a pilgrimage to Makkah, required at least once in a lifetime for those who are able, is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "Sawm"
+      },
+      {
+        "key": "B",
+        "text": "Zakat"
+      },
+      {
+        "key": "C",
+        "text": "Salat"
+      },
+      {
+        "key": "D",
+        "text": "Hajj"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Hajj is the obligatory pilgrimage to Makkah for able Muslims."
+  },
+  {
+    "id": "neco-irs-pillars-2",
+    "subject": "Islamic Religious Studies",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Pillars of Islam",
+    "difficulty": "medium",
+    "prompt": "Zakat is typically calculated as what proportion of a Muslim's qualifying wealth?",
+    "options": [
+      {
+        "key": "A",
+        "text": "25%"
+      },
+      {
+        "key": "B",
+        "text": "10%"
+      },
+      {
+        "key": "C",
+        "text": "50%"
+      },
+      {
+        "key": "D",
+        "text": "2.5%"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Zakat is generally calculated as 2.5% of qualifying savings and wealth."
+  },
+  {
+    "id": "neco-irs-pillars-3",
+    "subject": "Islamic Religious Studies",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Pillars of Islam",
+    "difficulty": "hard",
+    "prompt": "The Hajj pilgrimage is performed during a specific period in the Islamic month of",
+    "options": [
+      {
+        "key": "A",
+        "text": "Muharram"
+      },
+      {
+        "key": "B",
+        "text": "Ramadan"
+      },
+      {
+        "key": "C",
+        "text": "Dhul-Hijjah"
+      },
+      {
+        "key": "D",
+        "text": "Shawwal"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Hajj takes place during the Islamic month of Dhul-Hijjah."
+  },
+  {
+    "id": "neco-irs-pillars-4",
+    "subject": "Islamic Religious Studies",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Pillars of Islam",
+    "difficulty": "medium",
+    "prompt": "Before performing Salat, a Muslim is required to perform ritual purification known as",
+    "options": [
+      {
+        "key": "A",
+        "text": "Wudu (ablution)"
+      },
+      {
+        "key": "B",
+        "text": "Zakat"
+      },
+      {
+        "key": "C",
+        "text": "Hajj"
+      },
+      {
+        "key": "D",
+        "text": "Sawm"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Wudu is the ritual washing performed before prayer."
+  },
+  {
+    "id": "neco-irs-pillars-5",
+    "subject": "Islamic Religious Studies",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Pillars of Islam",
+    "difficulty": "easy",
+    "prompt": "The direction Muslims face during Salat, towards the Kaaba in Makkah, is called the",
+    "options": [
+      {
+        "key": "A",
+        "text": "Minbar"
+      },
+      {
+        "key": "B",
+        "text": "Sunnah"
+      },
+      {
+        "key": "C",
+        "text": "Fatiha"
+      },
+      {
+        "key": "D",
+        "text": "Qibla"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "The Qibla is the direction of prayer, towards the Kaaba."
+  },
+  {
+    "id": "neco-irs-prophet-muhammad-1",
+    "subject": "Islamic Religious Studies",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Life of Prophet Muhammad",
+    "difficulty": "easy",
+    "prompt": "Prophet Muhammad belonged to which tribe in Makkah?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Khazraj"
+      },
+      {
+        "key": "B",
+        "text": "Thaqif"
+      },
+      {
+        "key": "C",
+        "text": "Aws"
+      },
+      {
+        "key": "D",
+        "text": "Quraysh"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Prophet Muhammad was a member of the Quraysh tribe of Makkah."
+  },
+  {
+    "id": "neco-irs-prophet-muhammad-2",
+    "subject": "Islamic Religious Studies",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Life of Prophet Muhammad",
+    "difficulty": "medium",
+    "prompt": "The first wife of Prophet Muhammad was",
+    "options": [
+      {
+        "key": "A",
+        "text": "Aisha"
+      },
+      {
+        "key": "B",
+        "text": "Fatimah"
+      },
+      {
+        "key": "C",
+        "text": "Hafsa"
+      },
+      {
+        "key": "D",
+        "text": "Khadijah"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Khadijah was Prophet Muhammad's first wife."
+  },
+  {
+    "id": "neco-irs-prophet-muhammad-3",
+    "subject": "Islamic Religious Studies",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Life of Prophet Muhammad",
+    "difficulty": "hard",
+    "prompt": "The Battle of Badr, an early and significant victory for the Muslims, took place in the year",
+    "options": [
+      {
+        "key": "A",
+        "text": "570 CE"
+      },
+      {
+        "key": "B",
+        "text": "632 CE"
+      },
+      {
+        "key": "C",
+        "text": "624 CE"
+      },
+      {
+        "key": "D",
+        "text": "610 CE"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "The Battle of Badr took place in 624 CE."
+  },
+  {
+    "id": "neco-irs-prophet-muhammad-4",
+    "subject": "Islamic Religious Studies",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Life of Prophet Muhammad",
+    "difficulty": "medium",
+    "prompt": "The Treaty of Hudaybiyyah was an agreement between the early Muslims and the",
+    "options": [
+      {
+        "key": "A",
+        "text": "Byzantine Empire"
+      },
+      {
+        "key": "B",
+        "text": "Quraysh of Makkah"
+      },
+      {
+        "key": "C",
+        "text": "Jewish tribes of Madinah only"
+      },
+      {
+        "key": "D",
+        "text": "Persian Empire"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "The Treaty of Hudaybiyyah (628 CE) was signed between Muslims and the Quraysh."
+  },
+  {
+    "id": "neco-irs-prophet-muhammad-5",
+    "subject": "Islamic Religious Studies",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Life of Prophet Muhammad",
+    "difficulty": "easy",
+    "prompt": "Prophet Muhammad passed away in the city of",
+    "options": [
+      {
+        "key": "A",
+        "text": "Madinah"
+      },
+      {
+        "key": "B",
+        "text": "Damascus"
+      },
+      {
+        "key": "C",
+        "text": "Makkah"
+      },
+      {
+        "key": "D",
+        "text": "Jerusalem"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Prophet Muhammad died in Madinah in 632 CE."
+  },
+  {
+    "id": "neco-irs-quran-hadith-1",
+    "subject": "Islamic Religious Studies",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "The Qur'an & Hadith",
+    "difficulty": "easy",
+    "prompt": "The longest chapter (Surah) in the Qur'an is",
+    "options": [
+      {
+        "key": "A",
+        "text": "Al-Ikhlas"
+      },
+      {
+        "key": "B",
+        "text": "Al-Baqarah"
+      },
+      {
+        "key": "C",
+        "text": "Al-Fatiha"
+      },
+      {
+        "key": "D",
+        "text": "An-Nas"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Al-Baqarah is the longest Surah in the Qur'an."
+  },
+  {
+    "id": "neco-irs-quran-hadith-2",
+    "subject": "Islamic Religious Studies",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "The Qur'an & Hadith",
+    "difficulty": "medium",
+    "prompt": "The opening chapter of the Qur'an, recited in every unit of Salat, is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "Al-Fatiha"
+      },
+      {
+        "key": "B",
+        "text": "Al-Ikhlas"
+      },
+      {
+        "key": "C",
+        "text": "Ya-Sin"
+      },
+      {
+        "key": "D",
+        "text": "Al-Baqarah"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Al-Fatiha is the Qur'an's opening chapter, recited in every prayer unit."
+  },
+  {
+    "id": "neco-irs-quran-hadith-3",
+    "subject": "Islamic Religious Studies",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "The Qur'an & Hadith",
+    "difficulty": "hard",
+    "prompt": "A Hadith is generally classified by scholars based on the reliability of its",
+    "options": [
+      {
+        "key": "A",
+        "text": "length only"
+      },
+      {
+        "key": "B",
+        "text": "chain of narrators (isnad)"
+      },
+      {
+        "key": "C",
+        "text": "number of readers"
+      },
+      {
+        "key": "D",
+        "text": "language style only"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Hadith authenticity is assessed mainly through its chain of transmission."
+  },
+  {
+    "id": "neco-irs-quran-hadith-4",
+    "subject": "Islamic Religious Studies",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "The Qur'an & Hadith",
+    "difficulty": "medium",
+    "prompt": "The scholarly interpretation and explanation of the Qur'an is known as",
+    "options": [
+      {
+        "key": "A",
+        "text": "Hadith"
+      },
+      {
+        "key": "B",
+        "text": "Sunnah"
+      },
+      {
+        "key": "C",
+        "text": "Fiqh"
+      },
+      {
+        "key": "D",
+        "text": "Tafsir"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Tafsir refers to the exegesis or interpretation of the Qur'an."
+  },
+  {
+    "id": "neco-irs-quran-hadith-5",
+    "subject": "Islamic Religious Studies",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "The Qur'an & Hadith",
+    "difficulty": "easy",
+    "prompt": "Muslims believe the Qur'an was revealed to Prophet Muhammad over a period of about",
+    "options": [
+      {
+        "key": "A",
+        "text": "40 years"
+      },
+      {
+        "key": "B",
+        "text": "1 year"
+      },
+      {
+        "key": "C",
+        "text": "23 years"
+      },
+      {
+        "key": "D",
+        "text": "5 years"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "The Qur'an's revelation is traditionally held to have spanned about 23 years."
+  },
+  {
+    "id": "neco-irs-caliphs-1",
+    "subject": "Islamic Religious Studies",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Rightly Guided Caliphs",
+    "difficulty": "easy",
+    "prompt": "The Rightly Guided Caliphs are also known in Arabic as the",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ansar"
+      },
+      {
+        "key": "B",
+        "text": "Khulafa al-Rashidun"
+      },
+      {
+        "key": "C",
+        "text": "Sahaba"
+      },
+      {
+        "key": "D",
+        "text": "Muhajirun"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "The four Rightly Guided Caliphs are called Khulafa al-Rashidun."
+  },
+  {
+    "id": "neco-irs-caliphs-2",
+    "subject": "Islamic Religious Studies",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Rightly Guided Caliphs",
+    "difficulty": "medium",
+    "prompt": "Abu Bakr's caliphate is particularly noted for dealing with the",
+    "options": [
+      {
+        "key": "A",
+        "text": "Crusades"
+      },
+      {
+        "key": "B",
+        "text": "compilation of Hadith collections"
+      },
+      {
+        "key": "C",
+        "text": "Ridda (apostasy) wars that threatened the unity of the early Muslim community"
+      },
+      {
+        "key": "D",
+        "text": "Mongol invasions"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Abu Bakr's caliphate focused on suppressing the Ridda wars after Muhammad's death."
+  },
+  {
+    "id": "neco-irs-caliphs-3",
+    "subject": "Islamic Religious Studies",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Rightly Guided Caliphs",
+    "difficulty": "hard",
+    "prompt": "Following the assassination of Uthman ibn Affan, the caliphate passed to",
+    "options": [
+      {
+        "key": "A",
+        "text": "Abu Bakr"
+      },
+      {
+        "key": "B",
+        "text": "Ali ibn Abi Talib"
+      },
+      {
+        "key": "C",
+        "text": "Umar ibn al-Khattab"
+      },
+      {
+        "key": "D",
+        "text": "Muawiyah immediately"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Ali ibn Abi Talib became caliph after Uthman's assassination."
+  },
+  {
+    "id": "neco-irs-caliphs-4",
+    "subject": "Islamic Religious Studies",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Rightly Guided Caliphs",
+    "difficulty": "medium",
+    "prompt": "During Umar ibn al-Khattab's caliphate, the Islamic empire expanded to include territories such as",
+    "options": [
+      {
+        "key": "A",
+        "text": "Spain and Portugal already at that time"
+      },
+      {
+        "key": "B",
+        "text": "only the Arabian Peninsula"
+      },
+      {
+        "key": "C",
+        "text": "Egypt, Syria and Persia"
+      },
+      {
+        "key": "D",
+        "text": "only Madinah"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Umar's caliphate saw major expansion into Egypt, Syria and Persia."
+  },
+  {
+    "id": "neco-irs-caliphs-5",
+    "subject": "Islamic Religious Studies",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Rightly Guided Caliphs",
+    "difficulty": "easy",
+    "prompt": "The era of the Rightly Guided Caliphs is generally regarded by Muslims as a model period of",
+    "options": [
+      {
+        "key": "A",
+        "text": "total foreign occupation"
+      },
+      {
+        "key": "B",
+        "text": "absence of any leadership"
+      },
+      {
+        "key": "C",
+        "text": "political chaos"
+      },
+      {
+        "key": "D",
+        "text": "just and pious Islamic governance"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "The Rashidun period is widely regarded as an ideal era of just Islamic rule."
+  },
+  {
+    "id": "neco-irs-moral-teachings-1",
+    "subject": "Islamic Religious Studies",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Islamic Moral Teachings",
+    "difficulty": "easy",
+    "prompt": "Islam teaches that all Muslims are considered members of one",
+    "options": [
+      {
+        "key": "A",
+        "text": "single family by blood only"
+      },
+      {
+        "key": "B",
+        "text": "political party"
+      },
+      {
+        "key": "C",
+        "text": "trade union"
+      },
+      {
+        "key": "D",
+        "text": "brotherhood (Ummah)"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "The Ummah refers to the global community of Muslim believers."
+  },
+  {
+    "id": "neco-irs-moral-teachings-2",
+    "subject": "Islamic Religious Studies",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Islamic Moral Teachings",
+    "difficulty": "medium",
+    "prompt": "In Islamic teaching, patience and perseverance in the face of hardship is known as",
+    "options": [
+      {
+        "key": "A",
+        "text": "Sabr"
+      },
+      {
+        "key": "B",
+        "text": "Zakat"
+      },
+      {
+        "key": "C",
+        "text": "Ghibah"
+      },
+      {
+        "key": "D",
+        "text": "Riba"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Sabr refers to patient endurance, a valued Islamic virtue."
+  },
+  {
+    "id": "neco-irs-moral-teachings-3",
+    "subject": "Islamic Religious Studies",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Islamic Moral Teachings",
+    "difficulty": "hard",
+    "prompt": "The Islamic prohibition of 'Riba' refers specifically to",
+    "options": [
+      {
+        "key": "A",
+        "text": "fasting outside Ramadan"
+      },
+      {
+        "key": "B",
+        "text": "prayer performed incorrectly"
+      },
+      {
+        "key": "C",
+        "text": "interest or usury in financial transactions"
+      },
+      {
+        "key": "D",
+        "text": "backbiting or gossip"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Riba refers to interest/usury, which is prohibited in Islamic finance."
+  },
+  {
+    "id": "neco-irs-moral-teachings-4",
+    "subject": "Islamic Religious Studies",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Islamic Moral Teachings",
+    "difficulty": "medium",
+    "prompt": "'Ghibah', which Islam discourages, refers to",
+    "options": [
+      {
+        "key": "A",
+        "text": "charitable giving"
+      },
+      {
+        "key": "B",
+        "text": "pilgrimage"
+      },
+      {
+        "key": "C",
+        "text": "ritual prayer"
+      },
+      {
+        "key": "D",
+        "text": "backbiting or speaking ill of someone in their absence"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Ghibah is the act of speaking negatively about someone who is not present."
+  },
+  {
+    "id": "neco-irs-moral-teachings-5",
+    "subject": "Islamic Religious Studies",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Islamic Moral Teachings",
+    "difficulty": "easy",
+    "prompt": "Islam teaches that honesty in business dealings, including fair weights and measures, is",
+    "options": [
+      {
+        "key": "A",
+        "text": "only relevant to non-Muslims"
+      },
+      {
+        "key": "B",
+        "text": "discouraged in trade"
+      },
+      {
+        "key": "C",
+        "text": "optional and unimportant"
+      },
+      {
+        "key": "D",
+        "text": "a required moral obligation"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "The Qur'an repeatedly emphasizes honest dealing and fair measure in trade."
+  },
+  {
+    "id": "neco-geo-map-reading-1",
+    "subject": "Geography",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Map Reading & Interpretation",
+    "difficulty": "easy",
+    "prompt": "The imaginary lines running east-west around the globe, used to measure distance north or south of the equator, are called",
+    "options": [
+      {
+        "key": "A",
+        "text": "contour lines"
+      },
+      {
+        "key": "B",
+        "text": "grid lines"
+      },
+      {
+        "key": "C",
+        "text": "lines of latitude"
+      },
+      {
+        "key": "D",
+        "text": "lines of longitude"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Lines of latitude run east-west, measuring distance from the equator."
+  },
+  {
+    "id": "neco-geo-map-reading-2",
+    "subject": "Geography",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Map Reading & Interpretation",
+    "difficulty": "medium",
+    "prompt": "The imaginary lines running from the North Pole to the South Pole, used to measure distance east or west of the Prime Meridian, are called",
+    "options": [
+      {
+        "key": "A",
+        "text": "isotherms"
+      },
+      {
+        "key": "B",
+        "text": "lines of longitude"
+      },
+      {
+        "key": "C",
+        "text": "contour lines"
+      },
+      {
+        "key": "D",
+        "text": "lines of latitude"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Lines of longitude run pole-to-pole, measuring distance from the Prime Meridian."
+  },
+  {
+    "id": "neco-geo-map-reading-3",
+    "subject": "Geography",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Map Reading & Interpretation",
+    "difficulty": "hard",
+    "prompt": "On a topographical map, closely spaced contour lines indicate",
+    "options": [
+      {
+        "key": "A",
+        "text": "a river course only"
+      },
+      {
+        "key": "B",
+        "text": "a steep slope"
+      },
+      {
+        "key": "C",
+        "text": "flat land"
+      },
+      {
+        "key": "D",
+        "text": "a gentle slope"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Closely spaced contours represent rapid elevation change, i.e. steep terrain."
+  },
+  {
+    "id": "neco-geo-map-reading-4",
+    "subject": "Geography",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Map Reading & Interpretation",
+    "difficulty": "medium",
+    "prompt": "A scale expressed in words, such as 'one centimetre represents one kilometre', is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "representative fraction"
+      },
+      {
+        "key": "B",
+        "text": "vertical scale"
+      },
+      {
+        "key": "C",
+        "text": "statement scale"
+      },
+      {
+        "key": "D",
+        "text": "linear scale"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "A statement scale expresses the map-to-ground relationship in words."
+  },
+  {
+    "id": "neco-geo-map-reading-5",
+    "subject": "Geography",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Map Reading & Interpretation",
+    "difficulty": "easy",
+    "prompt": "A numbered system used to identify a precise location on a map using intersecting horizontal and vertical lines is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "grid reference"
+      },
+      {
+        "key": "B",
+        "text": "compass rose"
+      },
+      {
+        "key": "C",
+        "text": "scale"
+      },
+      {
+        "key": "D",
+        "text": "legend"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Grid references pinpoint locations using intersecting numbered lines."
+  },
+  {
+    "id": "neco-geo-weather-climate-1",
+    "subject": "Geography",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Weather & Climate",
+    "difficulty": "easy",
+    "prompt": "The instrument used to measure humidity in the atmosphere is the",
+    "options": [
+      {
+        "key": "A",
+        "text": "hygrometer"
+      },
+      {
+        "key": "B",
+        "text": "barometer"
+      },
+      {
+        "key": "C",
+        "text": "anemometer"
+      },
+      {
+        "key": "D",
+        "text": "rain gauge"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "A hygrometer measures atmospheric humidity."
+  },
+  {
+    "id": "neco-geo-weather-climate-2",
+    "subject": "Geography",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Weather & Climate",
+    "difficulty": "medium",
+    "prompt": "The instrument used to measure the direction from which the wind is blowing is the",
+    "options": [
+      {
+        "key": "A",
+        "text": "barometer"
+      },
+      {
+        "key": "B",
+        "text": "hygrometer"
+      },
+      {
+        "key": "C",
+        "text": "anemometer"
+      },
+      {
+        "key": "D",
+        "text": "wind vane"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "A wind vane indicates wind direction."
+  },
+  {
+    "id": "neco-geo-weather-climate-3",
+    "subject": "Geography",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Weather & Climate",
+    "difficulty": "hard",
+    "prompt": "The climate type found in the Sahara region, characterized by very low rainfall and extreme temperature ranges, is the",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mediterranean climate"
+      },
+      {
+        "key": "B",
+        "text": "temperate climate"
+      },
+      {
+        "key": "C",
+        "text": "equatorial climate"
+      },
+      {
+        "key": "D",
+        "text": "desert (hot arid) climate"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Desert climates like the Sahara's feature low rainfall and wide temperature swings."
+  },
+  {
+    "id": "neco-geo-weather-climate-4",
+    "subject": "Geography",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Weather & Climate",
+    "difficulty": "medium",
+    "prompt": "The instrument used to measure temperature is the",
+    "options": [
+      {
+        "key": "A",
+        "text": "rain gauge"
+      },
+      {
+        "key": "B",
+        "text": "thermometer"
+      },
+      {
+        "key": "C",
+        "text": "barometer"
+      },
+      {
+        "key": "D",
+        "text": "anemometer"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "A thermometer measures temperature."
+  },
+  {
+    "id": "neco-geo-weather-climate-5",
+    "subject": "Geography",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Weather & Climate",
+    "difficulty": "easy",
+    "prompt": "Climate refers to",
+    "options": [
+      {
+        "key": "A",
+        "text": "the soil composition of a region"
+      },
+      {
+        "key": "B",
+        "text": "the average weather conditions of a place over a long period, usually 30 years or more"
+      },
+      {
+        "key": "C",
+        "text": "the daily atmospheric condition of a place"
+      },
+      {
+        "key": "D",
+        "text": "the population of a region"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Climate is the long-term average of a region's weather patterns."
+  },
+  {
+    "id": "neco-geo-landforms-1",
+    "subject": "Geography",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Landforms",
+    "difficulty": "easy",
+    "prompt": "A depression on the Earth's surface, often filled with water to form a lake, is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "basin"
+      },
+      {
+        "key": "B",
+        "text": "escarpment"
+      },
+      {
+        "key": "C",
+        "text": "ridge"
+      },
+      {
+        "key": "D",
+        "text": "plateau"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "A basin is a low-lying depression, often occupied by a lake or drainage system."
+  },
+  {
+    "id": "neco-geo-landforms-2",
+    "subject": "Geography",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Landforms",
+    "difficulty": "medium",
+    "prompt": "A long, narrow ridge of high land is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "plain"
+      },
+      {
+        "key": "B",
+        "text": "delta"
+      },
+      {
+        "key": "C",
+        "text": "basin"
+      },
+      {
+        "key": "D",
+        "text": "range/ridge"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "A ridge or range is an elongated stretch of elevated land."
+  },
+  {
+    "id": "neco-geo-landforms-3",
+    "subject": "Geography",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Landforms",
+    "difficulty": "hard",
+    "prompt": "A landform created by volcanic activity, typically cone-shaped with a crater at its summit, is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "delta"
+      },
+      {
+        "key": "B",
+        "text": "volcano"
+      },
+      {
+        "key": "C",
+        "text": "escarpment"
+      },
+      {
+        "key": "D",
+        "text": "plateau"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "A volcano is a cone-shaped landform formed by eruptive activity."
+  },
+  {
+    "id": "neco-geo-landforms-4",
+    "subject": "Geography",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Landforms",
+    "difficulty": "medium",
+    "prompt": "An extensive area of low, relatively flat land is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "valley"
+      },
+      {
+        "key": "B",
+        "text": "mountain"
+      },
+      {
+        "key": "C",
+        "text": "plain"
+      },
+      {
+        "key": "D",
+        "text": "plateau"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "A plain is a broad, low-lying, flat expanse of land."
+  },
+  {
+    "id": "neco-geo-landforms-5",
+    "subject": "Geography",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Landforms",
+    "difficulty": "easy",
+    "prompt": "A large landmass almost completely surrounded by water, connected to the mainland by a narrow strip of land, is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "archipelago"
+      },
+      {
+        "key": "B",
+        "text": "peninsula"
+      },
+      {
+        "key": "C",
+        "text": "isthmus"
+      },
+      {
+        "key": "D",
+        "text": "island"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "A peninsula is land nearly surrounded by water, joined to the mainland."
+  },
+  {
+    "id": "neco-geo-population-settlement-1",
+    "subject": "Geography",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Population & Settlement",
+    "difficulty": "easy",
+    "prompt": "The number of people living per unit area of land is called the",
+    "options": [
+      {
+        "key": "A",
+        "text": "death rate"
+      },
+      {
+        "key": "B",
+        "text": "birth rate"
+      },
+      {
+        "key": "C",
+        "text": "population density"
+      },
+      {
+        "key": "D",
+        "text": "population growth rate"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Population density measures people per unit of land area."
+  },
+  {
+    "id": "neco-geo-population-settlement-2",
+    "subject": "Geography",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Population & Settlement",
+    "difficulty": "medium",
+    "prompt": "A settlement pattern in which houses are built in a line along a road, river or coastline is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "nucleated settlement"
+      },
+      {
+        "key": "B",
+        "text": "circular settlement"
+      },
+      {
+        "key": "C",
+        "text": "dispersed settlement"
+      },
+      {
+        "key": "D",
+        "text": "linear settlement"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Linear settlements follow a line, such as a road or riverbank."
+  },
+  {
+    "id": "neco-geo-population-settlement-3",
+    "subject": "Geography",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Population & Settlement",
+    "difficulty": "hard",
+    "prompt": "A high rate of rural-urban migration in developing countries often leads to",
+    "options": [
+      {
+        "key": "A",
+        "text": "overcrowding and pressure on urban infrastructure and services"
+      },
+      {
+        "key": "B",
+        "text": "reduced urban population"
+      },
+      {
+        "key": "C",
+        "text": "complete elimination of urban unemployment"
+      },
+      {
+        "key": "D",
+        "text": "improved rural infrastructure automatically"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Rapid rural-urban migration strains housing, transport and services in cities."
+  },
+  {
+    "id": "neco-geo-population-settlement-4",
+    "subject": "Geography",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Population & Settlement",
+    "difficulty": "medium",
+    "prompt": "The excess of births over deaths in a population over a given period is called the",
+    "options": [
+      {
+        "key": "A",
+        "text": "migration rate"
+      },
+      {
+        "key": "B",
+        "text": "dependency ratio"
+      },
+      {
+        "key": "C",
+        "text": "population density"
+      },
+      {
+        "key": "D",
+        "text": "natural increase"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Natural increase is births minus deaths in a population."
+  },
+  {
+    "id": "neco-geo-population-settlement-5",
+    "subject": "Geography",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Population & Settlement",
+    "difficulty": "easy",
+    "prompt": "A settlement that has grown into a large urban centre with a high concentration of population and infrastructure is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "city"
+      },
+      {
+        "key": "B",
+        "text": "hamlet"
+      },
+      {
+        "key": "C",
+        "text": "village"
+      },
+      {
+        "key": "D",
+        "text": "farmstead"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "A city is a large, densely populated urban settlement."
+  },
+  {
+    "id": "neco-geo-agriculture-1",
+    "subject": "Geography",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Agriculture",
+    "difficulty": "easy",
+    "prompt": "The rearing of livestock, such as cattle, sheep and goats, is generally referred to as",
+    "options": [
+      {
+        "key": "A",
+        "text": "arable farming"
+      },
+      {
+        "key": "B",
+        "text": "animal husbandry (pastoral farming)"
+      },
+      {
+        "key": "C",
+        "text": "horticulture"
+      },
+      {
+        "key": "D",
+        "text": "aquaculture"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Animal husbandry involves breeding and raising livestock."
+  },
+  {
+    "id": "neco-geo-agriculture-2",
+    "subject": "Geography",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Agriculture",
+    "difficulty": "medium",
+    "prompt": "Farming that involves the cultivation of crops such as vegetables and fruits on a relatively small, intensive scale is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "pastoral farming"
+      },
+      {
+        "key": "B",
+        "text": "horticulture"
+      },
+      {
+        "key": "C",
+        "text": "shifting cultivation"
+      },
+      {
+        "key": "D",
+        "text": "nomadic herding"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Horticulture is intensive cultivation of fruits, vegetables and ornamental plants."
+  },
+  {
+    "id": "neco-geo-agriculture-3",
+    "subject": "Geography",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Agriculture",
+    "difficulty": "hard",
+    "prompt": "One major factor limiting large-scale mechanized farming in many parts of Nigeria is",
+    "options": [
+      {
+        "key": "A",
+        "text": "lack of any farmers"
+      },
+      {
+        "key": "B",
+        "text": "the prevalence of small, fragmented land holdings"
+      },
+      {
+        "key": "C",
+        "text": "overabundance of modern machinery"
+      },
+      {
+        "key": "D",
+        "text": "excess availability of large flat land"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Small, fragmented plots make large-scale mechanization difficult in many areas."
+  },
+  {
+    "id": "neco-geo-agriculture-4",
+    "subject": "Geography",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Agriculture",
+    "difficulty": "medium",
+    "prompt": "The practice of growing the same crop repeatedly on the same land, without rotation, is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "mixed cropping"
+      },
+      {
+        "key": "B",
+        "text": "shifting cultivation"
+      },
+      {
+        "key": "C",
+        "text": "monoculture"
+      },
+      {
+        "key": "D",
+        "text": "crop rotation"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Monoculture is the repeated cultivation of a single crop on the same land."
+  },
+  {
+    "id": "neco-geo-agriculture-5",
+    "subject": "Geography",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Agriculture",
+    "difficulty": "easy",
+    "prompt": "A major cereal crop widely cultivated in the savanna regions of Northern Nigeria is",
+    "options": [
+      {
+        "key": "A",
+        "text": "rubber"
+      },
+      {
+        "key": "B",
+        "text": "cocoa"
+      },
+      {
+        "key": "C",
+        "text": "oil palm"
+      },
+      {
+        "key": "D",
+        "text": "millet/guinea corn (sorghum)"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Millet and sorghum thrive in the drier savanna regions of Northern Nigeria."
+  },
+  {
+    "id": "neco-facc-basic-concepts-1",
+    "subject": "Financial Accounting",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Basic Accounting Concepts",
+    "difficulty": "easy",
+    "prompt": "The branch of accounting concerned with recording, classifying and summarizing business transactions is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "auditing only"
+      },
+      {
+        "key": "B",
+        "text": "management accounting only"
+      },
+      {
+        "key": "C",
+        "text": "cost accounting only"
+      },
+      {
+        "key": "D",
+        "text": "financial accounting"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Financial accounting records, classifies and summarizes transactions for reporting."
+  },
+  {
+    "id": "neco-facc-basic-concepts-2",
+    "subject": "Financial Accounting",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Basic Accounting Concepts",
+    "difficulty": "medium",
+    "prompt": "The accounting concept that requires the same accounting methods to be applied consistently from one period to the next is called the",
+    "options": [
+      {
+        "key": "A",
+        "text": "prudence concept"
+      },
+      {
+        "key": "B",
+        "text": "consistency concept"
+      },
+      {
+        "key": "C",
+        "text": "going concern concept"
+      },
+      {
+        "key": "D",
+        "text": "matching concept"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Consistency requires uniform accounting treatment across periods for comparability."
+  },
+  {
+    "id": "neco-facc-basic-concepts-3",
+    "subject": "Financial Accounting",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Basic Accounting Concepts",
+    "difficulty": "hard",
+    "prompt": "The concept requiring that a business's financial records be kept separate from the personal transactions of its owner is called the",
+    "options": [
+      {
+        "key": "A",
+        "text": "dual aspect concept"
+      },
+      {
+        "key": "B",
+        "text": "business entity (separate entity) concept"
+      },
+      {
+        "key": "C",
+        "text": "going concern concept"
+      },
+      {
+        "key": "D",
+        "text": "money measurement concept"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "The business entity concept treats the business as distinct from its owner."
+  },
+  {
+    "id": "neco-facc-basic-concepts-4",
+    "subject": "Financial Accounting",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Basic Accounting Concepts",
+    "difficulty": "medium",
+    "prompt": "The book of original/prime entry used to record credit purchases of goods is called the",
+    "options": [
+      {
+        "key": "A",
+        "text": "sales day book"
+      },
+      {
+        "key": "B",
+        "text": "general ledger"
+      },
+      {
+        "key": "C",
+        "text": "cash book"
+      },
+      {
+        "key": "D",
+        "text": "purchases day book"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "The purchases day book records credit purchase transactions chronologically."
+  },
+  {
+    "id": "neco-facc-basic-concepts-5",
+    "subject": "Financial Accounting",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Basic Accounting Concepts",
+    "difficulty": "easy",
+    "prompt": "The person to whom a business owes money for goods bought on credit is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "debtor"
+      },
+      {
+        "key": "B",
+        "text": "creditor"
+      },
+      {
+        "key": "C",
+        "text": "auditor"
+      },
+      {
+        "key": "D",
+        "text": "proprietor"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "A creditor is owed money by the business for goods or services supplied on credit."
+  },
+  {
+    "id": "neco-facc-ledger-double-entry-1",
+    "subject": "Financial Accounting",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Ledger & Double Entry",
+    "difficulty": "easy",
+    "prompt": "Under the double-entry system, a decrease in an asset account is recorded on the",
+    "options": [
+      {
+        "key": "A",
+        "text": "neither side"
+      },
+      {
+        "key": "B",
+        "text": "both sides"
+      },
+      {
+        "key": "C",
+        "text": "credit side"
+      },
+      {
+        "key": "D",
+        "text": "debit side"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Asset decreases are recorded as credits under double-entry rules."
+  },
+  {
+    "id": "neco-facc-ledger-double-entry-2",
+    "subject": "Financial Accounting",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Ledger & Double Entry",
+    "difficulty": "medium",
+    "prompt": "When a business owner introduces additional capital into the business in cash, the correct entry is to",
+    "options": [
+      {
+        "key": "A",
+        "text": "debit Cash account and credit Capital account"
+      },
+      {
+        "key": "B",
+        "text": "debit Drawings account and credit Cash account"
+      },
+      {
+        "key": "C",
+        "text": "debit Cash account and credit Drawings account"
+      },
+      {
+        "key": "D",
+        "text": "debit Capital account and credit Cash account"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Cash (asset) increases (debit); Capital (equity) increases (credit)."
+  },
+  {
+    "id": "neco-facc-ledger-double-entry-3",
+    "subject": "Financial Accounting",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Ledger & Double Entry",
+    "difficulty": "hard",
+    "prompt": "A decrease in a liability account, such as paying off a loan, is recorded on the",
+    "options": [
+      {
+        "key": "A",
+        "text": "both sides"
+      },
+      {
+        "key": "B",
+        "text": "debit side"
+      },
+      {
+        "key": "C",
+        "text": "neither side"
+      },
+      {
+        "key": "D",
+        "text": "credit side"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Liability decreases are recorded as debits under double-entry rules."
+  },
+  {
+    "id": "neco-facc-ledger-double-entry-4",
+    "subject": "Financial Accounting",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Ledger & Double Entry",
+    "difficulty": "medium",
+    "prompt": "An increase in an expense account is recorded on the",
+    "options": [
+      {
+        "key": "A",
+        "text": "both sides"
+      },
+      {
+        "key": "B",
+        "text": "debit side"
+      },
+      {
+        "key": "C",
+        "text": "neither side"
+      },
+      {
+        "key": "D",
+        "text": "credit side"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Expense increases are recorded as debits."
+  },
+  {
+    "id": "neco-facc-ledger-double-entry-5",
+    "subject": "Financial Accounting",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Ledger & Double Entry",
+    "difficulty": "easy",
+    "prompt": "An increase in revenue (income) is recorded on the",
+    "options": [
+      {
+        "key": "A",
+        "text": "neither side"
+      },
+      {
+        "key": "B",
+        "text": "both sides"
+      },
+      {
+        "key": "C",
+        "text": "debit side"
+      },
+      {
+        "key": "D",
+        "text": "credit side"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Revenue increases are recorded as credits."
+  },
+  {
+    "id": "neco-facc-trial-balance-1",
+    "subject": "Financial Accounting",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Trial Balance",
+    "difficulty": "easy",
+    "prompt": "A trial balance lists all the",
+    "options": [
+      {
+        "key": "A",
+        "text": "ledger account balances at a particular date"
+      },
+      {
+        "key": "B",
+        "text": "assets of a business only"
+      },
+      {
+        "key": "C",
+        "text": "cash transactions of a single day"
+      },
+      {
+        "key": "D",
+        "text": "profits made over a year"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "A trial balance summarizes every ledger account's balance at a given date."
+  },
+  {
+    "id": "neco-facc-trial-balance-2",
+    "subject": "Financial Accounting",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Trial Balance",
+    "difficulty": "medium",
+    "prompt": "An error where a transaction is entered in the correct accounts but with the wrong amount on both sides is called an error of",
+    "options": [
+      {
+        "key": "A",
+        "text": "principle"
+      },
+      {
+        "key": "B",
+        "text": "commission"
+      },
+      {
+        "key": "C",
+        "text": "omission"
+      },
+      {
+        "key": "D",
+        "text": "original entry"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "An error of original entry carries an incorrect figure into both correct accounts."
+  },
+  {
+    "id": "neco-facc-trial-balance-3",
+    "subject": "Financial Accounting",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Trial Balance",
+    "difficulty": "hard",
+    "prompt": "An error in which a transaction is entered in the wrong class of account, e.g. treating a purchase of a fixed asset as an ordinary expense, is called an error of",
+    "options": [
+      {
+        "key": "A",
+        "text": "principle"
+      },
+      {
+        "key": "B",
+        "text": "commission"
+      },
+      {
+        "key": "C",
+        "text": "omission"
+      },
+      {
+        "key": "D",
+        "text": "original entry"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "An error of principle misclassifies a transaction against accounting rules."
+  },
+  {
+    "id": "neco-facc-trial-balance-4",
+    "subject": "Financial Accounting",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Trial Balance",
+    "difficulty": "medium",
+    "prompt": "A trial balance that balances (i.e. total debits equal total credits) proves that",
+    "options": [
+      {
+        "key": "A",
+        "text": "the arithmetic in the ledger is accurate, though some errors may still exist"
+      },
+      {
+        "key": "B",
+        "text": "no errors exist anywhere in the accounts"
+      },
+      {
+        "key": "C",
+        "text": "the business has made a profit"
+      },
+      {
+        "key": "D",
+        "text": "all transactions have been recorded correctly with certainty"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "A balanced trial balance confirms arithmetic accuracy but not the absence of all errors."
+  },
+  {
+    "id": "neco-facc-trial-balance-5",
+    "subject": "Financial Accounting",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Trial Balance",
+    "difficulty": "easy",
+    "prompt": "Errors that do not affect the balancing of a trial balance are broadly called errors",
+    "options": [
+      {
+        "key": "A",
+        "text": "of casting only"
+      },
+      {
+        "key": "B",
+        "text": "always disclosed by the trial balance"
+      },
+      {
+        "key": "C",
+        "text": "of transposition of totals only"
+      },
+      {
+        "key": "D",
+        "text": "not disclosed by the trial balance"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Some errors, like errors of principle or omission, don't unbalance the trial balance."
+  },
+  {
+    "id": "neco-facc-final-accounts-1",
+    "subject": "Financial Accounting",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Final Accounts",
+    "difficulty": "easy",
+    "prompt": "The statement that shows a business's assets, liabilities and capital at a particular date is called the",
+    "options": [
+      {
+        "key": "A",
+        "text": "cash flow statement"
+      },
+      {
+        "key": "B",
+        "text": "balance sheet"
+      },
+      {
+        "key": "C",
+        "text": "trading account"
+      },
+      {
+        "key": "D",
+        "text": "profit and loss account"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "The balance sheet shows a business's financial position at a point in time."
+  },
+  {
+    "id": "neco-facc-final-accounts-2",
+    "subject": "Financial Accounting",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Final Accounts",
+    "difficulty": "medium",
+    "prompt": "Closing stock (unsold inventory) at the end of a trading period appears in the",
+    "options": [
+      {
+        "key": "A",
+        "text": "cash book only"
+      },
+      {
+        "key": "B",
+        "text": "journal only"
+      },
+      {
+        "key": "C",
+        "text": "profit and loss account only"
+      },
+      {
+        "key": "D",
+        "text": "trading account and the balance sheet"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Closing stock reduces cost of goods sold in the trading account and is shown as a current asset in the balance sheet."
+  },
+  {
+    "id": "neco-facc-final-accounts-3",
+    "subject": "Financial Accounting",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Final Accounts",
+    "difficulty": "hard",
+    "prompt": "Return inwards (sales returns) is deducted from",
+    "options": [
+      {
+        "key": "A",
+        "text": "purchases"
+      },
+      {
+        "key": "B",
+        "text": "gross sales, to arrive at net sales"
+      },
+      {
+        "key": "C",
+        "text": "cost of goods sold directly without adjusting sales"
+      },
+      {
+        "key": "D",
+        "text": "gross profit"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Sales returns reduce gross sales to give net sales figures."
+  },
+  {
+    "id": "neco-facc-final-accounts-4",
+    "subject": "Financial Accounting",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Final Accounts",
+    "difficulty": "medium",
+    "prompt": "Return outwards (purchases returns) is deducted from",
+    "options": [
+      {
+        "key": "A",
+        "text": "net profit"
+      },
+      {
+        "key": "B",
+        "text": "gross purchases, to arrive at net purchases"
+      },
+      {
+        "key": "C",
+        "text": "sales"
+      },
+      {
+        "key": "D",
+        "text": "gross profit"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Purchases returns reduce gross purchases to give net purchases."
+  },
+  {
+    "id": "neco-facc-final-accounts-5",
+    "subject": "Financial Accounting",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Final Accounts",
+    "difficulty": "easy",
+    "prompt": "The final accounts of a sole trader typically comprise the trading account, profit and loss account, and the",
+    "options": [
+      {
+        "key": "A",
+        "text": "statement of changes in equity only"
+      },
+      {
+        "key": "B",
+        "text": "auditor's report only"
+      },
+      {
+        "key": "C",
+        "text": "balance sheet"
+      },
+      {
+        "key": "D",
+        "text": "cash flow statement only"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "A sole trader's final accounts include the trading and profit & loss accounts plus the balance sheet."
+  },
+  {
+    "id": "neco-facc-depreciation-1",
+    "subject": "Financial Accounting",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Depreciation",
+    "difficulty": "easy",
+    "prompt": "The method of depreciation that charges an equal amount of depreciation each year over an asset's useful life is called the",
+    "options": [
+      {
+        "key": "A",
+        "text": "reducing balance method"
+      },
+      {
+        "key": "B",
+        "text": "units of production method"
+      },
+      {
+        "key": "C",
+        "text": "straight-line method"
+      },
+      {
+        "key": "D",
+        "text": "revaluation method"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "The straight-line method spreads depreciation evenly across an asset's useful life."
+  },
+  {
+    "id": "neco-facc-depreciation-2",
+    "subject": "Financial Accounting",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Depreciation",
+    "difficulty": "medium",
+    "prompt": "A machine costing ₦80,000 is depreciated at 10% per annum using the straight-line method. Find the annual depreciation charge.",
+    "options": [
+      {
+        "key": "A",
+        "text": "₦80,000"
+      },
+      {
+        "key": "B",
+        "text": "₦72,000"
+      },
+      {
+        "key": "C",
+        "text": "₦8,000"
+      },
+      {
+        "key": "D",
+        "text": "₦800"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Annual depreciation = 80,000 × 10% = ₦8,000."
+  },
+  {
+    "id": "neco-facc-depreciation-3",
+    "subject": "Financial Accounting",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Depreciation",
+    "difficulty": "hard",
+    "prompt": "The double-entry for recording annual depreciation is to debit the Depreciation (Profit and Loss) account and credit the",
+    "options": [
+      {
+        "key": "A",
+        "text": "Provision for Depreciation (Accumulated Depreciation) account"
+      },
+      {
+        "key": "B",
+        "text": "Capital account"
+      },
+      {
+        "key": "C",
+        "text": "Cash account"
+      },
+      {
+        "key": "D",
+        "text": "Sales account"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Depreciation is credited to the accumulated depreciation account, not cash."
+  },
+  {
+    "id": "neco-facc-depreciation-4",
+    "subject": "Financial Accounting",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Depreciation",
+    "difficulty": "medium",
+    "prompt": "The estimated amount an asset can be sold for at the end of its useful life is called its",
+    "options": [
+      {
+        "key": "A",
+        "text": "residual (scrap) value"
+      },
+      {
+        "key": "B",
+        "text": "historical cost"
+      },
+      {
+        "key": "C",
+        "text": "market value at purchase"
+      },
+      {
+        "key": "D",
+        "text": "net book value at purchase"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Residual (scrap) value is the expected value at the end of an asset's useful life."
+  },
+  {
+    "id": "neco-facc-depreciation-5",
+    "subject": "Financial Accounting",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Depreciation",
+    "difficulty": "easy",
+    "prompt": "Depreciation is charged on which of the following categories of assets?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Fixed (non-current) assets"
+      },
+      {
+        "key": "B",
+        "text": "Intangible goodwill only"
+      },
+      {
+        "key": "C",
+        "text": "Current assets like cash and debtors"
+      },
+      {
+        "key": "D",
+        "text": "None of the business's assets"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Depreciation applies to fixed assets that lose value over their useful life."
+  },
+  {
+    "id": "neco-comm-trade-classification-1",
+    "subject": "Commerce",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Trade & Its Classification",
+    "difficulty": "easy",
+    "prompt": "Trade between two or more different countries is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "retail trade"
+      },
+      {
+        "key": "B",
+        "text": "wholesale trade"
+      },
+      {
+        "key": "C",
+        "text": "foreign (international) trade"
+      },
+      {
+        "key": "D",
+        "text": "home trade"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Foreign trade is commerce conducted across national borders."
+  },
+  {
+    "id": "neco-comm-trade-classification-2",
+    "subject": "Commerce",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Trade & Its Classification",
+    "difficulty": "medium",
+    "prompt": "The branch of foreign trade concerned with bringing goods into a country from abroad is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "entrepot trade"
+      },
+      {
+        "key": "B",
+        "text": "export trade"
+      },
+      {
+        "key": "C",
+        "text": "home trade"
+      },
+      {
+        "key": "D",
+        "text": "import trade"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Import trade brings foreign goods into a country."
+  },
+  {
+    "id": "neco-comm-trade-classification-3",
+    "subject": "Commerce",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Trade & Its Classification",
+    "difficulty": "hard",
+    "prompt": "The branch of foreign trade concerned with sending locally produced goods to other countries is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "entrepot trade"
+      },
+      {
+        "key": "B",
+        "text": "export trade"
+      },
+      {
+        "key": "C",
+        "text": "import trade"
+      },
+      {
+        "key": "D",
+        "text": "retail trade"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Export trade sends domestically produced goods abroad."
+  },
+  {
+    "id": "neco-comm-trade-classification-4",
+    "subject": "Commerce",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Trade & Its Classification",
+    "difficulty": "medium",
+    "prompt": "A document showing an itemized list of goods sold, including quantities and prices, sent to a buyer, is called a/an",
+    "options": [
+      {
+        "key": "A",
+        "text": "cheque"
+      },
+      {
+        "key": "B",
+        "text": "receipt"
+      },
+      {
+        "key": "C",
+        "text": "invoice"
+      },
+      {
+        "key": "D",
+        "text": "bill of lading"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "An invoice itemizes goods sold, their quantities and prices."
+  },
+  {
+    "id": "neco-comm-trade-classification-5",
+    "subject": "Commerce",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Trade & Its Classification",
+    "difficulty": "easy",
+    "prompt": "The difference between the value of a country's exports and imports over a period is called its",
+    "options": [
+      {
+        "key": "A",
+        "text": "trial balance"
+      },
+      {
+        "key": "B",
+        "text": "bank statement"
+      },
+      {
+        "key": "C",
+        "text": "balance of trade"
+      },
+      {
+        "key": "D",
+        "text": "balance sheet"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "The balance of trade is the net difference between exports and imports."
+  },
+  {
+    "id": "neco-comm-aids-to-trade-1",
+    "subject": "Commerce",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Aids to Trade",
+    "difficulty": "easy",
+    "prompt": "The aid to trade that involves conveying information and messages between buyers and sellers is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "insurance"
+      },
+      {
+        "key": "B",
+        "text": "transportation"
+      },
+      {
+        "key": "C",
+        "text": "warehousing"
+      },
+      {
+        "key": "D",
+        "text": "communication"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Communication conveys information needed to conduct trade."
+  },
+  {
+    "id": "neco-comm-aids-to-trade-2",
+    "subject": "Commerce",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Aids to Trade",
+    "difficulty": "medium",
+    "prompt": "Banking, as an aid to trade, primarily assists commerce by providing",
+    "options": [
+      {
+        "key": "A",
+        "text": "storage facilities for unsold goods"
+      },
+      {
+        "key": "B",
+        "text": "financial services such as loans, credit and safekeeping of money"
+      },
+      {
+        "key": "C",
+        "text": "advertising campaigns"
+      },
+      {
+        "key": "D",
+        "text": "physical transportation of goods"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Banking supports trade through credit, loans and money management services."
+  },
+  {
+    "id": "neco-comm-aids-to-trade-3",
+    "subject": "Commerce",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Aids to Trade",
+    "difficulty": "hard",
+    "prompt": "The aid to trade concerned with buying and selling stocks and shares of companies is provided mainly through the",
+    "options": [
+      {
+        "key": "A",
+        "text": "insurance company"
+      },
+      {
+        "key": "B",
+        "text": "post office"
+      },
+      {
+        "key": "C",
+        "text": "stock exchange"
+      },
+      {
+        "key": "D",
+        "text": "warehouse"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "The stock exchange facilitates trading of company shares and securities."
+  },
+  {
+    "id": "neco-comm-aids-to-trade-4",
+    "subject": "Commerce",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Aids to Trade",
+    "difficulty": "medium",
+    "prompt": "One major benefit of warehousing as an aid to trade is that it helps to",
+    "options": [
+      {
+        "key": "A",
+        "text": "balance the supply of seasonal goods with demand throughout the year"
+      },
+      {
+        "key": "B",
+        "text": "replace the need for money"
+      },
+      {
+        "key": "C",
+        "text": "eliminate the need for transport"
+      },
+      {
+        "key": "D",
+        "text": "prevent all forms of trade risk"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Warehousing stores seasonal goods for release when demand arises."
+  },
+  {
+    "id": "neco-comm-aids-to-trade-5",
+    "subject": "Commerce",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Aids to Trade",
+    "difficulty": "easy",
+    "prompt": "The aid to trade responsible for physically moving raw materials and finished goods is",
+    "options": [
+      {
+        "key": "A",
+        "text": "advertising"
+      },
+      {
+        "key": "B",
+        "text": "insurance"
+      },
+      {
+        "key": "C",
+        "text": "banking"
+      },
+      {
+        "key": "D",
+        "text": "transport"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Transport physically moves goods between production and consumption points."
+  },
+  {
+    "id": "neco-comm-business-organisation-1",
+    "subject": "Commerce",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Business Organisation",
+    "difficulty": "easy",
+    "prompt": "A business that is registered and legally recognized as a separate entity from its owners, with shares that can be bought and sold, is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "sole proprietorship"
+      },
+      {
+        "key": "B",
+        "text": "joint-stock (limited liability) company"
+      },
+      {
+        "key": "C",
+        "text": "cooperative society"
+      },
+      {
+        "key": "D",
+        "text": "partnership"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "A joint-stock company is a legally separate entity with transferable shares."
+  },
+  {
+    "id": "neco-comm-business-organisation-2",
+    "subject": "Commerce",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Business Organisation",
+    "difficulty": "medium",
+    "prompt": "A private limited company differs from a public limited company mainly in that its shares",
+    "options": [
+      {
+        "key": "A",
+        "text": "can be freely traded on the stock exchange"
+      },
+      {
+        "key": "B",
+        "text": "must be owned entirely by the government"
+      },
+      {
+        "key": "C",
+        "text": "cannot be freely traded on the stock exchange to the general public"
+      },
+      {
+        "key": "D",
+        "text": "cannot be transferred at all"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Private company shares are restricted and not offered to the general public."
+  },
+  {
+    "id": "neco-comm-business-organisation-3",
+    "subject": "Commerce",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Business Organisation",
+    "difficulty": "hard",
+    "prompt": "One disadvantage of a partnership business, compared to a limited liability company, is that partners generally have",
+    "options": [
+      {
+        "key": "A",
+        "text": "no share of the profits"
+      },
+      {
+        "key": "B",
+        "text": "unlimited liability for the debts of the business"
+      },
+      {
+        "key": "C",
+        "text": "no say in management decisions"
+      },
+      {
+        "key": "D",
+        "text": "guaranteed government funding"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Ordinary partners typically bear unlimited personal liability for business debts."
+  },
+  {
+    "id": "neco-comm-business-organisation-4",
+    "subject": "Commerce",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Business Organisation",
+    "difficulty": "medium",
+    "prompt": "A document that sets out the rules governing the internal management of a registered company is called the",
+    "options": [
+      {
+        "key": "A",
+        "text": "invoice"
+      },
+      {
+        "key": "B",
+        "text": "Articles of Association"
+      },
+      {
+        "key": "C",
+        "text": "Memorandum of Understanding"
+      },
+      {
+        "key": "D",
+        "text": "trial balance"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "The Articles of Association govern a company's internal management rules."
+  },
+  {
+    "id": "neco-comm-business-organisation-5",
+    "subject": "Commerce",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Business Organisation",
+    "difficulty": "easy",
+    "prompt": "The minimum number of persons required to form a partnership business is generally",
+    "options": [
+      {
+        "key": "A",
+        "text": "five"
+      },
+      {
+        "key": "B",
+        "text": "one"
+      },
+      {
+        "key": "C",
+        "text": "ten"
+      },
+      {
+        "key": "D",
+        "text": "two"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "A partnership requires at least two people to form."
+  },
+  {
+    "id": "neco-comm-money-banking-1",
+    "subject": "Commerce",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Money & Banking",
+    "difficulty": "easy",
+    "prompt": "One of the main functions of money is to serve as a",
+    "options": [
+      {
+        "key": "A",
+        "text": "legal document"
+      },
+      {
+        "key": "B",
+        "text": "medium of exchange"
+      },
+      {
+        "key": "C",
+        "text": "form of insurance"
+      },
+      {
+        "key": "D",
+        "text": "type of collateral only"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Money's primary function is facilitating exchange of goods and services."
+  },
+  {
+    "id": "neco-comm-money-banking-2",
+    "subject": "Commerce",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Money & Banking",
+    "difficulty": "medium",
+    "prompt": "A loan facility that allows a current account holder to withdraw more money than they actually have in their account, up to an agreed limit, is called a/an",
+    "options": [
+      {
+        "key": "A",
+        "text": "direct debit"
+      },
+      {
+        "key": "B",
+        "text": "standing order"
+      },
+      {
+        "key": "C",
+        "text": "fixed deposit"
+      },
+      {
+        "key": "D",
+        "text": "overdraft"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "An overdraft permits withdrawals beyond the account balance up to an agreed limit."
+  },
+  {
+    "id": "neco-comm-money-banking-3",
+    "subject": "Commerce",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Money & Banking",
+    "difficulty": "hard",
+    "prompt": "The use of cheques, electronic transfers, and other non-cash instruments to make payments is generally referred to as",
+    "options": [
+      {
+        "key": "A",
+        "text": "barter trade"
+      },
+      {
+        "key": "B",
+        "text": "physical trade only"
+      },
+      {
+        "key": "C",
+        "text": "credit/cashless transactions"
+      },
+      {
+        "key": "D",
+        "text": "subsistence trade"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Cashless transactions use instruments like cheques and transfers instead of physical cash."
+  },
+  {
+    "id": "neco-comm-money-banking-4",
+    "subject": "Commerce",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Money & Banking",
+    "difficulty": "medium",
+    "prompt": "A written instruction to a bank to make regular, fixed payments from an account, such as monthly rent, is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "overdraft"
+      },
+      {
+        "key": "B",
+        "text": "bank draft"
+      },
+      {
+        "key": "C",
+        "text": "standing order"
+      },
+      {
+        "key": "D",
+        "text": "cheque"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "A standing order authorizes recurring fixed payments from an account."
+  },
+  {
+    "id": "neco-comm-money-banking-5",
+    "subject": "Commerce",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Money & Banking",
+    "difficulty": "easy",
+    "prompt": "The institution primarily responsible for issuing a country's currency notes and coins is the",
+    "options": [
+      {
+        "key": "A",
+        "text": "commercial bank"
+      },
+      {
+        "key": "B",
+        "text": "central bank"
+      },
+      {
+        "key": "C",
+        "text": "microfinance bank"
+      },
+      {
+        "key": "D",
+        "text": "insurance company"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "The central bank has the sole authority to issue a country's currency."
+  },
+  {
+    "id": "neco-comm-insurance-1",
+    "subject": "Commerce",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Insurance",
+    "difficulty": "easy",
+    "prompt": "Insurance that provides a payout to beneficiaries upon the death of the insured person is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "fire insurance"
+      },
+      {
+        "key": "B",
+        "text": "marine insurance"
+      },
+      {
+        "key": "C",
+        "text": "motor insurance"
+      },
+      {
+        "key": "D",
+        "text": "life insurance"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Life insurance pays beneficiaries when the insured dies."
+  },
+  {
+    "id": "neco-comm-insurance-2",
+    "subject": "Commerce",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Insurance",
+    "difficulty": "medium",
+    "prompt": "The principle of insurance which requires that the insured must have a genuine financial interest in the subject matter of the insurance is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "contribution"
+      },
+      {
+        "key": "B",
+        "text": "utmost good faith"
+      },
+      {
+        "key": "C",
+        "text": "indemnity"
+      },
+      {
+        "key": "D",
+        "text": "insurable interest"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Insurable interest requires a real financial stake in the insured item."
+  },
+  {
+    "id": "neco-comm-insurance-3",
+    "subject": "Commerce",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Insurance",
+    "difficulty": "hard",
+    "prompt": "Where two or more insurance policies cover the same risk, the principle that allows insurers to share the cost of a claim proportionately is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "contribution"
+      },
+      {
+        "key": "B",
+        "text": "insurable interest"
+      },
+      {
+        "key": "C",
+        "text": "indemnity"
+      },
+      {
+        "key": "D",
+        "text": "subrogation"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Contribution splits a claim's cost among insurers covering the same risk."
+  },
+  {
+    "id": "neco-comm-insurance-4",
+    "subject": "Commerce",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Insurance",
+    "difficulty": "medium",
+    "prompt": "After paying a claim, the right of an insurance company to take over the insured's legal claims against a third party responsible for the loss is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "indemnity"
+      },
+      {
+        "key": "B",
+        "text": "contribution"
+      },
+      {
+        "key": "C",
+        "text": "utmost good faith"
+      },
+      {
+        "key": "D",
+        "text": "subrogation"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Subrogation lets an insurer pursue a liable third party after paying a claim."
+  },
+  {
+    "id": "neco-comm-insurance-5",
+    "subject": "Commerce",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Insurance",
+    "difficulty": "easy",
+    "prompt": "Insurance that covers loss or damage to property caused by outbreak of fire is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "fidelity insurance"
+      },
+      {
+        "key": "B",
+        "text": "marine insurance"
+      },
+      {
+        "key": "C",
+        "text": "fire insurance"
+      },
+      {
+        "key": "D",
+        "text": "life insurance"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Fire insurance protects against loss or damage caused by fire."
+  },
+  {
+    "id": "neco-office-organisation-1",
+    "subject": "Office Practice",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Office Organisation",
+    "difficulty": "easy",
+    "prompt": "An office layout in which departments are grouped together based on similar functions is generally aimed at improving",
+    "options": [
+      {
+        "key": "A",
+        "text": "efficiency and coordination of work"
+      },
+      {
+        "key": "B",
+        "text": "product manufacturing"
+      },
+      {
+        "key": "C",
+        "text": "employee salaries"
+      },
+      {
+        "key": "D",
+        "text": "physical decoration only"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Functional grouping of departments improves workflow coordination."
+  },
+  {
+    "id": "neco-office-organisation-2",
+    "subject": "Office Practice",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Office Organisation",
+    "difficulty": "medium",
+    "prompt": "A landscaped office is a variation of the open-plan office that additionally uses",
+    "options": [
+      {
+        "key": "A",
+        "text": "completely enclosed rooms for every worker"
+      },
+      {
+        "key": "B",
+        "text": "outdoor-only working spaces"
+      },
+      {
+        "key": "C",
+        "text": "no furniture at all"
+      },
+      {
+        "key": "D",
+        "text": "plants, screens and furniture to create some division of space"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Landscaped offices use greenery and screens to soften an open-plan layout."
+  },
+  {
+    "id": "neco-office-organisation-3",
+    "subject": "Office Practice",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Office Organisation",
+    "difficulty": "hard",
+    "prompt": "One disadvantage commonly associated with the open-plan office layout is",
+    "options": [
+      {
+        "key": "A",
+        "text": "increased noise and distraction for workers"
+      },
+      {
+        "key": "B",
+        "text": "high cost of building many separate rooms"
+      },
+      {
+        "key": "C",
+        "text": "complete lack of communication among staff"
+      },
+      {
+        "key": "D",
+        "text": "difficulty supervising staff"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Open-plan layouts can generate noise and distraction from shared space."
+  },
+  {
+    "id": "neco-office-organisation-4",
+    "subject": "Office Practice",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Office Organisation",
+    "difficulty": "medium",
+    "prompt": "The main office of an organisation, from which its overall administration is coordinated, is called the",
+    "options": [
+      {
+        "key": "A",
+        "text": "mobile office"
+      },
+      {
+        "key": "B",
+        "text": "branch office"
+      },
+      {
+        "key": "C",
+        "text": "head office"
+      },
+      {
+        "key": "D",
+        "text": "sub-office"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "The head office coordinates the organisation's overall administration."
+  },
+  {
+    "id": "neco-office-organisation-5",
+    "subject": "Office Practice",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Office Organisation",
+    "difficulty": "easy",
+    "prompt": "A smaller office set up by an organisation in a different location to serve customers closer to them is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "head office"
+      },
+      {
+        "key": "B",
+        "text": "virtual office"
+      },
+      {
+        "key": "C",
+        "text": "branch office"
+      },
+      {
+        "key": "D",
+        "text": "home office"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "A branch office extends services to customers in another location."
+  },
+  {
+    "id": "neco-office-equipment-1",
+    "subject": "Office Practice",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Office Equipment & Machines",
+    "difficulty": "easy",
+    "prompt": "A machine used to add, subtract, multiply and divide numbers quickly in office calculations is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "typewriter"
+      },
+      {
+        "key": "B",
+        "text": "calculator"
+      },
+      {
+        "key": "C",
+        "text": "shredder"
+      },
+      {
+        "key": "D",
+        "text": "stapler"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "A calculator performs arithmetic operations quickly."
+  },
+  {
+    "id": "neco-office-equipment-2",
+    "subject": "Office Practice",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Office Equipment & Machines",
+    "difficulty": "medium",
+    "prompt": "A device that allows documents to be sent electronically over telephone lines to a distant location is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "facsimile (fax) machine"
+      },
+      {
+        "key": "B",
+        "text": "punch"
+      },
+      {
+        "key": "C",
+        "text": "stapler"
+      },
+      {
+        "key": "D",
+        "text": "photocopier"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "A fax machine transmits documents over telephone lines."
+  },
+  {
+    "id": "neco-office-equipment-3",
+    "subject": "Office Practice",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Office Equipment & Machines",
+    "difficulty": "hard",
+    "prompt": "One key advantage of using a computer with word-processing software over a manual typewriter is the ability to",
+    "options": [
+      {
+        "key": "A",
+        "text": "correct errors and reformat text without retyping the whole document"
+      },
+      {
+        "key": "B",
+        "text": "operate without any electricity supply"
+      },
+      {
+        "key": "C",
+        "text": "eliminate the need for printers entirely"
+      },
+      {
+        "key": "D",
+        "text": "produce carbon copies automatically"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Word processors allow easy editing without full retyping."
+  },
+  {
+    "id": "neco-office-equipment-4",
+    "subject": "Office Practice",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Office Equipment & Machines",
+    "difficulty": "medium",
+    "prompt": "A small tray or rack used to hold incoming and outgoing correspondence on an office desk is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "tray/desk organiser"
+      },
+      {
+        "key": "B",
+        "text": "filing cabinet"
+      },
+      {
+        "key": "C",
+        "text": "guillotine"
+      },
+      {
+        "key": "D",
+        "text": "shredder"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "A desk tray organizes correspondence awaiting action."
+  },
+  {
+    "id": "neco-office-equipment-5",
+    "subject": "Office Practice",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Office Equipment & Machines",
+    "difficulty": "easy",
+    "prompt": "The office machine specifically used to bind or fasten a large stack of papers using a metal ring or comb is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "shredder"
+      },
+      {
+        "key": "B",
+        "text": "stapler"
+      },
+      {
+        "key": "C",
+        "text": "punch"
+      },
+      {
+        "key": "D",
+        "text": "binding machine"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "A binding machine fastens large document stacks with rings or combs."
+  },
+  {
+    "id": "neco-office-filing-1",
+    "subject": "Office Practice",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Filing & Records Management",
+    "difficulty": "easy",
+    "prompt": "A filing system in which documents are arranged according to specific reference numbers assigned to them is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "geographical filing"
+      },
+      {
+        "key": "B",
+        "text": "chronological filing"
+      },
+      {
+        "key": "C",
+        "text": "numerical filing"
+      },
+      {
+        "key": "D",
+        "text": "alphabetical filing"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Numerical filing organizes documents by assigned reference numbers."
+  },
+  {
+    "id": "neco-office-filing-2",
+    "subject": "Office Practice",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Filing & Records Management",
+    "difficulty": "medium",
+    "prompt": "A filing system in which documents relating to the same topic are grouped together, regardless of date or sender, is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "geographical filing"
+      },
+      {
+        "key": "B",
+        "text": "numerical filing"
+      },
+      {
+        "key": "C",
+        "text": "subject filing"
+      },
+      {
+        "key": "D",
+        "text": "chronological filing"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Subject filing groups documents by topic rather than date or origin."
+  },
+  {
+    "id": "neco-office-filing-3",
+    "subject": "Office Practice",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Filing & Records Management",
+    "difficulty": "hard",
+    "prompt": "A centralised filing system, in which all departments' records are kept in one central location, has the advantage of",
+    "options": [
+      {
+        "key": "A",
+        "text": "giving each department full independent control of its own files only"
+      },
+      {
+        "key": "B",
+        "text": "reducing duplication of records and equipment across departments"
+      },
+      {
+        "key": "C",
+        "text": "making records less secure"
+      },
+      {
+        "key": "D",
+        "text": "making retrieval always slower"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Centralized filing avoids duplicate records and equipment across departments."
+  },
+  {
+    "id": "neco-office-filing-4",
+    "subject": "Office Practice",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Filing & Records Management",
+    "difficulty": "medium",
+    "prompt": "The process of removing and disposing of old, no-longer-needed files from the filing system is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "weeding (culling) of files"
+      },
+      {
+        "key": "B",
+        "text": "cross-referencing"
+      },
+      {
+        "key": "C",
+        "text": "indexing"
+      },
+      {
+        "key": "D",
+        "text": "classification"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Weeding removes outdated or unneeded files from the system."
+  },
+  {
+    "id": "neco-office-filing-5",
+    "subject": "Office Practice",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Filing & Records Management",
+    "difficulty": "easy",
+    "prompt": "A device used to indicate where a file has been temporarily removed from a filing cabinet is called a/an",
+    "options": [
+      {
+        "key": "A",
+        "text": "index card"
+      },
+      {
+        "key": "B",
+        "text": "out-guide (absent card)"
+      },
+      {
+        "key": "C",
+        "text": "folder tab"
+      },
+      {
+        "key": "D",
+        "text": "divider"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "An out-guide marks the location of a temporarily removed file."
+  },
+  {
+    "id": "neco-office-mail-1",
+    "subject": "Office Practice",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Mail Handling & Correspondence",
+    "difficulty": "easy",
+    "prompt": "A record kept by an office listing details of letters received, such as sender and date, is called the",
+    "options": [
+      {
+        "key": "A",
+        "text": "incoming mail register"
+      },
+      {
+        "key": "B",
+        "text": "outgoing mail register"
+      },
+      {
+        "key": "C",
+        "text": "cash book"
+      },
+      {
+        "key": "D",
+        "text": "visitors' book"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "The incoming mail register logs details of received correspondence."
+  },
+  {
+    "id": "neco-office-mail-2",
+    "subject": "Office Practice",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Mail Handling & Correspondence",
+    "difficulty": "medium",
+    "prompt": "Confidential letters marked 'Private and Confidential' received in an office should normally be",
+    "options": [
+      {
+        "key": "A",
+        "text": "photocopied for public display"
+      },
+      {
+        "key": "B",
+        "text": "passed unopened to the addressee"
+      },
+      {
+        "key": "C",
+        "text": "opened and read by the mail clerk first"
+      },
+      {
+        "key": "D",
+        "text": "discarded immediately"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Confidential mail should reach its addressee unopened."
+  },
+  {
+    "id": "neco-office-mail-3",
+    "subject": "Office Practice",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Mail Handling & Correspondence",
+    "difficulty": "hard",
+    "prompt": "One reason for date-stamping incoming letters as soon as they are received is to",
+    "options": [
+      {
+        "key": "A",
+        "text": "provide evidence of the exact date a letter was received, useful for tracking and reference"
+      },
+      {
+        "key": "B",
+        "text": "prevent the letter from being read"
+      },
+      {
+        "key": "C",
+        "text": "make the letter look official only"
+      },
+      {
+        "key": "D",
+        "text": "replace the need for a reply"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Date-stamping creates a reliable record of when correspondence arrived."
+  },
+  {
+    "id": "neco-office-mail-4",
+    "subject": "Office Practice",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Mail Handling & Correspondence",
+    "difficulty": "medium",
+    "prompt": "A letter written on behalf of an organisation to conduct official business with another party is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "circular"
+      },
+      {
+        "key": "B",
+        "text": "business letter"
+      },
+      {
+        "key": "C",
+        "text": "memo"
+      },
+      {
+        "key": "D",
+        "text": "personal letter"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "A business letter conducts official correspondence between organisations."
+  },
+  {
+    "id": "neco-office-mail-5",
+    "subject": "Office Practice",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Mail Handling & Correspondence",
+    "difficulty": "easy",
+    "prompt": "A message sent to inform many people or departments within or outside an organisation about the same information at once is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "invoice"
+      },
+      {
+        "key": "B",
+        "text": "circular letter"
+      },
+      {
+        "key": "C",
+        "text": "personal letter"
+      },
+      {
+        "key": "D",
+        "text": "receipt"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "A circular letter distributes the same information to multiple recipients."
+  },
+  {
+    "id": "neco-office-personnel-1",
+    "subject": "Office Practice",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Duties of Office Personnel",
+    "difficulty": "easy",
+    "prompt": "The office worker responsible for keeping and organizing the financial records and books of account is typically the",
+    "options": [
+      {
+        "key": "A",
+        "text": "messenger"
+      },
+      {
+        "key": "B",
+        "text": "book-keeper/accounts clerk"
+      },
+      {
+        "key": "C",
+        "text": "typist"
+      },
+      {
+        "key": "D",
+        "text": "receptionist"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "A book-keeper maintains the financial records of a business."
+  },
+  {
+    "id": "neco-office-personnel-2",
+    "subject": "Office Practice",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Duties of Office Personnel",
+    "difficulty": "medium",
+    "prompt": "One of the main duties of an office manager is to",
+    "options": [
+      {
+        "key": "A",
+        "text": "manufacture the company's products"
+      },
+      {
+        "key": "B",
+        "text": "supervise and coordinate the activities of office staff"
+      },
+      {
+        "key": "C",
+        "text": "drive company vehicles"
+      },
+      {
+        "key": "D",
+        "text": "sell goods directly to customers"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "An office manager coordinates and supervises administrative staff."
+  },
+  {
+    "id": "neco-office-personnel-3",
+    "subject": "Office Practice",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Duties of Office Personnel",
+    "difficulty": "hard",
+    "prompt": "A good receptionist is expected to demonstrate, among other qualities,",
+    "options": [
+      {
+        "key": "A",
+        "text": "preference for handling only internal staff matters"
+      },
+      {
+        "key": "B",
+        "text": "disregard for the organisation's public image"
+      },
+      {
+        "key": "C",
+        "text": "impatience with visitors who ask questions"
+      },
+      {
+        "key": "D",
+        "text": "courtesy, patience and a pleasant appearance when dealing with visitors"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Receptionists represent the organisation's public face and should be courteous and patient."
+  },
+  {
+    "id": "neco-office-personnel-4",
+    "subject": "Office Practice",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Duties of Office Personnel",
+    "difficulty": "medium",
+    "prompt": "The office personnel responsible for typing letters, reports and other documents from drafts or dictation is the",
+    "options": [
+      {
+        "key": "A",
+        "text": "cashier"
+      },
+      {
+        "key": "B",
+        "text": "messenger"
+      },
+      {
+        "key": "C",
+        "text": "office cleaner"
+      },
+      {
+        "key": "D",
+        "text": "typist"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "A typist prepares documents from drafts or dictated material."
+  },
+  {
+    "id": "neco-office-personnel-5",
+    "subject": "Office Practice",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Duties of Office Personnel",
+    "difficulty": "easy",
+    "prompt": "The senior officer generally responsible for the overall administration and smooth running of an office is the",
+    "options": [
+      {
+        "key": "A",
+        "text": "messenger"
+      },
+      {
+        "key": "B",
+        "text": "cleaner"
+      },
+      {
+        "key": "C",
+        "text": "security guard"
+      },
+      {
+        "key": "D",
+        "text": "office manager (administrator)"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "The office manager oversees the overall administration of office operations."
+  }
+]

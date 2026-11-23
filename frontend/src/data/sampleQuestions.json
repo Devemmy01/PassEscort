@@ -1,0 +1,427 @@
+[
+  {
+    "id": "math-jamb-2022-001",
+    "subject": "Mathematics",
+    "examBody": "JAMB",
+    "year": 2022,
+    "topic": "Algebra",
+    "difficulty": "easy",
+    "prompt": "Simplify: 3x + 5x - 2x",
+    "options": [
+      { "key": "A", "text": "6x" },
+      { "key": "B", "text": "10x" },
+      { "key": "C", "text": "5x" },
+      { "key": "D", "text": "8x" }
+    ],
+    "answerKey": "A",
+    "explanation": "Collecting like terms: 3x + 5x - 2x = (3 + 5 - 2)x = 6x."
+  },
+  {
+    "id": "math-jamb-2021-014",
+    "subject": "Mathematics",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Quadratic Equations",
+    "difficulty": "medium",
+    "prompt": "Find the roots of x^2 - 5x + 6 = 0",
+    "options": [
+      { "key": "A", "text": "x = 2, x = 3" },
+      { "key": "B", "text": "x = -2, x = -3" },
+      { "key": "C", "text": "x = 1, x = 6" },
+      { "key": "D", "text": "x = -1, x = -6" }
+    ],
+    "answerKey": "A",
+    "explanation": "Factorising: (x - 2)(x - 3) = 0, so x = 2 or x = 3."
+  },
+  {
+    "id": "math-waec-2020-009",
+    "subject": "Mathematics",
+    "examBody": "WAEC",
+    "year": 2020,
+    "topic": "Trigonometry",
+    "difficulty": "hard",
+    "prompt": "If sin(theta) = 0.6, find cos(theta), given theta is acute.",
+    "options": [
+      { "key": "A", "text": "0.8" },
+      { "key": "B", "text": "0.6" },
+      { "key": "C", "text": "0.4" },
+      { "key": "D", "text": "1.0" }
+    ],
+    "answerKey": "A",
+    "explanation": "Using sin^2 + cos^2 = 1: cos = sqrt(1 - 0.36) = sqrt(0.64) = 0.8."
+  },
+  {
+    "id": "eng-jamb-2023-002",
+    "subject": "English",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Comprehension",
+    "difficulty": "easy",
+    "prompt": "Choose the option nearest in meaning to the word 'meticulous'.",
+    "options": [
+      { "key": "A", "text": "careless" },
+      { "key": "B", "text": "careful" },
+      { "key": "C", "text": "quick" },
+      { "key": "D", "text": "lazy" }
+    ],
+    "answerKey": "B",
+    "explanation": "'Meticulous' means showing great attention to detail; the closest synonym is 'careful'."
+  },
+  {
+    "id": "eng-waec-2019-005",
+    "subject": "English",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Lexis and Structure",
+    "difficulty": "medium",
+    "prompt": "Choose the option that best completes the sentence: 'Neither the students nor the teacher ___ ready.'",
+    "options": [
+      { "key": "A", "text": "were" },
+      { "key": "B", "text": "is" },
+      { "key": "C", "text": "are" },
+      { "key": "D", "text": "have been" }
+    ],
+    "answerKey": "B",
+    "explanation": "With 'neither...nor', the verb agrees with the subject closest to it ('the teacher', singular), so 'is' is correct."
+  },
+  {
+    "id": "eng-neco-2021-011",
+    "subject": "English",
+    "examBody": "NECO",
+    "year": 2021,
+    "topic": "Oral English",
+    "difficulty": "medium",
+    "prompt": "Which of the following words has the same vowel sound as 'bird'?",
+    "options": [
+      { "key": "A", "text": "bed" },
+      { "key": "B", "text": "word" },
+      { "key": "C", "text": "bad" },
+      { "key": "D", "text": "bid" }
+    ],
+    "answerKey": "B",
+    "explanation": "'Bird' and 'word' both contain the /ɜː/ vowel sound."
+  },
+  {
+    "id": "phy-jamb-2022-007",
+    "subject": "Physics",
+    "examBody": "JAMB",
+    "year": 2022,
+    "topic": "Mechanics",
+    "difficulty": "medium",
+    "prompt": "A body of mass 2kg moves with a velocity of 5m/s. Calculate its kinetic energy.",
+    "options": [
+      { "key": "A", "text": "10 J" },
+      { "key": "B", "text": "25 J" },
+      { "key": "C", "text": "50 J" },
+      { "key": "D", "text": "5 J" }
+    ],
+    "answerKey": "C",
+    "explanation": "KE = 1/2 m v^2 = 0.5 * 2 * 5^2 = 50 J."
+  },
+  {
+    "id": "phy-waec-2018-003",
+    "subject": "Physics",
+    "examBody": "WAEC",
+    "year": 2018,
+    "topic": "Electricity",
+    "difficulty": "easy",
+    "prompt": "The SI unit of electric current is the",
+    "options": [
+      { "key": "A", "text": "volt" },
+      { "key": "B", "text": "ampere" },
+      { "key": "C", "text": "ohm" },
+      { "key": "D", "text": "watt" }
+    ],
+    "answerKey": "B",
+    "explanation": "Electric current is measured in amperes (A)."
+  },
+  {
+    "id": "phy-neco-2020-016",
+    "subject": "Physics",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Waves",
+    "difficulty": "hard",
+    "prompt": "A wave has a frequency of 50Hz and a wavelength of 4m. Calculate its speed.",
+    "options": [
+      { "key": "A", "text": "12.5 m/s" },
+      { "key": "B", "text": "54 m/s" },
+      { "key": "C", "text": "200 m/s" },
+      { "key": "D", "text": "46 m/s" }
+    ],
+    "answerKey": "C",
+    "explanation": "v = f * lambda = 50 * 4 = 200 m/s."
+  },
+  {
+    "id": "chem-jamb-2021-004",
+    "subject": "Chemistry",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Periodic Table",
+    "difficulty": "easy",
+    "prompt": "Elements in the same group of the periodic table have the same number of",
+    "options": [
+      { "key": "A", "text": "neutrons" },
+      { "key": "B", "text": "protons" },
+      { "key": "C", "text": "valence electrons" },
+      { "key": "D", "text": "energy levels" }
+    ],
+    "answerKey": "C",
+    "explanation": "Elements in the same group share the same number of valence (outermost) electrons, giving similar chemical properties."
+  },
+  {
+    "id": "chem-waec-2022-010",
+    "subject": "Chemistry",
+    "examBody": "WAEC",
+    "year": 2022,
+    "topic": "Acids and Bases",
+    "difficulty": "medium",
+    "prompt": "A solution with pH 3 is",
+    "options": [
+      { "key": "A", "text": "strongly acidic" },
+      { "key": "B", "text": "weakly acidic" },
+      { "key": "C", "text": "neutral" },
+      { "key": "D", "text": "strongly basic" }
+    ],
+    "answerKey": "A",
+    "explanation": "pH values well below 7 indicate strong acidity."
+  },
+  {
+    "id": "chem-neco-2019-008",
+    "subject": "Chemistry",
+    "examBody": "NECO",
+    "year": 2019,
+    "topic": "Chemical Bonding",
+    "difficulty": "hard",
+    "prompt": "The type of bond formed by the complete transfer of electrons from one atom to another is called",
+    "options": [
+      { "key": "A", "text": "covalent bond" },
+      { "key": "B", "text": "ionic bond" },
+      { "key": "C", "text": "metallic bond" },
+      { "key": "D", "text": "hydrogen bond" }
+    ],
+    "answerKey": "B",
+    "explanation": "An ionic bond forms when electrons are transferred completely from one atom to another, creating oppositely charged ions."
+  },
+  {
+    "id": "bio-jamb-2023-006",
+    "subject": "Biology",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Cell Biology",
+    "difficulty": "easy",
+    "prompt": "The organelle responsible for aerobic respiration in a cell is the",
+    "options": [
+      { "key": "A", "text": "nucleus" },
+      { "key": "B", "text": "ribosome" },
+      { "key": "C", "text": "mitochondrion" },
+      { "key": "D", "text": "golgi body" }
+    ],
+    "answerKey": "C",
+    "explanation": "The mitochondrion is the site of aerobic respiration, producing most of the cell's ATP."
+  },
+  {
+    "id": "bio-waec-2020-013",
+    "subject": "Biology",
+    "examBody": "WAEC",
+    "year": 2020,
+    "topic": "Genetics",
+    "difficulty": "medium",
+    "prompt": "In humans, a child with blood group O has parents with genotypes IAIO and IBIO. What is the probability of the child having blood group O?",
+    "options": [
+      { "key": "A", "text": "1/4" },
+      { "key": "B", "text": "1/2" },
+      { "key": "C", "text": "3/4" },
+      { "key": "D", "text": "0" }
+    ],
+    "answerKey": "A",
+    "explanation": "A cross of IAIO x IBIO gives genotype ratio IAIB : IAIO : IBIO : IOIO, so 1/4 chance of blood group O (IOIO)."
+  },
+  {
+    "id": "bio-neco-2018-002",
+    "subject": "Biology",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Ecology",
+    "difficulty": "hard",
+    "prompt": "The continuous flow of energy from producers to consumers in an ecosystem is best represented by a",
+    "options": [
+      { "key": "A", "text": "food chain" },
+      { "key": "B", "text": "carbon cycle" },
+      { "key": "C", "text": "nitrogen cycle" },
+      { "key": "D", "text": "water cycle" }
+    ],
+    "answerKey": "A",
+    "explanation": "A food chain shows the linear transfer of energy from one trophic level to the next, starting with producers."
+  },
+  {
+    "id": "econ-jamb-2022-012",
+    "subject": "Economics",
+    "examBody": "JAMB",
+    "year": 2022,
+    "topic": "Demand and Supply",
+    "difficulty": "easy",
+    "prompt": "An increase in the price of a good, other things being equal, will generally lead to",
+    "options": [
+      { "key": "A", "text": "an increase in quantity demanded" },
+      { "key": "B", "text": "a decrease in quantity demanded" },
+      { "key": "C", "text": "no change in quantity demanded" },
+      { "key": "D", "text": "an increase in supply only" }
+    ],
+    "answerKey": "B",
+    "explanation": "By the law of demand, a rise in price (ceteris paribus) reduces the quantity demanded."
+  },
+  {
+    "id": "econ-waec-2021-015",
+    "subject": "Economics",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "National Income",
+    "difficulty": "medium",
+    "prompt": "Gross Domestic Product (GDP) measures",
+    "options": [
+      { "key": "A", "text": "the total value of goods and services produced within a country in a given period" },
+      { "key": "B", "text": "only the income earned by citizens abroad" },
+      { "key": "C", "text": "the total government spending only" },
+      { "key": "D", "text": "the total value of exports only" }
+    ],
+    "answerKey": "A",
+    "explanation": "GDP is the total market value of all final goods and services produced within a country's borders in a given period."
+  },
+  {
+    "id": "econ-neco-2020-017",
+    "subject": "Economics",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Inflation",
+    "difficulty": "hard",
+    "prompt": "A persistent rise in the general price level of goods and services in an economy is called",
+    "options": [
+      { "key": "A", "text": "deflation" },
+      { "key": "B", "text": "inflation" },
+      { "key": "C", "text": "stagnation" },
+      { "key": "D", "text": "devaluation" }
+    ],
+    "answerKey": "B",
+    "explanation": "Inflation is defined as a sustained increase in the general price level over time."
+  },
+  {
+    "id": "math-neco-2023-018",
+    "subject": "Mathematics",
+    "examBody": "NECO",
+    "year": 2023,
+    "topic": "Statistics",
+    "difficulty": "easy",
+    "prompt": "Find the mean of the numbers 4, 8, 6, 5, 3, 7.",
+    "options": [
+      { "key": "A", "text": "5.5" },
+      { "key": "B", "text": "6" },
+      { "key": "C", "text": "5" },
+      { "key": "D", "text": "6.5" }
+    ],
+    "answerKey": "A",
+    "explanation": "Sum = 4+8+6+5+3+7 = 33, mean = 33/6 = 5.5."
+  },
+  {
+    "id": "phy-jamb-2019-020",
+    "subject": "Physics",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Thermodynamics",
+    "difficulty": "medium",
+    "prompt": "The transfer of heat through a vacuum occurs mainly by",
+    "options": [
+      { "key": "A", "text": "conduction" },
+      { "key": "B", "text": "convection" },
+      { "key": "C", "text": "radiation" },
+      { "key": "D", "text": "diffusion" }
+    ],
+    "answerKey": "C",
+    "explanation": "Radiation does not require a medium and is the only heat transfer method that works through a vacuum."
+  },
+  {
+    "id": "chem-jamb-2023-021",
+    "subject": "Chemistry",
+    "examBody": "JAMB",
+    "year": 2023,
+    "topic": "Organic Chemistry",
+    "difficulty": "medium",
+    "prompt": "The general formula for alkanes is",
+    "options": [
+      { "key": "A", "text": "CnH2n" },
+      { "key": "B", "text": "CnH2n+2" },
+      { "key": "C", "text": "CnH2n-2" },
+      { "key": "D", "text": "CnHn" }
+    ],
+    "answerKey": "B",
+    "explanation": "Alkanes are saturated hydrocarbons with the general formula CnH2n+2."
+  },
+  {
+    "id": "bio-jamb-2021-019",
+    "subject": "Biology",
+    "examBody": "JAMB",
+    "year": 2021,
+    "topic": "Evolution",
+    "difficulty": "hard",
+    "prompt": "The theory that species evolve through natural selection was proposed by",
+    "options": [
+      { "key": "A", "text": "Gregor Mendel" },
+      { "key": "B", "text": "Charles Darwin" },
+      { "key": "C", "text": "Louis Pasteur" },
+      { "key": "D", "text": "Carl Linnaeus" }
+    ],
+    "answerKey": "B",
+    "explanation": "Charles Darwin proposed the theory of evolution by natural selection."
+  },
+  {
+    "id": "eng-jamb-2020-022",
+    "subject": "English",
+    "examBody": "JAMB",
+    "year": 2020,
+    "topic": "Antonyms",
+    "difficulty": "easy",
+    "prompt": "Choose the option that is most opposite in meaning to 'abundant'.",
+    "options": [
+      { "key": "A", "text": "plentiful" },
+      { "key": "B", "text": "scarce" },
+      { "key": "C", "text": "large" },
+      { "key": "D", "text": "many" }
+    ],
+    "answerKey": "B",
+    "explanation": "'Abundant' means existing in large quantities; its opposite is 'scarce'."
+  },
+  {
+    "id": "econ-jamb-2019-023",
+    "subject": "Economics",
+    "examBody": "JAMB",
+    "year": 2019,
+    "topic": "Money and Banking",
+    "difficulty": "easy",
+    "prompt": "The main function of a central bank is to",
+    "options": [
+      { "key": "A", "text": "issue currency and regulate the money supply" },
+      { "key": "B", "text": "sell goods to the public" },
+      { "key": "C", "text": "collect taxes directly from citizens" },
+      { "key": "D", "text": "run private businesses" }
+    ],
+    "answerKey": "A",
+    "explanation": "A central bank's core role is issuing currency and controlling the money supply and monetary policy."
+  },
+  {
+    "id": "math-waec-2023-024",
+    "subject": "Mathematics",
+    "examBody": "WAEC",
+    "year": 2023,
+    "topic": "Mensuration",
+    "difficulty": "medium",
+    "prompt": "Find the area of a circle with radius 7cm. (Take pi = 22/7)",
+    "options": [
+      { "key": "A", "text": "154 cm^2" },
+      { "key": "B", "text": "44 cm^2" },
+      { "key": "C", "text": "22 cm^2" },
+      { "key": "D", "text": "77 cm^2" }
+    ],
+    "answerKey": "A",
+    "explanation": "Area = pi * r^2 = 22/7 * 7 * 7 = 154 cm^2."
+  }
+]

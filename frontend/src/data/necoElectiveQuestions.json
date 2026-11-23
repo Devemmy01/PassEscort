@@ -1,0 +1,4352 @@
+[
+  {
+    "id": "neco-art-elements-1",
+    "subject": "Fine Arts",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Elements of Art",
+    "difficulty": "easy",
+    "prompt": "A mark made by a moving point, used to define edges and outlines in art, is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "texture"
+      },
+      {
+        "key": "B",
+        "text": "line"
+      },
+      {
+        "key": "C",
+        "text": "value"
+      },
+      {
+        "key": "D",
+        "text": "shape"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "A line is a mark tracing a path, used to define edges and outlines."
+  },
+  {
+    "id": "neco-art-elements-2",
+    "subject": "Fine Arts",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Elements of Art",
+    "difficulty": "medium",
+    "prompt": "The area around, between or within objects in a composition is referred to in art as",
+    "options": [
+      {
+        "key": "A",
+        "text": "hue"
+      },
+      {
+        "key": "B",
+        "text": "line"
+      },
+      {
+        "key": "C",
+        "text": "form"
+      },
+      {
+        "key": "D",
+        "text": "space"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Space describes the area occupied by, or surrounding, objects in a work."
+  },
+  {
+    "id": "neco-art-elements-3",
+    "subject": "Fine Arts",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Elements of Art",
+    "difficulty": "hard",
+    "prompt": "A specific colour, such as red or blue, identified by its name, is referred to in art as its",
+    "options": [
+      {
+        "key": "A",
+        "text": "hue"
+      },
+      {
+        "key": "B",
+        "text": "intensity"
+      },
+      {
+        "key": "C",
+        "text": "texture"
+      },
+      {
+        "key": "D",
+        "text": "value"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Hue is the name of a colour, such as red or blue."
+  },
+  {
+    "id": "neco-art-elements-4",
+    "subject": "Fine Arts",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Elements of Art",
+    "difficulty": "medium",
+    "prompt": "The brightness or dullness of a colour is referred to as its",
+    "options": [
+      {
+        "key": "A",
+        "text": "intensity (saturation)"
+      },
+      {
+        "key": "B",
+        "text": "texture"
+      },
+      {
+        "key": "C",
+        "text": "value"
+      },
+      {
+        "key": "D",
+        "text": "hue"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Intensity (saturation) describes how bright or dull a colour appears."
+  },
+  {
+    "id": "neco-art-elements-5",
+    "subject": "Fine Arts",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Elements of Art",
+    "difficulty": "easy",
+    "prompt": "Elements of art arranged to create balance, contrast, and unity in an artwork follow the principles of",
+    "options": [
+      {
+        "key": "A",
+        "text": "design (composition)"
+      },
+      {
+        "key": "B",
+        "text": "chemistry"
+      },
+      {
+        "key": "C",
+        "text": "grammar"
+      },
+      {
+        "key": "D",
+        "text": "physics"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "The principles of design govern how elements of art are organized in a composition."
+  },
+  {
+    "id": "neco-art-drawing-painting-1",
+    "subject": "Fine Arts",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Drawing & Painting Techniques",
+    "difficulty": "easy",
+    "prompt": "The use of gradually darker or lighter tones to create the illusion of depth or form is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "hatching"
+      },
+      {
+        "key": "B",
+        "text": "shading"
+      },
+      {
+        "key": "C",
+        "text": "stippling"
+      },
+      {
+        "key": "D",
+        "text": "sketching"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Shading uses gradated tones to suggest depth and three-dimensional form."
+  },
+  {
+    "id": "neco-art-drawing-painting-2",
+    "subject": "Fine Arts",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Drawing & Painting Techniques",
+    "difficulty": "medium",
+    "prompt": "A painting technique involving thick, textured application of paint, often with visible brush or palette-knife strokes, is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "stippling"
+      },
+      {
+        "key": "B",
+        "text": "wash"
+      },
+      {
+        "key": "C",
+        "text": "impasto"
+      },
+      {
+        "key": "D",
+        "text": "glazing"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Impasto builds up thick layers of paint, leaving visible texture."
+  },
+  {
+    "id": "neco-art-drawing-painting-3",
+    "subject": "Fine Arts",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Drawing & Painting Techniques",
+    "difficulty": "hard",
+    "prompt": "A technique of scratching through a top layer of paint or ink to reveal a different colour underneath is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "sgraffito"
+      },
+      {
+        "key": "B",
+        "text": "impasto"
+      },
+      {
+        "key": "C",
+        "text": "stippling"
+      },
+      {
+        "key": "D",
+        "text": "hatching"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Sgraffito scratches through a surface layer to reveal colour beneath."
+  },
+  {
+    "id": "neco-art-drawing-painting-4",
+    "subject": "Fine Arts",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Drawing & Painting Techniques",
+    "difficulty": "medium",
+    "prompt": "Applying thin, transparent layers of paint over a dried layer to modify colour or tone is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "glazing"
+      },
+      {
+        "key": "B",
+        "text": "hatching"
+      },
+      {
+        "key": "C",
+        "text": "sgraffito"
+      },
+      {
+        "key": "D",
+        "text": "impasto"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Glazing layers transparent paint over dried layers to adjust colour or tone."
+  },
+  {
+    "id": "neco-art-drawing-painting-5",
+    "subject": "Fine Arts",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Drawing & Painting Techniques",
+    "difficulty": "easy",
+    "prompt": "A finished artwork done directly from careful observation of a real object or scene is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "cartoon"
+      },
+      {
+        "key": "B",
+        "text": "doodle"
+      },
+      {
+        "key": "C",
+        "text": "study/observational drawing"
+      },
+      {
+        "key": "D",
+        "text": "abstract drawing"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "An observational drawing is created by studying a real subject directly."
+  },
+  {
+    "id": "neco-art-history-1",
+    "subject": "Fine Arts",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Art History & Movements",
+    "difficulty": "easy",
+    "prompt": "Traditional Yoruba art is particularly renowned for its carved wooden",
+    "options": [
+      {
+        "key": "A",
+        "text": "skyscraper models"
+      },
+      {
+        "key": "B",
+        "text": "digital artwork"
+      },
+      {
+        "key": "C",
+        "text": "modern furniture only"
+      },
+      {
+        "key": "D",
+        "text": "masks and figures"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Yoruba carvers are especially known for wooden masks and figures."
+  },
+  {
+    "id": "neco-art-history-2",
+    "subject": "Fine Arts",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Art History & Movements",
+    "difficulty": "medium",
+    "prompt": "The art movement that emphasized dream-like, irrational imagery drawn from the subconscious mind is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "Cubism"
+      },
+      {
+        "key": "B",
+        "text": "Realism"
+      },
+      {
+        "key": "C",
+        "text": "Surrealism"
+      },
+      {
+        "key": "D",
+        "text": "Classicism"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Surrealism drew on dreams and the subconscious for its imagery."
+  },
+  {
+    "id": "neco-art-history-3",
+    "subject": "Fine Arts",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Art History & Movements",
+    "difficulty": "hard",
+    "prompt": "The Renaissance period in European art history was characterized by a renewed interest in",
+    "options": [
+      {
+        "key": "A",
+        "text": "digital media"
+      },
+      {
+        "key": "B",
+        "text": "abstract non-representational forms"
+      },
+      {
+        "key": "C",
+        "text": "industrial machinery"
+      },
+      {
+        "key": "D",
+        "text": "classical Greek and Roman art and ideals"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "The Renaissance revived interest in classical Greco-Roman art and ideals."
+  },
+  {
+    "id": "neco-art-history-4",
+    "subject": "Fine Arts",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Art History & Movements",
+    "difficulty": "medium",
+    "prompt": "Adire, a traditional Nigerian craft, refers to a method of",
+    "options": [
+      {
+        "key": "A",
+        "text": "resist-dyeing cloth, especially indigo dyeing"
+      },
+      {
+        "key": "B",
+        "text": "bronze casting"
+      },
+      {
+        "key": "C",
+        "text": "pottery making"
+      },
+      {
+        "key": "D",
+        "text": "wood carving"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Adire is a traditional Yoruba resist-dyeing technique, notably using indigo."
+  },
+  {
+    "id": "neco-art-history-5",
+    "subject": "Fine Arts",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Art History & Movements",
+    "difficulty": "easy",
+    "prompt": "The art movement known as Realism aimed mainly to depict",
+    "options": [
+      {
+        "key": "A",
+        "text": "everyday life and subjects accurately and objectively"
+      },
+      {
+        "key": "B",
+        "text": "abstract geometric shapes only"
+      },
+      {
+        "key": "C",
+        "text": "religious icons exclusively"
+      },
+      {
+        "key": "D",
+        "text": "purely imaginary, fantastical scenes"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Realism sought to portray ordinary life and subjects truthfully."
+  },
+  {
+    "id": "neco-art-sculpture-crafts-1",
+    "subject": "Fine Arts",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Sculpture & Crafts",
+    "difficulty": "easy",
+    "prompt": "A sculpture designed to be viewed from all sides, standing independently, is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "relief sculpture"
+      },
+      {
+        "key": "B",
+        "text": "mural"
+      },
+      {
+        "key": "C",
+        "text": "mosaic"
+      },
+      {
+        "key": "D",
+        "text": "sculpture in the round (free-standing sculpture)"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Sculpture in the round can be viewed from every angle, unlike relief work."
+  },
+  {
+    "id": "neco-art-sculpture-crafts-2",
+    "subject": "Fine Arts",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Sculpture & Crafts",
+    "difficulty": "medium",
+    "prompt": "A sculpture in which the design projects only slightly from a flat background is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "mobile"
+      },
+      {
+        "key": "B",
+        "text": "sculpture in the round"
+      },
+      {
+        "key": "C",
+        "text": "relief sculpture"
+      },
+      {
+        "key": "D",
+        "text": "installation"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Relief sculpture projects from, but remains attached to, a flat background."
+  },
+  {
+    "id": "neco-art-sculpture-crafts-3",
+    "subject": "Fine Arts",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Sculpture & Crafts",
+    "difficulty": "hard",
+    "prompt": "Traditional Nigerian pottery making primarily uses which basic material?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Bronze"
+      },
+      {
+        "key": "B",
+        "text": "Stone"
+      },
+      {
+        "key": "C",
+        "text": "Wood"
+      },
+      {
+        "key": "D",
+        "text": "Clay"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Nigerian pottery traditions are based primarily on shaping and firing clay."
+  },
+  {
+    "id": "neco-art-sculpture-crafts-4",
+    "subject": "Fine Arts",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Sculpture & Crafts",
+    "difficulty": "medium",
+    "prompt": "A design created by arranging small pieces of coloured glass, stone or tile is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "mosaic"
+      },
+      {
+        "key": "B",
+        "text": "etching"
+      },
+      {
+        "key": "C",
+        "text": "fresco"
+      },
+      {
+        "key": "D",
+        "text": "relief"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "A mosaic assembles small coloured pieces into a larger design."
+  },
+  {
+    "id": "neco-art-sculpture-crafts-5",
+    "subject": "Fine Arts",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Sculpture & Crafts",
+    "difficulty": "easy",
+    "prompt": "A large picture or design painted directly onto a wall or ceiling is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "mosaic"
+      },
+      {
+        "key": "B",
+        "text": "mural"
+      },
+      {
+        "key": "C",
+        "text": "sculpture"
+      },
+      {
+        "key": "D",
+        "text": "etching"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "A mural is a large artwork painted directly onto a wall or ceiling."
+  },
+  {
+    "id": "neco-art-colour-theory-1",
+    "subject": "Fine Arts",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Colour Theory",
+    "difficulty": "easy",
+    "prompt": "Colours such as orange, red and yellow, which suggest heat and energy, are generally called",
+    "options": [
+      {
+        "key": "A",
+        "text": "warm colours"
+      },
+      {
+        "key": "B",
+        "text": "complementary colours"
+      },
+      {
+        "key": "C",
+        "text": "cool colours"
+      },
+      {
+        "key": "D",
+        "text": "neutral colours"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Warm colours like red, orange and yellow evoke heat and energy."
+  },
+  {
+    "id": "neco-art-colour-theory-2",
+    "subject": "Fine Arts",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Colour Theory",
+    "difficulty": "medium",
+    "prompt": "Colours such as blue, green and violet, which suggest calmness, are generally called",
+    "options": [
+      {
+        "key": "A",
+        "text": "neutral colours"
+      },
+      {
+        "key": "B",
+        "text": "primary colours"
+      },
+      {
+        "key": "C",
+        "text": "cool colours"
+      },
+      {
+        "key": "D",
+        "text": "warm colours"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Cool colours like blue, green and violet evoke calmness."
+  },
+  {
+    "id": "neco-art-colour-theory-3",
+    "subject": "Fine Arts",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Colour Theory",
+    "difficulty": "hard",
+    "prompt": "A colour scheme using colours that sit next to each other on the colour wheel, such as blue, blue-green and green, is called a/an",
+    "options": [
+      {
+        "key": "A",
+        "text": "monochromatic colour scheme"
+      },
+      {
+        "key": "B",
+        "text": "triadic colour scheme"
+      },
+      {
+        "key": "C",
+        "text": "analogous colour scheme"
+      },
+      {
+        "key": "D",
+        "text": "complementary colour scheme"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Analogous schemes use neighbouring colours on the colour wheel."
+  },
+  {
+    "id": "neco-art-colour-theory-4",
+    "subject": "Fine Arts",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Colour Theory",
+    "difficulty": "medium",
+    "prompt": "Mixing a colour with white to lighten it produces a",
+    "options": [
+      {
+        "key": "A",
+        "text": "hue"
+      },
+      {
+        "key": "B",
+        "text": "tone"
+      },
+      {
+        "key": "C",
+        "text": "shade"
+      },
+      {
+        "key": "D",
+        "text": "tint"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "A tint results from adding white to a colour to lighten it."
+  },
+  {
+    "id": "neco-art-colour-theory-5",
+    "subject": "Fine Arts",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Colour Theory",
+    "difficulty": "easy",
+    "prompt": "Mixing a colour with black to darken it produces a",
+    "options": [
+      {
+        "key": "A",
+        "text": "shade"
+      },
+      {
+        "key": "B",
+        "text": "tint"
+      },
+      {
+        "key": "C",
+        "text": "value"
+      },
+      {
+        "key": "D",
+        "text": "hue"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "A shade results from adding black to a colour to darken it."
+  },
+  {
+    "id": "neco-music-elements-1",
+    "subject": "Music",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Elements of Music",
+    "difficulty": "easy",
+    "prompt": "The degree of loudness or softness in music is called its",
+    "options": [
+      {
+        "key": "A",
+        "text": "pitch"
+      },
+      {
+        "key": "B",
+        "text": "dynamics"
+      },
+      {
+        "key": "C",
+        "text": "tempo"
+      },
+      {
+        "key": "D",
+        "text": "timbre"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Dynamics refers to the loudness or softness of music."
+  },
+  {
+    "id": "neco-music-elements-2",
+    "subject": "Music",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Elements of Music",
+    "difficulty": "medium",
+    "prompt": "A short recurring musical idea or phrase that is developed throughout a piece is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "dynamics"
+      },
+      {
+        "key": "B",
+        "text": "timbre"
+      },
+      {
+        "key": "C",
+        "text": "motif"
+      },
+      {
+        "key": "D",
+        "text": "rest"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "A motif is a brief recurring idea developed through a composition."
+  },
+  {
+    "id": "neco-music-elements-3",
+    "subject": "Music",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Elements of Music",
+    "difficulty": "hard",
+    "prompt": "The way individual melodic lines or parts are combined in a piece of music (e.g. thick or thin) is referred to as its",
+    "options": [
+      {
+        "key": "A",
+        "text": "texture"
+      },
+      {
+        "key": "B",
+        "text": "dynamics"
+      },
+      {
+        "key": "C",
+        "text": "timbre"
+      },
+      {
+        "key": "D",
+        "text": "tempo"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Texture describes how musical lines or parts are layered and combined."
+  },
+  {
+    "id": "neco-music-elements-4",
+    "subject": "Music",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Elements of Music",
+    "difficulty": "medium",
+    "prompt": "A single line of musical notes forming a recognizable tune is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "rhythm"
+      },
+      {
+        "key": "B",
+        "text": "melody"
+      },
+      {
+        "key": "C",
+        "text": "texture"
+      },
+      {
+        "key": "D",
+        "text": "harmony"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "A melody is a single, recognizable succession of musical notes."
+  },
+  {
+    "id": "neco-music-elements-5",
+    "subject": "Music",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Elements of Music",
+    "difficulty": "easy",
+    "prompt": "Music with a fast tempo is generally marked with Italian terms such as",
+    "options": [
+      {
+        "key": "A",
+        "text": "Lento"
+      },
+      {
+        "key": "B",
+        "text": "Largo"
+      },
+      {
+        "key": "C",
+        "text": "Allegro"
+      },
+      {
+        "key": "D",
+        "text": "Adagio"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Allegro is an Italian tempo marking indicating a fast pace."
+  },
+  {
+    "id": "neco-music-notation-1",
+    "subject": "Music",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Musical Notation",
+    "difficulty": "easy",
+    "prompt": "A symbol that raises the pitch of a note by a semitone is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "sharp"
+      },
+      {
+        "key": "B",
+        "text": "flat"
+      },
+      {
+        "key": "C",
+        "text": "natural"
+      },
+      {
+        "key": "D",
+        "text": "rest"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "A sharp raises a note's pitch by a semitone."
+  },
+  {
+    "id": "neco-music-notation-2",
+    "subject": "Music",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Musical Notation",
+    "difficulty": "medium",
+    "prompt": "A symbol that lowers the pitch of a note by a semitone is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "flat"
+      },
+      {
+        "key": "B",
+        "text": "natural"
+      },
+      {
+        "key": "C",
+        "text": "rest"
+      },
+      {
+        "key": "D",
+        "text": "sharp"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "A flat lowers a note's pitch by a semitone."
+  },
+  {
+    "id": "neco-music-notation-3",
+    "subject": "Music",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Musical Notation",
+    "difficulty": "hard",
+    "prompt": "A symbol that cancels a previous sharp or flat, restoring a note to its original pitch, is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "natural"
+      },
+      {
+        "key": "B",
+        "text": "flat"
+      },
+      {
+        "key": "C",
+        "text": "sharp"
+      },
+      {
+        "key": "D",
+        "text": "rest"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "A natural cancels a prior sharp or flat, restoring the original pitch."
+  },
+  {
+    "id": "neco-music-notation-4",
+    "subject": "Music",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Musical Notation",
+    "difficulty": "medium",
+    "prompt": "The group of sharps or flats placed at the beginning of a staff, after the clef, to indicate the key of a piece is called the",
+    "options": [
+      {
+        "key": "A",
+        "text": "key signature"
+      },
+      {
+        "key": "B",
+        "text": "time signature"
+      },
+      {
+        "key": "C",
+        "text": "clef"
+      },
+      {
+        "key": "D",
+        "text": "bar line"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "The key signature indicates a piece's key through its sharps or flats."
+  },
+  {
+    "id": "neco-music-notation-5",
+    "subject": "Music",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Musical Notation",
+    "difficulty": "easy",
+    "prompt": "A curved line connecting two notes of the same pitch, indicating they should be held as one continuous sound, is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "tie"
+      },
+      {
+        "key": "B",
+        "text": "rest"
+      },
+      {
+        "key": "C",
+        "text": "slur"
+      },
+      {
+        "key": "D",
+        "text": "bar line"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "A tie joins two same-pitch notes into one continuous sound."
+  },
+  {
+    "id": "neco-music-nigerian-traditional-1",
+    "subject": "Music",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Nigerian Traditional Music",
+    "difficulty": "easy",
+    "prompt": "Traditional Nigerian music generally emphasizes strong",
+    "options": [
+      {
+        "key": "A",
+        "text": "written notation exclusively"
+      },
+      {
+        "key": "B",
+        "text": "silence and stillness"
+      },
+      {
+        "key": "C",
+        "text": "electronic synthesis"
+      },
+      {
+        "key": "D",
+        "text": "rhythmic patterns, often using percussion instruments"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Nigerian traditional music is characterized by strong, often percussive, rhythm."
+  },
+  {
+    "id": "neco-music-nigerian-traditional-2",
+    "subject": "Music",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Nigerian Traditional Music",
+    "difficulty": "medium",
+    "prompt": "The 'agidigbo', a traditional Yoruba instrument played by plucking metal tongues, is an example of a",
+    "options": [
+      {
+        "key": "A",
+        "text": "lamellophone (thumb piano)"
+      },
+      {
+        "key": "B",
+        "text": "wind instrument"
+      },
+      {
+        "key": "C",
+        "text": "membrane drum"
+      },
+      {
+        "key": "D",
+        "text": "string instrument"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "The agidigbo is a lamellophone, a plucked-tongue instrument."
+  },
+  {
+    "id": "neco-music-nigerian-traditional-3",
+    "subject": "Music",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Nigerian Traditional Music",
+    "difficulty": "hard",
+    "prompt": "In many traditional Nigerian musical performances, music, dance and drama are typically",
+    "options": [
+      {
+        "key": "A",
+        "text": "closely integrated as parts of a single performance"
+      },
+      {
+        "key": "B",
+        "text": "never performed together"
+      },
+      {
+        "key": "C",
+        "text": "strictly separated into distinct unrelated events"
+      },
+      {
+        "key": "D",
+        "text": "restricted to religious use only"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Traditional Nigerian performances typically combine music, dance and drama together."
+  },
+  {
+    "id": "neco-music-nigerian-traditional-4",
+    "subject": "Music",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Nigerian Traditional Music",
+    "difficulty": "medium",
+    "prompt": "Praise singing, a common tradition in many Nigerian cultures, is typically performed to",
+    "options": [
+      {
+        "key": "A",
+        "text": "criticize foreign governments"
+      },
+      {
+        "key": "B",
+        "text": "serve only as background noise"
+      },
+      {
+        "key": "C",
+        "text": "celebrate and honour individuals, families or achievements"
+      },
+      {
+        "key": "D",
+        "text": "replace formal education"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Praise singing honours individuals or families and celebrates achievements."
+  },
+  {
+    "id": "neco-music-nigerian-traditional-5",
+    "subject": "Music",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Nigerian Traditional Music",
+    "difficulty": "easy",
+    "prompt": "The 'ogene', a traditional Igbo musical instrument, is a type of",
+    "options": [
+      {
+        "key": "A",
+        "text": "keyboard instrument"
+      },
+      {
+        "key": "B",
+        "text": "string instrument"
+      },
+      {
+        "key": "C",
+        "text": "wind instrument"
+      },
+      {
+        "key": "D",
+        "text": "metal gong (idiophone)"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "The ogene is a metal gong, classified as an idiophone."
+  },
+  {
+    "id": "neco-music-instruments-1",
+    "subject": "Music",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Musical Instruments",
+    "difficulty": "easy",
+    "prompt": "The family of wind instruments that produce sound through vibrating lips against a metal mouthpiece, such as the trumpet, is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "string instruments"
+      },
+      {
+        "key": "B",
+        "text": "woodwind instruments"
+      },
+      {
+        "key": "C",
+        "text": "brass instruments"
+      },
+      {
+        "key": "D",
+        "text": "percussion instruments"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Brass instruments produce sound via lip vibration against a metal mouthpiece."
+  },
+  {
+    "id": "neco-music-instruments-2",
+    "subject": "Music",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Musical Instruments",
+    "difficulty": "medium",
+    "prompt": "The family of wind instruments, such as the flute and clarinet, traditionally made of wood, is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "percussion instruments"
+      },
+      {
+        "key": "B",
+        "text": "string instruments"
+      },
+      {
+        "key": "C",
+        "text": "brass instruments"
+      },
+      {
+        "key": "D",
+        "text": "woodwind instruments"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Woodwind instruments include the flute and clarinet, traditionally made of wood."
+  },
+  {
+    "id": "neco-music-instruments-3",
+    "subject": "Music",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Musical Instruments",
+    "difficulty": "hard",
+    "prompt": "Instruments that produce sound from the vibration of the entire body of the instrument itself, such as bells and rattles, are classified as",
+    "options": [
+      {
+        "key": "A",
+        "text": "idiophones"
+      },
+      {
+        "key": "B",
+        "text": "chordophones"
+      },
+      {
+        "key": "C",
+        "text": "aerophones"
+      },
+      {
+        "key": "D",
+        "text": "membranophones"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Idiophones produce sound through the vibration of their own solid material."
+  },
+  {
+    "id": "neco-music-instruments-4",
+    "subject": "Music",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Musical Instruments",
+    "difficulty": "medium",
+    "prompt": "The 'balafon', a traditional West African wooden xylophone-like instrument, is classified as a",
+    "options": [
+      {
+        "key": "A",
+        "text": "wind instrument"
+      },
+      {
+        "key": "B",
+        "text": "brass instrument"
+      },
+      {
+        "key": "C",
+        "text": "string instrument"
+      },
+      {
+        "key": "D",
+        "text": "percussion instrument (idiophone)"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "The balafon is a struck wooden idiophone, similar to a xylophone."
+  },
+  {
+    "id": "neco-music-instruments-5",
+    "subject": "Music",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Musical Instruments",
+    "difficulty": "easy",
+    "prompt": "The violin, viola, cello and double bass together make up the core of the orchestral",
+    "options": [
+      {
+        "key": "A",
+        "text": "woodwind section"
+      },
+      {
+        "key": "B",
+        "text": "brass section"
+      },
+      {
+        "key": "C",
+        "text": "string section"
+      },
+      {
+        "key": "D",
+        "text": "percussion section"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "These bowed string instruments form the core string section of an orchestra."
+  },
+  {
+    "id": "neco-music-voice-1",
+    "subject": "Music",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Voice & Vocal Music",
+    "difficulty": "easy",
+    "prompt": "The adult female voice range between soprano and contralto is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "bass"
+      },
+      {
+        "key": "B",
+        "text": "tenor"
+      },
+      {
+        "key": "C",
+        "text": "baritone"
+      },
+      {
+        "key": "D",
+        "text": "mezzo-soprano"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Mezzo-soprano sits between soprano and contralto in the female vocal range."
+  },
+  {
+    "id": "neco-music-voice-2",
+    "subject": "Music",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Voice & Vocal Music",
+    "difficulty": "medium",
+    "prompt": "A song performed by exactly two singers, often in harmony, is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "quartet"
+      },
+      {
+        "key": "B",
+        "text": "duet"
+      },
+      {
+        "key": "C",
+        "text": "trio"
+      },
+      {
+        "key": "D",
+        "text": "solo"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "A duet is performed by two singers, typically in harmony."
+  },
+  {
+    "id": "neco-music-voice-3",
+    "subject": "Music",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Voice & Vocal Music",
+    "difficulty": "hard",
+    "prompt": "A large group of singers performing together, often with multiple voice parts, is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "orchestra"
+      },
+      {
+        "key": "B",
+        "text": "duet"
+      },
+      {
+        "key": "C",
+        "text": "choir (chorus)"
+      },
+      {
+        "key": "D",
+        "text": "solo ensemble"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "A choir is a large group of singers performing multiple vocal parts together."
+  },
+  {
+    "id": "neco-music-voice-4",
+    "subject": "Music",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Voice & Vocal Music",
+    "difficulty": "medium",
+    "prompt": "A vocal piece performed by four singers, each usually on a different part, is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "duet"
+      },
+      {
+        "key": "B",
+        "text": "quartet"
+      },
+      {
+        "key": "C",
+        "text": "solo"
+      },
+      {
+        "key": "D",
+        "text": "choir"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "A quartet features four singers, each typically on a distinct part."
+  },
+  {
+    "id": "neco-music-voice-5",
+    "subject": "Music",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Voice & Vocal Music",
+    "difficulty": "easy",
+    "prompt": "The lowest female singing voice range is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "contralto (alto)"
+      },
+      {
+        "key": "B",
+        "text": "soprano"
+      },
+      {
+        "key": "C",
+        "text": "bass"
+      },
+      {
+        "key": "D",
+        "text": "tenor"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Contralto (alto) is the lowest standard female vocal range."
+  },
+  {
+    "id": "neco-french-grammar-1",
+    "subject": "French",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Basic Grammar",
+    "difficulty": "easy",
+    "prompt": "Choose the correct definite article for 'livre' (a masculine noun): '___ livre'",
+    "options": [
+      {
+        "key": "A",
+        "text": "Les"
+      },
+      {
+        "key": "B",
+        "text": "Le"
+      },
+      {
+        "key": "C",
+        "text": "L'"
+      },
+      {
+        "key": "D",
+        "text": "La"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "'Livre' is masculine, taking the definite article 'le'."
+  },
+  {
+    "id": "neco-french-grammar-2",
+    "subject": "French",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Basic Grammar",
+    "difficulty": "medium",
+    "prompt": "Choose the correct form: 'Elles ___ contentes.' (They [feminine] are happy.)",
+    "options": [
+      {
+        "key": "A",
+        "text": "est"
+      },
+      {
+        "key": "B",
+        "text": "es"
+      },
+      {
+        "key": "C",
+        "text": "sommes"
+      },
+      {
+        "key": "D",
+        "text": "sont"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "'Elles sont' is the third-person plural form of 'être' (to be)."
+  },
+  {
+    "id": "neco-french-grammar-3",
+    "subject": "French",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Basic Grammar",
+    "difficulty": "hard",
+    "prompt": "Choose the correct possessive adjective: '___ père travaille beaucoup.' (His/Her father works a lot.)",
+    "options": [
+      {
+        "key": "A",
+        "text": "Leur"
+      },
+      {
+        "key": "B",
+        "text": "Son"
+      },
+      {
+        "key": "C",
+        "text": "Sa"
+      },
+      {
+        "key": "D",
+        "text": "Ses"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "'Père' is masculine singular, so it takes 'son' regardless of the possessor's gender."
+  },
+  {
+    "id": "neco-french-grammar-4",
+    "subject": "French",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Basic Grammar",
+    "difficulty": "medium",
+    "prompt": "Choose the correct plural form of 'le journal' (the newspaper).",
+    "options": [
+      {
+        "key": "A",
+        "text": "le journaux"
+      },
+      {
+        "key": "B",
+        "text": "les journals"
+      },
+      {
+        "key": "C",
+        "text": "les journaux"
+      },
+      {
+        "key": "D",
+        "text": "les journal"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "'Journal' has the irregular plural 'journaux'."
+  },
+  {
+    "id": "neco-french-grammar-5",
+    "subject": "French",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Basic Grammar",
+    "difficulty": "easy",
+    "prompt": "Choose the correct indefinite article for 'maison' (a feminine noun): '___ maison'",
+    "options": [
+      {
+        "key": "A",
+        "text": "Une"
+      },
+      {
+        "key": "B",
+        "text": "Un"
+      },
+      {
+        "key": "C",
+        "text": "Des"
+      },
+      {
+        "key": "D",
+        "text": "La"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "'Maison' is feminine, taking the indefinite article 'une'."
+  },
+  {
+    "id": "neco-french-vocabulary-1",
+    "subject": "French",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Vocabulary",
+    "difficulty": "easy",
+    "prompt": "What is the French word for 'friend' (male)?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Père"
+      },
+      {
+        "key": "B",
+        "text": "Amie"
+      },
+      {
+        "key": "C",
+        "text": "Ami"
+      },
+      {
+        "key": "D",
+        "text": "Frère"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "'Ami' is the French word for a male friend."
+  },
+  {
+    "id": "neco-french-vocabulary-2",
+    "subject": "French",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Vocabulary",
+    "difficulty": "medium",
+    "prompt": "What is the French word for 'house'?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Marché"
+      },
+      {
+        "key": "B",
+        "text": "Maison"
+      },
+      {
+        "key": "C",
+        "text": "Bureau"
+      },
+      {
+        "key": "D",
+        "text": "École"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "'Maison' is the French word for 'house'."
+  },
+  {
+    "id": "neco-french-vocabulary-3",
+    "subject": "French",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Vocabulary",
+    "difficulty": "hard",
+    "prompt": "What is the French word for 'tomorrow'?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Bientôt"
+      },
+      {
+        "key": "B",
+        "text": "Demain"
+      },
+      {
+        "key": "C",
+        "text": "Hier"
+      },
+      {
+        "key": "D",
+        "text": "Aujourd'hui"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "'Demain' is the French word for 'tomorrow'."
+  },
+  {
+    "id": "neco-french-vocabulary-4",
+    "subject": "French",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Vocabulary",
+    "difficulty": "medium",
+    "prompt": "What is the French word for 'teacher' (male)?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Étudiant"
+      },
+      {
+        "key": "B",
+        "text": "Professeur"
+      },
+      {
+        "key": "C",
+        "text": "Élève"
+      },
+      {
+        "key": "D",
+        "text": "Docteur"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "'Professeur' is the French word for a (male) teacher."
+  },
+  {
+    "id": "neco-french-vocabulary-5",
+    "subject": "French",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Vocabulary",
+    "difficulty": "easy",
+    "prompt": "What is the French word for 'bread'?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Lait"
+      },
+      {
+        "key": "B",
+        "text": "Fromage"
+      },
+      {
+        "key": "C",
+        "text": "Pain"
+      },
+      {
+        "key": "D",
+        "text": "Eau"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "'Pain' is the French word for 'bread'."
+  },
+  {
+    "id": "neco-french-verbs-1",
+    "subject": "French",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Verb Conjugation",
+    "difficulty": "easy",
+    "prompt": "Choose the correct conjugation: 'Ils ___ à la maison.' (They are at home.)",
+    "options": [
+      {
+        "key": "A",
+        "text": "suis"
+      },
+      {
+        "key": "B",
+        "text": "est"
+      },
+      {
+        "key": "C",
+        "text": "sont"
+      },
+      {
+        "key": "D",
+        "text": "es"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "'Ils sont' is the third-person plural form of 'être' (to be)."
+  },
+  {
+    "id": "neco-french-verbs-2",
+    "subject": "French",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Verb Conjugation",
+    "difficulty": "medium",
+    "prompt": "Choose the correct conjugation: 'Je ___ le français.' (I speak French.)",
+    "options": [
+      {
+        "key": "A",
+        "text": "parlez"
+      },
+      {
+        "key": "B",
+        "text": "parlons"
+      },
+      {
+        "key": "C",
+        "text": "parle"
+      },
+      {
+        "key": "D",
+        "text": "parles"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "'Je parle' is the first-person singular form of 'parler' (to speak)."
+  },
+  {
+    "id": "neco-french-verbs-3",
+    "subject": "French",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Verb Conjugation",
+    "difficulty": "hard",
+    "prompt": "Choose the correct passé composé form: 'Nous ___ (aller) au marché hier.'",
+    "options": [
+      {
+        "key": "A",
+        "text": "avons allé"
+      },
+      {
+        "key": "B",
+        "text": "allons"
+      },
+      {
+        "key": "C",
+        "text": "sommes allés"
+      },
+      {
+        "key": "D",
+        "text": "allions"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "'Aller' uses 'être' as its auxiliary in the passé composé: 'nous sommes allés'."
+  },
+  {
+    "id": "neco-french-verbs-4",
+    "subject": "French",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Verb Conjugation",
+    "difficulty": "medium",
+    "prompt": "Choose the correct conjugation: 'Elle ___ un enfant.' (She has a child.)",
+    "options": [
+      {
+        "key": "A",
+        "text": "a"
+      },
+      {
+        "key": "B",
+        "text": "avons"
+      },
+      {
+        "key": "C",
+        "text": "ont"
+      },
+      {
+        "key": "D",
+        "text": "as"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "'Elle a' is the third-person singular form of 'avoir' (to have)."
+  },
+  {
+    "id": "neco-french-verbs-5",
+    "subject": "French",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Verb Conjugation",
+    "difficulty": "easy",
+    "prompt": "Choose the correct conjugation: 'Nous ___ étudiants.' (We are students.)",
+    "options": [
+      {
+        "key": "A",
+        "text": "sont"
+      },
+      {
+        "key": "B",
+        "text": "suis"
+      },
+      {
+        "key": "C",
+        "text": "es"
+      },
+      {
+        "key": "D",
+        "text": "sommes"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "'Nous sommes' is the first-person plural form of 'être' (to be)."
+  },
+  {
+    "id": "neco-french-comprehension-1",
+    "subject": "French",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Comprehension",
+    "difficulty": "easy",
+    "prompt": "'Comment vous appelez-vous?' is best translated as",
+    "options": [
+      {
+        "key": "A",
+        "text": "What is your name?"
+      },
+      {
+        "key": "B",
+        "text": "What time is it?"
+      },
+      {
+        "key": "C",
+        "text": "How old are you?"
+      },
+      {
+        "key": "D",
+        "text": "Where do you live?"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "'Comment vous appelez-vous?' means 'What is your name?'"
+  },
+  {
+    "id": "neco-french-comprehension-2",
+    "subject": "French",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Comprehension",
+    "difficulty": "medium",
+    "prompt": "'J'ai quinze ans.' is best translated as",
+    "options": [
+      {
+        "key": "A",
+        "text": "I live at number fifteen"
+      },
+      {
+        "key": "B",
+        "text": "I have fifteen books"
+      },
+      {
+        "key": "C",
+        "text": "I am in class fifteen"
+      },
+      {
+        "key": "D",
+        "text": "I am fifteen years old"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "'J'ai quinze ans' literally means 'I have fifteen years', i.e. 'I am fifteen years old'."
+  },
+  {
+    "id": "neco-french-comprehension-3",
+    "subject": "French",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Comprehension",
+    "difficulty": "hard",
+    "prompt": "'Je vais à l'école à pied.' is best translated as",
+    "options": [
+      {
+        "key": "A",
+        "text": "I do not go to school"
+      },
+      {
+        "key": "B",
+        "text": "I go to school on foot (I walk to school)"
+      },
+      {
+        "key": "C",
+        "text": "I go to school by car"
+      },
+      {
+        "key": "D",
+        "text": "I go to school by bus"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "'À pied' means 'on foot', so the sentence describes walking to school."
+  },
+  {
+    "id": "neco-french-comprehension-4",
+    "subject": "French",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Comprehension",
+    "difficulty": "medium",
+    "prompt": "'Quelle heure est-il?' is best translated as",
+    "options": [
+      {
+        "key": "A",
+        "text": "What time is it?"
+      },
+      {
+        "key": "B",
+        "text": "What is your name?"
+      },
+      {
+        "key": "C",
+        "text": "How are you?"
+      },
+      {
+        "key": "D",
+        "text": "Where are you going?"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "'Quelle heure est-il?' means 'What time is it?'"
+  },
+  {
+    "id": "neco-french-comprehension-5",
+    "subject": "French",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Comprehension",
+    "difficulty": "easy",
+    "prompt": "'À bientôt' is best translated as",
+    "options": [
+      {
+        "key": "A",
+        "text": "See you soon"
+      },
+      {
+        "key": "B",
+        "text": "Thank you"
+      },
+      {
+        "key": "C",
+        "text": "Good morning"
+      },
+      {
+        "key": "D",
+        "text": "Excuse me"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "'À bientôt' means 'See you soon'."
+  },
+  {
+    "id": "neco-french-numbers-1",
+    "subject": "French",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Numbers & Everyday Expressions",
+    "difficulty": "easy",
+    "prompt": "What is the French word for the number 'two'?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Trois"
+      },
+      {
+        "key": "B",
+        "text": "Quatre"
+      },
+      {
+        "key": "C",
+        "text": "Deux"
+      },
+      {
+        "key": "D",
+        "text": "Un"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "'Deux' is the French word for 'two'."
+  },
+  {
+    "id": "neco-french-numbers-2",
+    "subject": "French",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Numbers & Everyday Expressions",
+    "difficulty": "medium",
+    "prompt": "What is the French word for the number 'hundred'?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Dix"
+      },
+      {
+        "key": "B",
+        "text": "Cent"
+      },
+      {
+        "key": "C",
+        "text": "Mille"
+      },
+      {
+        "key": "D",
+        "text": "Vingt"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "'Cent' is the French word for 'hundred'."
+  },
+  {
+    "id": "neco-french-numbers-3",
+    "subject": "French",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Numbers & Everyday Expressions",
+    "difficulty": "hard",
+    "prompt": "What is the correct French word for 'thirty'?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Treize"
+      },
+      {
+        "key": "B",
+        "text": "Vingt"
+      },
+      {
+        "key": "C",
+        "text": "Trente"
+      },
+      {
+        "key": "D",
+        "text": "Quarante"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "'Trente' is the French word for 'thirty'."
+  },
+  {
+    "id": "neco-french-numbers-4",
+    "subject": "French",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Numbers & Everyday Expressions",
+    "difficulty": "medium",
+    "prompt": "Which of the following is the correct French expression for 'Good night'?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Salut"
+      },
+      {
+        "key": "B",
+        "text": "Bonsoir"
+      },
+      {
+        "key": "C",
+        "text": "Bonjour"
+      },
+      {
+        "key": "D",
+        "text": "Bonne nuit"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "'Bonne nuit' means 'Good night', said before sleeping."
+  },
+  {
+    "id": "neco-french-numbers-5",
+    "subject": "French",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Numbers & Everyday Expressions",
+    "difficulty": "easy",
+    "prompt": "Which of the following is the correct French expression for 'Excuse me'?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Excusez-moi"
+      },
+      {
+        "key": "B",
+        "text": "Au revoir"
+      },
+      {
+        "key": "C",
+        "text": "Merci"
+      },
+      {
+        "key": "D",
+        "text": "S'il vous plaît"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "'Excusez-moi' means 'Excuse me'."
+  },
+  {
+    "id": "neco-store-stock-control-1",
+    "subject": "Store Management",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Stock Control & Inventory",
+    "difficulty": "easy",
+    "prompt": "The main objective of stock control in a business is to",
+    "options": [
+      {
+        "key": "A",
+        "text": "maintain adequate stock to meet demand without overstocking or running out"
+      },
+      {
+        "key": "B",
+        "text": "increase the number of employees"
+      },
+      {
+        "key": "C",
+        "text": "reduce customer visits"
+      },
+      {
+        "key": "D",
+        "text": "eliminate all record-keeping"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Stock control balances meeting demand against the costs of overstocking."
+  },
+  {
+    "id": "neco-store-stock-control-2",
+    "subject": "Store Management",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Stock Control & Inventory",
+    "difficulty": "medium",
+    "prompt": "The highest quantity of an item that should be kept in stock at any time, to avoid excessive holding costs, is called the",
+    "options": [
+      {
+        "key": "A",
+        "text": "buffer stock"
+      },
+      {
+        "key": "B",
+        "text": "re-order level"
+      },
+      {
+        "key": "C",
+        "text": "minimum stock level"
+      },
+      {
+        "key": "D",
+        "text": "maximum stock level"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "The maximum stock level caps holdings to avoid excessive storage costs."
+  },
+  {
+    "id": "neco-store-stock-control-3",
+    "subject": "Store Management",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Stock Control & Inventory",
+    "difficulty": "hard",
+    "prompt": "The stock valuation method that assumes the most recently purchased stock is the first to be issued is known by the abbreviation",
+    "options": [
+      {
+        "key": "A",
+        "text": "EOQ"
+      },
+      {
+        "key": "B",
+        "text": "LIFO"
+      },
+      {
+        "key": "C",
+        "text": "FIFO"
+      },
+      {
+        "key": "D",
+        "text": "JIT"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "LIFO (last in, first out) issues the newest stock before older stock."
+  },
+  {
+    "id": "neco-store-stock-control-4",
+    "subject": "Store Management",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Stock Control & Inventory",
+    "difficulty": "medium",
+    "prompt": "Extra stock kept beyond normal requirements to guard against unexpected demand or delivery delays is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "buffer (safety) stock"
+      },
+      {
+        "key": "B",
+        "text": "dead stock"
+      },
+      {
+        "key": "C",
+        "text": "maximum stock"
+      },
+      {
+        "key": "D",
+        "text": "obsolete stock"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Buffer stock protects against unexpected demand spikes or delivery delays."
+  },
+  {
+    "id": "neco-store-stock-control-5",
+    "subject": "Store Management",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Stock Control & Inventory",
+    "difficulty": "easy",
+    "prompt": "Stock that remains unsold or unused for a long time and is unlikely to be needed is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "dead (obsolete) stock"
+      },
+      {
+        "key": "B",
+        "text": "fresh stock"
+      },
+      {
+        "key": "C",
+        "text": "buffer stock"
+      },
+      {
+        "key": "D",
+        "text": "fast-moving stock"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Dead stock is unsold or unused inventory unlikely to move."
+  },
+  {
+    "id": "neco-store-layout-equipment-1",
+    "subject": "Store Management",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Store Layout & Equipment",
+    "difficulty": "easy",
+    "prompt": "Arranging goods in a store according to their type, size or frequency of use is part of good",
+    "options": [
+      {
+        "key": "A",
+        "text": "stock valuation"
+      },
+      {
+        "key": "B",
+        "text": "store layout planning"
+      },
+      {
+        "key": "C",
+        "text": "staff recruitment"
+      },
+      {
+        "key": "D",
+        "text": "advertising strategy"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Logical arrangement of goods is a core part of store layout planning."
+  },
+  {
+    "id": "neco-store-layout-equipment-2",
+    "subject": "Store Management",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Store Layout & Equipment",
+    "difficulty": "medium",
+    "prompt": "A large flat platform used to hold goods in a stable stack, making it easier to move with a forklift, is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "bin card"
+      },
+      {
+        "key": "B",
+        "text": "ledger"
+      },
+      {
+        "key": "C",
+        "text": "pallet"
+      },
+      {
+        "key": "D",
+        "text": "invoice"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "A pallet supports stacked goods for easy handling by forklift."
+  },
+  {
+    "id": "neco-store-layout-equipment-3",
+    "subject": "Store Management",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Store Layout & Equipment",
+    "difficulty": "hard",
+    "prompt": "Proper labelling and signage within a store mainly helps to",
+    "options": [
+      {
+        "key": "A",
+        "text": "eliminate the need for staff"
+      },
+      {
+        "key": "B",
+        "text": "make it easier to locate items quickly and accurately"
+      },
+      {
+        "key": "C",
+        "text": "reduce the store's storage capacity"
+      },
+      {
+        "key": "D",
+        "text": "increase the number of items in stock"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Clear labelling speeds up locating items accurately in a store."
+  },
+  {
+    "id": "neco-store-layout-equipment-4",
+    "subject": "Store Management",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Store Layout & Equipment",
+    "difficulty": "medium",
+    "prompt": "Shelving units used to store goods vertically, making efficient use of a store's height, are called",
+    "options": [
+      {
+        "key": "A",
+        "text": "invoices"
+      },
+      {
+        "key": "B",
+        "text": "racks/shelves"
+      },
+      {
+        "key": "C",
+        "text": "ledgers"
+      },
+      {
+        "key": "D",
+        "text": "trolleys"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Racks and shelves use vertical space efficiently for storage."
+  },
+  {
+    "id": "neco-store-layout-equipment-5",
+    "subject": "Store Management",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Store Layout & Equipment",
+    "difficulty": "easy",
+    "prompt": "A small wheeled cart used to move light goods around within a store is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "rack"
+      },
+      {
+        "key": "B",
+        "text": "trolley"
+      },
+      {
+        "key": "C",
+        "text": "forklift"
+      },
+      {
+        "key": "D",
+        "text": "pallet"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "A trolley is a small wheeled cart for moving light goods."
+  },
+  {
+    "id": "neco-store-receiving-issuing-1",
+    "subject": "Store Management",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Receiving & Issuing Goods",
+    "difficulty": "easy",
+    "prompt": "The department or person responsible for accepting and checking goods delivered to a business is generally in charge of",
+    "options": [
+      {
+        "key": "A",
+        "text": "advertising"
+      },
+      {
+        "key": "B",
+        "text": "goods receiving"
+      },
+      {
+        "key": "C",
+        "text": "payroll"
+      },
+      {
+        "key": "D",
+        "text": "sales"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "The goods receiving function checks and accepts incoming deliveries."
+  },
+  {
+    "id": "neco-store-receiving-issuing-2",
+    "subject": "Store Management",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Receiving & Issuing Goods",
+    "difficulty": "medium",
+    "prompt": "Before goods are issued from the store, the storekeeper should verify that the requisition has been",
+    "options": [
+      {
+        "key": "A",
+        "text": "ignored completely"
+      },
+      {
+        "key": "B",
+        "text": "properly authorized by someone with the right authority"
+      },
+      {
+        "key": "C",
+        "text": "sent directly to the supplier"
+      },
+      {
+        "key": "D",
+        "text": "written in any format without approval"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Issuing goods requires a properly authorized requisition."
+  },
+  {
+    "id": "neco-store-receiving-issuing-3",
+    "subject": "Store Management",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Receiving & Issuing Goods",
+    "difficulty": "hard",
+    "prompt": "A 'goods received note' (GRN) is prepared mainly to",
+    "options": [
+      {
+        "key": "A",
+        "text": "record employee attendance"
+      },
+      {
+        "key": "B",
+        "text": "advertise goods for sale"
+      },
+      {
+        "key": "C",
+        "text": "confirm and record that specific goods have actually been received into the store"
+      },
+      {
+        "key": "D",
+        "text": "request goods from a supplier"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "A GRN documents that specific goods were received into the store."
+  },
+  {
+    "id": "neco-store-receiving-issuing-4",
+    "subject": "Store Management",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Receiving & Issuing Goods",
+    "difficulty": "medium",
+    "prompt": "When goods are returned to a supplier due to defects, the document used to record this is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "credit note issued by supplier"
+      },
+      {
+        "key": "B",
+        "text": "requisition form"
+      },
+      {
+        "key": "C",
+        "text": "delivery note"
+      },
+      {
+        "key": "D",
+        "text": "debit note"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "A debit note records goods returned to a supplier, reducing the amount owed."
+  },
+  {
+    "id": "neco-store-receiving-issuing-5",
+    "subject": "Store Management",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Receiving & Issuing Goods",
+    "difficulty": "easy",
+    "prompt": "Goods coming into the store from a supplier are referred to as",
+    "options": [
+      {
+        "key": "A",
+        "text": "orders placed by customer"
+      },
+      {
+        "key": "B",
+        "text": "issues"
+      },
+      {
+        "key": "C",
+        "text": "receipts"
+      },
+      {
+        "key": "D",
+        "text": "returns to customer"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Goods arriving from a supplier into the store are called receipts."
+  },
+  {
+    "id": "neco-store-records-1",
+    "subject": "Store Management",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Stock Records & Documentation",
+    "difficulty": "easy",
+    "prompt": "A book or ledger in which all stock movements (receipts and issues) across the whole store are summarized is called the",
+    "options": [
+      {
+        "key": "A",
+        "text": "stock ledger"
+      },
+      {
+        "key": "B",
+        "text": "purchases day book"
+      },
+      {
+        "key": "C",
+        "text": "cash book"
+      },
+      {
+        "key": "D",
+        "text": "sales day book"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "The stock ledger summarizes overall stock receipts and issues."
+  },
+  {
+    "id": "neco-store-records-2",
+    "subject": "Store Management",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Stock Records & Documentation",
+    "difficulty": "medium",
+    "prompt": "A document that authorizes and instructs a supplier to deliver goods to a business at agreed terms is a/an",
+    "options": [
+      {
+        "key": "A",
+        "text": "purchase order"
+      },
+      {
+        "key": "B",
+        "text": "bin card"
+      },
+      {
+        "key": "C",
+        "text": "invoice"
+      },
+      {
+        "key": "D",
+        "text": "requisition note"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "A purchase order instructs a supplier to deliver goods on agreed terms."
+  },
+  {
+    "id": "neco-store-records-3",
+    "subject": "Store Management",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Stock Records & Documentation",
+    "difficulty": "hard",
+    "prompt": "A periodic inventory system, unlike a perpetual system, determines stock quantities mainly by",
+    "options": [
+      {
+        "key": "A",
+        "text": "physically counting stock at set intervals, such as monthly or annually"
+      },
+      {
+        "key": "B",
+        "text": "updating records continuously after every transaction"
+      },
+      {
+        "key": "C",
+        "text": "estimating stock using only sales figures"
+      },
+      {
+        "key": "D",
+        "text": "never counting stock at all"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Periodic systems rely on scheduled physical counts rather than continuous updates."
+  },
+  {
+    "id": "neco-store-records-4",
+    "subject": "Store Management",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Stock Records & Documentation",
+    "difficulty": "medium",
+    "prompt": "Keeping accurate and up-to-date stock records helps a business to",
+    "options": [
+      {
+        "key": "A",
+        "text": "avoid the need for a store altogether"
+      },
+      {
+        "key": "B",
+        "text": "replace the need for accountants entirely"
+      },
+      {
+        "key": "C",
+        "text": "set the prices of raw materials in the wider market"
+      },
+      {
+        "key": "D",
+        "text": "detect discrepancies such as theft or damage early"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Accurate records help identify discrepancies like theft or damage promptly."
+  },
+  {
+    "id": "neco-store-records-5",
+    "subject": "Store Management",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Stock Records & Documentation",
+    "difficulty": "easy",
+    "prompt": "The document used to record details of stock counted during a stock-taking exercise is called the",
+    "options": [
+      {
+        "key": "A",
+        "text": "payslip"
+      },
+      {
+        "key": "B",
+        "text": "invoice"
+      },
+      {
+        "key": "C",
+        "text": "cheque"
+      },
+      {
+        "key": "D",
+        "text": "stock-taking sheet"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "A stock-taking sheet records the quantities counted during stock-taking."
+  },
+  {
+    "id": "neco-store-safety-security-1",
+    "subject": "Store Management",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Safety & Security in the Store",
+    "difficulty": "easy",
+    "prompt": "Storing chemicals and flammable materials away from heat sources in a store is a measure to prevent",
+    "options": [
+      {
+        "key": "A",
+        "text": "loss of sales"
+      },
+      {
+        "key": "B",
+        "text": "fire outbreaks"
+      },
+      {
+        "key": "C",
+        "text": "poor stock records"
+      },
+      {
+        "key": "D",
+        "text": "slow-moving stock"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Keeping flammables away from heat sources reduces fire risk."
+  },
+  {
+    "id": "neco-store-safety-security-2",
+    "subject": "Store Management",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Safety & Security in the Store",
+    "difficulty": "medium",
+    "prompt": "Installing CCTV cameras in a store is mainly a measure to improve",
+    "options": [
+      {
+        "key": "A",
+        "text": "product advertising"
+      },
+      {
+        "key": "B",
+        "text": "stock rotation"
+      },
+      {
+        "key": "C",
+        "text": "security and deter theft"
+      },
+      {
+        "key": "D",
+        "text": "air ventilation"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "CCTV surveillance improves security and deters theft."
+  },
+  {
+    "id": "neco-store-safety-security-3",
+    "subject": "Store Management",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Safety & Security in the Store",
+    "difficulty": "hard",
+    "prompt": "Regular safety training for store staff is important mainly to",
+    "options": [
+      {
+        "key": "A",
+        "text": "increase the price of stored goods"
+      },
+      {
+        "key": "B",
+        "text": "reduce the likelihood of accidents and ensure staff know emergency procedures"
+      },
+      {
+        "key": "C",
+        "text": "eliminate the need for stock records"
+      },
+      {
+        "key": "D",
+        "text": "reduce the size of the store"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Safety training reduces accidents and prepares staff for emergencies."
+  },
+  {
+    "id": "neco-store-safety-security-4",
+    "subject": "Store Management",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Safety & Security in the Store",
+    "difficulty": "medium",
+    "prompt": "Keeping walkways and aisles in a store clear of obstruction is important mainly to",
+    "options": [
+      {
+        "key": "A",
+        "text": "reduce the number of staff needed"
+      },
+      {
+        "key": "B",
+        "text": "increase the store's stock value"
+      },
+      {
+        "key": "C",
+        "text": "prevent accidents and allow safe movement of staff and goods"
+      },
+      {
+        "key": "D",
+        "text": "improve product pricing"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Clear walkways prevent accidents and allow safe movement of staff and goods."
+  },
+  {
+    "id": "neco-store-safety-security-5",
+    "subject": "Store Management",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Safety & Security in the Store",
+    "difficulty": "easy",
+    "prompt": "A fire extinguisher kept in a store is used to",
+    "options": [
+      {
+        "key": "A",
+        "text": "put out small fires quickly"
+      },
+      {
+        "key": "B",
+        "text": "weigh goods"
+      },
+      {
+        "key": "C",
+        "text": "clean spilled goods"
+      },
+      {
+        "key": "D",
+        "text": "measure temperature"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "A fire extinguisher is used to quickly put out small fires."
+  },
+  {
+    "id": "neco-insurance-principles-1",
+    "subject": "Insurance",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Principles of Insurance",
+    "difficulty": "easy",
+    "prompt": "Insurance works on the principle of pooling risks, where many people contribute premiums so that the few who suffer losses can be",
+    "options": [
+      {
+        "key": "A",
+        "text": "taxed"
+      },
+      {
+        "key": "B",
+        "text": "punished"
+      },
+      {
+        "key": "C",
+        "text": "compensated"
+      },
+      {
+        "key": "D",
+        "text": "ignored"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Risk pooling lets many premium-payers fund compensation for the few who suffer losses."
+  },
+  {
+    "id": "neco-insurance-principles-2",
+    "subject": "Insurance",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Principles of Insurance",
+    "difficulty": "medium",
+    "prompt": "A person cannot legally take out a fire insurance policy on a neighbour's house because they lack",
+    "options": [
+      {
+        "key": "A",
+        "text": "a premium to pay"
+      },
+      {
+        "key": "B",
+        "text": "indemnity right"
+      },
+      {
+        "key": "C",
+        "text": "insurable interest in that property"
+      },
+      {
+        "key": "D",
+        "text": "utmost good faith"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Without a genuine financial stake, a person lacks insurable interest in the property."
+  },
+  {
+    "id": "neco-insurance-principles-3",
+    "subject": "Insurance",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Principles of Insurance",
+    "difficulty": "hard",
+    "prompt": "The principle of indemnity ensures that after a valid claim, the insured is",
+    "options": [
+      {
+        "key": "A",
+        "text": "restored to the same financial position as before the loss, without profiting"
+      },
+      {
+        "key": "B",
+        "text": "paid more than the value of their actual loss"
+      },
+      {
+        "key": "C",
+        "text": "denied any compensation"
+      },
+      {
+        "key": "D",
+        "text": "given a completely new item regardless of value"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Indemnity restores the insured's financial position without allowing profit."
+  },
+  {
+    "id": "neco-insurance-principles-4",
+    "subject": "Insurance",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Principles of Insurance",
+    "difficulty": "medium",
+    "prompt": "Where a risk is covered by two insurance companies, the principle allowing the insurers to share the claim cost between themselves is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "insurable interest"
+      },
+      {
+        "key": "B",
+        "text": "contribution"
+      },
+      {
+        "key": "C",
+        "text": "subrogation"
+      },
+      {
+        "key": "D",
+        "text": "indemnity"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Contribution splits a claim cost between insurers covering the same risk."
+  },
+  {
+    "id": "neco-insurance-principles-5",
+    "subject": "Insurance",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Principles of Insurance",
+    "difficulty": "easy",
+    "prompt": "The written proposal completed by a person seeking insurance cover, providing details about the risk, is called a/an",
+    "options": [
+      {
+        "key": "A",
+        "text": "proposal form"
+      },
+      {
+        "key": "B",
+        "text": "claim form"
+      },
+      {
+        "key": "C",
+        "text": "premium receipt"
+      },
+      {
+        "key": "D",
+        "text": "insurance policy"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "A proposal form gathers risk details from an applicant seeking cover."
+  },
+  {
+    "id": "neco-insurance-types-1",
+    "subject": "Insurance",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Types of Insurance Policies",
+    "difficulty": "easy",
+    "prompt": "Insurance designed to cover the cost of medical treatment for the insured is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "marine insurance"
+      },
+      {
+        "key": "B",
+        "text": "motor insurance"
+      },
+      {
+        "key": "C",
+        "text": "fire insurance"
+      },
+      {
+        "key": "D",
+        "text": "health (medical) insurance"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Health insurance covers the cost of medical treatment."
+  },
+  {
+    "id": "neco-insurance-types-2",
+    "subject": "Insurance",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Types of Insurance Policies",
+    "difficulty": "medium",
+    "prompt": "Third-party motor insurance mainly covers the insured against",
+    "options": [
+      {
+        "key": "A",
+        "text": "theft of the insured's personal belongings only"
+      },
+      {
+        "key": "B",
+        "text": "damage to the insured's own vehicle only"
+      },
+      {
+        "key": "C",
+        "text": "liability for injury or damage caused to other people or their property"
+      },
+      {
+        "key": "D",
+        "text": "loss of the insured's driving licence"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Third-party cover protects against liability for harm to others, not one's own vehicle."
+  },
+  {
+    "id": "neco-insurance-types-3",
+    "subject": "Insurance",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Types of Insurance Policies",
+    "difficulty": "hard",
+    "prompt": "Comprehensive motor insurance, compared to third-party insurance, additionally covers",
+    "options": [
+      {
+        "key": "A",
+        "text": "only third-party liability"
+      },
+      {
+        "key": "B",
+        "text": "damage to the insured's own vehicle as well as third-party liability"
+      },
+      {
+        "key": "C",
+        "text": "only theft of the vehicle"
+      },
+      {
+        "key": "D",
+        "text": "nothing beyond the legal minimum"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Comprehensive cover extends beyond third-party liability to the insured's own vehicle."
+  },
+  {
+    "id": "neco-insurance-types-4",
+    "subject": "Insurance",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Types of Insurance Policies",
+    "difficulty": "medium",
+    "prompt": "Insurance that protects a business against financial loss if it is legally liable for injury to a customer on its premises is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "fidelity insurance"
+      },
+      {
+        "key": "B",
+        "text": "public liability insurance"
+      },
+      {
+        "key": "C",
+        "text": "life insurance"
+      },
+      {
+        "key": "D",
+        "text": "marine insurance"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Public liability insurance covers a business's liability for injury to the public."
+  },
+  {
+    "id": "neco-insurance-types-5",
+    "subject": "Insurance",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Types of Insurance Policies",
+    "difficulty": "easy",
+    "prompt": "Insurance taken out to cover goods being transported by road or air, similar in purpose to marine insurance for sea transport, is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "fire insurance"
+      },
+      {
+        "key": "B",
+        "text": "fidelity insurance"
+      },
+      {
+        "key": "C",
+        "text": "life insurance"
+      },
+      {
+        "key": "D",
+        "text": "goods-in-transit insurance"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Goods-in-transit insurance covers land/air-transported goods, paralleling marine cover for sea transport."
+  },
+  {
+    "id": "neco-insurance-institutions-1",
+    "subject": "Insurance",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Insurance Institutions & Regulation",
+    "difficulty": "easy",
+    "prompt": "An insurance company that itself insures the risks of other insurance companies is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "actuarial firm"
+      },
+      {
+        "key": "B",
+        "text": "loss adjusting firm"
+      },
+      {
+        "key": "C",
+        "text": "insurance brokerage"
+      },
+      {
+        "key": "D",
+        "text": "reinsurance company"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "A reinsurance company insures risks underwritten by other insurers."
+  },
+  {
+    "id": "neco-insurance-institutions-2",
+    "subject": "Insurance",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Insurance Institutions & Regulation",
+    "difficulty": "medium",
+    "prompt": "A trade association through which insurance companies in a country coordinate industry standards and practices is called an",
+    "options": [
+      {
+        "key": "A",
+        "text": "government ministry"
+      },
+      {
+        "key": "B",
+        "text": "stock exchange"
+      },
+      {
+        "key": "C",
+        "text": "central bank"
+      },
+      {
+        "key": "D",
+        "text": "insurance institute/association"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "An insurance institute or association coordinates shared industry standards."
+  },
+  {
+    "id": "neco-insurance-institutions-3",
+    "subject": "Insurance",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Insurance Institutions & Regulation",
+    "difficulty": "hard",
+    "prompt": "One key reason governments regulate the insurance industry is to",
+    "options": [
+      {
+        "key": "A",
+        "text": "fix the prices of unrelated goods in the economy"
+      },
+      {
+        "key": "B",
+        "text": "prevent any insurance company from operating"
+      },
+      {
+        "key": "C",
+        "text": "directly manage insurance companies' daily operations"
+      },
+      {
+        "key": "D",
+        "text": "protect policyholders and ensure insurance companies remain financially sound"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Regulation protects policyholders and safeguards insurer solvency."
+  },
+  {
+    "id": "neco-insurance-institutions-4",
+    "subject": "Insurance",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Insurance Institutions & Regulation",
+    "difficulty": "medium",
+    "prompt": "An insurance agent, unlike a broker, typically represents",
+    "options": [
+      {
+        "key": "A",
+        "text": "no one in particular"
+      },
+      {
+        "key": "B",
+        "text": "the insured exclusively, never the insurer"
+      },
+      {
+        "key": "C",
+        "text": "the government regulatory body"
+      },
+      {
+        "key": "D",
+        "text": "one particular insurance company"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Agents usually represent a single insurer, unlike independent brokers."
+  },
+  {
+    "id": "neco-insurance-institutions-5",
+    "subject": "Insurance",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Insurance Institutions & Regulation",
+    "difficulty": "easy",
+    "prompt": "The licence or certificate required before an insurance company can legally operate in a country is issued by the",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ministry of Education"
+      },
+      {
+        "key": "B",
+        "text": "Central Bank alone in all cases"
+      },
+      {
+        "key": "C",
+        "text": "national insurance regulatory body"
+      },
+      {
+        "key": "D",
+        "text": "local government council"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Operating licences for insurers are issued by the national insurance regulator."
+  },
+  {
+    "id": "neco-insurance-underwriting-claims-1",
+    "subject": "Insurance",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Underwriting & Claims",
+    "difficulty": "easy",
+    "prompt": "During underwriting, an insurance company evaluates factors about the risk mainly to decide the",
+    "options": [
+      {
+        "key": "A",
+        "text": "political affiliation of the insured"
+      },
+      {
+        "key": "B",
+        "text": "premium to charge and whether to accept the risk"
+      },
+      {
+        "key": "C",
+        "text": "colour of the insured's property"
+      },
+      {
+        "key": "D",
+        "text": "insured's favourite hobby"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Underwriting assesses risk to set the premium and decide acceptance."
+  },
+  {
+    "id": "neco-insurance-underwriting-claims-2",
+    "subject": "Insurance",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Underwriting & Claims",
+    "difficulty": "medium",
+    "prompt": "When a claim is found to be valid after investigation, the insurer proceeds to",
+    "options": [
+      {
+        "key": "A",
+        "text": "increase the premium retroactively"
+      },
+      {
+        "key": "B",
+        "text": "refuse payment regardless"
+      },
+      {
+        "key": "C",
+        "text": "cancel the policy immediately"
+      },
+      {
+        "key": "D",
+        "text": "settle (pay) the claim according to the policy terms"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "A validated claim is settled according to the agreed policy terms."
+  },
+  {
+    "id": "neco-insurance-underwriting-claims-3",
+    "subject": "Insurance",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Underwriting & Claims",
+    "difficulty": "hard",
+    "prompt": "After settling a claim, an insurer's right to pursue a negligent third party for reimbursement is known as",
+    "options": [
+      {
+        "key": "A",
+        "text": "contribution"
+      },
+      {
+        "key": "B",
+        "text": "insurable interest"
+      },
+      {
+        "key": "C",
+        "text": "subrogation"
+      },
+      {
+        "key": "D",
+        "text": "indemnity"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Subrogation transfers the insured's recovery rights to the insurer after payout."
+  },
+  {
+    "id": "neco-insurance-underwriting-claims-4",
+    "subject": "Insurance",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Underwriting & Claims",
+    "difficulty": "medium",
+    "prompt": "A claim may be rejected by an insurer if it is discovered that the insured",
+    "options": [
+      {
+        "key": "A",
+        "text": "reported the loss promptly"
+      },
+      {
+        "key": "B",
+        "text": "concealed a material fact when applying for the policy"
+      },
+      {
+        "key": "C",
+        "text": "provided all requested documents"
+      },
+      {
+        "key": "D",
+        "text": "paid their premium on time"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Concealing material facts breaches the duty of disclosure, voiding a claim."
+  },
+  {
+    "id": "neco-insurance-underwriting-claims-5",
+    "subject": "Insurance",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Underwriting & Claims",
+    "difficulty": "easy",
+    "prompt": "The specific event or circumstance that causes a financial loss covered under an insurance policy is called the",
+    "options": [
+      {
+        "key": "A",
+        "text": "premium"
+      },
+      {
+        "key": "B",
+        "text": "commission"
+      },
+      {
+        "key": "C",
+        "text": "peril (risk event)"
+      },
+      {
+        "key": "D",
+        "text": "indemnity"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "A peril is the specific insured-against event causing loss."
+  },
+  {
+    "id": "neco-insurance-life-assurance-1",
+    "subject": "Insurance",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Life Assurance",
+    "difficulty": "easy",
+    "prompt": "Unlike general insurance, which covers uncertain events, life assurance covers an event (death) that is",
+    "options": [
+      {
+        "key": "A",
+        "text": "only relevant to businesses"
+      },
+      {
+        "key": "B",
+        "text": "certain to happen eventually, though the timing is uncertain"
+      },
+      {
+        "key": "C",
+        "text": "entirely avoidable"
+      },
+      {
+        "key": "D",
+        "text": "never going to happen"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Life assurance covers death, an event certain to occur, only its timing being uncertain."
+  },
+  {
+    "id": "neco-insurance-life-assurance-2",
+    "subject": "Insurance",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Life Assurance",
+    "difficulty": "medium",
+    "prompt": "A life assurance policy specifically designed to provide a lump sum for a policyholder's future needs, such as a child's education, at a set future date, is generally a form of",
+    "options": [
+      {
+        "key": "A",
+        "text": "annuity"
+      },
+      {
+        "key": "B",
+        "text": "endowment assurance"
+      },
+      {
+        "key": "C",
+        "text": "term assurance"
+      },
+      {
+        "key": "D",
+        "text": "whole life assurance"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Endowment assurance pays a lump sum at a set future date for planned needs."
+  },
+  {
+    "id": "neco-insurance-life-assurance-3",
+    "subject": "Insurance",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Life Assurance",
+    "difficulty": "hard",
+    "prompt": "One reason whole life assurance premiums are generally higher than term assurance premiums for the same sum assured is that whole life assurance",
+    "options": [
+      {
+        "key": "A",
+        "text": "covers a much shorter period"
+      },
+      {
+        "key": "B",
+        "text": "guarantees a payout eventually, since death is certain, unlike term assurance which may never pay out"
+      },
+      {
+        "key": "C",
+        "text": "cannot be cancelled under any circumstance"
+      },
+      {
+        "key": "D",
+        "text": "has no savings element at all"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Whole life assurance guarantees an eventual payout, raising its cost over term assurance."
+  },
+  {
+    "id": "neco-insurance-life-assurance-4",
+    "subject": "Insurance",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Life Assurance",
+    "difficulty": "medium",
+    "prompt": "A group life assurance policy is typically taken out by",
+    "options": [
+      {
+        "key": "A",
+        "text": "an insurance company to cover its shareholders only"
+      },
+      {
+        "key": "B",
+        "text": "a government to cover all citizens automatically"
+      },
+      {
+        "key": "C",
+        "text": "an employer, to cover a group of employees under one policy"
+      },
+      {
+        "key": "D",
+        "text": "a single individual for personal cover only"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Group life policies are typically arranged by employers covering their staff."
+  },
+  {
+    "id": "neco-insurance-life-assurance-5",
+    "subject": "Insurance",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Life Assurance",
+    "difficulty": "easy",
+    "prompt": "The person named to receive the benefit of a life assurance policy upon the death of the insured is called the",
+    "options": [
+      {
+        "key": "A",
+        "text": "beneficiary"
+      },
+      {
+        "key": "B",
+        "text": "underwriter"
+      },
+      {
+        "key": "C",
+        "text": "actuary"
+      },
+      {
+        "key": "D",
+        "text": "broker"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "The beneficiary is named to receive the policy payout on the insured's death."
+  },
+  {
+    "id": "neco-marketing-concepts-1",
+    "subject": "Marketing",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Marketing Concepts",
+    "difficulty": "easy",
+    "prompt": "The exchange of goods, services or ideas that satisfies the needs of both buyer and seller is the basic idea behind",
+    "options": [
+      {
+        "key": "A",
+        "text": "marketing"
+      },
+      {
+        "key": "B",
+        "text": "production"
+      },
+      {
+        "key": "C",
+        "text": "storage"
+      },
+      {
+        "key": "D",
+        "text": "taxation"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Marketing is fundamentally about mutually satisfying exchange between buyer and seller."
+  },
+  {
+    "id": "neco-marketing-concepts-2",
+    "subject": "Marketing",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Marketing Concepts",
+    "difficulty": "medium",
+    "prompt": "A business philosophy that focuses mainly on aggressive selling and promotion to persuade customers to buy existing products is called the",
+    "options": [
+      {
+        "key": "A",
+        "text": "societal marketing concept"
+      },
+      {
+        "key": "B",
+        "text": "selling concept"
+      },
+      {
+        "key": "C",
+        "text": "production concept"
+      },
+      {
+        "key": "D",
+        "text": "marketing concept"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "The selling concept relies on aggressive promotion to move existing products."
+  },
+  {
+    "id": "neco-marketing-concepts-3",
+    "subject": "Marketing",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Marketing Concepts",
+    "difficulty": "hard",
+    "prompt": "The societal marketing concept extends the marketing concept by requiring businesses to also consider",
+    "options": [
+      {
+        "key": "A",
+        "text": "only maximizing short-term company profit"
+      },
+      {
+        "key": "B",
+        "text": "only increasing advertising spend"
+      },
+      {
+        "key": "C",
+        "text": "only reducing production costs"
+      },
+      {
+        "key": "D",
+        "text": "the long-term well-being of consumers and society"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Societal marketing adds concern for long-term consumer and societal welfare."
+  },
+  {
+    "id": "neco-marketing-concepts-4",
+    "subject": "Marketing",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Marketing Concepts",
+    "difficulty": "medium",
+    "prompt": "A product designed and positioned to appeal to a specific segment of the overall market is said to be",
+    "options": [
+      {
+        "key": "A",
+        "text": "distributed randomly"
+      },
+      {
+        "key": "B",
+        "text": "sold without any marketing strategy"
+      },
+      {
+        "key": "C",
+        "text": "priced below cost always"
+      },
+      {
+        "key": "D",
+        "text": "targeted at that market segment"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "A targeted product is designed and positioned for a specific market segment."
+  },
+  {
+    "id": "neco-marketing-concepts-5",
+    "subject": "Marketing",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Marketing Concepts",
+    "difficulty": "easy",
+    "prompt": "Grouping the market by criteria such as age, income, or location, to better target customers, is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "product placement"
+      },
+      {
+        "key": "B",
+        "text": "sales forecasting"
+      },
+      {
+        "key": "C",
+        "text": "stock control"
+      },
+      {
+        "key": "D",
+        "text": "market segmentation"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Market segmentation groups customers by shared characteristics for targeting."
+  },
+  {
+    "id": "neco-marketing-mix-1",
+    "subject": "Marketing",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Marketing Mix (4 Ps)",
+    "difficulty": "easy",
+    "prompt": "Decisions about a product's features, quality, branding and packaging fall under which element of the marketing mix?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Promotion"
+      },
+      {
+        "key": "B",
+        "text": "Price"
+      },
+      {
+        "key": "C",
+        "text": "Product"
+      },
+      {
+        "key": "D",
+        "text": "Place"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Product decisions cover features, quality, branding and packaging."
+  },
+  {
+    "id": "neco-marketing-mix-2",
+    "subject": "Marketing",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Marketing Mix (4 Ps)",
+    "difficulty": "medium",
+    "prompt": "The amount of money a customer must pay to acquire a product is determined under which element of the marketing mix?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Product"
+      },
+      {
+        "key": "B",
+        "text": "Place"
+      },
+      {
+        "key": "C",
+        "text": "Promotion"
+      },
+      {
+        "key": "D",
+        "text": "Price"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Price is the cost a customer pays to acquire a product."
+  },
+  {
+    "id": "neco-marketing-mix-3",
+    "subject": "Marketing",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Marketing Mix (4 Ps)",
+    "difficulty": "hard",
+    "prompt": "A pricing strategy in which a product is deliberately sold at a very low price, sometimes below cost, to attract customers into a store who may then buy other items, is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "penetration pricing"
+      },
+      {
+        "key": "B",
+        "text": "loss-leader pricing"
+      },
+      {
+        "key": "C",
+        "text": "premium pricing"
+      },
+      {
+        "key": "D",
+        "text": "price skimming"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Loss-leader pricing sells one item cheaply to draw in customers for other purchases."
+  },
+  {
+    "id": "neco-marketing-mix-4",
+    "subject": "Marketing",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Marketing Mix (4 Ps)",
+    "difficulty": "medium",
+    "prompt": "Pricing a product based on what competitors are charging for similar products is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "cost-plus pricing"
+      },
+      {
+        "key": "B",
+        "text": "price skimming"
+      },
+      {
+        "key": "C",
+        "text": "competitive pricing"
+      },
+      {
+        "key": "D",
+        "text": "penetration pricing"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Competitive pricing sets prices relative to what rivals charge."
+  },
+  {
+    "id": "neco-marketing-mix-5",
+    "subject": "Marketing",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Marketing Mix (4 Ps)",
+    "difficulty": "easy",
+    "prompt": "The channels and methods used to make a product physically available to customers, such as retail stores or online platforms, relate to which element of the marketing mix?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Place (distribution)"
+      },
+      {
+        "key": "B",
+        "text": "Product"
+      },
+      {
+        "key": "C",
+        "text": "Promotion"
+      },
+      {
+        "key": "D",
+        "text": "Price"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Place covers the channels making a product available to customers."
+  },
+  {
+    "id": "neco-marketing-research-1",
+    "subject": "Marketing",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Market Research",
+    "difficulty": "easy",
+    "prompt": "Conducting market research before launching a new product mainly helps a business to",
+    "options": [
+      {
+        "key": "A",
+        "text": "guarantee the product will never fail"
+      },
+      {
+        "key": "B",
+        "text": "set government tax policy"
+      },
+      {
+        "key": "C",
+        "text": "eliminate the need for advertising"
+      },
+      {
+        "key": "D",
+        "text": "reduce the risk of the product failing in the market"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Market research reduces, though never eliminates, the risk of product failure."
+  },
+  {
+    "id": "neco-marketing-research-2",
+    "subject": "Marketing",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Market Research",
+    "difficulty": "medium",
+    "prompt": "A small representative group of the target population selected to take part in a market research study is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "sample"
+      },
+      {
+        "key": "B",
+        "text": "census"
+      },
+      {
+        "key": "C",
+        "text": "population"
+      },
+      {
+        "key": "D",
+        "text": "segment"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "A sample is a representative subset selected from a larger population."
+  },
+  {
+    "id": "neco-marketing-research-3",
+    "subject": "Marketing",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Market Research",
+    "difficulty": "hard",
+    "prompt": "A market research method involving a small group discussion guided by a moderator to explore consumer opinions in depth is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "desk research"
+      },
+      {
+        "key": "B",
+        "text": "questionnaire survey"
+      },
+      {
+        "key": "C",
+        "text": "focus group"
+      },
+      {
+        "key": "D",
+        "text": "census"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "A focus group is a guided small-group discussion exploring opinions in depth."
+  },
+  {
+    "id": "neco-marketing-research-4",
+    "subject": "Marketing",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Market Research",
+    "difficulty": "medium",
+    "prompt": "Collecting market data by studying published reports, government statistics and existing company records is known as",
+    "options": [
+      {
+        "key": "A",
+        "text": "desk (secondary) research"
+      },
+      {
+        "key": "B",
+        "text": "field research"
+      },
+      {
+        "key": "C",
+        "text": "experimentation"
+      },
+      {
+        "key": "D",
+        "text": "observation"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Desk research reuses existing published data rather than collecting it firsthand."
+  },
+  {
+    "id": "neco-marketing-research-5",
+    "subject": "Marketing",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Market Research",
+    "difficulty": "easy",
+    "prompt": "A market research method that involves studying an entire target population rather than a sample is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "census"
+      },
+      {
+        "key": "B",
+        "text": "focus group"
+      },
+      {
+        "key": "C",
+        "text": "pilot study"
+      },
+      {
+        "key": "D",
+        "text": "sample survey"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "A census studies the entire population rather than a sample of it."
+  },
+  {
+    "id": "neco-marketing-advertising-promotion-1",
+    "subject": "Marketing",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Advertising & Promotion",
+    "difficulty": "easy",
+    "prompt": "The main purpose of advertising is generally to",
+    "options": [
+      {
+        "key": "A",
+        "text": "inform, persuade and remind customers about a product"
+      },
+      {
+        "key": "B",
+        "text": "store unsold goods"
+      },
+      {
+        "key": "C",
+        "text": "manufacture products"
+      },
+      {
+        "key": "D",
+        "text": "transport goods to the market"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Advertising exists to inform, persuade and remind customers about products."
+  },
+  {
+    "id": "neco-marketing-advertising-promotion-2",
+    "subject": "Marketing",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Advertising & Promotion",
+    "difficulty": "medium",
+    "prompt": "A sales promotion technique in which a customer receives an extra item free with their purchase is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "rebate"
+      },
+      {
+        "key": "B",
+        "text": "discount"
+      },
+      {
+        "key": "C",
+        "text": "free gift/bonus offer"
+      },
+      {
+        "key": "D",
+        "text": "coupon"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "A free gift or bonus offer gives an extra item with a purchase."
+  },
+  {
+    "id": "neco-marketing-advertising-promotion-3",
+    "subject": "Marketing",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Advertising & Promotion",
+    "difficulty": "hard",
+    "prompt": "A voucher entitling the holder to a stated price reduction on a specific product is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "free gift"
+      },
+      {
+        "key": "B",
+        "text": "rebate"
+      },
+      {
+        "key": "C",
+        "text": "sample"
+      },
+      {
+        "key": "D",
+        "text": "coupon"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "A coupon entitles the holder to a specific price reduction."
+  },
+  {
+    "id": "neco-marketing-advertising-promotion-4",
+    "subject": "Marketing",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Advertising & Promotion",
+    "difficulty": "medium",
+    "prompt": "Direct communication with individual customers through channels such as mail, email or telephone, without a general mass-media broadcast, is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "public relations"
+      },
+      {
+        "key": "B",
+        "text": "personal selling"
+      },
+      {
+        "key": "C",
+        "text": "mass advertising"
+      },
+      {
+        "key": "D",
+        "text": "direct marketing"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Direct marketing targets individual customers through direct channels, not mass media."
+  },
+  {
+    "id": "neco-marketing-advertising-promotion-5",
+    "subject": "Marketing",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Advertising & Promotion",
+    "difficulty": "easy",
+    "prompt": "A small portion of a product given to potential customers to try before they buy is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "rebate"
+      },
+      {
+        "key": "B",
+        "text": "free sample"
+      },
+      {
+        "key": "C",
+        "text": "discount"
+      },
+      {
+        "key": "D",
+        "text": "coupon"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "A free sample lets potential customers try a product before purchasing."
+  },
+  {
+    "id": "neco-marketing-consumer-behaviour-1",
+    "subject": "Marketing",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Consumer Behaviour",
+    "difficulty": "easy",
+    "prompt": "A person's beliefs, values and customs, learned from their society, that influence their buying habits are called",
+    "options": [
+      {
+        "key": "A",
+        "text": "personal factors"
+      },
+      {
+        "key": "B",
+        "text": "cultural factors"
+      },
+      {
+        "key": "C",
+        "text": "legal factors"
+      },
+      {
+        "key": "D",
+        "text": "economic factors"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Cultural factors are the learned beliefs, values and customs shaping buying habits."
+  },
+  {
+    "id": "neco-marketing-consumer-behaviour-2",
+    "subject": "Marketing",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Consumer Behaviour",
+    "difficulty": "medium",
+    "prompt": "The influence of family, friends and social groups on a person's buying decisions is referred to as",
+    "options": [
+      {
+        "key": "A",
+        "text": "social factors"
+      },
+      {
+        "key": "B",
+        "text": "psychological factors"
+      },
+      {
+        "key": "C",
+        "text": "personal factors"
+      },
+      {
+        "key": "D",
+        "text": "cultural factors"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Social factors describe the influence of family and peer groups on buying decisions."
+  },
+  {
+    "id": "neco-marketing-consumer-behaviour-3",
+    "subject": "Marketing",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Consumer Behaviour",
+    "difficulty": "hard",
+    "prompt": "The stage in the consumer decision process in which a buyer actively compares different available products before deciding which to buy is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "need recognition"
+      },
+      {
+        "key": "B",
+        "text": "post-purchase evaluation"
+      },
+      {
+        "key": "C",
+        "text": "information search"
+      },
+      {
+        "key": "D",
+        "text": "evaluation of alternatives"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Evaluation of alternatives is where a buyer compares options before deciding."
+  },
+  {
+    "id": "neco-marketing-consumer-behaviour-4",
+    "subject": "Marketing",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Consumer Behaviour",
+    "difficulty": "medium",
+    "prompt": "A consumer's motivation, perception, learning and attitudes are generally classified as",
+    "options": [
+      {
+        "key": "A",
+        "text": "cultural factors"
+      },
+      {
+        "key": "B",
+        "text": "economic factors"
+      },
+      {
+        "key": "C",
+        "text": "social factors"
+      },
+      {
+        "key": "D",
+        "text": "psychological factors"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Motivation, perception, learning and attitudes are psychological influences on behaviour."
+  },
+  {
+    "id": "neco-marketing-consumer-behaviour-5",
+    "subject": "Marketing",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Consumer Behaviour",
+    "difficulty": "easy",
+    "prompt": "When a customer feels satisfied after using a product and decides to buy it again in the future, this reflects",
+    "options": [
+      {
+        "key": "A",
+        "text": "window shopping"
+      },
+      {
+        "key": "B",
+        "text": "brand loyalty"
+      },
+      {
+        "key": "C",
+        "text": "impulse buying"
+      },
+      {
+        "key": "D",
+        "text": "bargain hunting"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Repeat purchase driven by satisfaction reflects brand loyalty."
+  }
+]

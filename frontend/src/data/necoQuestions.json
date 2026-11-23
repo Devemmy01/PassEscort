@@ -1,0 +1,6382 @@
+[
+  {
+    "id": "neco-math-algebra-1",
+    "subject": "Mathematics",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Algebra",
+    "difficulty": "easy",
+    "prompt": "Simplify: 2(3x - 4) - (x - 5)",
+    "options": [
+      {
+        "key": "A",
+        "text": "5x + 3"
+      },
+      {
+        "key": "B",
+        "text": "5x - 13"
+      },
+      {
+        "key": "C",
+        "text": "7x - 3"
+      },
+      {
+        "key": "D",
+        "text": "5x - 3"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Expand: 6x - 8 - x + 5 = 5x - 3."
+  },
+  {
+    "id": "neco-math-algebra-2",
+    "subject": "Mathematics",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Algebra",
+    "difficulty": "medium",
+    "prompt": "Solve for x: 3x - 7 = 11",
+    "options": [
+      {
+        "key": "A",
+        "text": "x = 6"
+      },
+      {
+        "key": "B",
+        "text": "x = 4"
+      },
+      {
+        "key": "C",
+        "text": "x = 1.33"
+      },
+      {
+        "key": "D",
+        "text": "x = 18"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "3x = 18, so x = 6."
+  },
+  {
+    "id": "neco-math-algebra-3",
+    "subject": "Mathematics",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Algebra",
+    "difficulty": "hard",
+    "prompt": "Factorise completely: x^2 - 9",
+    "options": [
+      {
+        "key": "A",
+        "text": "(x + 9)(x - 1)"
+      },
+      {
+        "key": "B",
+        "text": "(x - 3)(x + 3)"
+      },
+      {
+        "key": "C",
+        "text": "(x - 3)^2"
+      },
+      {
+        "key": "D",
+        "text": "(x - 9)(x + 1)"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "This is a difference of two squares: x^2 - 3^2."
+  },
+  {
+    "id": "neco-math-algebra-4",
+    "subject": "Mathematics",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Algebra",
+    "difficulty": "medium",
+    "prompt": "If y = 2x + 1 and x = 3, find y.",
+    "options": [
+      {
+        "key": "A",
+        "text": "9"
+      },
+      {
+        "key": "B",
+        "text": "6"
+      },
+      {
+        "key": "C",
+        "text": "7"
+      },
+      {
+        "key": "D",
+        "text": "5"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "y = 2(3) + 1 = 7."
+  },
+  {
+    "id": "neco-math-algebra-5",
+    "subject": "Mathematics",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Algebra",
+    "difficulty": "easy",
+    "prompt": "Solve for x: 2x/3 = 8",
+    "options": [
+      {
+        "key": "A",
+        "text": "x = 16/3"
+      },
+      {
+        "key": "B",
+        "text": "x = 24"
+      },
+      {
+        "key": "C",
+        "text": "x = 12"
+      },
+      {
+        "key": "D",
+        "text": "x = 4"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Multiply both sides by 3/2: x = 8 * 3/2 = 12."
+  },
+  {
+    "id": "neco-math-commercial-arithmetic-1",
+    "subject": "Mathematics",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Commercial Arithmetic",
+    "difficulty": "easy",
+    "prompt": "Find the simple interest on ₦5,000 for 3 years at 4% per annum.",
+    "options": [
+      {
+        "key": "A",
+        "text": "₦6,000"
+      },
+      {
+        "key": "B",
+        "text": "₦600"
+      },
+      {
+        "key": "C",
+        "text": "₦200"
+      },
+      {
+        "key": "D",
+        "text": "₦500"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "I = PRT/100 = (5000 x 4 x 3)/100 = 600."
+  },
+  {
+    "id": "neco-math-commercial-arithmetic-2",
+    "subject": "Mathematics",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Commercial Arithmetic",
+    "difficulty": "medium",
+    "prompt": "An article is bought for ₦2,000 and sold at a profit of 15%. Find the selling price.",
+    "options": [
+      {
+        "key": "A",
+        "text": "₦1,700"
+      },
+      {
+        "key": "B",
+        "text": "₦2,015"
+      },
+      {
+        "key": "C",
+        "text": "₦2,300"
+      },
+      {
+        "key": "D",
+        "text": "₦2,150"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "SP = 2000 + (15% of 2000) = 2000 + 300 = 2300."
+  },
+  {
+    "id": "neco-math-commercial-arithmetic-3",
+    "subject": "Mathematics",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Commercial Arithmetic",
+    "difficulty": "hard",
+    "prompt": "A trader buys goods worth ₦800 and pays 5% VAT on them. Find the total amount paid.",
+    "options": [
+      {
+        "key": "A",
+        "text": "₦805"
+      },
+      {
+        "key": "B",
+        "text": "₦840"
+      },
+      {
+        "key": "C",
+        "text": "₦850"
+      },
+      {
+        "key": "D",
+        "text": "₦760"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "VAT = 5% of 800 = 40; total = 800 + 40 = 840."
+  },
+  {
+    "id": "neco-math-commercial-arithmetic-4",
+    "subject": "Mathematics",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Commercial Arithmetic",
+    "difficulty": "medium",
+    "prompt": "Goods marked ₦1,500 are sold at a discount of 10%. Find the amount paid.",
+    "options": [
+      {
+        "key": "A",
+        "text": "₦1,350"
+      },
+      {
+        "key": "B",
+        "text": "₦1,050"
+      },
+      {
+        "key": "C",
+        "text": "₦1,490"
+      },
+      {
+        "key": "D",
+        "text": "₦1,400"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Discount = 10% of 1500 = 150; amount paid = 1500 - 150 = 1350."
+  },
+  {
+    "id": "neco-math-commercial-arithmetic-5",
+    "subject": "Mathematics",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Commercial Arithmetic",
+    "difficulty": "easy",
+    "prompt": "A sum of ₦3,000 was invested and yielded ₦450 simple interest after 5 years. Find the rate per annum.",
+    "options": [
+      {
+        "key": "A",
+        "text": "5%"
+      },
+      {
+        "key": "B",
+        "text": "15%"
+      },
+      {
+        "key": "C",
+        "text": "3%"
+      },
+      {
+        "key": "D",
+        "text": "1.5%"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "R = (I x 100)/(P x T) = (450 x 100)/(3000 x 5) = 3%."
+  },
+  {
+    "id": "neco-math-coordinate-geometry-1",
+    "subject": "Mathematics",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Coordinate Geometry",
+    "difficulty": "easy",
+    "prompt": "Find the midpoint of the line joining (2, 3) and (8, 7).",
+    "options": [
+      {
+        "key": "A",
+        "text": "(3, 2)"
+      },
+      {
+        "key": "B",
+        "text": "(6, 4)"
+      },
+      {
+        "key": "C",
+        "text": "(5, 5)"
+      },
+      {
+        "key": "D",
+        "text": "(10, 10)"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Midpoint = ((2+8)/2, (3+7)/2) = (5, 5)."
+  },
+  {
+    "id": "neco-math-coordinate-geometry-2",
+    "subject": "Mathematics",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Coordinate Geometry",
+    "difficulty": "medium",
+    "prompt": "Find the distance between the points (0, 0) and (3, 4).",
+    "options": [
+      {
+        "key": "A",
+        "text": "5 units"
+      },
+      {
+        "key": "B",
+        "text": "3.5 units"
+      },
+      {
+        "key": "C",
+        "text": "4.5 units"
+      },
+      {
+        "key": "D",
+        "text": "7 units"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Distance = sqrt(3^2 + 4^2) = sqrt(25) = 5."
+  },
+  {
+    "id": "neco-math-coordinate-geometry-3",
+    "subject": "Mathematics",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Coordinate Geometry",
+    "difficulty": "hard",
+    "prompt": "Find the gradient of the line joining (1, 1) and (4, 7).",
+    "options": [
+      {
+        "key": "A",
+        "text": "0.5"
+      },
+      {
+        "key": "B",
+        "text": "2"
+      },
+      {
+        "key": "C",
+        "text": "6"
+      },
+      {
+        "key": "D",
+        "text": "3"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Gradient = (7-1)/(4-1) = 6/3 = 2."
+  },
+  {
+    "id": "neco-math-coordinate-geometry-4",
+    "subject": "Mathematics",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Coordinate Geometry",
+    "difficulty": "medium",
+    "prompt": "A line has gradient 2 and passes through (0, 3). Find its y-intercept.",
+    "options": [
+      {
+        "key": "A",
+        "text": "0"
+      },
+      {
+        "key": "B",
+        "text": "6"
+      },
+      {
+        "key": "C",
+        "text": "3"
+      },
+      {
+        "key": "D",
+        "text": "2"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "The line meets the y-axis at (0, 3), so the y-intercept is 3."
+  },
+  {
+    "id": "neco-math-coordinate-geometry-5",
+    "subject": "Mathematics",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Coordinate Geometry",
+    "difficulty": "easy",
+    "prompt": "Find the gradient of a line perpendicular to a line with gradient 2.",
+    "options": [
+      {
+        "key": "A",
+        "text": "-1/2"
+      },
+      {
+        "key": "B",
+        "text": "1/2"
+      },
+      {
+        "key": "C",
+        "text": "-2"
+      },
+      {
+        "key": "D",
+        "text": "2"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Perpendicular gradients multiply to give -1: m x 2 = -1, so m = -1/2."
+  },
+  {
+    "id": "neco-math-geometry-mensuration-1",
+    "subject": "Mathematics",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Geometry & Mensuration",
+    "difficulty": "easy",
+    "prompt": "Find the area of a triangle with base 10 cm and height 6 cm.",
+    "options": [
+      {
+        "key": "A",
+        "text": "30 cm^2"
+      },
+      {
+        "key": "B",
+        "text": "16 cm^2"
+      },
+      {
+        "key": "C",
+        "text": "20 cm^2"
+      },
+      {
+        "key": "D",
+        "text": "60 cm^2"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Area = 1/2 x base x height = 1/2 x 10 x 6 = 30."
+  },
+  {
+    "id": "neco-math-geometry-mensuration-2",
+    "subject": "Mathematics",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Geometry & Mensuration",
+    "difficulty": "medium",
+    "prompt": "Find the circumference of a circle of radius 7 cm. (Take pi = 22/7)",
+    "options": [
+      {
+        "key": "A",
+        "text": "49 cm"
+      },
+      {
+        "key": "B",
+        "text": "44 cm"
+      },
+      {
+        "key": "C",
+        "text": "22 cm"
+      },
+      {
+        "key": "D",
+        "text": "154 cm"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Circumference = 2 x 22/7 x 7 = 44 cm."
+  },
+  {
+    "id": "neco-math-geometry-mensuration-3",
+    "subject": "Mathematics",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Geometry & Mensuration",
+    "difficulty": "hard",
+    "prompt": "Find the volume of a cuboid measuring 4 cm by 3 cm by 2 cm.",
+    "options": [
+      {
+        "key": "A",
+        "text": "48 cm^3"
+      },
+      {
+        "key": "B",
+        "text": "9 cm^3"
+      },
+      {
+        "key": "C",
+        "text": "14 cm^3"
+      },
+      {
+        "key": "D",
+        "text": "24 cm^3"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Volume = 4 x 3 x 2 = 24 cm^3."
+  },
+  {
+    "id": "neco-math-geometry-mensuration-4",
+    "subject": "Mathematics",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Geometry & Mensuration",
+    "difficulty": "medium",
+    "prompt": "Find the sum of the interior angles of a hexagon.",
+    "options": [
+      {
+        "key": "A",
+        "text": "540°"
+      },
+      {
+        "key": "B",
+        "text": "360°"
+      },
+      {
+        "key": "C",
+        "text": "900°"
+      },
+      {
+        "key": "D",
+        "text": "720°"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Sum = (n - 2) x 180 = (6 - 2) x 180 = 720°."
+  },
+  {
+    "id": "neco-math-geometry-mensuration-5",
+    "subject": "Mathematics",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Geometry & Mensuration",
+    "difficulty": "easy",
+    "prompt": "Find the area of a trapezium with parallel sides 8 cm and 12 cm, and height 5 cm.",
+    "options": [
+      {
+        "key": "A",
+        "text": "100 cm^2"
+      },
+      {
+        "key": "B",
+        "text": "40 cm^2"
+      },
+      {
+        "key": "C",
+        "text": "20 cm^2"
+      },
+      {
+        "key": "D",
+        "text": "50 cm^2"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Area = 1/2 (a + b) h = 1/2 (8 + 12)(5) = 50 cm^2."
+  },
+  {
+    "id": "neco-math-number-numeration-1",
+    "subject": "Mathematics",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Number & Numeration",
+    "difficulty": "easy",
+    "prompt": "Convert 110101 (base 2) to base 10.",
+    "options": [
+      {
+        "key": "A",
+        "text": "61"
+      },
+      {
+        "key": "B",
+        "text": "53"
+      },
+      {
+        "key": "C",
+        "text": "52"
+      },
+      {
+        "key": "D",
+        "text": "45"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "110101_2 = 32+16+0+4+0+1 = 53."
+  },
+  {
+    "id": "neco-math-number-numeration-2",
+    "subject": "Mathematics",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Number & Numeration",
+    "difficulty": "medium",
+    "prompt": "Find the LCM of 12 and 18.",
+    "options": [
+      {
+        "key": "A",
+        "text": "24"
+      },
+      {
+        "key": "B",
+        "text": "6"
+      },
+      {
+        "key": "C",
+        "text": "36"
+      },
+      {
+        "key": "D",
+        "text": "216"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "12 = 2^2x3, 18 = 2x3^2; LCM = 2^2x3^2 = 36."
+  },
+  {
+    "id": "neco-math-number-numeration-3",
+    "subject": "Mathematics",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Number & Numeration",
+    "difficulty": "hard",
+    "prompt": "Find the HCF of 24 and 36.",
+    "options": [
+      {
+        "key": "A",
+        "text": "6"
+      },
+      {
+        "key": "B",
+        "text": "12"
+      },
+      {
+        "key": "C",
+        "text": "4"
+      },
+      {
+        "key": "D",
+        "text": "18"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "24 = 2^3x3, 36 = 2^2x3^2; HCF = 2^2x3 = 12."
+  },
+  {
+    "id": "neco-math-number-numeration-4",
+    "subject": "Mathematics",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Number & Numeration",
+    "difficulty": "medium",
+    "prompt": "Express 0.375 as a fraction in its lowest terms.",
+    "options": [
+      {
+        "key": "A",
+        "text": "3/5"
+      },
+      {
+        "key": "B",
+        "text": "3/8"
+      },
+      {
+        "key": "C",
+        "text": "1/3"
+      },
+      {
+        "key": "D",
+        "text": "5/8"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "0.375 = 375/1000 = 3/8 after simplifying."
+  },
+  {
+    "id": "neco-math-number-numeration-5",
+    "subject": "Mathematics",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Number & Numeration",
+    "difficulty": "easy",
+    "prompt": "Round 4,567 to the nearest hundred.",
+    "options": [
+      {
+        "key": "A",
+        "text": "4,700"
+      },
+      {
+        "key": "B",
+        "text": "4,570"
+      },
+      {
+        "key": "C",
+        "text": "4,500"
+      },
+      {
+        "key": "D",
+        "text": "4,600"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "4,567 rounds up to 4,600 since the tens digit (6) is 5 or more."
+  },
+  {
+    "id": "neco-math-statistics-probability-1",
+    "subject": "Mathematics",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Statistics & Probability",
+    "difficulty": "easy",
+    "prompt": "A bag contains 3 red balls and 2 blue balls. Find the probability of picking a red ball at random.",
+    "options": [
+      {
+        "key": "A",
+        "text": "1/2"
+      },
+      {
+        "key": "B",
+        "text": "3/5"
+      },
+      {
+        "key": "C",
+        "text": "3/2"
+      },
+      {
+        "key": "D",
+        "text": "2/5"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "P(red) = 3/(3+2) = 3/5."
+  },
+  {
+    "id": "neco-math-statistics-probability-2",
+    "subject": "Mathematics",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Statistics & Probability",
+    "difficulty": "medium",
+    "prompt": "Find the mean of: 2, 4, 6, 8, 10.",
+    "options": [
+      {
+        "key": "A",
+        "text": "30"
+      },
+      {
+        "key": "B",
+        "text": "5"
+      },
+      {
+        "key": "C",
+        "text": "8"
+      },
+      {
+        "key": "D",
+        "text": "6"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Mean = (2+4+6+8+10)/5 = 30/5 = 6."
+  },
+  {
+    "id": "neco-math-statistics-probability-3",
+    "subject": "Mathematics",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Statistics & Probability",
+    "difficulty": "hard",
+    "prompt": "Find the median of: 3, 7, 9, 12, 15.",
+    "options": [
+      {
+        "key": "A",
+        "text": "9"
+      },
+      {
+        "key": "B",
+        "text": "7"
+      },
+      {
+        "key": "C",
+        "text": "8"
+      },
+      {
+        "key": "D",
+        "text": "12"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Arranged in order, the middle value (3rd of 5) is 9."
+  },
+  {
+    "id": "neco-math-statistics-probability-4",
+    "subject": "Mathematics",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Statistics & Probability",
+    "difficulty": "medium",
+    "prompt": "Find the mode of: 2, 3, 3, 4, 5, 3.",
+    "options": [
+      {
+        "key": "A",
+        "text": "2"
+      },
+      {
+        "key": "B",
+        "text": "4"
+      },
+      {
+        "key": "C",
+        "text": "5"
+      },
+      {
+        "key": "D",
+        "text": "3"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "3 occurs most frequently (three times)."
+  },
+  {
+    "id": "neco-math-statistics-probability-5",
+    "subject": "Mathematics",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Statistics & Probability",
+    "difficulty": "easy",
+    "prompt": "Find the range of: 5, 9, 3, 12, 7.",
+    "options": [
+      {
+        "key": "A",
+        "text": "7"
+      },
+      {
+        "key": "B",
+        "text": "9"
+      },
+      {
+        "key": "C",
+        "text": "3"
+      },
+      {
+        "key": "D",
+        "text": "12"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Range = highest - lowest = 12 - 3 = 9."
+  },
+  {
+    "id": "neco-math-trigonometry-1",
+    "subject": "Mathematics",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Trigonometry",
+    "difficulty": "easy",
+    "prompt": "Evaluate sin 30°.",
+    "options": [
+      {
+        "key": "A",
+        "text": "0"
+      },
+      {
+        "key": "B",
+        "text": "0.5"
+      },
+      {
+        "key": "C",
+        "text": "1"
+      },
+      {
+        "key": "D",
+        "text": "0.87"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "sin 30° = 1/2 = 0.5, a standard trigonometric value."
+  },
+  {
+    "id": "neco-math-trigonometry-2",
+    "subject": "Mathematics",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Trigonometry",
+    "difficulty": "medium",
+    "prompt": "If tan θ = 1 and θ is acute, find θ.",
+    "options": [
+      {
+        "key": "A",
+        "text": "60°"
+      },
+      {
+        "key": "B",
+        "text": "45°"
+      },
+      {
+        "key": "C",
+        "text": "30°"
+      },
+      {
+        "key": "D",
+        "text": "90°"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "tan 45° = 1."
+  },
+  {
+    "id": "neco-math-trigonometry-3",
+    "subject": "Mathematics",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Trigonometry",
+    "difficulty": "hard",
+    "prompt": "Evaluate cos 60°.",
+    "options": [
+      {
+        "key": "A",
+        "text": "0.5"
+      },
+      {
+        "key": "B",
+        "text": "1"
+      },
+      {
+        "key": "C",
+        "text": "0.87"
+      },
+      {
+        "key": "D",
+        "text": "0"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "cos 60° = 1/2 = 0.5, a standard trigonometric value."
+  },
+  {
+    "id": "neco-math-trigonometry-4",
+    "subject": "Mathematics",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Trigonometry",
+    "difficulty": "medium",
+    "prompt": "A ladder 8 m long leans against a wall, making an angle of 30° with the ground. Find the height it reaches on the wall.",
+    "options": [
+      {
+        "key": "A",
+        "text": "2 m"
+      },
+      {
+        "key": "B",
+        "text": "8 m"
+      },
+      {
+        "key": "C",
+        "text": "6.93 m"
+      },
+      {
+        "key": "D",
+        "text": "4 m"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Height = 8 x sin 30° = 8 x 0.5 = 4 m."
+  },
+  {
+    "id": "neco-math-trigonometry-5",
+    "subject": "Mathematics",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Trigonometry",
+    "difficulty": "easy",
+    "prompt": "Simplify: sin^2 θ + cos^2 θ",
+    "options": [
+      {
+        "key": "A",
+        "text": "2"
+      },
+      {
+        "key": "B",
+        "text": "0"
+      },
+      {
+        "key": "C",
+        "text": "1"
+      },
+      {
+        "key": "D",
+        "text": "tan θ"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "This is the fundamental trigonometric identity: sin^2 θ + cos^2 θ = 1 for any angle θ."
+  },
+  {
+    "id": "neco-eng-comprehension-1",
+    "subject": "English",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Comprehension",
+    "difficulty": "easy",
+    "prompt": "Choose the option that best interprets: 'The teacher's remarks were double-edged.'",
+    "options": [
+      {
+        "key": "A",
+        "text": "The remarks were very short"
+      },
+      {
+        "key": "B",
+        "text": "The remarks were written on two pages"
+      },
+      {
+        "key": "C",
+        "text": "The remarks could be understood in two conflicting ways"
+      },
+      {
+        "key": "D",
+        "text": "The remarks were extremely kind"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "'Double-edged' means having two contrasting interpretations or effects."
+  },
+  {
+    "id": "neco-eng-comprehension-2",
+    "subject": "English",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Comprehension",
+    "difficulty": "medium",
+    "prompt": "Ade was elated after his result was released. What does 'elated' suggest about his feelings?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Very sad"
+      },
+      {
+        "key": "B",
+        "text": "Indifferent"
+      },
+      {
+        "key": "C",
+        "text": "Very happy"
+      },
+      {
+        "key": "D",
+        "text": "Confused"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "'Elated' means extremely happy or overjoyed."
+  },
+  {
+    "id": "neco-eng-comprehension-3",
+    "subject": "English",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Comprehension",
+    "difficulty": "hard",
+    "prompt": "Despite the drought, farmers in the region recorded a bumper harvest due to irrigation. What is the main idea?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Farmers abandoned farming due to the drought"
+      },
+      {
+        "key": "B",
+        "text": "The drought destroyed all the crops"
+      },
+      {
+        "key": "C",
+        "text": "Irrigation helped farmers succeed despite the drought"
+      },
+      {
+        "key": "D",
+        "text": "Irrigation caused the drought"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "The sentence credits irrigation with the good harvest despite the drought."
+  },
+  {
+    "id": "neco-eng-comprehension-4",
+    "subject": "English",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Comprehension",
+    "difficulty": "medium",
+    "prompt": "The building had been abandoned for years; weeds had overtaken the compound. What can be inferred?",
+    "options": [
+      {
+        "key": "A",
+        "text": "The compound was well maintained"
+      },
+      {
+        "key": "B",
+        "text": "People still lived in the building"
+      },
+      {
+        "key": "C",
+        "text": "The building was newly constructed"
+      },
+      {
+        "key": "D",
+        "text": "The building had been neglected for a long time"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Overgrown weeds and long abandonment both signal prolonged neglect."
+  },
+  {
+    "id": "neco-eng-comprehension-5",
+    "subject": "English",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Comprehension",
+    "difficulty": "easy",
+    "prompt": "Although Ngozi failed twice, she persisted and eventually passed her exams. What quality does this show?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Laziness"
+      },
+      {
+        "key": "B",
+        "text": "Carelessness"
+      },
+      {
+        "key": "C",
+        "text": "Dishonesty"
+      },
+      {
+        "key": "D",
+        "text": "Perseverance"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Continuing to try despite repeated failure demonstrates perseverance."
+  },
+  {
+    "id": "neco-eng-grammar-usage-1",
+    "subject": "English",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Grammar & Usage",
+    "difficulty": "easy",
+    "prompt": "Each of the students ___ given a certificate.",
+    "options": [
+      {
+        "key": "A",
+        "text": "were"
+      },
+      {
+        "key": "B",
+        "text": "have been"
+      },
+      {
+        "key": "C",
+        "text": "was"
+      },
+      {
+        "key": "D",
+        "text": "are"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "'Each' is singular, so it takes the singular verb 'was'."
+  },
+  {
+    "id": "neco-eng-grammar-usage-2",
+    "subject": "English",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Grammar & Usage",
+    "difficulty": "medium",
+    "prompt": "Neither the manager nor the staff ___ available.",
+    "options": [
+      {
+        "key": "A",
+        "text": "have"
+      },
+      {
+        "key": "B",
+        "text": "are"
+      },
+      {
+        "key": "C",
+        "text": "is"
+      },
+      {
+        "key": "D",
+        "text": "were"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "With 'neither...nor', the verb agrees with the nearer subject, 'staff' (treated as singular here)."
+  },
+  {
+    "id": "neco-eng-grammar-usage-3",
+    "subject": "English",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Grammar & Usage",
+    "difficulty": "hard",
+    "prompt": "By this time next year, she ___ her degree.",
+    "options": [
+      {
+        "key": "A",
+        "text": "completes"
+      },
+      {
+        "key": "B",
+        "text": "has completed"
+      },
+      {
+        "key": "C",
+        "text": "completed"
+      },
+      {
+        "key": "D",
+        "text": "will have completed"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "An action finished before a specific future point uses the future perfect tense."
+  },
+  {
+    "id": "neco-eng-grammar-usage-4",
+    "subject": "English",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Grammar & Usage",
+    "difficulty": "medium",
+    "prompt": "If I ___ rich, I would travel the world.",
+    "options": [
+      {
+        "key": "A",
+        "text": "be"
+      },
+      {
+        "key": "B",
+        "text": "am"
+      },
+      {
+        "key": "C",
+        "text": "was"
+      },
+      {
+        "key": "D",
+        "text": "were"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Hypothetical conditionals use the subjunctive 'were' for all persons."
+  },
+  {
+    "id": "neco-eng-grammar-usage-5",
+    "subject": "English",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Grammar & Usage",
+    "difficulty": "easy",
+    "prompt": "She is one of the students who ___ always punctual.",
+    "options": [
+      {
+        "key": "A",
+        "text": "are"
+      },
+      {
+        "key": "B",
+        "text": "was"
+      },
+      {
+        "key": "C",
+        "text": "is"
+      },
+      {
+        "key": "D",
+        "text": "been"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "'Who' refers to 'students' (plural), so the verb must be 'are'."
+  },
+  {
+    "id": "neco-eng-lexis-structure-1",
+    "subject": "English",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Lexis & Structure",
+    "difficulty": "easy",
+    "prompt": "Choose the word nearest in meaning to 'meticulous'.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Careful"
+      },
+      {
+        "key": "B",
+        "text": "Careless"
+      },
+      {
+        "key": "C",
+        "text": "Quick"
+      },
+      {
+        "key": "D",
+        "text": "Lazy"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "'Meticulous' means showing great attention to detail, i.e. careful."
+  },
+  {
+    "id": "neco-eng-lexis-structure-2",
+    "subject": "English",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Lexis & Structure",
+    "difficulty": "medium",
+    "prompt": "Choose the word most opposite in meaning to 'abundant'.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Large"
+      },
+      {
+        "key": "B",
+        "text": "Many"
+      },
+      {
+        "key": "C",
+        "text": "Scarce"
+      },
+      {
+        "key": "D",
+        "text": "Plentiful"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "'Abundant' means existing in large quantities; its opposite is 'scarce'."
+  },
+  {
+    "id": "neco-eng-lexis-structure-3",
+    "subject": "English",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Lexis & Structure",
+    "difficulty": "hard",
+    "prompt": "Choose the word nearest in meaning to 'candid'.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Shy"
+      },
+      {
+        "key": "B",
+        "text": "Rude"
+      },
+      {
+        "key": "C",
+        "text": "Secretive"
+      },
+      {
+        "key": "D",
+        "text": "Honest"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "'Candid' means truthful and straightforward, i.e. honest."
+  },
+  {
+    "id": "neco-eng-lexis-structure-4",
+    "subject": "English",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Lexis & Structure",
+    "difficulty": "medium",
+    "prompt": "Choose the word most opposite in meaning to 'reluctant'.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Willing"
+      },
+      {
+        "key": "B",
+        "text": "Hesitant"
+      },
+      {
+        "key": "C",
+        "text": "Unwilling"
+      },
+      {
+        "key": "D",
+        "text": "Doubtful"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "'Reluctant' means unwilling; its opposite is 'willing'."
+  },
+  {
+    "id": "neco-eng-lexis-structure-5",
+    "subject": "English",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Lexis & Structure",
+    "difficulty": "easy",
+    "prompt": "Choose the word nearest in meaning to 'diligent'.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Hardworking"
+      },
+      {
+        "key": "B",
+        "text": "Careless"
+      },
+      {
+        "key": "C",
+        "text": "Slow"
+      },
+      {
+        "key": "D",
+        "text": "Lazy"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "'Diligent' means showing care and effort, i.e. hardworking."
+  },
+  {
+    "id": "neco-eng-oral-english-1",
+    "subject": "English",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Oral English",
+    "difficulty": "easy",
+    "prompt": "Which word has the same vowel sound as 'seat'?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Set"
+      },
+      {
+        "key": "B",
+        "text": "Sit"
+      },
+      {
+        "key": "C",
+        "text": "Meat"
+      },
+      {
+        "key": "D",
+        "text": "Sat"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "'Seat' and 'meat' both contain the long vowel sound /i:/."
+  },
+  {
+    "id": "neco-eng-oral-english-2",
+    "subject": "English",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Oral English",
+    "difficulty": "medium",
+    "prompt": "Which word has the same vowel sound as 'bird'?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Food"
+      },
+      {
+        "key": "B",
+        "text": "Said"
+      },
+      {
+        "key": "C",
+        "text": "Word"
+      },
+      {
+        "key": "D",
+        "text": "Cat"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "'Bird' and 'word' both contain the vowel sound /3:/."
+  },
+  {
+    "id": "neco-eng-oral-english-3",
+    "subject": "English",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Oral English",
+    "difficulty": "hard",
+    "prompt": "Which of these words has a silent consonant in the same position as the 'k' in 'knee'?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Knife"
+      },
+      {
+        "key": "B",
+        "text": "Cat"
+      },
+      {
+        "key": "C",
+        "text": "Comb"
+      },
+      {
+        "key": "D",
+        "text": "Sign"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "'Knife' has a silent 'k' before 'n' at the start of the word, just like 'knee'."
+  },
+  {
+    "id": "neco-eng-oral-english-4",
+    "subject": "English",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Oral English",
+    "difficulty": "medium",
+    "prompt": "Which syllable carries the primary stress in the noun 'RECORD' (meaning a disc or document)?",
+    "options": [
+      {
+        "key": "A",
+        "text": "The second syllable"
+      },
+      {
+        "key": "B",
+        "text": "The first syllable"
+      },
+      {
+        "key": "C",
+        "text": "There is no stress"
+      },
+      {
+        "key": "D",
+        "text": "The third syllable"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "As a noun, RECORD is stressed on the first syllable (unlike the verb form)."
+  },
+  {
+    "id": "neco-eng-oral-english-5",
+    "subject": "English",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Oral English",
+    "difficulty": "easy",
+    "prompt": "Which of these words rhymes with 'through'?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Cow"
+      },
+      {
+        "key": "B",
+        "text": "Blue"
+      },
+      {
+        "key": "C",
+        "text": "Said"
+      },
+      {
+        "key": "D",
+        "text": "Ate"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "'Through' is pronounced /θru:/, which rhymes with 'blue' /blu:/."
+  },
+  {
+    "id": "neco-eng-vocabulary-1",
+    "subject": "English",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Vocabulary",
+    "difficulty": "easy",
+    "prompt": "Choose the word nearest in meaning to 'vivacious'.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Angry"
+      },
+      {
+        "key": "B",
+        "text": "Tired"
+      },
+      {
+        "key": "C",
+        "text": "Lively"
+      },
+      {
+        "key": "D",
+        "text": "Quiet"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "'Vivacious' means full of energy and enthusiasm, i.e. lively."
+  },
+  {
+    "id": "neco-eng-vocabulary-2",
+    "subject": "English",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Vocabulary",
+    "difficulty": "medium",
+    "prompt": "Choose the word that means \"a person who studies stars and celestial bodies scientifically\".",
+    "options": [
+      {
+        "key": "A",
+        "text": "Biologist"
+      },
+      {
+        "key": "B",
+        "text": "Geologist"
+      },
+      {
+        "key": "C",
+        "text": "Astronomer"
+      },
+      {
+        "key": "D",
+        "text": "Astrologer"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "An astronomer studies celestial objects scientifically, unlike an astrologer."
+  },
+  {
+    "id": "neco-eng-vocabulary-3",
+    "subject": "English",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Vocabulary",
+    "difficulty": "hard",
+    "prompt": "Choose the correct meaning of 'ambiguous'.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Extremely clear"
+      },
+      {
+        "key": "B",
+        "text": "Highly organised"
+      },
+      {
+        "key": "C",
+        "text": "Having more than one possible meaning"
+      },
+      {
+        "key": "D",
+        "text": "Very loud"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "'Ambiguous' describes something open to more than one interpretation."
+  },
+  {
+    "id": "neco-eng-vocabulary-4",
+    "subject": "English",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Vocabulary",
+    "difficulty": "medium",
+    "prompt": "Fill the gap: The politician's speech was full of ___ statements that could be interpreted in different ways.",
+    "options": [
+      {
+        "key": "A",
+        "text": "transparent"
+      },
+      {
+        "key": "B",
+        "text": "blunt"
+      },
+      {
+        "key": "C",
+        "text": "ambiguous"
+      },
+      {
+        "key": "D",
+        "text": "concise"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Statements open to multiple interpretations are described as ambiguous."
+  },
+  {
+    "id": "neco-eng-vocabulary-5",
+    "subject": "English",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Vocabulary",
+    "difficulty": "easy",
+    "prompt": "Choose the odd one out.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mango"
+      },
+      {
+        "key": "B",
+        "text": "Banana"
+      },
+      {
+        "key": "C",
+        "text": "Carrot"
+      },
+      {
+        "key": "D",
+        "text": "Apple"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Carrot is a vegetable, while the others are fruits."
+  },
+  {
+    "id": "neco-phy-mechanics-1",
+    "subject": "Physics",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Mechanics",
+    "difficulty": "easy",
+    "prompt": "A car accelerates uniformly from rest to 20 m/s in 4 seconds. Find its acceleration.",
+    "options": [
+      {
+        "key": "A",
+        "text": "4 m/s^2"
+      },
+      {
+        "key": "B",
+        "text": "5 m/s^2"
+      },
+      {
+        "key": "C",
+        "text": "0.2 m/s^2"
+      },
+      {
+        "key": "D",
+        "text": "80 m/s^2"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "a = (v - u)/t = (20 - 0)/4 = 5 m/s^2."
+  },
+  {
+    "id": "neco-phy-mechanics-2",
+    "subject": "Physics",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Mechanics",
+    "difficulty": "medium",
+    "prompt": "Find the force needed to accelerate a 5 kg mass at 2 m/s^2.",
+    "options": [
+      {
+        "key": "A",
+        "text": "2.5 N"
+      },
+      {
+        "key": "B",
+        "text": "20 N"
+      },
+      {
+        "key": "C",
+        "text": "10 N"
+      },
+      {
+        "key": "D",
+        "text": "7 N"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "F = ma = 5 x 2 = 10 N."
+  },
+  {
+    "id": "neco-phy-mechanics-3",
+    "subject": "Physics",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Mechanics",
+    "difficulty": "hard",
+    "prompt": "Find the momentum of a 2 kg object moving at 3 m/s.",
+    "options": [
+      {
+        "key": "A",
+        "text": "6 kg m/s"
+      },
+      {
+        "key": "B",
+        "text": "9 kg m/s"
+      },
+      {
+        "key": "C",
+        "text": "1.5 kg m/s"
+      },
+      {
+        "key": "D",
+        "text": "5 kg m/s"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Momentum = mass x velocity = 2 x 3 = 6 kg m/s."
+  },
+  {
+    "id": "neco-phy-mechanics-4",
+    "subject": "Physics",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Mechanics",
+    "difficulty": "medium",
+    "prompt": "Find the work done when a force of 10 N moves an object through a distance of 5 m.",
+    "options": [
+      {
+        "key": "A",
+        "text": "2 J"
+      },
+      {
+        "key": "B",
+        "text": "15 J"
+      },
+      {
+        "key": "C",
+        "text": "5 J"
+      },
+      {
+        "key": "D",
+        "text": "50 J"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Work = force x distance = 10 x 5 = 50 J."
+  },
+  {
+    "id": "neco-phy-mechanics-5",
+    "subject": "Physics",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Mechanics",
+    "difficulty": "easy",
+    "prompt": "An object falls freely from rest for 2 seconds. Find its velocity. (g = 10 m/s^2)",
+    "options": [
+      {
+        "key": "A",
+        "text": "20 m/s"
+      },
+      {
+        "key": "B",
+        "text": "10 m/s"
+      },
+      {
+        "key": "C",
+        "text": "40 m/s"
+      },
+      {
+        "key": "D",
+        "text": "5 m/s"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "v = u + gt = 0 + (10 x 2) = 20 m/s."
+  },
+  {
+    "id": "neco-phy-electricity-1",
+    "subject": "Physics",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Electricity",
+    "difficulty": "easy",
+    "prompt": "A current of 2 A flows through a resistor of 5 ohms. Find the voltage across it.",
+    "options": [
+      {
+        "key": "A",
+        "text": "10 V"
+      },
+      {
+        "key": "B",
+        "text": "2.5 V"
+      },
+      {
+        "key": "C",
+        "text": "7 V"
+      },
+      {
+        "key": "D",
+        "text": "0.4 V"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "By Ohm's law, V = IR = 2 x 5 = 10 V."
+  },
+  {
+    "id": "neco-phy-electricity-2",
+    "subject": "Physics",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Electricity",
+    "difficulty": "medium",
+    "prompt": "What is the SI unit of electric charge?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ampere"
+      },
+      {
+        "key": "B",
+        "text": "Volt"
+      },
+      {
+        "key": "C",
+        "text": "Ohm"
+      },
+      {
+        "key": "D",
+        "text": "Coulomb"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Electric charge is measured in coulombs (C)."
+  },
+  {
+    "id": "neco-phy-electricity-3",
+    "subject": "Physics",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Electricity",
+    "difficulty": "hard",
+    "prompt": "Two resistors of 4 ohms and 6 ohms are connected in series. Find the total resistance.",
+    "options": [
+      {
+        "key": "A",
+        "text": "2 ohms"
+      },
+      {
+        "key": "B",
+        "text": "24 ohms"
+      },
+      {
+        "key": "C",
+        "text": "10 ohms"
+      },
+      {
+        "key": "D",
+        "text": "2.4 ohms"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "In series, resistances add: 4 + 6 = 10 ohms."
+  },
+  {
+    "id": "neco-phy-electricity-4",
+    "subject": "Physics",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Electricity",
+    "difficulty": "medium",
+    "prompt": "Find the electrical power delivered when a 12 V supply drives a current of 3 A.",
+    "options": [
+      {
+        "key": "A",
+        "text": "15 W"
+      },
+      {
+        "key": "B",
+        "text": "4 W"
+      },
+      {
+        "key": "C",
+        "text": "9 W"
+      },
+      {
+        "key": "D",
+        "text": "36 W"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "P = VI = 12 x 3 = 36 W."
+  },
+  {
+    "id": "neco-phy-electricity-5",
+    "subject": "Physics",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Electricity",
+    "difficulty": "easy",
+    "prompt": "Two 3-ohm resistors are connected in parallel. Find the total resistance.",
+    "options": [
+      {
+        "key": "A",
+        "text": "3 ohms"
+      },
+      {
+        "key": "B",
+        "text": "6 ohms"
+      },
+      {
+        "key": "C",
+        "text": "1.5 ohms"
+      },
+      {
+        "key": "D",
+        "text": "9 ohms"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "1/R = 1/3 + 1/3 = 2/3, so R = 1.5 ohms."
+  },
+  {
+    "id": "neco-phy-waves-1",
+    "subject": "Physics",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Waves",
+    "difficulty": "easy",
+    "prompt": "A wave has a frequency of 100 Hz and a wavelength of 2 m. Find its speed.",
+    "options": [
+      {
+        "key": "A",
+        "text": "98 m/s"
+      },
+      {
+        "key": "B",
+        "text": "200 m/s"
+      },
+      {
+        "key": "C",
+        "text": "50 m/s"
+      },
+      {
+        "key": "D",
+        "text": "102 m/s"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "v = f x lambda = 100 x 2 = 200 m/s."
+  },
+  {
+    "id": "neco-phy-waves-2",
+    "subject": "Physics",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Waves",
+    "difficulty": "medium",
+    "prompt": "Which type of wave requires a material medium to travel?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Radio wave"
+      },
+      {
+        "key": "B",
+        "text": "Sound wave"
+      },
+      {
+        "key": "C",
+        "text": "Light wave"
+      },
+      {
+        "key": "D",
+        "text": "X-ray"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Sound is a mechanical wave and needs a medium (solid, liquid or gas) to propagate."
+  },
+  {
+    "id": "neco-phy-waves-3",
+    "subject": "Physics",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Waves",
+    "difficulty": "hard",
+    "prompt": "The distance between two successive crests of a wave is called its",
+    "options": [
+      {
+        "key": "A",
+        "text": "Period"
+      },
+      {
+        "key": "B",
+        "text": "Frequency"
+      },
+      {
+        "key": "C",
+        "text": "Amplitude"
+      },
+      {
+        "key": "D",
+        "text": "Wavelength"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Wavelength is the distance between two consecutive identical points, such as successive crests."
+  },
+  {
+    "id": "neco-phy-waves-4",
+    "subject": "Physics",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Waves",
+    "difficulty": "medium",
+    "prompt": "The number of complete waves passing a point per second is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "Amplitude"
+      },
+      {
+        "key": "B",
+        "text": "Wavelength"
+      },
+      {
+        "key": "C",
+        "text": "Speed"
+      },
+      {
+        "key": "D",
+        "text": "Frequency"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Frequency is defined as the number of oscillations (waves) per second."
+  },
+  {
+    "id": "neco-phy-waves-5",
+    "subject": "Physics",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Waves",
+    "difficulty": "easy",
+    "prompt": "Sound cannot travel through",
+    "options": [
+      {
+        "key": "A",
+        "text": "A vacuum"
+      },
+      {
+        "key": "B",
+        "text": "Air"
+      },
+      {
+        "key": "C",
+        "text": "A solid"
+      },
+      {
+        "key": "D",
+        "text": "A liquid"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Sound is a mechanical wave and needs particles of a medium to travel; a vacuum has none."
+  },
+  {
+    "id": "neco-phy-heat-thermodynamics-1",
+    "subject": "Physics",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Heat & Thermodynamics",
+    "difficulty": "easy",
+    "prompt": "Heat transfer that occurs without the need for a material medium is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "Convection"
+      },
+      {
+        "key": "B",
+        "text": "Conduction"
+      },
+      {
+        "key": "C",
+        "text": "Radiation"
+      },
+      {
+        "key": "D",
+        "text": "Diffusion"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Radiation transfers heat via electromagnetic waves and needs no medium, e.g. heat from the Sun."
+  },
+  {
+    "id": "neco-phy-heat-thermodynamics-2",
+    "subject": "Physics",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Heat & Thermodynamics",
+    "difficulty": "medium",
+    "prompt": "What is the SI unit of temperature?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Watt"
+      },
+      {
+        "key": "B",
+        "text": "Celsius"
+      },
+      {
+        "key": "C",
+        "text": "Kelvin"
+      },
+      {
+        "key": "D",
+        "text": "Joule"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "The Kelvin (K) is the SI base unit of thermodynamic temperature."
+  },
+  {
+    "id": "neco-phy-heat-thermodynamics-3",
+    "subject": "Physics",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Heat & Thermodynamics",
+    "difficulty": "hard",
+    "prompt": "At standard atmospheric pressure, water boils at",
+    "options": [
+      {
+        "key": "A",
+        "text": "212°C"
+      },
+      {
+        "key": "B",
+        "text": "50°C"
+      },
+      {
+        "key": "C",
+        "text": "100°C"
+      },
+      {
+        "key": "D",
+        "text": "0°C"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Water boils at 100°C (373 K) at standard atmospheric pressure."
+  },
+  {
+    "id": "neco-phy-heat-thermodynamics-4",
+    "subject": "Physics",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Heat & Thermodynamics",
+    "difficulty": "medium",
+    "prompt": "Find the heat energy required to raise the temperature of 2 kg of water by 5 K. (specific heat capacity of water = 4,200 J/kgK)",
+    "options": [
+      {
+        "key": "A",
+        "text": "8,400 J"
+      },
+      {
+        "key": "B",
+        "text": "21,000 J"
+      },
+      {
+        "key": "C",
+        "text": "4,200 J"
+      },
+      {
+        "key": "D",
+        "text": "42,000 J"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Q = mcΔT = 2 x 4200 x 5 = 42,000 J."
+  },
+  {
+    "id": "neco-phy-heat-thermodynamics-5",
+    "subject": "Physics",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Heat & Thermodynamics",
+    "difficulty": "easy",
+    "prompt": "The process by which a liquid changes to a gas at a temperature below its boiling point is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "Condensation"
+      },
+      {
+        "key": "B",
+        "text": "Evaporation"
+      },
+      {
+        "key": "C",
+        "text": "Sublimation"
+      },
+      {
+        "key": "D",
+        "text": "Boiling"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Evaporation occurs at the surface of a liquid at any temperature below boiling point."
+  },
+  {
+    "id": "neco-phy-magnetism-1",
+    "subject": "Physics",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Magnetism",
+    "difficulty": "easy",
+    "prompt": "Two like magnetic poles brought close together will",
+    "options": [
+      {
+        "key": "A",
+        "text": "Repel each other"
+      },
+      {
+        "key": "B",
+        "text": "Attract each other"
+      },
+      {
+        "key": "C",
+        "text": "Fuse together"
+      },
+      {
+        "key": "D",
+        "text": "Have no effect on each other"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Like poles (N-N or S-S) always repel; unlike poles attract."
+  },
+  {
+    "id": "neco-phy-magnetism-2",
+    "subject": "Physics",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Magnetism",
+    "difficulty": "medium",
+    "prompt": "Which of these materials is most strongly attracted to a magnet?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Wood"
+      },
+      {
+        "key": "B",
+        "text": "Glass"
+      },
+      {
+        "key": "C",
+        "text": "Iron"
+      },
+      {
+        "key": "D",
+        "text": "Plastic"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Iron is ferromagnetic and is strongly attracted to magnets."
+  },
+  {
+    "id": "neco-phy-magnetism-3",
+    "subject": "Physics",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Magnetism",
+    "difficulty": "hard",
+    "prompt": "A device that converts electrical energy to mechanical energy using magnetism is called an electric",
+    "options": [
+      {
+        "key": "A",
+        "text": "Transformer"
+      },
+      {
+        "key": "B",
+        "text": "Cell"
+      },
+      {
+        "key": "C",
+        "text": "Motor"
+      },
+      {
+        "key": "D",
+        "text": "Generator"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "An electric motor uses magnetic forces on a current-carrying coil to produce motion."
+  },
+  {
+    "id": "neco-phy-magnetism-4",
+    "subject": "Physics",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Magnetism",
+    "difficulty": "medium",
+    "prompt": "The region around a magnet where its magnetic force can be detected is called the",
+    "options": [
+      {
+        "key": "A",
+        "text": "Electric field"
+      },
+      {
+        "key": "B",
+        "text": "Gravitational field"
+      },
+      {
+        "key": "C",
+        "text": "Force zone"
+      },
+      {
+        "key": "D",
+        "text": "Magnetic field"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "A magnetic field is the region in which a magnetic force is exerted."
+  },
+  {
+    "id": "neco-phy-magnetism-5",
+    "subject": "Physics",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Magnetism",
+    "difficulty": "easy",
+    "prompt": "Which material is best suited for making a temporary magnet?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Aluminium"
+      },
+      {
+        "key": "B",
+        "text": "Steel"
+      },
+      {
+        "key": "C",
+        "text": "Copper"
+      },
+      {
+        "key": "D",
+        "text": "Soft iron"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Soft iron magnetises and demagnetises easily, making it suitable for temporary magnets."
+  },
+  {
+    "id": "neco-phy-modern-physics-1",
+    "subject": "Physics",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Modern Physics",
+    "difficulty": "easy",
+    "prompt": "The smallest unit of an element that still retains the chemical properties of that element is the",
+    "options": [
+      {
+        "key": "A",
+        "text": "Molecule"
+      },
+      {
+        "key": "B",
+        "text": "Compound"
+      },
+      {
+        "key": "C",
+        "text": "Electron"
+      },
+      {
+        "key": "D",
+        "text": "Atom"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "An atom is the smallest particle of an element that retains its chemical identity."
+  },
+  {
+    "id": "neco-phy-modern-physics-2",
+    "subject": "Physics",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Modern Physics",
+    "difficulty": "medium",
+    "prompt": "Which subatomic particle carries no electric charge?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Proton"
+      },
+      {
+        "key": "B",
+        "text": "Electron"
+      },
+      {
+        "key": "C",
+        "text": "Ion"
+      },
+      {
+        "key": "D",
+        "text": "Neutron"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "The neutron is electrically neutral, unlike the positively charged proton."
+  },
+  {
+    "id": "neco-phy-modern-physics-3",
+    "subject": "Physics",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Modern Physics",
+    "difficulty": "hard",
+    "prompt": "The phenomenon in which light exhibits properties of both a wave and a particle is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "Refraction"
+      },
+      {
+        "key": "B",
+        "text": "Polarization"
+      },
+      {
+        "key": "C",
+        "text": "Wave-particle duality"
+      },
+      {
+        "key": "D",
+        "text": "Diffraction"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Wave-particle duality describes how light can behave as both a wave and a stream of particles (photons)."
+  },
+  {
+    "id": "neco-phy-modern-physics-4",
+    "subject": "Physics",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Modern Physics",
+    "difficulty": "medium",
+    "prompt": "Radioactive decay in which a nucleus emits a helium nucleus is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "Gamma decay"
+      },
+      {
+        "key": "B",
+        "text": "Beta decay"
+      },
+      {
+        "key": "C",
+        "text": "Alpha decay"
+      },
+      {
+        "key": "D",
+        "text": "Fission"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Alpha decay involves the emission of an alpha particle, which is a helium nucleus (2 protons, 2 neutrons)."
+  },
+  {
+    "id": "neco-phy-modern-physics-5",
+    "subject": "Physics",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Modern Physics",
+    "difficulty": "easy",
+    "prompt": "Which instrument is used to detect and measure radioactivity?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Voltmeter"
+      },
+      {
+        "key": "B",
+        "text": "Ammeter"
+      },
+      {
+        "key": "C",
+        "text": "Barometer"
+      },
+      {
+        "key": "D",
+        "text": "Geiger counter"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "A Geiger counter detects ionizing radiation from radioactive materials."
+  },
+  {
+    "id": "neco-phy-measurement-units-1",
+    "subject": "Physics",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Measurement & Units",
+    "difficulty": "easy",
+    "prompt": "What is the SI unit of mass?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Gram"
+      },
+      {
+        "key": "B",
+        "text": "Kilogram"
+      },
+      {
+        "key": "C",
+        "text": "Pound"
+      },
+      {
+        "key": "D",
+        "text": "Newton"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "The kilogram (kg) is the SI base unit of mass."
+  },
+  {
+    "id": "neco-phy-measurement-units-2",
+    "subject": "Physics",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Measurement & Units",
+    "difficulty": "medium",
+    "prompt": "Which instrument is used to accurately measure the diameter of a small sphere?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Metre rule"
+      },
+      {
+        "key": "B",
+        "text": "Measuring cylinder"
+      },
+      {
+        "key": "C",
+        "text": "Stopwatch"
+      },
+      {
+        "key": "D",
+        "text": "Micrometer screw gauge"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "A micrometer screw gauge measures very small lengths precisely, such as diameters of small objects."
+  },
+  {
+    "id": "neco-phy-measurement-units-3",
+    "subject": "Physics",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Measurement & Units",
+    "difficulty": "hard",
+    "prompt": "Convert 5,000 g to kilograms.",
+    "options": [
+      {
+        "key": "A",
+        "text": "50 kg"
+      },
+      {
+        "key": "B",
+        "text": "500 kg"
+      },
+      {
+        "key": "C",
+        "text": "5 kg"
+      },
+      {
+        "key": "D",
+        "text": "0.5 kg"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "1,000 g = 1 kg, so 5,000 g = 5 kg."
+  },
+  {
+    "id": "neco-phy-measurement-units-4",
+    "subject": "Physics",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Measurement & Units",
+    "difficulty": "medium",
+    "prompt": "What is the SI unit of force?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Newton"
+      },
+      {
+        "key": "B",
+        "text": "Watt"
+      },
+      {
+        "key": "C",
+        "text": "Pascal"
+      },
+      {
+        "key": "D",
+        "text": "Joule"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "The newton (N) is the SI unit of force."
+  },
+  {
+    "id": "neco-phy-measurement-units-5",
+    "subject": "Physics",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Measurement & Units",
+    "difficulty": "easy",
+    "prompt": "Which instrument is best used to measure short time intervals in an experiment?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Barometer"
+      },
+      {
+        "key": "B",
+        "text": "Ammeter"
+      },
+      {
+        "key": "C",
+        "text": "Thermometer"
+      },
+      {
+        "key": "D",
+        "text": "Stopwatch"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "A stopwatch is designed to measure elapsed time accurately."
+  },
+  {
+    "id": "neco-phy-energy-1",
+    "subject": "Physics",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Energy",
+    "difficulty": "easy",
+    "prompt": "The law of conservation of energy states that energy",
+    "options": [
+      {
+        "key": "A",
+        "text": "can be created but not destroyed"
+      },
+      {
+        "key": "B",
+        "text": "is always lost as heat"
+      },
+      {
+        "key": "C",
+        "text": "is constant only in closed systems with no friction"
+      },
+      {
+        "key": "D",
+        "text": "cannot be created or destroyed, only transformed from one form to another"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "This is the standard statement of the law of conservation of energy."
+  },
+  {
+    "id": "neco-phy-energy-2",
+    "subject": "Physics",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Energy",
+    "difficulty": "medium",
+    "prompt": "Find the kinetic energy of a 4 kg object moving at 3 m/s.",
+    "options": [
+      {
+        "key": "A",
+        "text": "12 J"
+      },
+      {
+        "key": "B",
+        "text": "18 J"
+      },
+      {
+        "key": "C",
+        "text": "24 J"
+      },
+      {
+        "key": "D",
+        "text": "6 J"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "KE = 1/2 m v^2 = 0.5 x 4 x 3^2 = 18 J."
+  },
+  {
+    "id": "neco-phy-energy-3",
+    "subject": "Physics",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Energy",
+    "difficulty": "hard",
+    "prompt": "Find the potential energy of a 2 kg object raised 5 m above the ground. (g = 10 m/s^2)",
+    "options": [
+      {
+        "key": "A",
+        "text": "100 J"
+      },
+      {
+        "key": "B",
+        "text": "20 J"
+      },
+      {
+        "key": "C",
+        "text": "10 J"
+      },
+      {
+        "key": "D",
+        "text": "50 J"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "PE = mgh = 2 x 10 x 5 = 100 J."
+  },
+  {
+    "id": "neco-phy-energy-4",
+    "subject": "Physics",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Energy",
+    "difficulty": "medium",
+    "prompt": "The energy stored in a stretched or compressed spring is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "Thermal energy"
+      },
+      {
+        "key": "B",
+        "text": "Elastic potential energy"
+      },
+      {
+        "key": "C",
+        "text": "Kinetic energy"
+      },
+      {
+        "key": "D",
+        "text": "Chemical energy"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "A deformed elastic object stores elastic potential energy."
+  },
+  {
+    "id": "neco-phy-energy-5",
+    "subject": "Physics",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Energy",
+    "difficulty": "easy",
+    "prompt": "What is the main source of energy for most living things on Earth?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Wind"
+      },
+      {
+        "key": "B",
+        "text": "The Moon"
+      },
+      {
+        "key": "C",
+        "text": "Fossil fuels"
+      },
+      {
+        "key": "D",
+        "text": "The Sun"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Solar energy powers photosynthesis, the base of most food chains on Earth."
+  },
+  {
+    "id": "neco-chem-acids-bases-1",
+    "subject": "Chemistry",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Acids and Bases",
+    "difficulty": "easy",
+    "prompt": "What is the pH value of a neutral solution?",
+    "options": [
+      {
+        "key": "A",
+        "text": "1"
+      },
+      {
+        "key": "B",
+        "text": "14"
+      },
+      {
+        "key": "C",
+        "text": "7"
+      },
+      {
+        "key": "D",
+        "text": "0"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "A neutral solution, such as pure water, has a pH of 7."
+  },
+  {
+    "id": "neco-chem-acids-bases-2",
+    "subject": "Chemistry",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Acids and Bases",
+    "difficulty": "medium",
+    "prompt": "The reaction between an acid and a base produces",
+    "options": [
+      {
+        "key": "A",
+        "text": "an oxide only"
+      },
+      {
+        "key": "B",
+        "text": "a metal only"
+      },
+      {
+        "key": "C",
+        "text": "a salt and water"
+      },
+      {
+        "key": "D",
+        "text": "a gas only"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "This is the neutralisation reaction: acid + base -> salt + water."
+  },
+  {
+    "id": "neco-chem-acids-bases-3",
+    "subject": "Chemistry",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Acids and Bases",
+    "difficulty": "hard",
+    "prompt": "Litmus paper turns which colour in an acidic solution?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Red"
+      },
+      {
+        "key": "B",
+        "text": "Blue"
+      },
+      {
+        "key": "C",
+        "text": "Green"
+      },
+      {
+        "key": "D",
+        "text": "Yellow"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Blue litmus paper turns red in acidic conditions."
+  },
+  {
+    "id": "neco-chem-acids-bases-4",
+    "subject": "Chemistry",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Acids and Bases",
+    "difficulty": "medium",
+    "prompt": "Which of the following is a strong acid?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Acetic acid"
+      },
+      {
+        "key": "B",
+        "text": "Hydrochloric acid"
+      },
+      {
+        "key": "C",
+        "text": "Citric acid"
+      },
+      {
+        "key": "D",
+        "text": "Carbonic acid"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Hydrochloric acid fully ionises in water, making it a strong acid."
+  },
+  {
+    "id": "neco-chem-acids-bases-5",
+    "subject": "Chemistry",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Acids and Bases",
+    "difficulty": "easy",
+    "prompt": "A solution with pH 10 is",
+    "options": [
+      {
+        "key": "A",
+        "text": "weakly acidic"
+      },
+      {
+        "key": "B",
+        "text": "neutral"
+      },
+      {
+        "key": "C",
+        "text": "basic (alkaline)"
+      },
+      {
+        "key": "D",
+        "text": "strongly acidic"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "A pH above 7 indicates a basic (alkaline) solution."
+  },
+  {
+    "id": "neco-chem-atomic-structure-1",
+    "subject": "Chemistry",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Atomic Structure",
+    "difficulty": "easy",
+    "prompt": "The number of protons in the nucleus of an atom is called its",
+    "options": [
+      {
+        "key": "A",
+        "text": "valency"
+      },
+      {
+        "key": "B",
+        "text": "atomic mass"
+      },
+      {
+        "key": "C",
+        "text": "mass number"
+      },
+      {
+        "key": "D",
+        "text": "atomic number"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "The atomic number is defined as the number of protons in the nucleus."
+  },
+  {
+    "id": "neco-chem-atomic-structure-2",
+    "subject": "Chemistry",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Atomic Structure",
+    "difficulty": "medium",
+    "prompt": "Which subatomic particle orbits the nucleus and carries a negative charge?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Neutron"
+      },
+      {
+        "key": "B",
+        "text": "Electron"
+      },
+      {
+        "key": "C",
+        "text": "Positron"
+      },
+      {
+        "key": "D",
+        "text": "Proton"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Electrons are negatively charged particles found in shells around the nucleus."
+  },
+  {
+    "id": "neco-chem-atomic-structure-3",
+    "subject": "Chemistry",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Atomic Structure",
+    "difficulty": "hard",
+    "prompt": "Isotopes of an element have the same number of protons but different numbers of",
+    "options": [
+      {
+        "key": "A",
+        "text": "electrons"
+      },
+      {
+        "key": "B",
+        "text": "neutrons"
+      },
+      {
+        "key": "C",
+        "text": "protons"
+      },
+      {
+        "key": "D",
+        "text": "valence shells"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Isotopes differ only in neutron number, which changes the mass number."
+  },
+  {
+    "id": "neco-chem-atomic-structure-4",
+    "subject": "Chemistry",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Atomic Structure",
+    "difficulty": "medium",
+    "prompt": "The mass number of an atom equals the number of protons plus the number of",
+    "options": [
+      {
+        "key": "A",
+        "text": "neutrons"
+      },
+      {
+        "key": "B",
+        "text": "shells"
+      },
+      {
+        "key": "C",
+        "text": "electrons"
+      },
+      {
+        "key": "D",
+        "text": "valence electrons"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Mass number = number of protons + number of neutrons."
+  },
+  {
+    "id": "neco-chem-atomic-structure-5",
+    "subject": "Chemistry",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Atomic Structure",
+    "difficulty": "easy",
+    "prompt": "An atom that has lost one or more electrons becomes a",
+    "options": [
+      {
+        "key": "A",
+        "text": "positive ion (cation)"
+      },
+      {
+        "key": "B",
+        "text": "negative ion (anion)"
+      },
+      {
+        "key": "C",
+        "text": "isotope"
+      },
+      {
+        "key": "D",
+        "text": "neutral atom"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Losing electrons leaves more protons than electrons, giving a net positive charge (cation)."
+  },
+  {
+    "id": "neco-chem-bonding-1",
+    "subject": "Chemistry",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Chemical Bonding",
+    "difficulty": "easy",
+    "prompt": "A chemical bond formed by the sharing of electrons between atoms is called a(n)",
+    "options": [
+      {
+        "key": "A",
+        "text": "covalent bond"
+      },
+      {
+        "key": "B",
+        "text": "metallic bond"
+      },
+      {
+        "key": "C",
+        "text": "ionic bond"
+      },
+      {
+        "key": "D",
+        "text": "hydrogen bond"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Covalent bonds form when atoms share electron pairs."
+  },
+  {
+    "id": "neco-chem-bonding-2",
+    "subject": "Chemistry",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Chemical Bonding",
+    "difficulty": "medium",
+    "prompt": "A chemical bond formed by the complete transfer of electrons from one atom to another is called a(n)",
+    "options": [
+      {
+        "key": "A",
+        "text": "dative bond"
+      },
+      {
+        "key": "B",
+        "text": "covalent bond"
+      },
+      {
+        "key": "C",
+        "text": "ionic bond"
+      },
+      {
+        "key": "D",
+        "text": "metallic bond"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Ionic bonds form through electron transfer, creating oppositely charged ions that attract."
+  },
+  {
+    "id": "neco-chem-bonding-3",
+    "subject": "Chemistry",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Chemical Bonding",
+    "difficulty": "hard",
+    "prompt": "Sodium chloride (NaCl) is held together mainly by",
+    "options": [
+      {
+        "key": "A",
+        "text": "ionic bonding"
+      },
+      {
+        "key": "B",
+        "text": "hydrogen bonding"
+      },
+      {
+        "key": "C",
+        "text": "covalent bonding"
+      },
+      {
+        "key": "D",
+        "text": "metallic bonding"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "NaCl forms through electron transfer from sodium to chlorine, producing an ionic lattice."
+  },
+  {
+    "id": "neco-chem-bonding-4",
+    "subject": "Chemistry",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Chemical Bonding",
+    "difficulty": "medium",
+    "prompt": "The bond between the hydrogen and oxygen atoms within a single water molecule (H2O) is",
+    "options": [
+      {
+        "key": "A",
+        "text": "metallic"
+      },
+      {
+        "key": "B",
+        "text": "a hydrogen bond"
+      },
+      {
+        "key": "C",
+        "text": "ionic"
+      },
+      {
+        "key": "D",
+        "text": "covalent"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Within a water molecule, hydrogen and oxygen atoms share electrons covalently."
+  },
+  {
+    "id": "neco-chem-bonding-5",
+    "subject": "Chemistry",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Chemical Bonding",
+    "difficulty": "easy",
+    "prompt": "Metallic bonding is best described as",
+    "options": [
+      {
+        "key": "A",
+        "text": "attraction between separate molecules only"
+      },
+      {
+        "key": "B",
+        "text": "a lattice of positive ions in a sea of delocalised electrons"
+      },
+      {
+        "key": "C",
+        "text": "electron sharing between two non-metals"
+      },
+      {
+        "key": "D",
+        "text": "complete transfer of electrons between two atoms"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Metallic bonding involves a lattice of metal cations held together by delocalised electrons."
+  },
+  {
+    "id": "neco-chem-electrochemistry-1",
+    "subject": "Chemistry",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Electrochemistry",
+    "difficulty": "easy",
+    "prompt": "The process of using electrical energy to bring about a chemical reaction is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "electrolysis"
+      },
+      {
+        "key": "B",
+        "text": "titration"
+      },
+      {
+        "key": "C",
+        "text": "oxidation"
+      },
+      {
+        "key": "D",
+        "text": "distillation"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Electrolysis decomposes a compound using an electric current."
+  },
+  {
+    "id": "neco-chem-electrochemistry-2",
+    "subject": "Chemistry",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Electrochemistry",
+    "difficulty": "medium",
+    "prompt": "During electrolysis, reduction takes place at the",
+    "options": [
+      {
+        "key": "A",
+        "text": "anode"
+      },
+      {
+        "key": "B",
+        "text": "cathode"
+      },
+      {
+        "key": "C",
+        "text": "salt bridge"
+      },
+      {
+        "key": "D",
+        "text": "electrolyte"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "The cathode is the electrode where reduction (gain of electrons) occurs."
+  },
+  {
+    "id": "neco-chem-electrochemistry-3",
+    "subject": "Chemistry",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Electrochemistry",
+    "difficulty": "hard",
+    "prompt": "During electrolysis, oxidation takes place at the",
+    "options": [
+      {
+        "key": "A",
+        "text": "anode"
+      },
+      {
+        "key": "B",
+        "text": "salt bridge"
+      },
+      {
+        "key": "C",
+        "text": "electrolyte"
+      },
+      {
+        "key": "D",
+        "text": "cathode"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "The anode is the electrode where oxidation (loss of electrons) occurs."
+  },
+  {
+    "id": "neco-chem-electrochemistry-4",
+    "subject": "Chemistry",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Electrochemistry",
+    "difficulty": "medium",
+    "prompt": "A device that converts chemical energy directly into electrical energy is called a(n)",
+    "options": [
+      {
+        "key": "A",
+        "text": "electrochemical cell (battery)"
+      },
+      {
+        "key": "B",
+        "text": "transformer"
+      },
+      {
+        "key": "C",
+        "text": "capacitor"
+      },
+      {
+        "key": "D",
+        "text": "electrolytic cell"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "A battery (voltaic/electrochemical cell) generates electricity from spontaneous chemical reactions."
+  },
+  {
+    "id": "neco-chem-electrochemistry-5",
+    "subject": "Chemistry",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Electrochemistry",
+    "difficulty": "easy",
+    "prompt": "A solution that conducts electricity because it contains free-moving ions is called a(n)",
+    "options": [
+      {
+        "key": "A",
+        "text": "insulator"
+      },
+      {
+        "key": "B",
+        "text": "non-electrolyte"
+      },
+      {
+        "key": "C",
+        "text": "electrolyte"
+      },
+      {
+        "key": "D",
+        "text": "catalyst"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Electrolytes conduct electricity in solution due to their free ions."
+  },
+  {
+    "id": "neco-chem-kinetics-1",
+    "subject": "Chemistry",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Chemical Kinetics",
+    "difficulty": "easy",
+    "prompt": "A substance that increases the rate of a reaction without being used up is called a(n)",
+    "options": [
+      {
+        "key": "A",
+        "text": "inhibitor"
+      },
+      {
+        "key": "B",
+        "text": "catalyst"
+      },
+      {
+        "key": "C",
+        "text": "product"
+      },
+      {
+        "key": "D",
+        "text": "reactant"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "A catalyst speeds up a reaction by providing a pathway with lower activation energy, and is not consumed."
+  },
+  {
+    "id": "neco-chem-kinetics-2",
+    "subject": "Chemistry",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Chemical Kinetics",
+    "difficulty": "medium",
+    "prompt": "Increasing the temperature of a reaction generally",
+    "options": [
+      {
+        "key": "A",
+        "text": "decreases the rate of reaction"
+      },
+      {
+        "key": "B",
+        "text": "has no effect on the rate"
+      },
+      {
+        "key": "C",
+        "text": "increases the rate of reaction"
+      },
+      {
+        "key": "D",
+        "text": "stops the reaction"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Higher temperature gives particles more kinetic energy, increasing collision frequency and rate."
+  },
+  {
+    "id": "neco-chem-kinetics-3",
+    "subject": "Chemistry",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Chemical Kinetics",
+    "difficulty": "hard",
+    "prompt": "Increasing the concentration of reactants generally",
+    "options": [
+      {
+        "key": "A",
+        "text": "has no effect on the rate"
+      },
+      {
+        "key": "B",
+        "text": "stops the reaction"
+      },
+      {
+        "key": "C",
+        "text": "increases the rate of reaction"
+      },
+      {
+        "key": "D",
+        "text": "decreases the rate of reaction"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Higher concentration increases the frequency of effective collisions between particles."
+  },
+  {
+    "id": "neco-chem-kinetics-4",
+    "subject": "Chemistry",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Chemical Kinetics",
+    "difficulty": "medium",
+    "prompt": "The rate of a chemical reaction is best defined as the",
+    "options": [
+      {
+        "key": "A",
+        "text": "total energy released by the reaction"
+      },
+      {
+        "key": "B",
+        "text": "change in concentration of a reactant or product per unit time"
+      },
+      {
+        "key": "C",
+        "text": "time taken for the reaction to start"
+      },
+      {
+        "key": "D",
+        "text": "total mass of reactants used"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Reaction rate measures how fast reactant or product concentration changes over time."
+  },
+  {
+    "id": "neco-chem-kinetics-5",
+    "subject": "Chemistry",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Chemical Kinetics",
+    "difficulty": "easy",
+    "prompt": "At the end of a reaction it catalyses, a catalyst is",
+    "options": [
+      {
+        "key": "A",
+        "text": "completely used up"
+      },
+      {
+        "key": "B",
+        "text": "converted into a reactant"
+      },
+      {
+        "key": "C",
+        "text": "chemically unchanged"
+      },
+      {
+        "key": "D",
+        "text": "converted into a product"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Catalysts are regenerated at the end of the reaction and remain chemically unchanged."
+  },
+  {
+    "id": "neco-chem-organic-chemistry-1",
+    "subject": "Chemistry",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Organic Chemistry",
+    "difficulty": "easy",
+    "prompt": "What is the general formula for alkanes?",
+    "options": [
+      {
+        "key": "A",
+        "text": "CnH2n-2"
+      },
+      {
+        "key": "B",
+        "text": "CnH2n"
+      },
+      {
+        "key": "C",
+        "text": "CnHn"
+      },
+      {
+        "key": "D",
+        "text": "CnH2n+2"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Alkanes are saturated hydrocarbons with the general formula CnH2n+2."
+  },
+  {
+    "id": "neco-chem-organic-chemistry-2",
+    "subject": "Chemistry",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Organic Chemistry",
+    "difficulty": "medium",
+    "prompt": "What is the general formula for alkenes?",
+    "options": [
+      {
+        "key": "A",
+        "text": "CnH2n+2"
+      },
+      {
+        "key": "B",
+        "text": "CnH2n"
+      },
+      {
+        "key": "C",
+        "text": "CnH2n-2"
+      },
+      {
+        "key": "D",
+        "text": "CnHn"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Alkenes contain one carbon-carbon double bond and follow the general formula CnH2n."
+  },
+  {
+    "id": "neco-chem-organic-chemistry-3",
+    "subject": "Chemistry",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Organic Chemistry",
+    "difficulty": "hard",
+    "prompt": "The functional group found in alcohols is",
+    "options": [
+      {
+        "key": "A",
+        "text": "-CHO (aldehyde)"
+      },
+      {
+        "key": "B",
+        "text": "-OH (hydroxyl)"
+      },
+      {
+        "key": "C",
+        "text": "-NH2 (amine)"
+      },
+      {
+        "key": "D",
+        "text": "-COOH (carboxyl)"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Alcohols are characterised by the hydroxyl (-OH) functional group."
+  },
+  {
+    "id": "neco-chem-organic-chemistry-4",
+    "subject": "Chemistry",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Organic Chemistry",
+    "difficulty": "medium",
+    "prompt": "What is the simplest alkane?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Methane"
+      },
+      {
+        "key": "B",
+        "text": "Butane"
+      },
+      {
+        "key": "C",
+        "text": "Ethane"
+      },
+      {
+        "key": "D",
+        "text": "Propane"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Methane (CH4), with one carbon atom, is the simplest alkane."
+  },
+  {
+    "id": "neco-chem-organic-chemistry-5",
+    "subject": "Chemistry",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Organic Chemistry",
+    "difficulty": "easy",
+    "prompt": "The process of breaking down large hydrocarbon molecules into smaller, more useful ones is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "cracking"
+      },
+      {
+        "key": "B",
+        "text": "polymerisation"
+      },
+      {
+        "key": "C",
+        "text": "fermentation"
+      },
+      {
+        "key": "D",
+        "text": "distillation"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Cracking breaks large hydrocarbons (e.g. from crude oil) into smaller, more valuable molecules."
+  },
+  {
+    "id": "neco-chem-periodic-table-1",
+    "subject": "Chemistry",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "The Periodic Table",
+    "difficulty": "easy",
+    "prompt": "Elements in the same group of the periodic table have the same number of",
+    "options": [
+      {
+        "key": "A",
+        "text": "neutrons"
+      },
+      {
+        "key": "B",
+        "text": "valence electrons"
+      },
+      {
+        "key": "C",
+        "text": "electron shells"
+      },
+      {
+        "key": "D",
+        "text": "protons"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Elements in a group share the same number of outermost (valence) electrons."
+  },
+  {
+    "id": "neco-chem-periodic-table-2",
+    "subject": "Chemistry",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "The Periodic Table",
+    "difficulty": "medium",
+    "prompt": "Elements in the same period of the periodic table have the same number of",
+    "options": [
+      {
+        "key": "A",
+        "text": "electron shells"
+      },
+      {
+        "key": "B",
+        "text": "isotopes"
+      },
+      {
+        "key": "C",
+        "text": "valence electrons"
+      },
+      {
+        "key": "D",
+        "text": "protons"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Elements across a period have the same number of electron shells."
+  },
+  {
+    "id": "neco-chem-periodic-table-3",
+    "subject": "Chemistry",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "The Periodic Table",
+    "difficulty": "hard",
+    "prompt": "Group 1 elements of the periodic table are known as the",
+    "options": [
+      {
+        "key": "A",
+        "text": "alkaline earth metals"
+      },
+      {
+        "key": "B",
+        "text": "noble gases"
+      },
+      {
+        "key": "C",
+        "text": "halogens"
+      },
+      {
+        "key": "D",
+        "text": "alkali metals"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Group 1 elements (e.g. sodium, potassium) are called alkali metals."
+  },
+  {
+    "id": "neco-chem-periodic-table-4",
+    "subject": "Chemistry",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "The Periodic Table",
+    "difficulty": "medium",
+    "prompt": "Group 18 elements of the periodic table are known as the",
+    "options": [
+      {
+        "key": "A",
+        "text": "alkali metals"
+      },
+      {
+        "key": "B",
+        "text": "transition metals"
+      },
+      {
+        "key": "C",
+        "text": "noble gases"
+      },
+      {
+        "key": "D",
+        "text": "halogens"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Group 18 elements (e.g. helium, neon, argon) are the noble (inert) gases."
+  },
+  {
+    "id": "neco-chem-periodic-table-5",
+    "subject": "Chemistry",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "The Periodic Table",
+    "difficulty": "easy",
+    "prompt": "Across a period from left to right, atomic size generally",
+    "options": [
+      {
+        "key": "A",
+        "text": "increases"
+      },
+      {
+        "key": "B",
+        "text": "doubles"
+      },
+      {
+        "key": "C",
+        "text": "remains constant"
+      },
+      {
+        "key": "D",
+        "text": "decreases"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Increasing nuclear charge across a period pulls electrons closer, shrinking atomic size."
+  },
+  {
+    "id": "neco-chem-stoichiometry-1",
+    "subject": "Chemistry",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Stoichiometry",
+    "difficulty": "easy",
+    "prompt": "How many moles are in 44 g of carbon (IV) oxide, CO2? (molar mass = 44 g/mol)",
+    "options": [
+      {
+        "key": "A",
+        "text": "0.5 moles"
+      },
+      {
+        "key": "B",
+        "text": "1 mole"
+      },
+      {
+        "key": "C",
+        "text": "44 moles"
+      },
+      {
+        "key": "D",
+        "text": "2 moles"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Moles = mass / molar mass = 44/44 = 1 mole."
+  },
+  {
+    "id": "neco-chem-stoichiometry-2",
+    "subject": "Chemistry",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Stoichiometry",
+    "difficulty": "medium",
+    "prompt": "Avogadro's number is approximately",
+    "options": [
+      {
+        "key": "A",
+        "text": "3.14 x 10^23"
+      },
+      {
+        "key": "B",
+        "text": "6.02 x 10^23"
+      },
+      {
+        "key": "C",
+        "text": "1.60 x 10^23"
+      },
+      {
+        "key": "D",
+        "text": "9.81 x 10^23"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Avogadro's number, the number of particles in one mole, is approximately 6.02 x 10^23."
+  },
+  {
+    "id": "neco-chem-stoichiometry-3",
+    "subject": "Chemistry",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Stoichiometry",
+    "difficulty": "hard",
+    "prompt": "Find the molar mass of water, H2O. (H = 1, O = 16)",
+    "options": [
+      {
+        "key": "A",
+        "text": "20 g/mol"
+      },
+      {
+        "key": "B",
+        "text": "18 g/mol"
+      },
+      {
+        "key": "C",
+        "text": "17 g/mol"
+      },
+      {
+        "key": "D",
+        "text": "16 g/mol"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Molar mass = (2 x 1) + 16 = 18 g/mol."
+  },
+  {
+    "id": "neco-chem-stoichiometry-4",
+    "subject": "Chemistry",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Stoichiometry",
+    "difficulty": "medium",
+    "prompt": "How many atoms are present in 2 moles of a substance?",
+    "options": [
+      {
+        "key": "A",
+        "text": "4 x 6.02 x 10^23"
+      },
+      {
+        "key": "B",
+        "text": "6.02 x 10^23"
+      },
+      {
+        "key": "C",
+        "text": "2 x 6.02 x 10^23"
+      },
+      {
+        "key": "D",
+        "text": "1 x 6.02 x 10^23"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Number of atoms = moles x Avogadro constant = 2 x 6.02 x 10^23."
+  },
+  {
+    "id": "neco-chem-stoichiometry-5",
+    "subject": "Chemistry",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Stoichiometry",
+    "difficulty": "easy",
+    "prompt": "Find the percentage of oxygen by mass in CO2. (C = 12, O = 16, molar mass CO2 = 44)",
+    "options": [
+      {
+        "key": "A",
+        "text": "36.4%"
+      },
+      {
+        "key": "B",
+        "text": "72.7%"
+      },
+      {
+        "key": "C",
+        "text": "50%"
+      },
+      {
+        "key": "D",
+        "text": "27.3%"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "%O = (32/44) x 100 ≈ 72.7%."
+  },
+  {
+    "id": "neco-bio-cell-1",
+    "subject": "Biology",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Cell Biology",
+    "difficulty": "easy",
+    "prompt": "What is regarded as the basic unit of life?",
+    "options": [
+      {
+        "key": "A",
+        "text": "The cell"
+      },
+      {
+        "key": "B",
+        "text": "The tissue"
+      },
+      {
+        "key": "C",
+        "text": "The organ"
+      },
+      {
+        "key": "D",
+        "text": "The nucleus"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "The cell is the smallest structural and functional unit of all living organisms."
+  },
+  {
+    "id": "neco-bio-cell-2",
+    "subject": "Biology",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Cell Biology",
+    "difficulty": "medium",
+    "prompt": "Which cell organelle contains the DNA and controls cell activities?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Golgi body"
+      },
+      {
+        "key": "B",
+        "text": "Ribosome"
+      },
+      {
+        "key": "C",
+        "text": "Mitochondrion"
+      },
+      {
+        "key": "D",
+        "text": "Nucleus"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "The nucleus houses the genetic material (DNA) and regulates the cell."
+  },
+  {
+    "id": "neco-bio-cell-3",
+    "subject": "Biology",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Cell Biology",
+    "difficulty": "hard",
+    "prompt": "Which organelle is the site of protein synthesis in a cell?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Lysosome"
+      },
+      {
+        "key": "B",
+        "text": "Ribosome"
+      },
+      {
+        "key": "C",
+        "text": "Nucleus"
+      },
+      {
+        "key": "D",
+        "text": "Mitochondrion"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Ribosomes translate genetic information into proteins."
+  },
+  {
+    "id": "neco-bio-cell-4",
+    "subject": "Biology",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Cell Biology",
+    "difficulty": "medium",
+    "prompt": "Which organelle is often described as the powerhouse of the cell?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ribosome"
+      },
+      {
+        "key": "B",
+        "text": "Vacuole"
+      },
+      {
+        "key": "C",
+        "text": "Mitochondrion"
+      },
+      {
+        "key": "D",
+        "text": "Nucleus"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Mitochondria carry out aerobic respiration, producing most of the cell’s ATP."
+  },
+  {
+    "id": "neco-bio-cell-5",
+    "subject": "Biology",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Cell Biology",
+    "difficulty": "easy",
+    "prompt": "Which structure is found in plant cells but not in animal cells?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Nucleus"
+      },
+      {
+        "key": "B",
+        "text": "Cytoplasm"
+      },
+      {
+        "key": "C",
+        "text": "Cell wall"
+      },
+      {
+        "key": "D",
+        "text": "Cell membrane"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Plant cells have a rigid cell wall made of cellulose, which animal cells lack."
+  },
+  {
+    "id": "neco-bio-ecology-1",
+    "subject": "Biology",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Ecology",
+    "difficulty": "easy",
+    "prompt": "A community of organisms interacting with each other and their physical environment is called a(n)",
+    "options": [
+      {
+        "key": "A",
+        "text": "ecosystem"
+      },
+      {
+        "key": "B",
+        "text": "biome"
+      },
+      {
+        "key": "C",
+        "text": "population"
+      },
+      {
+        "key": "D",
+        "text": "habitat"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "An ecosystem includes living organisms and the non-living environment they interact with."
+  },
+  {
+    "id": "neco-bio-ecology-2",
+    "subject": "Biology",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Ecology",
+    "difficulty": "medium",
+    "prompt": "Organisms that manufacture their own food are called",
+    "options": [
+      {
+        "key": "A",
+        "text": "consumers"
+      },
+      {
+        "key": "B",
+        "text": "decomposers"
+      },
+      {
+        "key": "C",
+        "text": "producers (autotrophs)"
+      },
+      {
+        "key": "D",
+        "text": "scavengers"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Producers, such as green plants, make their own food through photosynthesis."
+  },
+  {
+    "id": "neco-bio-ecology-3",
+    "subject": "Biology",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Ecology",
+    "difficulty": "hard",
+    "prompt": "Organisms that feed directly on producers are called",
+    "options": [
+      {
+        "key": "A",
+        "text": "decomposers"
+      },
+      {
+        "key": "B",
+        "text": "producers"
+      },
+      {
+        "key": "C",
+        "text": "secondary consumers"
+      },
+      {
+        "key": "D",
+        "text": "primary consumers"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Primary consumers (herbivores) feed directly on producers."
+  },
+  {
+    "id": "neco-bio-ecology-4",
+    "subject": "Biology",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Ecology",
+    "difficulty": "medium",
+    "prompt": "The transfer of energy from one organism to another, starting with a producer, is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "food web"
+      },
+      {
+        "key": "B",
+        "text": "nitrogen cycle"
+      },
+      {
+        "key": "C",
+        "text": "carbon cycle"
+      },
+      {
+        "key": "D",
+        "text": "food chain"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "A food chain shows the linear flow of energy from producer to consumers."
+  },
+  {
+    "id": "neco-bio-ecology-5",
+    "subject": "Biology",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Ecology",
+    "difficulty": "easy",
+    "prompt": "Competition for resources such as food and space between organisms of the same species is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "interspecific competition"
+      },
+      {
+        "key": "B",
+        "text": "symbiosis"
+      },
+      {
+        "key": "C",
+        "text": "predation"
+      },
+      {
+        "key": "D",
+        "text": "intraspecific competition"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Intraspecific competition occurs among members of the same species."
+  },
+  {
+    "id": "neco-bio-enzyme-1",
+    "subject": "Biology",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Enzymes",
+    "difficulty": "easy",
+    "prompt": "Enzymes act as biological",
+    "options": [
+      {
+        "key": "A",
+        "text": "hormones"
+      },
+      {
+        "key": "B",
+        "text": "inhibitors"
+      },
+      {
+        "key": "C",
+        "text": "catalysts"
+      },
+      {
+        "key": "D",
+        "text": "antibodies"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Enzymes speed up biochemical reactions without being consumed, making them biological catalysts."
+  },
+  {
+    "id": "neco-bio-enzyme-2",
+    "subject": "Biology",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Enzymes",
+    "difficulty": "medium",
+    "prompt": "Enzymes are made up mainly of",
+    "options": [
+      {
+        "key": "A",
+        "text": "protein"
+      },
+      {
+        "key": "B",
+        "text": "lipid"
+      },
+      {
+        "key": "C",
+        "text": "carbohydrate"
+      },
+      {
+        "key": "D",
+        "text": "nucleic acid"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Enzymes are globular proteins with a specific active site."
+  },
+  {
+    "id": "neco-bio-enzyme-3",
+    "subject": "Biology",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Enzymes",
+    "difficulty": "hard",
+    "prompt": "Human enzymes generally work best around what temperature?",
+    "options": [
+      {
+        "key": "A",
+        "text": "0°C"
+      },
+      {
+        "key": "B",
+        "text": "10°C"
+      },
+      {
+        "key": "C",
+        "text": "37°C"
+      },
+      {
+        "key": "D",
+        "text": "100°C"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "37°C is normal human body temperature, the optimum for most human enzymes."
+  },
+  {
+    "id": "neco-bio-enzyme-4",
+    "subject": "Biology",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Enzymes",
+    "difficulty": "medium",
+    "prompt": "Exposing an enzyme to extremely high temperature causes it to become",
+    "options": [
+      {
+        "key": "A",
+        "text": "a substrate"
+      },
+      {
+        "key": "B",
+        "text": "a hormone"
+      },
+      {
+        "key": "C",
+        "text": "denatured"
+      },
+      {
+        "key": "D",
+        "text": "more active"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "High temperature destroys the enzyme’s shape, permanently denaturing it."
+  },
+  {
+    "id": "neco-bio-enzyme-5",
+    "subject": "Biology",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Enzymes",
+    "difficulty": "easy",
+    "prompt": "The substance that an enzyme acts upon is called the",
+    "options": [
+      {
+        "key": "A",
+        "text": "coenzyme"
+      },
+      {
+        "key": "B",
+        "text": "product"
+      },
+      {
+        "key": "C",
+        "text": "cofactor"
+      },
+      {
+        "key": "D",
+        "text": "substrate"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "The substrate is the specific molecule an enzyme binds to and converts into product(s)."
+  },
+  {
+    "id": "neco-bio-genetics-1",
+    "subject": "Biology",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Genetics",
+    "difficulty": "easy",
+    "prompt": "The basic unit of heredity that is passed from parent to offspring is the",
+    "options": [
+      {
+        "key": "A",
+        "text": "cell"
+      },
+      {
+        "key": "B",
+        "text": "gene"
+      },
+      {
+        "key": "C",
+        "text": "chromosome"
+      },
+      {
+        "key": "D",
+        "text": "nucleus"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "A gene is a segment of DNA that codes for a specific trait and is inherited."
+  },
+  {
+    "id": "neco-bio-genetics-2",
+    "subject": "Biology",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Genetics",
+    "difficulty": "medium",
+    "prompt": "The thread-like structure in the nucleus that carries genetic information is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "chromosome"
+      },
+      {
+        "key": "B",
+        "text": "centriole"
+      },
+      {
+        "key": "C",
+        "text": "vacuole"
+      },
+      {
+        "key": "D",
+        "text": "ribosome"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Chromosomes are made of DNA tightly coiled around proteins, carrying genes."
+  },
+  {
+    "id": "neco-bio-genetics-3",
+    "subject": "Biology",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Genetics",
+    "difficulty": "hard",
+    "prompt": "In a cross between two heterozygous parents (Tt x Tt), what is the probability of a homozygous recessive (tt) offspring?",
+    "options": [
+      {
+        "key": "A",
+        "text": "3/4"
+      },
+      {
+        "key": "B",
+        "text": "1/2"
+      },
+      {
+        "key": "C",
+        "text": "1/4"
+      },
+      {
+        "key": "D",
+        "text": "0"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "A Tt x Tt cross gives a 1:2:1 ratio (TT:Tt:tt), so tt occurs in 1/4 of offspring."
+  },
+  {
+    "id": "neco-bio-genetics-4",
+    "subject": "Biology",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Genetics",
+    "difficulty": "medium",
+    "prompt": "The complete set of genetic (DNA) information in an organism is called its",
+    "options": [
+      {
+        "key": "A",
+        "text": "genotype"
+      },
+      {
+        "key": "B",
+        "text": "karyotype"
+      },
+      {
+        "key": "C",
+        "text": "phenotype"
+      },
+      {
+        "key": "D",
+        "text": "genome"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "The genome is the entirety of an organism’s hereditary information."
+  },
+  {
+    "id": "neco-bio-genetics-5",
+    "subject": "Biology",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Genetics",
+    "difficulty": "easy",
+    "prompt": "A trait that is expressed even when only one copy of its allele is present is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "recessive"
+      },
+      {
+        "key": "B",
+        "text": "dominant"
+      },
+      {
+        "key": "C",
+        "text": "codominant"
+      },
+      {
+        "key": "D",
+        "text": "sex-linked"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "A dominant allele produces its trait even in the heterozygous state."
+  },
+  {
+    "id": "neco-bio-osmosis-1",
+    "subject": "Biology",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Osmosis",
+    "difficulty": "easy",
+    "prompt": "Osmosis is best defined as the movement of water molecules from a region of",
+    "options": [
+      {
+        "key": "A",
+        "text": "low to high concentration of solute particles across any membrane"
+      },
+      {
+        "key": "B",
+        "text": "low solute concentration to high solute concentration through a selectively permeable membrane"
+      },
+      {
+        "key": "C",
+        "text": "high solute concentration to low solute concentration through a selectively permeable membrane"
+      },
+      {
+        "key": "D",
+        "text": "high to low concentration, independent of any membrane"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Osmosis moves water toward the side with more dissolved solute, through a selectively permeable membrane."
+  },
+  {
+    "id": "neco-bio-osmosis-2",
+    "subject": "Biology",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Osmosis",
+    "difficulty": "medium",
+    "prompt": "A plant cell placed in a strongly hypertonic (concentrated) solution will",
+    "options": [
+      {
+        "key": "A",
+        "text": "remain completely unchanged"
+      },
+      {
+        "key": "B",
+        "text": "lose water and become plasmolysed"
+      },
+      {
+        "key": "C",
+        "text": "immediately undergo mitosis"
+      },
+      {
+        "key": "D",
+        "text": "gain water and burst"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Water leaves the plant cell by osmosis, causing the cell membrane to shrink away from the wall (plasmolysis)."
+  },
+  {
+    "id": "neco-bio-osmosis-3",
+    "subject": "Biology",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Osmosis",
+    "difficulty": "hard",
+    "prompt": "An animal cell such as a red blood cell placed in distilled water will",
+    "options": [
+      {
+        "key": "A",
+        "text": "remain completely unchanged"
+      },
+      {
+        "key": "B",
+        "text": "immediately divide"
+      },
+      {
+        "key": "C",
+        "text": "swell and may burst (haemolysis)"
+      },
+      {
+        "key": "D",
+        "text": "shrink and become crenated"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Water enters the cell by osmosis since distilled water has a much lower solute concentration, causing it to swell and possibly burst."
+  },
+  {
+    "id": "neco-bio-osmosis-4",
+    "subject": "Biology",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Osmosis",
+    "difficulty": "medium",
+    "prompt": "A solution with a lower solute concentration than the cell it surrounds is described as",
+    "options": [
+      {
+        "key": "A",
+        "text": "hypotonic"
+      },
+      {
+        "key": "B",
+        "text": "saturated"
+      },
+      {
+        "key": "C",
+        "text": "isotonic"
+      },
+      {
+        "key": "D",
+        "text": "hypertonic"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "A hypotonic solution has less solute (more water) than the cell, so water tends to move into the cell."
+  },
+  {
+    "id": "neco-bio-osmosis-5",
+    "subject": "Biology",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Osmosis",
+    "difficulty": "easy",
+    "prompt": "Osmosis is distinguished from simple diffusion mainly because osmosis specifically involves the movement of",
+    "options": [
+      {
+        "key": "A",
+        "text": "gases only"
+      },
+      {
+        "key": "B",
+        "text": "water molecules through a selectively permeable membrane"
+      },
+      {
+        "key": "C",
+        "text": "food substances only"
+      },
+      {
+        "key": "D",
+        "text": "solute particles through any membrane"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Osmosis is a special case of diffusion restricted to water movement across a selectively permeable membrane."
+  },
+  {
+    "id": "neco-bio-reproduction-1",
+    "subject": "Biology",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Reproduction",
+    "difficulty": "easy",
+    "prompt": "Reproduction involving a single parent, producing offspring genetically identical to it, is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "sexual reproduction"
+      },
+      {
+        "key": "B",
+        "text": "external fertilisation"
+      },
+      {
+        "key": "C",
+        "text": "asexual reproduction"
+      },
+      {
+        "key": "D",
+        "text": "cross-fertilisation"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Asexual reproduction needs only one parent and produces genetically identical offspring (clones)."
+  },
+  {
+    "id": "neco-bio-reproduction-2",
+    "subject": "Biology",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Reproduction",
+    "difficulty": "medium",
+    "prompt": "In flowering plants, the male gametes are contained within the",
+    "options": [
+      {
+        "key": "A",
+        "text": "pollen grain"
+      },
+      {
+        "key": "B",
+        "text": "ovule"
+      },
+      {
+        "key": "C",
+        "text": "stigma"
+      },
+      {
+        "key": "D",
+        "text": "sepal"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Pollen grains carry the male gametes of a flowering plant."
+  },
+  {
+    "id": "neco-bio-reproduction-3",
+    "subject": "Biology",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Reproduction",
+    "difficulty": "hard",
+    "prompt": "The transfer of pollen grains from the anther to the stigma of a flower is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "photosynthesis"
+      },
+      {
+        "key": "B",
+        "text": "germination"
+      },
+      {
+        "key": "C",
+        "text": "pollination"
+      },
+      {
+        "key": "D",
+        "text": "fertilisation"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Pollination is the transfer of pollen from anther to stigma, a step before fertilisation."
+  },
+  {
+    "id": "neco-bio-reproduction-4",
+    "subject": "Biology",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Reproduction",
+    "difficulty": "medium",
+    "prompt": "Reproduction that requires the fusion of a male and a female gamete is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "binary fission"
+      },
+      {
+        "key": "B",
+        "text": "budding"
+      },
+      {
+        "key": "C",
+        "text": "asexual reproduction"
+      },
+      {
+        "key": "D",
+        "text": "sexual reproduction"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Sexual reproduction involves fusion of gametes from two parents."
+  },
+  {
+    "id": "neco-bio-reproduction-5",
+    "subject": "Biology",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Reproduction",
+    "difficulty": "easy",
+    "prompt": "In humans, fertilisation of the egg by a sperm normally occurs in the",
+    "options": [
+      {
+        "key": "A",
+        "text": "uterus"
+      },
+      {
+        "key": "B",
+        "text": "fallopian tube (oviduct)"
+      },
+      {
+        "key": "C",
+        "text": "vagina"
+      },
+      {
+        "key": "D",
+        "text": "ovary"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Fertilisation typically takes place in the fallopian tube after ovulation."
+  },
+  {
+    "id": "neco-bio-respiration-1",
+    "subject": "Biology",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Respiration",
+    "difficulty": "easy",
+    "prompt": "Aerobic respiration requires which gas to break down glucose?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Hydrogen"
+      },
+      {
+        "key": "B",
+        "text": "Carbon dioxide"
+      },
+      {
+        "key": "C",
+        "text": "Nitrogen"
+      },
+      {
+        "key": "D",
+        "text": "Oxygen"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Aerobic respiration uses oxygen to fully break down glucose and release energy."
+  },
+  {
+    "id": "neco-bio-respiration-2",
+    "subject": "Biology",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Respiration",
+    "difficulty": "medium",
+    "prompt": "Aerobic respiration in cells produces carbon dioxide, water and",
+    "options": [
+      {
+        "key": "A",
+        "text": "lactic acid"
+      },
+      {
+        "key": "B",
+        "text": "ethanol"
+      },
+      {
+        "key": "C",
+        "text": "energy (ATP)"
+      },
+      {
+        "key": "D",
+        "text": "oxygen"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "The overall products of aerobic respiration are carbon dioxide, water and usable energy (ATP)."
+  },
+  {
+    "id": "neco-bio-respiration-3",
+    "subject": "Biology",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Respiration",
+    "difficulty": "hard",
+    "prompt": "During vigorous exercise, human muscle cells that run short of oxygen produce",
+    "options": [
+      {
+        "key": "A",
+        "text": "carbon dioxide only"
+      },
+      {
+        "key": "B",
+        "text": "lactic acid"
+      },
+      {
+        "key": "C",
+        "text": "ethanol"
+      },
+      {
+        "key": "D",
+        "text": "glucose"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Anaerobic respiration in human muscle produces lactic acid when oxygen supply is insufficient."
+  },
+  {
+    "id": "neco-bio-respiration-4",
+    "subject": "Biology",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Respiration",
+    "difficulty": "medium",
+    "prompt": "Which organelle is the main site of aerobic respiration in a cell?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Chloroplast"
+      },
+      {
+        "key": "B",
+        "text": "Ribosome"
+      },
+      {
+        "key": "C",
+        "text": "Mitochondrion"
+      },
+      {
+        "key": "D",
+        "text": "Nucleus"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Mitochondria contain the enzymes needed for aerobic respiration and ATP production."
+  },
+  {
+    "id": "neco-bio-respiration-5",
+    "subject": "Biology",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Respiration",
+    "difficulty": "easy",
+    "prompt": "Which organ is primarily responsible for gas exchange in humans?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Liver"
+      },
+      {
+        "key": "B",
+        "text": "Lungs"
+      },
+      {
+        "key": "C",
+        "text": "Heart"
+      },
+      {
+        "key": "D",
+        "text": "Kidneys"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "The lungs exchange oxygen and carbon dioxide between the air and the blood."
+  },
+  {
+    "id": "neco-bio-transport-1",
+    "subject": "Biology",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Transport in Living Things",
+    "difficulty": "easy",
+    "prompt": "Which fluid tissue transports substances such as oxygen and nutrients around the human body?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Saliva"
+      },
+      {
+        "key": "B",
+        "text": "Blood"
+      },
+      {
+        "key": "C",
+        "text": "Lymph"
+      },
+      {
+        "key": "D",
+        "text": "Mucus"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Blood is the main transport medium in the human circulatory system."
+  },
+  {
+    "id": "neco-bio-transport-2",
+    "subject": "Biology",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Transport in Living Things",
+    "difficulty": "medium",
+    "prompt": "Which blood vessel carries blood away from the heart?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Vein"
+      },
+      {
+        "key": "B",
+        "text": "Venule"
+      },
+      {
+        "key": "C",
+        "text": "Capillary"
+      },
+      {
+        "key": "D",
+        "text": "Artery"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Arteries carry blood away from the heart, usually under high pressure."
+  },
+  {
+    "id": "neco-bio-transport-3",
+    "subject": "Biology",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Transport in Living Things",
+    "difficulty": "hard",
+    "prompt": "Which blood vessel carries blood back to the heart?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Aorta"
+      },
+      {
+        "key": "B",
+        "text": "Capillary"
+      },
+      {
+        "key": "C",
+        "text": "Artery"
+      },
+      {
+        "key": "D",
+        "text": "Vein"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Veins return blood to the heart, generally under low pressure."
+  },
+  {
+    "id": "neco-bio-transport-4",
+    "subject": "Biology",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Transport in Living Things",
+    "difficulty": "medium",
+    "prompt": "Which plant tissue transports water and dissolved minerals from the roots upward?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Xylem"
+      },
+      {
+        "key": "B",
+        "text": "Epidermis"
+      },
+      {
+        "key": "C",
+        "text": "Cambium"
+      },
+      {
+        "key": "D",
+        "text": "Phloem"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Xylem tissue conducts water and minerals upward from the roots."
+  },
+  {
+    "id": "neco-bio-transport-5",
+    "subject": "Biology",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Transport in Living Things",
+    "difficulty": "easy",
+    "prompt": "Which plant tissue transports manufactured food (e.g. sucrose) from the leaves to other parts?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Phloem"
+      },
+      {
+        "key": "B",
+        "text": "Cambium"
+      },
+      {
+        "key": "C",
+        "text": "Xylem"
+      },
+      {
+        "key": "D",
+        "text": "Cortex"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Phloem transports the products of photosynthesis throughout the plant, a process called translocation."
+  },
+  {
+    "id": "neco-econ-demand-1",
+    "subject": "Economics",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Demand",
+    "difficulty": "easy",
+    "prompt": "According to the law of demand, as the price of a good rises (other things being equal), the quantity demanded will",
+    "options": [
+      {
+        "key": "A",
+        "text": "decrease"
+      },
+      {
+        "key": "B",
+        "text": "double"
+      },
+      {
+        "key": "C",
+        "text": "increase"
+      },
+      {
+        "key": "D",
+        "text": "remain the same"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "The law of demand states an inverse relationship between price and quantity demanded, ceteris paribus."
+  },
+  {
+    "id": "neco-econ-demand-2",
+    "subject": "Economics",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Demand",
+    "difficulty": "medium",
+    "prompt": "Demand that is backed by both the willingness and the ability to pay is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "effective demand"
+      },
+      {
+        "key": "B",
+        "text": "derived demand"
+      },
+      {
+        "key": "C",
+        "text": "notional demand"
+      },
+      {
+        "key": "D",
+        "text": "composite demand"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Effective demand requires both desire for a good and the financial means to purchase it."
+  },
+  {
+    "id": "neco-econ-demand-3",
+    "subject": "Economics",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Demand",
+    "difficulty": "hard",
+    "prompt": "A leftward shift of the demand curve (at every price) indicates",
+    "options": [
+      {
+        "key": "A",
+        "text": "no change in demand"
+      },
+      {
+        "key": "B",
+        "text": "a decrease in demand"
+      },
+      {
+        "key": "C",
+        "text": "an increase in demand"
+      },
+      {
+        "key": "D",
+        "text": "a decrease in quantity demanded only"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "A leftward shift means less is demanded at every price level, i.e. demand has decreased."
+  },
+  {
+    "id": "neco-econ-demand-4",
+    "subject": "Economics",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Demand",
+    "difficulty": "medium",
+    "prompt": "Goods for which demand increases as consumer income increases are called",
+    "options": [
+      {
+        "key": "A",
+        "text": "giffen goods"
+      },
+      {
+        "key": "B",
+        "text": "complementary goods"
+      },
+      {
+        "key": "C",
+        "text": "inferior goods"
+      },
+      {
+        "key": "D",
+        "text": "normal goods"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Demand for normal goods rises with income."
+  },
+  {
+    "id": "neco-econ-demand-5",
+    "subject": "Economics",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Demand",
+    "difficulty": "easy",
+    "prompt": "Goods for which demand decreases as consumer income increases are called",
+    "options": [
+      {
+        "key": "A",
+        "text": "normal goods"
+      },
+      {
+        "key": "B",
+        "text": "luxury goods"
+      },
+      {
+        "key": "C",
+        "text": "substitute goods"
+      },
+      {
+        "key": "D",
+        "text": "inferior goods"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Consumers buy less of inferior goods as they can afford better alternatives with higher income."
+  },
+  {
+    "id": "neco-econ-elasticity-1",
+    "subject": "Economics",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Elasticity",
+    "difficulty": "easy",
+    "prompt": "If the percentage change in quantity demanded is greater than the percentage change in price, demand is said to be",
+    "options": [
+      {
+        "key": "A",
+        "text": "inelastic"
+      },
+      {
+        "key": "B",
+        "text": "unitary"
+      },
+      {
+        "key": "C",
+        "text": "elastic"
+      },
+      {
+        "key": "D",
+        "text": "perfectly inelastic"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Elastic demand means quantity demanded responds more than proportionately to a price change."
+  },
+  {
+    "id": "neco-econ-elasticity-2",
+    "subject": "Economics",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Elasticity",
+    "difficulty": "medium",
+    "prompt": "The demand for necessities, such as salt, is generally",
+    "options": [
+      {
+        "key": "A",
+        "text": "perfectly elastic"
+      },
+      {
+        "key": "B",
+        "text": "unitary"
+      },
+      {
+        "key": "C",
+        "text": "elastic"
+      },
+      {
+        "key": "D",
+        "text": "inelastic"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Necessities have few substitutes, so demand changes little even when price changes, making it inelastic."
+  },
+  {
+    "id": "neco-econ-elasticity-3",
+    "subject": "Economics",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Elasticity",
+    "difficulty": "hard",
+    "prompt": "The price elasticity of demand is calculated as",
+    "options": [
+      {
+        "key": "A",
+        "text": "total revenue divided by price"
+      },
+      {
+        "key": "B",
+        "text": "percentage change in price divided by percentage change in quantity demanded"
+      },
+      {
+        "key": "C",
+        "text": "percentage change in quantity demanded divided by percentage change in price"
+      },
+      {
+        "key": "D",
+        "text": "change in quantity demanded divided by change in income"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "This is the standard formula for price elasticity of demand."
+  },
+  {
+    "id": "neco-econ-elasticity-4",
+    "subject": "Economics",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Elasticity",
+    "difficulty": "medium",
+    "prompt": "A price elasticity of demand equal to zero describes demand that is",
+    "options": [
+      {
+        "key": "A",
+        "text": "perfectly elastic"
+      },
+      {
+        "key": "B",
+        "text": "perfectly inelastic"
+      },
+      {
+        "key": "C",
+        "text": "unitary elastic"
+      },
+      {
+        "key": "D",
+        "text": "highly elastic"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "A PED of zero means quantity demanded does not change at all as price changes."
+  },
+  {
+    "id": "neco-econ-elasticity-5",
+    "subject": "Economics",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Elasticity",
+    "difficulty": "easy",
+    "prompt": "Goods with many close substitutes tend to have",
+    "options": [
+      {
+        "key": "A",
+        "text": "zero elasticity"
+      },
+      {
+        "key": "B",
+        "text": "infinite demand"
+      },
+      {
+        "key": "C",
+        "text": "inelastic demand"
+      },
+      {
+        "key": "D",
+        "text": "elastic demand"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Consumers can easily switch to substitutes, making demand more responsive to price changes."
+  },
+  {
+    "id": "neco-econ-inflation-1",
+    "subject": "Economics",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Inflation",
+    "difficulty": "easy",
+    "prompt": "A persistent rise in the general price level of goods and services in an economy is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "stagflation"
+      },
+      {
+        "key": "B",
+        "text": "deflation"
+      },
+      {
+        "key": "C",
+        "text": "inflation"
+      },
+      {
+        "key": "D",
+        "text": "disinflation"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Inflation is defined as a sustained increase in the general price level over time."
+  },
+  {
+    "id": "neco-econ-inflation-2",
+    "subject": "Economics",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Inflation",
+    "difficulty": "medium",
+    "prompt": "Inflation caused by total demand exceeding the available supply of goods is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "imported inflation"
+      },
+      {
+        "key": "B",
+        "text": "structural inflation"
+      },
+      {
+        "key": "C",
+        "text": "demand-pull inflation"
+      },
+      {
+        "key": "D",
+        "text": "cost-push inflation"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Demand-pull inflation occurs when aggregate demand outstrips aggregate supply."
+  },
+  {
+    "id": "neco-econ-inflation-3",
+    "subject": "Economics",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Inflation",
+    "difficulty": "hard",
+    "prompt": "Inflation caused by rising costs of production, such as wages or raw materials, is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "cost-push inflation"
+      },
+      {
+        "key": "B",
+        "text": "creeping inflation"
+      },
+      {
+        "key": "C",
+        "text": "hyperinflation"
+      },
+      {
+        "key": "D",
+        "text": "demand-pull inflation"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Cost-push inflation arises when higher production costs are passed on as higher prices."
+  },
+  {
+    "id": "neco-econ-inflation-4",
+    "subject": "Economics",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Inflation",
+    "difficulty": "medium",
+    "prompt": "A continuous fall in the general price level of an economy is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "deflation"
+      },
+      {
+        "key": "B",
+        "text": "inflation"
+      },
+      {
+        "key": "C",
+        "text": "reflation"
+      },
+      {
+        "key": "D",
+        "text": "stagflation"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Deflation is the opposite of inflation: prices fall persistently over time."
+  },
+  {
+    "id": "neco-econ-inflation-5",
+    "subject": "Economics",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Inflation",
+    "difficulty": "easy",
+    "prompt": "In Nigeria, which body is primarily responsible for controlling inflation through monetary measures?",
+    "options": [
+      {
+        "key": "A",
+        "text": "The National Assembly"
+      },
+      {
+        "key": "B",
+        "text": "The Federal Ministry of Finance"
+      },
+      {
+        "key": "C",
+        "text": "The Nigerian Stock Exchange"
+      },
+      {
+        "key": "D",
+        "text": "The Central Bank of Nigeria"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "The Central Bank of Nigeria uses monetary policy tools to help control inflation."
+  },
+  {
+    "id": "neco-econ-market-1",
+    "subject": "Economics",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Market Structures",
+    "difficulty": "easy",
+    "prompt": "A market structure with many sellers of identical (homogeneous) products, where no single seller can influence price, is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "oligopoly"
+      },
+      {
+        "key": "B",
+        "text": "monopolistic competition"
+      },
+      {
+        "key": "C",
+        "text": "perfect competition"
+      },
+      {
+        "key": "D",
+        "text": "monopoly"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Perfect competition is characterised by many small firms selling identical products and price-taking behaviour."
+  },
+  {
+    "id": "neco-econ-market-2",
+    "subject": "Economics",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Market Structures",
+    "difficulty": "medium",
+    "prompt": "A market controlled by a single seller with no close substitutes for its product is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "oligopoly"
+      },
+      {
+        "key": "B",
+        "text": "perfect competition"
+      },
+      {
+        "key": "C",
+        "text": "monopoly"
+      },
+      {
+        "key": "D",
+        "text": "duopoly"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "A monopoly exists when one firm is the sole supplier of a good with no close substitutes."
+  },
+  {
+    "id": "neco-econ-market-3",
+    "subject": "Economics",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Market Structures",
+    "difficulty": "hard",
+    "prompt": "A market structure dominated by a small number of large sellers is called an",
+    "options": [
+      {
+        "key": "A",
+        "text": "oligopoly"
+      },
+      {
+        "key": "B",
+        "text": "perfect competition"
+      },
+      {
+        "key": "C",
+        "text": "monopoly"
+      },
+      {
+        "key": "D",
+        "text": "monopsony"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Oligopoly refers to a market dominated by a few large, interdependent firms."
+  },
+  {
+    "id": "neco-econ-market-4",
+    "subject": "Economics",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Market Structures",
+    "difficulty": "medium",
+    "prompt": "A market structure with many sellers offering differentiated (branded) versions of a similar product is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "monopolistic competition"
+      },
+      {
+        "key": "B",
+        "text": "monopoly"
+      },
+      {
+        "key": "C",
+        "text": "oligopoly"
+      },
+      {
+        "key": "D",
+        "text": "perfect competition"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Monopolistic competition features many firms with product differentiation, giving each some price-setting power."
+  },
+  {
+    "id": "neco-econ-market-5",
+    "subject": "Economics",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Market Structures",
+    "difficulty": "easy",
+    "prompt": "In Economics, a market refers to",
+    "options": [
+      {
+        "key": "A",
+        "text": "any arrangement that brings buyers and sellers of a good or service together"
+      },
+      {
+        "key": "B",
+        "text": "a warehouse for storing goods"
+      },
+      {
+        "key": "C",
+        "text": "a government agency that fixes prices"
+      },
+      {
+        "key": "D",
+        "text": "a physical building where goods are sold"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "A market is defined by the interaction of buyers and sellers, not necessarily a physical location."
+  },
+  {
+    "id": "neco-econ-monetary-policy-1",
+    "subject": "Economics",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Monetary Policy",
+    "difficulty": "easy",
+    "prompt": "A central bank buying or selling government securities to influence the money supply is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "open market operations"
+      },
+      {
+        "key": "B",
+        "text": "direct control"
+      },
+      {
+        "key": "C",
+        "text": "moral suasion"
+      },
+      {
+        "key": "D",
+        "text": "devaluation"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Open market operations are a key tool central banks use to regulate money supply."
+  },
+  {
+    "id": "neco-econ-monetary-policy-2",
+    "subject": "Economics",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Monetary Policy",
+    "difficulty": "medium",
+    "prompt": "Increasing the minimum reserve ratio that commercial banks must hold tends to",
+    "options": [
+      {
+        "key": "A",
+        "text": "increase inflation directly"
+      },
+      {
+        "key": "B",
+        "text": "reduce the money supply"
+      },
+      {
+        "key": "C",
+        "text": "increase the money supply"
+      },
+      {
+        "key": "D",
+        "text": "have no effect on money supply"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "A higher reserve requirement leaves banks less money to lend, shrinking the money supply."
+  },
+  {
+    "id": "neco-econ-monetary-policy-3",
+    "subject": "Economics",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Monetary Policy",
+    "difficulty": "hard",
+    "prompt": "Raising the central bank’s interest rate (bank rate) tends to",
+    "options": [
+      {
+        "key": "A",
+        "text": "immediately increase inflation"
+      },
+      {
+        "key": "B",
+        "text": "have no effect on borrowing"
+      },
+      {
+        "key": "C",
+        "text": "reduce borrowing and the money supply"
+      },
+      {
+        "key": "D",
+        "text": "increase borrowing and the money supply"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Higher interest rates make borrowing more expensive, discouraging borrowing and reducing money supply growth."
+  },
+  {
+    "id": "neco-econ-monetary-policy-4",
+    "subject": "Economics",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Monetary Policy",
+    "difficulty": "medium",
+    "prompt": "Monetary policy is primarily conducted by a country’s",
+    "options": [
+      {
+        "key": "A",
+        "text": "central bank"
+      },
+      {
+        "key": "B",
+        "text": "ministry of finance"
+      },
+      {
+        "key": "C",
+        "text": "stock exchange"
+      },
+      {
+        "key": "D",
+        "text": "legislature"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "The central bank is responsible for formulating and implementing monetary policy."
+  },
+  {
+    "id": "neco-econ-monetary-policy-5",
+    "subject": "Economics",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Monetary Policy",
+    "difficulty": "easy",
+    "prompt": "Government policy that uses spending and taxation to influence the economy is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "monetary policy"
+      },
+      {
+        "key": "B",
+        "text": "fiscal policy"
+      },
+      {
+        "key": "C",
+        "text": "incomes policy"
+      },
+      {
+        "key": "D",
+        "text": "trade policy"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Fiscal policy involves government spending and taxation decisions, distinct from monetary policy."
+  },
+  {
+    "id": "neco-econ-national-income-1",
+    "subject": "Economics",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "National Income",
+    "difficulty": "easy",
+    "prompt": "Gross Domestic Product (GDP) measures",
+    "options": [
+      {
+        "key": "A",
+        "text": "the total value of goods and services produced within a country in a given period"
+      },
+      {
+        "key": "B",
+        "text": "the total value of exports only"
+      },
+      {
+        "key": "C",
+        "text": "only the income earned by citizens living abroad"
+      },
+      {
+        "key": "D",
+        "text": "total government spending only"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "GDP is the total market value of all final goods and services produced within a country’s borders over a period."
+  },
+  {
+    "id": "neco-econ-national-income-2",
+    "subject": "Economics",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "National Income",
+    "difficulty": "medium",
+    "prompt": "Gross National Product (GNP) differs from GDP mainly by",
+    "options": [
+      {
+        "key": "A",
+        "text": "measuring only government output"
+      },
+      {
+        "key": "B",
+        "text": "measuring only agricultural output"
+      },
+      {
+        "key": "C",
+        "text": "excluding all foreign income"
+      },
+      {
+        "key": "D",
+        "text": "including income earned by citizens abroad and excluding income earned domestically by foreigners"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "GNP adjusts GDP to reflect income earned by a country’s citizens, wherever they are located."
+  },
+  {
+    "id": "neco-econ-national-income-3",
+    "subject": "Economics",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "National Income",
+    "difficulty": "hard",
+    "prompt": "Per capita income is calculated as national income divided by",
+    "options": [
+      {
+        "key": "A",
+        "text": "the population of the country"
+      },
+      {
+        "key": "B",
+        "text": "total government revenue"
+      },
+      {
+        "key": "C",
+        "text": "total exports"
+      },
+      {
+        "key": "D",
+        "text": "the number of workers only"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Per capita income shows the average income per person, found by dividing national income by total population."
+  },
+  {
+    "id": "neco-econ-national-income-4",
+    "subject": "Economics",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "National Income",
+    "difficulty": "medium",
+    "prompt": "The method of calculating national income by summing wages, rent, interest and profit is called the",
+    "options": [
+      {
+        "key": "A",
+        "text": "value added method"
+      },
+      {
+        "key": "B",
+        "text": "output method"
+      },
+      {
+        "key": "C",
+        "text": "income method"
+      },
+      {
+        "key": "D",
+        "text": "expenditure method"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "The income method sums all factor incomes (wages, rent, interest, profit) earned in the economy."
+  },
+  {
+    "id": "neco-econ-national-income-5",
+    "subject": "Economics",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "National Income",
+    "difficulty": "easy",
+    "prompt": "In the output method of calculating national income, double-counting is avoided by using the",
+    "options": [
+      {
+        "key": "A",
+        "text": "expenditure method"
+      },
+      {
+        "key": "B",
+        "text": "income method"
+      },
+      {
+        "key": "C",
+        "text": "price index method"
+      },
+      {
+        "key": "D",
+        "text": "value added method"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Summing only the value added at each stage of production avoids counting the same output more than once."
+  },
+  {
+    "id": "neco-econ-production-1",
+    "subject": "Economics",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Production",
+    "difficulty": "easy",
+    "prompt": "The factors of production are land, labour, capital and",
+    "options": [
+      {
+        "key": "A",
+        "text": "money"
+      },
+      {
+        "key": "B",
+        "text": "technology"
+      },
+      {
+        "key": "C",
+        "text": "government"
+      },
+      {
+        "key": "D",
+        "text": "entrepreneur"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "The entrepreneur organises the other three factors of production and bears business risk."
+  },
+  {
+    "id": "neco-econ-production-2",
+    "subject": "Economics",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Production",
+    "difficulty": "medium",
+    "prompt": "The reward for capital as a factor of production is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "profit"
+      },
+      {
+        "key": "B",
+        "text": "interest"
+      },
+      {
+        "key": "C",
+        "text": "wages"
+      },
+      {
+        "key": "D",
+        "text": "rent"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Interest is the payment earned by capital."
+  },
+  {
+    "id": "neco-econ-production-3",
+    "subject": "Economics",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Production",
+    "difficulty": "hard",
+    "prompt": "The reward for land as a factor of production is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "interest"
+      },
+      {
+        "key": "B",
+        "text": "profit"
+      },
+      {
+        "key": "C",
+        "text": "rent"
+      },
+      {
+        "key": "D",
+        "text": "wages"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Rent is the payment earned by the factor land."
+  },
+  {
+    "id": "neco-econ-production-4",
+    "subject": "Economics",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Production",
+    "difficulty": "medium",
+    "prompt": "The reward for the entrepreneur as a factor of production is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "wages"
+      },
+      {
+        "key": "B",
+        "text": "interest"
+      },
+      {
+        "key": "C",
+        "text": "profit"
+      },
+      {
+        "key": "D",
+        "text": "rent"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Profit is the entrepreneur’s reward for organising production and bearing risk."
+  },
+  {
+    "id": "neco-econ-production-5",
+    "subject": "Economics",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Production",
+    "difficulty": "easy",
+    "prompt": "The law stating that as more units of a variable factor are added to a fixed factor, marginal output eventually falls, is the law of",
+    "options": [
+      {
+        "key": "A",
+        "text": "diminishing returns"
+      },
+      {
+        "key": "B",
+        "text": "constant returns"
+      },
+      {
+        "key": "C",
+        "text": "increasing returns"
+      },
+      {
+        "key": "D",
+        "text": "supply"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "The law of diminishing returns describes eventually falling marginal output from a fixed factor combined with more variable input."
+  },
+  {
+    "id": "neco-econ-supply-1",
+    "subject": "Economics",
+    "examBody": "NECO",
+    "year": 2012,
+    "topic": "Supply",
+    "difficulty": "easy",
+    "prompt": "According to the law of supply, as the price of a good rises (other things being equal), the quantity supplied will",
+    "options": [
+      {
+        "key": "A",
+        "text": "remain the same"
+      },
+      {
+        "key": "B",
+        "text": "fall to zero"
+      },
+      {
+        "key": "C",
+        "text": "increase"
+      },
+      {
+        "key": "D",
+        "text": "decrease"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "The law of supply states a direct relationship between price and quantity supplied, ceteris paribus."
+  },
+  {
+    "id": "neco-econ-supply-2",
+    "subject": "Economics",
+    "examBody": "NECO",
+    "year": 2014,
+    "topic": "Supply",
+    "difficulty": "medium",
+    "prompt": "A rightward shift of the supply curve (at every price) indicates",
+    "options": [
+      {
+        "key": "A",
+        "text": "an increase in quantity supplied only"
+      },
+      {
+        "key": "B",
+        "text": "a decrease in supply"
+      },
+      {
+        "key": "C",
+        "text": "an increase in supply"
+      },
+      {
+        "key": "D",
+        "text": "no change in supply"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "A rightward shift means more is supplied at every price level, i.e. supply has increased."
+  },
+  {
+    "id": "neco-econ-supply-3",
+    "subject": "Economics",
+    "examBody": "NECO",
+    "year": 2016,
+    "topic": "Supply",
+    "difficulty": "hard",
+    "prompt": "The total quantity of a good that producers are willing and able to offer for sale at a given price is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "stock"
+      },
+      {
+        "key": "B",
+        "text": "output capacity"
+      },
+      {
+        "key": "C",
+        "text": "supply"
+      },
+      {
+        "key": "D",
+        "text": "demand"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Supply refers to the amount producers are willing and able to sell at a given price."
+  },
+  {
+    "id": "neco-econ-supply-4",
+    "subject": "Economics",
+    "examBody": "NECO",
+    "year": 2018,
+    "topic": "Supply",
+    "difficulty": "medium",
+    "prompt": "A fall in the cost of production for a good tends to cause its supply to",
+    "options": [
+      {
+        "key": "A",
+        "text": "increase"
+      },
+      {
+        "key": "B",
+        "text": "remain unchanged"
+      },
+      {
+        "key": "C",
+        "text": "decrease"
+      },
+      {
+        "key": "D",
+        "text": "become perfectly inelastic"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Lower production costs make supplying the good more profitable at every price, increasing supply."
+  },
+  {
+    "id": "neco-econ-supply-5",
+    "subject": "Economics",
+    "examBody": "NECO",
+    "year": 2020,
+    "topic": "Supply",
+    "difficulty": "easy",
+    "prompt": "The price elasticity of supply measures the responsiveness of quantity supplied to a change in",
+    "options": [
+      {
+        "key": "A",
+        "text": "population"
+      },
+      {
+        "key": "B",
+        "text": "interest rate"
+      },
+      {
+        "key": "C",
+        "text": "price"
+      },
+      {
+        "key": "D",
+        "text": "income"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Elasticity of supply specifically measures how quantity supplied reacts to price changes."
+  }
+]

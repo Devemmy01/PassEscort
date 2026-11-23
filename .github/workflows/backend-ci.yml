@@ -5,10 +5,12 @@ on:
     branches: [main]
     paths:
       - "backend/**"
+      - "shared/**"
       - ".github/workflows/backend-ci.yml"
   pull_request:
     paths:
       - "backend/**"
+      - "shared/**"
       - ".github/workflows/backend-ci.yml"
 
 defaults:
@@ -29,4 +31,5 @@ jobs:
 
       - run: npm ci
       - run: npx tsc --noEmit
+      - run: npm test
       - run: npm run build

@@ -1,0 +1,6382 @@
+[
+  {
+    "id": "waec-math-algebra-1",
+    "subject": "Mathematics",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Algebra",
+    "difficulty": "easy",
+    "prompt": "Simplify: 3(2x - 1) - 2(x - 4)",
+    "options": [
+      {
+        "key": "A",
+        "text": "8x + 5"
+      },
+      {
+        "key": "B",
+        "text": "4x - 5"
+      },
+      {
+        "key": "C",
+        "text": "4x + 11"
+      },
+      {
+        "key": "D",
+        "text": "4x + 5"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Expand: 6x - 3 - 2x + 8 = 4x + 5."
+  },
+  {
+    "id": "waec-math-algebra-2",
+    "subject": "Mathematics",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Algebra",
+    "difficulty": "medium",
+    "prompt": "Solve for x: 5x - 3 = 2x + 9",
+    "options": [
+      {
+        "key": "A",
+        "text": "x = 4"
+      },
+      {
+        "key": "B",
+        "text": "x = 6"
+      },
+      {
+        "key": "C",
+        "text": "x = 2"
+      },
+      {
+        "key": "D",
+        "text": "x = -4"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "5x - 2x = 9 + 3, so 3x = 12 and x = 4."
+  },
+  {
+    "id": "waec-math-algebra-3",
+    "subject": "Mathematics",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Algebra",
+    "difficulty": "hard",
+    "prompt": "Factorise completely: 2x^2 - 8",
+    "options": [
+      {
+        "key": "A",
+        "text": "(2x - 4)(x + 2)"
+      },
+      {
+        "key": "B",
+        "text": "2(x + 2)^2"
+      },
+      {
+        "key": "C",
+        "text": "2(x - 2)(x + 2)"
+      },
+      {
+        "key": "D",
+        "text": "2(x - 4)(x + 1)"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "2x^2 - 8 = 2(x^2 - 4) = 2(x - 2)(x + 2)."
+  },
+  {
+    "id": "waec-math-algebra-4",
+    "subject": "Mathematics",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Algebra",
+    "difficulty": "medium",
+    "prompt": "Make y the subject of the relation: 3y + 2x = 12",
+    "options": [
+      {
+        "key": "A",
+        "text": "y = (12 - 2x)/3"
+      },
+      {
+        "key": "B",
+        "text": "y = (12 + 2x)/3"
+      },
+      {
+        "key": "C",
+        "text": "y = (2x - 12)/3"
+      },
+      {
+        "key": "D",
+        "text": "y = 4 - 2x"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "3y = 12 - 2x, so y = (12 - 2x)/3."
+  },
+  {
+    "id": "waec-math-algebra-5",
+    "subject": "Mathematics",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Algebra",
+    "difficulty": "easy",
+    "prompt": "Expand and simplify: (x + 3)(x - 2)",
+    "options": [
+      {
+        "key": "A",
+        "text": "x^2 - x - 6"
+      },
+      {
+        "key": "B",
+        "text": "x^2 - x + 6"
+      },
+      {
+        "key": "C",
+        "text": "x^2 + 5x - 6"
+      },
+      {
+        "key": "D",
+        "text": "x^2 + x - 6"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "(x + 3)(x - 2) = x^2 - 2x + 3x - 6 = x^2 + x - 6."
+  },
+  {
+    "id": "waec-math-commercial-arithmetic-1",
+    "subject": "Mathematics",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Commercial Arithmetic",
+    "difficulty": "easy",
+    "prompt": "A trader buys an item for ₦2,000 and sells it for ₦2,500. Find the percentage profit.",
+    "options": [
+      {
+        "key": "A",
+        "text": "20%"
+      },
+      {
+        "key": "B",
+        "text": "5%"
+      },
+      {
+        "key": "C",
+        "text": "25%"
+      },
+      {
+        "key": "D",
+        "text": "50%"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Profit = ₦500. Percentage profit = 500/2000 × 100 = 25%."
+  },
+  {
+    "id": "waec-math-commercial-arithmetic-2",
+    "subject": "Mathematics",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Commercial Arithmetic",
+    "difficulty": "medium",
+    "prompt": "Find the simple interest on ₦15,000 for 3 years at 4% per annum.",
+    "options": [
+      {
+        "key": "A",
+        "text": "₦600"
+      },
+      {
+        "key": "B",
+        "text": "₦1,200"
+      },
+      {
+        "key": "C",
+        "text": "₦1,800"
+      },
+      {
+        "key": "D",
+        "text": "₦18,000"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "I = PRT/100 = (15000 × 4 × 3)/100 = ₦1,800."
+  },
+  {
+    "id": "waec-math-commercial-arithmetic-3",
+    "subject": "Mathematics",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Commercial Arithmetic",
+    "difficulty": "hard",
+    "prompt": "A sum of money amounts to ₦13,200 after 2 years at 10% simple interest per annum. Find the principal.",
+    "options": [
+      {
+        "key": "A",
+        "text": "₦12,000"
+      },
+      {
+        "key": "B",
+        "text": "₦13,000"
+      },
+      {
+        "key": "C",
+        "text": "₦10,000"
+      },
+      {
+        "key": "D",
+        "text": "₦11,000"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "A = P(1 + RT/100) = P(1.2). So P = 13200/1.2 = ₦11,000."
+  },
+  {
+    "id": "waec-math-commercial-arithmetic-4",
+    "subject": "Mathematics",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Commercial Arithmetic",
+    "difficulty": "medium",
+    "prompt": "A shopkeeper marks up goods by 20% on cost price and then gives a discount of 10% on the marked price. Find the overall percentage profit.",
+    "options": [
+      {
+        "key": "A",
+        "text": "10%"
+      },
+      {
+        "key": "B",
+        "text": "8%"
+      },
+      {
+        "key": "C",
+        "text": "12%"
+      },
+      {
+        "key": "D",
+        "text": "20%"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Cost = 100, marked price = 120, selling price after 10% discount = 108, so profit = 8%."
+  },
+  {
+    "id": "waec-math-commercial-arithmetic-5",
+    "subject": "Mathematics",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Commercial Arithmetic",
+    "difficulty": "easy",
+    "prompt": "Share ₦9,000 between two boys in the ratio 4:5. Find the smaller share.",
+    "options": [
+      {
+        "key": "A",
+        "text": "₦5,000"
+      },
+      {
+        "key": "B",
+        "text": "₦4,000"
+      },
+      {
+        "key": "C",
+        "text": "₦4,500"
+      },
+      {
+        "key": "D",
+        "text": "₦3,600"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Total parts = 9, so 1 part = ₦1,000. The smaller share (4 parts) = ₦4,000."
+  },
+  {
+    "id": "waec-math-coordinate-geometry-1",
+    "subject": "Mathematics",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Coordinate Geometry",
+    "difficulty": "easy",
+    "prompt": "Find the gradient of the line joining the points (2, 3) and (4, 7).",
+    "options": [
+      {
+        "key": "A",
+        "text": "4"
+      },
+      {
+        "key": "B",
+        "text": "2"
+      },
+      {
+        "key": "C",
+        "text": "1/2"
+      },
+      {
+        "key": "D",
+        "text": "-2"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Gradient = (7 - 3)/(4 - 2) = 4/2 = 2."
+  },
+  {
+    "id": "waec-math-coordinate-geometry-2",
+    "subject": "Mathematics",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Coordinate Geometry",
+    "difficulty": "medium",
+    "prompt": "Find the midpoint of the line segment joining (-2, 5) and (6, -1).",
+    "options": [
+      {
+        "key": "A",
+        "text": "(4, 4)"
+      },
+      {
+        "key": "B",
+        "text": "(-2, 2)"
+      },
+      {
+        "key": "C",
+        "text": "(2, 3)"
+      },
+      {
+        "key": "D",
+        "text": "(2, 2)"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Midpoint = ((-2+6)/2, (5-1)/2) = (2, 2)."
+  },
+  {
+    "id": "waec-math-coordinate-geometry-3",
+    "subject": "Mathematics",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Coordinate Geometry",
+    "difficulty": "hard",
+    "prompt": "Find the distance between the points (1, 2) and (4, 6).",
+    "options": [
+      {
+        "key": "A",
+        "text": "7"
+      },
+      {
+        "key": "B",
+        "text": "3"
+      },
+      {
+        "key": "C",
+        "text": "5"
+      },
+      {
+        "key": "D",
+        "text": "25"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Distance = √((4-1)^2 + (6-2)^2) = √(9+16) = √25 = 5."
+  },
+  {
+    "id": "waec-math-coordinate-geometry-4",
+    "subject": "Mathematics",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Coordinate Geometry",
+    "difficulty": "medium",
+    "prompt": "Find the equation of the line with gradient 3 passing through the point (1, 2).",
+    "options": [
+      {
+        "key": "A",
+        "text": "y = 3x + 2"
+      },
+      {
+        "key": "B",
+        "text": "y = 3x - 1"
+      },
+      {
+        "key": "C",
+        "text": "y = x - 1"
+      },
+      {
+        "key": "D",
+        "text": "y = 3x + 1"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "y - 2 = 3(x - 1), so y = 3x - 3 + 2 = 3x - 1."
+  },
+  {
+    "id": "waec-math-coordinate-geometry-5",
+    "subject": "Mathematics",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Coordinate Geometry",
+    "difficulty": "easy",
+    "prompt": "A line has equation 2x + y = 8. Find its y-intercept.",
+    "options": [
+      {
+        "key": "A",
+        "text": "2"
+      },
+      {
+        "key": "B",
+        "text": "8"
+      },
+      {
+        "key": "C",
+        "text": "4"
+      },
+      {
+        "key": "D",
+        "text": "-8"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "When x = 0, y = 8, so the y-intercept is 8."
+  },
+  {
+    "id": "waec-math-geometry-mensuration-1",
+    "subject": "Mathematics",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Geometry & Mensuration",
+    "difficulty": "easy",
+    "prompt": "Two angles of a triangle are 50° and 70°. Find the third angle.",
+    "options": [
+      {
+        "key": "A",
+        "text": "70°"
+      },
+      {
+        "key": "B",
+        "text": "60°"
+      },
+      {
+        "key": "C",
+        "text": "120°"
+      },
+      {
+        "key": "D",
+        "text": "50°"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Angles in a triangle sum to 180°, so the third angle = 180 - 120 = 60°."
+  },
+  {
+    "id": "waec-math-geometry-mensuration-2",
+    "subject": "Mathematics",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Geometry & Mensuration",
+    "difficulty": "medium",
+    "prompt": "Find the area of a rectangle with length 12 cm and width 7 cm.",
+    "options": [
+      {
+        "key": "A",
+        "text": "38 cm^2"
+      },
+      {
+        "key": "B",
+        "text": "84 cm^2"
+      },
+      {
+        "key": "C",
+        "text": "19 cm^2"
+      },
+      {
+        "key": "D",
+        "text": "168 cm^2"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Area = length × width = 12 × 7 = 84 cm^2."
+  },
+  {
+    "id": "waec-math-geometry-mensuration-3",
+    "subject": "Mathematics",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Geometry & Mensuration",
+    "difficulty": "hard",
+    "prompt": "Find the volume of a cylinder with radius 7 cm and height 10 cm. (Take π = 22/7)",
+    "options": [
+      {
+        "key": "A",
+        "text": "440 cm^3"
+      },
+      {
+        "key": "B",
+        "text": "1,540 cm^3"
+      },
+      {
+        "key": "C",
+        "text": "3,080 cm^3"
+      },
+      {
+        "key": "D",
+        "text": "770 cm^3"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "V = πr^2h = (22/7) × 49 × 10 = 1,540 cm^3."
+  },
+  {
+    "id": "waec-math-geometry-mensuration-4",
+    "subject": "Mathematics",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Geometry & Mensuration",
+    "difficulty": "medium",
+    "prompt": "A right-angled triangle has legs of 6 cm and 8 cm. Find the length of the hypotenuse.",
+    "options": [
+      {
+        "key": "A",
+        "text": "48 cm"
+      },
+      {
+        "key": "B",
+        "text": "7 cm"
+      },
+      {
+        "key": "C",
+        "text": "14 cm"
+      },
+      {
+        "key": "D",
+        "text": "10 cm"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "By Pythagoras' theorem, hypotenuse = √(6^2 + 8^2) = √100 = 10 cm."
+  },
+  {
+    "id": "waec-math-geometry-mensuration-5",
+    "subject": "Mathematics",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Geometry & Mensuration",
+    "difficulty": "easy",
+    "prompt": "Find the circumference of a circle of radius 14 cm. (Take π = 22/7)",
+    "options": [
+      {
+        "key": "A",
+        "text": "616 cm"
+      },
+      {
+        "key": "B",
+        "text": "88 cm"
+      },
+      {
+        "key": "C",
+        "text": "28 cm"
+      },
+      {
+        "key": "D",
+        "text": "44 cm"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Circumference = 2πr = 2 × (22/7) × 14 = 88 cm."
+  },
+  {
+    "id": "waec-math-number-numeration-1",
+    "subject": "Mathematics",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Number & Numeration",
+    "difficulty": "easy",
+    "prompt": "Convert 110101two to base ten.",
+    "options": [
+      {
+        "key": "A",
+        "text": "45"
+      },
+      {
+        "key": "B",
+        "text": "55"
+      },
+      {
+        "key": "C",
+        "text": "51"
+      },
+      {
+        "key": "D",
+        "text": "53"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "110101two = (1×32)+(1×16)+(0×8)+(1×4)+(0×2)+(1×1) = 53."
+  },
+  {
+    "id": "waec-math-number-numeration-2",
+    "subject": "Mathematics",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Number & Numeration",
+    "difficulty": "medium",
+    "prompt": "Find the LCM of 12 and 18.",
+    "options": [
+      {
+        "key": "A",
+        "text": "36"
+      },
+      {
+        "key": "B",
+        "text": "216"
+      },
+      {
+        "key": "C",
+        "text": "72"
+      },
+      {
+        "key": "D",
+        "text": "6"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "The lowest common multiple of 12 and 18 is 36."
+  },
+  {
+    "id": "waec-math-number-numeration-3",
+    "subject": "Mathematics",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Number & Numeration",
+    "difficulty": "hard",
+    "prompt": "Express 0.00456 in standard form.",
+    "options": [
+      {
+        "key": "A",
+        "text": "4.56 × 10^3"
+      },
+      {
+        "key": "B",
+        "text": "456 × 10^-5"
+      },
+      {
+        "key": "C",
+        "text": "4.56 × 10^-3"
+      },
+      {
+        "key": "D",
+        "text": "4.56 × 10^-2"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Moving the decimal point 3 places right gives 4.56 × 10^-3."
+  },
+  {
+    "id": "waec-math-number-numeration-4",
+    "subject": "Mathematics",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Number & Numeration",
+    "difficulty": "medium",
+    "prompt": "Simplify: 2/3 + 1/4",
+    "options": [
+      {
+        "key": "A",
+        "text": "7/12"
+      },
+      {
+        "key": "B",
+        "text": "5/6"
+      },
+      {
+        "key": "C",
+        "text": "11/12"
+      },
+      {
+        "key": "D",
+        "text": "3/7"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "2/3 + 1/4 = 8/12 + 3/12 = 11/12."
+  },
+  {
+    "id": "waec-math-number-numeration-5",
+    "subject": "Mathematics",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Number & Numeration",
+    "difficulty": "easy",
+    "prompt": "Find the HCF of 24 and 36.",
+    "options": [
+      {
+        "key": "A",
+        "text": "18"
+      },
+      {
+        "key": "B",
+        "text": "72"
+      },
+      {
+        "key": "C",
+        "text": "12"
+      },
+      {
+        "key": "D",
+        "text": "6"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "The highest common factor of 24 and 36 is 12."
+  },
+  {
+    "id": "waec-math-statistics-probability-1",
+    "subject": "Mathematics",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Statistics & Probability",
+    "difficulty": "easy",
+    "prompt": "Find the mean of 4, 8, 6, 10, 12.",
+    "options": [
+      {
+        "key": "A",
+        "text": "6"
+      },
+      {
+        "key": "B",
+        "text": "10"
+      },
+      {
+        "key": "C",
+        "text": "8"
+      },
+      {
+        "key": "D",
+        "text": "40"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Mean = (4+8+6+10+12)/5 = 40/5 = 8."
+  },
+  {
+    "id": "waec-math-statistics-probability-2",
+    "subject": "Mathematics",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Statistics & Probability",
+    "difficulty": "medium",
+    "prompt": "Find the median of the numbers 3, 7, 9, 4, 8.",
+    "options": [
+      {
+        "key": "A",
+        "text": "7"
+      },
+      {
+        "key": "B",
+        "text": "6.2"
+      },
+      {
+        "key": "C",
+        "text": "4"
+      },
+      {
+        "key": "D",
+        "text": "9"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Arranged in order: 3, 4, 7, 8, 9. The middle value is 7."
+  },
+  {
+    "id": "waec-math-statistics-probability-3",
+    "subject": "Mathematics",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Statistics & Probability",
+    "difficulty": "hard",
+    "prompt": "A bag contains 5 red balls and 3 blue balls. Find the probability of picking a red ball at random.",
+    "options": [
+      {
+        "key": "A",
+        "text": "5/8"
+      },
+      {
+        "key": "B",
+        "text": "5/3"
+      },
+      {
+        "key": "C",
+        "text": "3/8"
+      },
+      {
+        "key": "D",
+        "text": "1/8"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "P(red) = number of red balls/total balls = 5/8."
+  },
+  {
+    "id": "waec-math-statistics-probability-4",
+    "subject": "Mathematics",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Statistics & Probability",
+    "difficulty": "medium",
+    "prompt": "Find the mode of the set of numbers: 2, 3, 3, 5, 7, 3, 8.",
+    "options": [
+      {
+        "key": "A",
+        "text": "3"
+      },
+      {
+        "key": "B",
+        "text": "5"
+      },
+      {
+        "key": "C",
+        "text": "7"
+      },
+      {
+        "key": "D",
+        "text": "2"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "3 occurs most frequently (three times), so it is the mode."
+  },
+  {
+    "id": "waec-math-statistics-probability-5",
+    "subject": "Mathematics",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Statistics & Probability",
+    "difficulty": "easy",
+    "prompt": "Find the range of the data set: 12, 18, 9, 25, 14.",
+    "options": [
+      {
+        "key": "A",
+        "text": "14.8"
+      },
+      {
+        "key": "B",
+        "text": "25"
+      },
+      {
+        "key": "C",
+        "text": "9"
+      },
+      {
+        "key": "D",
+        "text": "16"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Range = highest value - lowest value = 25 - 9 = 16."
+  },
+  {
+    "id": "waec-math-trigonometry-1",
+    "subject": "Mathematics",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Trigonometry",
+    "difficulty": "easy",
+    "prompt": "Find the value of sin 30°.",
+    "options": [
+      {
+        "key": "A",
+        "text": "0.866"
+      },
+      {
+        "key": "B",
+        "text": "0.5"
+      },
+      {
+        "key": "C",
+        "text": "0"
+      },
+      {
+        "key": "D",
+        "text": "1"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "sin 30° = 0.5, a standard trigonometric value."
+  },
+  {
+    "id": "waec-math-trigonometry-2",
+    "subject": "Mathematics",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Trigonometry",
+    "difficulty": "medium",
+    "prompt": "If tan θ = 3/4 and θ is acute, find cos θ.",
+    "options": [
+      {
+        "key": "A",
+        "text": "0.8"
+      },
+      {
+        "key": "B",
+        "text": "0.75"
+      },
+      {
+        "key": "C",
+        "text": "1.33"
+      },
+      {
+        "key": "D",
+        "text": "0.6"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "For a 3-4-5 right triangle, the adjacent/hypotenuse = 4/5 = 0.8."
+  },
+  {
+    "id": "waec-math-trigonometry-3",
+    "subject": "Mathematics",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Trigonometry",
+    "difficulty": "hard",
+    "prompt": "A ladder leans against a wall making an angle of 60° with the ground. If the foot of the ladder is 3 m from the wall, find the length of the ladder (to 1 d.p.).",
+    "options": [
+      {
+        "key": "A",
+        "text": "5.2 m"
+      },
+      {
+        "key": "B",
+        "text": "6.0 m"
+      },
+      {
+        "key": "C",
+        "text": "3.0 m"
+      },
+      {
+        "key": "D",
+        "text": "1.5 m"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Length = 3/cos 60° = 3/0.5 = 6.0 m."
+  },
+  {
+    "id": "waec-math-trigonometry-4",
+    "subject": "Mathematics",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Trigonometry",
+    "difficulty": "medium",
+    "prompt": "Find the value of cos 60°.",
+    "options": [
+      {
+        "key": "A",
+        "text": "0.866"
+      },
+      {
+        "key": "B",
+        "text": "0.5"
+      },
+      {
+        "key": "C",
+        "text": "1"
+      },
+      {
+        "key": "D",
+        "text": "0"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "cos 60° = 0.5, a standard trigonometric value."
+  },
+  {
+    "id": "waec-math-trigonometry-5",
+    "subject": "Mathematics",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Trigonometry",
+    "difficulty": "easy",
+    "prompt": "Find the value of tan 45°.",
+    "options": [
+      {
+        "key": "A",
+        "text": "0.5"
+      },
+      {
+        "key": "B",
+        "text": "1"
+      },
+      {
+        "key": "C",
+        "text": "0"
+      },
+      {
+        "key": "D",
+        "text": "√2"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "tan 45° = 1, since sin 45° = cos 45°."
+  },
+  {
+    "id": "waec-eng-comprehension-1",
+    "subject": "English",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Comprehension",
+    "difficulty": "easy",
+    "prompt": "Choose the option that best interprets: \"She turned a deaf ear to their complaints.\"",
+    "options": [
+      {
+        "key": "A",
+        "text": "She refused to listen to their complaints"
+      },
+      {
+        "key": "B",
+        "text": "She listened very carefully"
+      },
+      {
+        "key": "C",
+        "text": "She could not hear well"
+      },
+      {
+        "key": "D",
+        "text": "She reported the complaints"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "'Turned a deaf ear' is an idiom meaning to deliberately ignore or refuse to listen."
+  },
+  {
+    "id": "waec-eng-comprehension-2",
+    "subject": "English",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Comprehension",
+    "difficulty": "medium",
+    "prompt": "\"Although he was tired, he continued working.\" The underlined clause shows a relationship of",
+    "options": [
+      {
+        "key": "A",
+        "text": "result"
+      },
+      {
+        "key": "B",
+        "text": "condition"
+      },
+      {
+        "key": "C",
+        "text": "contrast"
+      },
+      {
+        "key": "D",
+        "text": "reason"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "'Although' introduces a clause of contrast or concession."
+  },
+  {
+    "id": "waec-eng-comprehension-3",
+    "subject": "English",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Comprehension",
+    "difficulty": "hard",
+    "prompt": "Read: \"The committee, after much deliberation, decided to shelve the proposal indefinitely.\" What does 'shelve' mean here?",
+    "options": [
+      {
+        "key": "A",
+        "text": "destroy completely"
+      },
+      {
+        "key": "B",
+        "text": "publish widely"
+      },
+      {
+        "key": "C",
+        "text": "approve immediately"
+      },
+      {
+        "key": "D",
+        "text": "postpone indefinitely"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "To 'shelve' a proposal means to set it aside or postpone it."
+  },
+  {
+    "id": "waec-eng-comprehension-4",
+    "subject": "English",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Comprehension",
+    "difficulty": "medium",
+    "prompt": "Choose the option nearest in meaning to: \"His argument was full of loopholes.\"",
+    "options": [
+      {
+        "key": "A",
+        "text": "long explanations"
+      },
+      {
+        "key": "B",
+        "text": "weaknesses or flaws"
+      },
+      {
+        "key": "C",
+        "text": "repetitions"
+      },
+      {
+        "key": "D",
+        "text": "strong points"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "'Loopholes' refers to gaps or weaknesses that can be exploited."
+  },
+  {
+    "id": "waec-eng-comprehension-5",
+    "subject": "English",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Comprehension",
+    "difficulty": "easy",
+    "prompt": "\"He was economical with the truth.\" This means he",
+    "options": [
+      {
+        "key": "A",
+        "text": "saved money carefully"
+      },
+      {
+        "key": "B",
+        "text": "was not entirely truthful"
+      },
+      {
+        "key": "C",
+        "text": "told the whole truth"
+      },
+      {
+        "key": "D",
+        "text": "spoke very little"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "'Economical with the truth' is a euphemism for being misleading or not fully honest."
+  },
+  {
+    "id": "waec-eng-grammar-usage-1",
+    "subject": "English",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Grammar & Usage",
+    "difficulty": "easy",
+    "prompt": "Choose the option that best completes the sentence: \"Neither the teacher nor the students ___ present.\"",
+    "options": [
+      {
+        "key": "A",
+        "text": "were"
+      },
+      {
+        "key": "B",
+        "text": "was"
+      },
+      {
+        "key": "C",
+        "text": "are"
+      },
+      {
+        "key": "D",
+        "text": "is"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "With 'neither...nor', the verb agrees with the nearer subject, 'students' (plural), so 'were' is correct."
+  },
+  {
+    "id": "waec-eng-grammar-usage-2",
+    "subject": "English",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Grammar & Usage",
+    "difficulty": "medium",
+    "prompt": "Choose the option that best completes the sentence: \"By this time tomorrow, we ___ the project.\"",
+    "options": [
+      {
+        "key": "A",
+        "text": "had completed"
+      },
+      {
+        "key": "B",
+        "text": "will have completed"
+      },
+      {
+        "key": "C",
+        "text": "are completing"
+      },
+      {
+        "key": "D",
+        "text": "have completed"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "An action completed before a specific future time takes the future perfect tense."
+  },
+  {
+    "id": "waec-eng-grammar-usage-3",
+    "subject": "English",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Grammar & Usage",
+    "difficulty": "hard",
+    "prompt": "Which of the following sentences is correctly punctuated?",
+    "options": [
+      {
+        "key": "A",
+        "text": "\"Well she said I don't think so.\""
+      },
+      {
+        "key": "B",
+        "text": "\"Well she said, I don't think so\""
+      },
+      {
+        "key": "C",
+        "text": "\"Well,\" she said, \"I don't think so.\""
+      },
+      {
+        "key": "D",
+        "text": "Well, she said \"I don't think so\""
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Direct speech interrupted by a reporting clause is separated by commas and enclosed in quotation marks."
+  },
+  {
+    "id": "waec-eng-grammar-usage-4",
+    "subject": "English",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Grammar & Usage",
+    "difficulty": "medium",
+    "prompt": "Choose the option that best completes the sentence: \"If I ___ you, I would apologize.\"",
+    "options": [
+      {
+        "key": "A",
+        "text": "had been"
+      },
+      {
+        "key": "B",
+        "text": "was"
+      },
+      {
+        "key": "C",
+        "text": "were"
+      },
+      {
+        "key": "D",
+        "text": "am"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "The subjunctive mood in hypothetical conditionals uses 'were' regardless of subject."
+  },
+  {
+    "id": "waec-eng-grammar-usage-5",
+    "subject": "English",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Grammar & Usage",
+    "difficulty": "easy",
+    "prompt": "Choose the option that best completes the sentence: \"Each of the students ___ a book.\"",
+    "options": [
+      {
+        "key": "A",
+        "text": "having"
+      },
+      {
+        "key": "B",
+        "text": "had have"
+      },
+      {
+        "key": "C",
+        "text": "has"
+      },
+      {
+        "key": "D",
+        "text": "have"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "'Each' is singular, so it takes the singular verb 'has'."
+  },
+  {
+    "id": "waec-eng-lexis-structure-1",
+    "subject": "English",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Lexis & Structure",
+    "difficulty": "easy",
+    "prompt": "Choose the word nearest in meaning to the word in capitals: ABUNDANT",
+    "options": [
+      {
+        "key": "A",
+        "text": "tiny"
+      },
+      {
+        "key": "B",
+        "text": "plentiful"
+      },
+      {
+        "key": "C",
+        "text": "empty"
+      },
+      {
+        "key": "D",
+        "text": "scarce"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "'Abundant' means existing in large quantities, so 'plentiful' is nearest in meaning."
+  },
+  {
+    "id": "waec-eng-lexis-structure-2",
+    "subject": "English",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Lexis & Structure",
+    "difficulty": "medium",
+    "prompt": "Choose the word opposite in meaning to the word in capitals: GENEROUS",
+    "options": [
+      {
+        "key": "A",
+        "text": "friendly"
+      },
+      {
+        "key": "B",
+        "text": "kind"
+      },
+      {
+        "key": "C",
+        "text": "stingy"
+      },
+      {
+        "key": "D",
+        "text": "wealthy"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "'Stingy' (unwilling to give or spend) is the opposite of 'generous'."
+  },
+  {
+    "id": "waec-eng-lexis-structure-3",
+    "subject": "English",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Lexis & Structure",
+    "difficulty": "hard",
+    "prompt": "Choose the option that best completes the idiom: \"He decided to bite the ___ and confront his boss.\"",
+    "options": [
+      {
+        "key": "A",
+        "text": "apple"
+      },
+      {
+        "key": "B",
+        "text": "bullet"
+      },
+      {
+        "key": "C",
+        "text": "dust"
+      },
+      {
+        "key": "D",
+        "text": "coin"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "'Bite the bullet' means to face a difficult situation with courage."
+  },
+  {
+    "id": "waec-eng-lexis-structure-4",
+    "subject": "English",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Lexis & Structure",
+    "difficulty": "medium",
+    "prompt": "Choose the correctly spelt word.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Acomodate"
+      },
+      {
+        "key": "B",
+        "text": "Accommodate"
+      },
+      {
+        "key": "C",
+        "text": "Accomodate"
+      },
+      {
+        "key": "D",
+        "text": "Acommodate"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "'Accommodate' is spelt with double 'c' and double 'm'."
+  },
+  {
+    "id": "waec-eng-lexis-structure-5",
+    "subject": "English",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Lexis & Structure",
+    "difficulty": "easy",
+    "prompt": "Choose the word nearest in meaning to the word in capitals: RELUCTANT",
+    "options": [
+      {
+        "key": "A",
+        "text": "eager"
+      },
+      {
+        "key": "B",
+        "text": "unwilling"
+      },
+      {
+        "key": "C",
+        "text": "certain"
+      },
+      {
+        "key": "D",
+        "text": "careless"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "'Reluctant' means hesitant or unwilling to do something."
+  },
+  {
+    "id": "waec-eng-oral-english-1",
+    "subject": "English",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Oral English",
+    "difficulty": "easy",
+    "prompt": "Which of the following words has the same vowel sound as the one in \"SEAT\"?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Set"
+      },
+      {
+        "key": "B",
+        "text": "Sat"
+      },
+      {
+        "key": "C",
+        "text": "Sit"
+      },
+      {
+        "key": "D",
+        "text": "Beat"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "'Seat' and 'Beat' both contain the long vowel sound /iː/."
+  },
+  {
+    "id": "waec-eng-oral-english-2",
+    "subject": "English",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Oral English",
+    "difficulty": "medium",
+    "prompt": "Which of the following words is stressed differently from the other three?",
+    "options": [
+      {
+        "key": "A",
+        "text": "re'PORT (verb)"
+      },
+      {
+        "key": "B",
+        "text": "'RECord (noun)"
+      },
+      {
+        "key": "C",
+        "text": "re'CORD (verb)"
+      },
+      {
+        "key": "D",
+        "text": "re'PEAT (verb)"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "'RECord as a noun is stressed on the first syllable, while the others are verbs stressed on the second syllable."
+  },
+  {
+    "id": "waec-eng-oral-english-3",
+    "subject": "English",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Oral English",
+    "difficulty": "hard",
+    "prompt": "Which of the following words contains a silent letter?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Best"
+      },
+      {
+        "key": "B",
+        "text": "Rest"
+      },
+      {
+        "key": "C",
+        "text": "Debt"
+      },
+      {
+        "key": "D",
+        "text": "Test"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "'Debt' has a silent 'b'; the other words do not contain silent letters."
+  },
+  {
+    "id": "waec-eng-oral-english-4",
+    "subject": "English",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Oral English",
+    "difficulty": "medium",
+    "prompt": "Which of the following words rhymes with \"THROUGH\"?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Cough"
+      },
+      {
+        "key": "B",
+        "text": "Though"
+      },
+      {
+        "key": "C",
+        "text": "Rough"
+      },
+      {
+        "key": "D",
+        "text": "Blue"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "'Through' is pronounced /θruː/, which rhymes with 'Blue' /bluː/."
+  },
+  {
+    "id": "waec-eng-oral-english-5",
+    "subject": "English",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Oral English",
+    "difficulty": "easy",
+    "prompt": "Which of the following words has the same consonant sound as the underlined letters in \"CHEMISTRY\"?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Watch"
+      },
+      {
+        "key": "B",
+        "text": "Church"
+      },
+      {
+        "key": "C",
+        "text": "School"
+      },
+      {
+        "key": "D",
+        "text": "Chair"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "'Ch' in 'chemistry' is pronounced /k/, the same sound as 'ch' in 'School' (/sk/)."
+  },
+  {
+    "id": "waec-eng-vocabulary-1",
+    "subject": "English",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Vocabulary",
+    "difficulty": "easy",
+    "prompt": "Choose the word nearest in meaning to the word in capitals: CANDID",
+    "options": [
+      {
+        "key": "A",
+        "text": "secretive"
+      },
+      {
+        "key": "B",
+        "text": "angry"
+      },
+      {
+        "key": "C",
+        "text": "confused"
+      },
+      {
+        "key": "D",
+        "text": "frank"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "'Candid' means being open and honest, similar to 'frank'."
+  },
+  {
+    "id": "waec-eng-vocabulary-2",
+    "subject": "English",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Vocabulary",
+    "difficulty": "medium",
+    "prompt": "Choose the word opposite in meaning to the word in capitals: TRANSPARENT",
+    "options": [
+      {
+        "key": "A",
+        "text": "clear"
+      },
+      {
+        "key": "B",
+        "text": "bright"
+      },
+      {
+        "key": "C",
+        "text": "opaque"
+      },
+      {
+        "key": "D",
+        "text": "visible"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "'Opaque' (not able to be seen through) is the opposite of 'transparent'."
+  },
+  {
+    "id": "waec-eng-vocabulary-3",
+    "subject": "English",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Vocabulary",
+    "difficulty": "hard",
+    "prompt": "Choose the option nearest in meaning to the word in capitals: UBIQUITOUS",
+    "options": [
+      {
+        "key": "A",
+        "text": "invisible"
+      },
+      {
+        "key": "B",
+        "text": "rare"
+      },
+      {
+        "key": "C",
+        "text": "present everywhere"
+      },
+      {
+        "key": "D",
+        "text": "ancient"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "'Ubiquitous' describes something that appears to be everywhere at once."
+  },
+  {
+    "id": "waec-eng-vocabulary-4",
+    "subject": "English",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Vocabulary",
+    "difficulty": "medium",
+    "prompt": "Choose the word nearest in meaning to the word in capitals: METICULOUS",
+    "options": [
+      {
+        "key": "A",
+        "text": "lazy"
+      },
+      {
+        "key": "B",
+        "text": "fast"
+      },
+      {
+        "key": "C",
+        "text": "careless"
+      },
+      {
+        "key": "D",
+        "text": "careful and precise"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "'Meticulous' means showing great attention to detail."
+  },
+  {
+    "id": "waec-eng-vocabulary-5",
+    "subject": "English",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Vocabulary",
+    "difficulty": "easy",
+    "prompt": "Choose the word opposite in meaning to the word in capitals: ANCIENT",
+    "options": [
+      {
+        "key": "A",
+        "text": "historic"
+      },
+      {
+        "key": "B",
+        "text": "old"
+      },
+      {
+        "key": "C",
+        "text": "antique"
+      },
+      {
+        "key": "D",
+        "text": "modern"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "'Modern' (belonging to the present) is the opposite of 'ancient'."
+  },
+  {
+    "id": "waec-phy-electricity-1",
+    "subject": "Physics",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Electricity",
+    "difficulty": "easy",
+    "prompt": "Calculate the current flowing through a conductor if a charge of 12 C passes through it in 4 seconds.",
+    "options": [
+      {
+        "key": "A",
+        "text": "0.33 A"
+      },
+      {
+        "key": "B",
+        "text": "16 A"
+      },
+      {
+        "key": "C",
+        "text": "48 A"
+      },
+      {
+        "key": "D",
+        "text": "3 A"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "I = Q/t = 12/4 = 3 A."
+  },
+  {
+    "id": "waec-phy-electricity-2",
+    "subject": "Physics",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Electricity",
+    "difficulty": "medium",
+    "prompt": "Two resistors of 4Ω and 6Ω are connected in series across a 20V battery. Find the total current.",
+    "options": [
+      {
+        "key": "A",
+        "text": "0.5 A"
+      },
+      {
+        "key": "B",
+        "text": "5 A"
+      },
+      {
+        "key": "C",
+        "text": "2 A"
+      },
+      {
+        "key": "D",
+        "text": "10 A"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Total resistance = 4 + 6 = 10Ω. I = V/R = 20/10 = 2 A."
+  },
+  {
+    "id": "waec-phy-electricity-3",
+    "subject": "Physics",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Electricity",
+    "difficulty": "hard",
+    "prompt": "Two resistors of 6Ω and 3Ω are connected in parallel. Find the equivalent resistance.",
+    "options": [
+      {
+        "key": "A",
+        "text": "4.5Ω"
+      },
+      {
+        "key": "B",
+        "text": "9Ω"
+      },
+      {
+        "key": "C",
+        "text": "18Ω"
+      },
+      {
+        "key": "D",
+        "text": "2Ω"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "1/R = 1/6 + 1/3 = 1/2, so R = 2Ω."
+  },
+  {
+    "id": "waec-phy-electricity-4",
+    "subject": "Physics",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Electricity",
+    "difficulty": "medium",
+    "prompt": "An electric heater rated 1000 W is used for 2 hours. Calculate the energy consumed in kWh.",
+    "options": [
+      {
+        "key": "A",
+        "text": "500 kWh"
+      },
+      {
+        "key": "B",
+        "text": "2 kWh"
+      },
+      {
+        "key": "C",
+        "text": "1 kWh"
+      },
+      {
+        "key": "D",
+        "text": "2000 kWh"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Energy = Power × time = 1 kW × 2 h = 2 kWh."
+  },
+  {
+    "id": "waec-phy-electricity-5",
+    "subject": "Physics",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Electricity",
+    "difficulty": "easy",
+    "prompt": "What is the SI unit of electric current?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Volt"
+      },
+      {
+        "key": "B",
+        "text": "Ampere"
+      },
+      {
+        "key": "C",
+        "text": "Coulomb"
+      },
+      {
+        "key": "D",
+        "text": "Ohm"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Electric current is measured in amperes."
+  },
+  {
+    "id": "waec-phy-energy-1",
+    "subject": "Physics",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Energy",
+    "difficulty": "easy",
+    "prompt": "A body of mass 2 kg is raised to a height of 5 m. Calculate its potential energy. (g = 10 m/s^2)",
+    "options": [
+      {
+        "key": "A",
+        "text": "1000 J"
+      },
+      {
+        "key": "B",
+        "text": "10 J"
+      },
+      {
+        "key": "C",
+        "text": "50 J"
+      },
+      {
+        "key": "D",
+        "text": "100 J"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "PE = mgh = 2 × 10 × 5 = 100 J."
+  },
+  {
+    "id": "waec-phy-energy-2",
+    "subject": "Physics",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Energy",
+    "difficulty": "medium",
+    "prompt": "Calculate the kinetic energy of a 4 kg object moving at 5 m/s.",
+    "options": [
+      {
+        "key": "A",
+        "text": "10 J"
+      },
+      {
+        "key": "B",
+        "text": "50 J"
+      },
+      {
+        "key": "C",
+        "text": "20 J"
+      },
+      {
+        "key": "D",
+        "text": "100 J"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "KE = 1/2 mv^2 = 0.5 × 4 × 25 = 50 J."
+  },
+  {
+    "id": "waec-phy-energy-3",
+    "subject": "Physics",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Energy",
+    "difficulty": "hard",
+    "prompt": "A machine does 6000 J of work in 30 seconds. Calculate its power output.",
+    "options": [
+      {
+        "key": "A",
+        "text": "6000 W"
+      },
+      {
+        "key": "B",
+        "text": "180,000 W"
+      },
+      {
+        "key": "C",
+        "text": "200 W"
+      },
+      {
+        "key": "D",
+        "text": "20 W"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Power = Work/time = 6000/30 = 200 W."
+  },
+  {
+    "id": "waec-phy-energy-4",
+    "subject": "Physics",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Energy",
+    "difficulty": "medium",
+    "prompt": "Which of the following best states the law of conservation of energy?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Energy can neither be created nor destroyed, only transformed from one form to another"
+      },
+      {
+        "key": "B",
+        "text": "Energy increases over time in a closed system"
+      },
+      {
+        "key": "C",
+        "text": "Energy is always lost as heat"
+      },
+      {
+        "key": "D",
+        "text": "Energy can be created but not destroyed"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "The law of conservation of energy states that total energy in an isolated system remains constant."
+  },
+  {
+    "id": "waec-phy-energy-5",
+    "subject": "Physics",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Energy",
+    "difficulty": "easy",
+    "prompt": "Which of the following is a renewable source of energy?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Petroleum"
+      },
+      {
+        "key": "B",
+        "text": "Coal"
+      },
+      {
+        "key": "C",
+        "text": "Natural gas"
+      },
+      {
+        "key": "D",
+        "text": "Solar energy"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Solar energy is naturally replenished, unlike fossil fuels."
+  },
+  {
+    "id": "waec-phy-heat-thermodynamics-1",
+    "subject": "Physics",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Heat & Thermodynamics",
+    "difficulty": "easy",
+    "prompt": "Convert 25°C to Kelvin.",
+    "options": [
+      {
+        "key": "A",
+        "text": "248 K"
+      },
+      {
+        "key": "B",
+        "text": "298 K"
+      },
+      {
+        "key": "C",
+        "text": "25 K"
+      },
+      {
+        "key": "D",
+        "text": "273 K"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "K = °C + 273 = 25 + 273 = 298 K."
+  },
+  {
+    "id": "waec-phy-heat-thermodynamics-2",
+    "subject": "Physics",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Heat & Thermodynamics",
+    "difficulty": "medium",
+    "prompt": "Calculate the heat required to raise the temperature of 2 kg of water from 20°C to 40°C. (specific heat capacity of water = 4200 J/kgK)",
+    "options": [
+      {
+        "key": "A",
+        "text": "168,000 J"
+      },
+      {
+        "key": "B",
+        "text": "84,000 J"
+      },
+      {
+        "key": "C",
+        "text": "8,400 J"
+      },
+      {
+        "key": "D",
+        "text": "16,800 J"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Q = mcΔT = 2 × 4200 × 20 = 168,000 J."
+  },
+  {
+    "id": "waec-phy-heat-thermodynamics-3",
+    "subject": "Physics",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Heat & Thermodynamics",
+    "difficulty": "hard",
+    "prompt": "A metal rod expands from 2.000 m to 2.005 m when its temperature rises by 50°C. Calculate its linear expansivity.",
+    "options": [
+      {
+        "key": "A",
+        "text": "1 × 10^-4 /°C"
+      },
+      {
+        "key": "B",
+        "text": "2.5 × 10^-5 /°C"
+      },
+      {
+        "key": "C",
+        "text": "5 × 10^-5 /°C"
+      },
+      {
+        "key": "D",
+        "text": "5 × 10^-4 /°C"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "α = ΔL/(LΔT) = 0.005/(2 × 50) = 5 × 10^-5 /°C."
+  },
+  {
+    "id": "waec-phy-heat-thermodynamics-4",
+    "subject": "Physics",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Heat & Thermodynamics",
+    "difficulty": "medium",
+    "prompt": "Which process describes the transfer of heat through a vacuum?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Diffusion"
+      },
+      {
+        "key": "B",
+        "text": "Radiation"
+      },
+      {
+        "key": "C",
+        "text": "Conduction"
+      },
+      {
+        "key": "D",
+        "text": "Convection"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Radiation does not require a medium and can travel through a vacuum."
+  },
+  {
+    "id": "waec-phy-heat-thermodynamics-5",
+    "subject": "Physics",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Heat & Thermodynamics",
+    "difficulty": "easy",
+    "prompt": "What is the boiling point of pure water at standard atmospheric pressure?",
+    "options": [
+      {
+        "key": "A",
+        "text": "50°C"
+      },
+      {
+        "key": "B",
+        "text": "100°C"
+      },
+      {
+        "key": "C",
+        "text": "212°C"
+      },
+      {
+        "key": "D",
+        "text": "0°C"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Pure water boils at 100°C at standard atmospheric pressure."
+  },
+  {
+    "id": "waec-phy-magnetism-1",
+    "subject": "Physics",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Magnetism",
+    "difficulty": "easy",
+    "prompt": "Which of the following materials is NOT magnetic?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Nickel"
+      },
+      {
+        "key": "B",
+        "text": "Cobalt"
+      },
+      {
+        "key": "C",
+        "text": "Copper"
+      },
+      {
+        "key": "D",
+        "text": "Iron"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Copper is not attracted by a magnet, unlike iron, nickel and cobalt."
+  },
+  {
+    "id": "waec-phy-magnetism-2",
+    "subject": "Physics",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Magnetism",
+    "difficulty": "medium",
+    "prompt": "A magnetic compass needle points towards the Earth's",
+    "options": [
+      {
+        "key": "A",
+        "text": "magnetic south pole only"
+      },
+      {
+        "key": "B",
+        "text": "equator"
+      },
+      {
+        "key": "C",
+        "text": "geographic centre"
+      },
+      {
+        "key": "D",
+        "text": "magnetic north pole"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "A freely suspended compass needle aligns with the Earth's magnetic field, pointing towards magnetic north."
+  },
+  {
+    "id": "waec-phy-magnetism-3",
+    "subject": "Physics",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Magnetism",
+    "difficulty": "hard",
+    "prompt": "Like magnetic poles ___ while unlike poles ___.",
+    "options": [
+      {
+        "key": "A",
+        "text": "repel; attract"
+      },
+      {
+        "key": "B",
+        "text": "attract; repel"
+      },
+      {
+        "key": "C",
+        "text": "attract; attract"
+      },
+      {
+        "key": "D",
+        "text": "repel; repel"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Like poles repel each other, while unlike poles attract."
+  },
+  {
+    "id": "waec-phy-magnetism-4",
+    "subject": "Physics",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Magnetism",
+    "difficulty": "medium",
+    "prompt": "The strength of an electromagnet can be increased by",
+    "options": [
+      {
+        "key": "A",
+        "text": "reducing the current"
+      },
+      {
+        "key": "B",
+        "text": "using a wooden core"
+      },
+      {
+        "key": "C",
+        "text": "increasing the number of turns of the coil and the current"
+      },
+      {
+        "key": "D",
+        "text": "reducing the number of turns"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "More turns and higher current both strengthen the magnetic field of an electromagnet."
+  },
+  {
+    "id": "waec-phy-magnetism-5",
+    "subject": "Physics",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Magnetism",
+    "difficulty": "easy",
+    "prompt": "What instrument is used to detect the presence of a magnetic field?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Barometer"
+      },
+      {
+        "key": "B",
+        "text": "Ammeter"
+      },
+      {
+        "key": "C",
+        "text": "Compass"
+      },
+      {
+        "key": "D",
+        "text": "Voltmeter"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "A compass needle deflects in the presence of a magnetic field."
+  },
+  {
+    "id": "waec-phy-measurement-units-1",
+    "subject": "Physics",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Measurement & Units",
+    "difficulty": "easy",
+    "prompt": "What is the SI unit of mass?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Litre"
+      },
+      {
+        "key": "B",
+        "text": "Gram-force"
+      },
+      {
+        "key": "C",
+        "text": "Kilogram"
+      },
+      {
+        "key": "D",
+        "text": "Newton"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Mass is measured in kilograms in the SI system."
+  },
+  {
+    "id": "waec-phy-measurement-units-2",
+    "subject": "Physics",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Measurement & Units",
+    "difficulty": "medium",
+    "prompt": "A measuring cylinder shows a liquid volume of 45 cm^3 before an object is submerged and 65 cm^3 after. Find the volume of the object.",
+    "options": [
+      {
+        "key": "A",
+        "text": "45 cm^3"
+      },
+      {
+        "key": "B",
+        "text": "20 cm^3"
+      },
+      {
+        "key": "C",
+        "text": "110 cm^3"
+      },
+      {
+        "key": "D",
+        "text": "65 cm^3"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Volume of object = 65 - 45 = 20 cm^3, by displacement."
+  },
+  {
+    "id": "waec-phy-measurement-units-3",
+    "subject": "Physics",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Measurement & Units",
+    "difficulty": "hard",
+    "prompt": "Convert 2.5 × 10^-3 m to millimetres.",
+    "options": [
+      {
+        "key": "A",
+        "text": "0.25 mm"
+      },
+      {
+        "key": "B",
+        "text": "25 mm"
+      },
+      {
+        "key": "C",
+        "text": "250 mm"
+      },
+      {
+        "key": "D",
+        "text": "2.5 mm"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "2.5 × 10^-3 m = 2.5 mm, since 1 mm = 10^-3 m."
+  },
+  {
+    "id": "waec-phy-measurement-units-4",
+    "subject": "Physics",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Measurement & Units",
+    "difficulty": "medium",
+    "prompt": "Which instrument is most suitable for measuring the diameter of a thin wire?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Metre rule"
+      },
+      {
+        "key": "B",
+        "text": "Micrometer screw gauge"
+      },
+      {
+        "key": "C",
+        "text": "Stopwatch"
+      },
+      {
+        "key": "D",
+        "text": "Measuring tape"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "A micrometer screw gauge measures very small lengths with high precision."
+  },
+  {
+    "id": "waec-phy-measurement-units-5",
+    "subject": "Physics",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Measurement & Units",
+    "difficulty": "easy",
+    "prompt": "What is the SI unit of time?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Minute"
+      },
+      {
+        "key": "B",
+        "text": "Hertz"
+      },
+      {
+        "key": "C",
+        "text": "Hour"
+      },
+      {
+        "key": "D",
+        "text": "Second"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Time is measured in seconds in the SI system."
+  },
+  {
+    "id": "waec-phy-mechanics-1",
+    "subject": "Physics",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Mechanics",
+    "difficulty": "easy",
+    "prompt": "A car accelerates uniformly from 5 m/s to 25 m/s in 4 seconds. Find its acceleration.",
+    "options": [
+      {
+        "key": "A",
+        "text": "20 m/s^2"
+      },
+      {
+        "key": "B",
+        "text": "100 m/s^2"
+      },
+      {
+        "key": "C",
+        "text": "7.5 m/s^2"
+      },
+      {
+        "key": "D",
+        "text": "5 m/s^2"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "a = (v - u)/t = (25 - 5)/4 = 5 m/s^2."
+  },
+  {
+    "id": "waec-phy-mechanics-2",
+    "subject": "Physics",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Mechanics",
+    "difficulty": "medium",
+    "prompt": "Calculate the force needed to accelerate a 10 kg mass at 3 m/s^2.",
+    "options": [
+      {
+        "key": "A",
+        "text": "13 N"
+      },
+      {
+        "key": "B",
+        "text": "30 N"
+      },
+      {
+        "key": "C",
+        "text": "3.33 N"
+      },
+      {
+        "key": "D",
+        "text": "7 N"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "F = ma = 10 × 3 = 30 N."
+  },
+  {
+    "id": "waec-phy-mechanics-3",
+    "subject": "Physics",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Mechanics",
+    "difficulty": "hard",
+    "prompt": "A ball is thrown vertically upward with an initial velocity of 20 m/s. Calculate the maximum height reached. (g = 10 m/s^2)",
+    "options": [
+      {
+        "key": "A",
+        "text": "200 m"
+      },
+      {
+        "key": "B",
+        "text": "2 m"
+      },
+      {
+        "key": "C",
+        "text": "20 m"
+      },
+      {
+        "key": "D",
+        "text": "40 m"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "h = v^2/2g = 400/20 = 20 m."
+  },
+  {
+    "id": "waec-phy-mechanics-4",
+    "subject": "Physics",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Mechanics",
+    "difficulty": "medium",
+    "prompt": "Which of the following best states Newton's third law of motion?",
+    "options": [
+      {
+        "key": "A",
+        "text": "For every action, there is an equal and opposite reaction"
+      },
+      {
+        "key": "B",
+        "text": "Energy cannot be created or destroyed"
+      },
+      {
+        "key": "C",
+        "text": "Force equals mass times acceleration"
+      },
+      {
+        "key": "D",
+        "text": "An object stays at rest unless acted upon by a force"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Newton's third law states that action and reaction forces are equal and opposite."
+  },
+  {
+    "id": "waec-phy-mechanics-5",
+    "subject": "Physics",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Mechanics",
+    "difficulty": "easy",
+    "prompt": "A body moves with a constant velocity of 8 m/s for 5 seconds. Calculate the distance covered.",
+    "options": [
+      {
+        "key": "A",
+        "text": "3 m"
+      },
+      {
+        "key": "B",
+        "text": "1.6 m"
+      },
+      {
+        "key": "C",
+        "text": "13 m"
+      },
+      {
+        "key": "D",
+        "text": "40 m"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Distance = speed × time = 8 × 5 = 40 m."
+  },
+  {
+    "id": "waec-phy-modern-physics-1",
+    "subject": "Physics",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Modern Physics",
+    "difficulty": "easy",
+    "prompt": "The nucleus of an atom is made up of",
+    "options": [
+      {
+        "key": "A",
+        "text": "neutrons and electrons"
+      },
+      {
+        "key": "B",
+        "text": "protons and neutrons"
+      },
+      {
+        "key": "C",
+        "text": "protons only"
+      },
+      {
+        "key": "D",
+        "text": "protons and electrons"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "The nucleus contains protons and neutrons, while electrons orbit around it."
+  },
+  {
+    "id": "waec-phy-modern-physics-2",
+    "subject": "Physics",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Modern Physics",
+    "difficulty": "medium",
+    "prompt": "Which particle has no electric charge?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Proton"
+      },
+      {
+        "key": "B",
+        "text": "Electron"
+      },
+      {
+        "key": "C",
+        "text": "Neutron"
+      },
+      {
+        "key": "D",
+        "text": "Positron"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "The neutron is electrically neutral."
+  },
+  {
+    "id": "waec-phy-modern-physics-3",
+    "subject": "Physics",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Modern Physics",
+    "difficulty": "hard",
+    "prompt": "In radioactive decay, an alpha particle is equivalent to",
+    "options": [
+      {
+        "key": "A",
+        "text": "a helium nucleus (2 protons and 2 neutrons)"
+      },
+      {
+        "key": "B",
+        "text": "a single proton"
+      },
+      {
+        "key": "C",
+        "text": "a single electron"
+      },
+      {
+        "key": "D",
+        "text": "a photon of high energy"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "An alpha particle consists of 2 protons and 2 neutrons, identical to a helium nucleus."
+  },
+  {
+    "id": "waec-phy-modern-physics-4",
+    "subject": "Physics",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Modern Physics",
+    "difficulty": "medium",
+    "prompt": "X-rays are produced when",
+    "options": [
+      {
+        "key": "A",
+        "text": "fast-moving electrons are suddenly decelerated by striking a metal target"
+      },
+      {
+        "key": "B",
+        "text": "sound waves are amplified"
+      },
+      {
+        "key": "C",
+        "text": "atoms absorb visible light"
+      },
+      {
+        "key": "D",
+        "text": "protons collide with neutrons"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "X-rays are generated when high-speed electrons are rapidly decelerated on hitting a metal target."
+  },
+  {
+    "id": "waec-phy-modern-physics-5",
+    "subject": "Physics",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Modern Physics",
+    "difficulty": "easy",
+    "prompt": "What is the approximate speed of light in a vacuum?",
+    "options": [
+      {
+        "key": "A",
+        "text": "3 × 10^6 m/s"
+      },
+      {
+        "key": "B",
+        "text": "3 × 10^8 m/s"
+      },
+      {
+        "key": "C",
+        "text": "3 × 10^5 m/s"
+      },
+      {
+        "key": "D",
+        "text": "3 × 10^10 m/s"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "The speed of light in a vacuum is approximately 3 × 10^8 m/s."
+  },
+  {
+    "id": "waec-phy-waves-1",
+    "subject": "Physics",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Waves",
+    "difficulty": "easy",
+    "prompt": "A wave has a frequency of 50 Hz and wavelength of 4 m. Calculate its speed.",
+    "options": [
+      {
+        "key": "A",
+        "text": "54 m/s"
+      },
+      {
+        "key": "B",
+        "text": "12.5 m/s"
+      },
+      {
+        "key": "C",
+        "text": "0.08 m/s"
+      },
+      {
+        "key": "D",
+        "text": "200 m/s"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "v = fλ = 50 × 4 = 200 m/s."
+  },
+  {
+    "id": "waec-phy-waves-2",
+    "subject": "Physics",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Waves",
+    "difficulty": "medium",
+    "prompt": "Sound waves are examples of",
+    "options": [
+      {
+        "key": "A",
+        "text": "electromagnetic waves"
+      },
+      {
+        "key": "B",
+        "text": "longitudinal waves"
+      },
+      {
+        "key": "C",
+        "text": "transverse waves"
+      },
+      {
+        "key": "D",
+        "text": "standing waves only"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Sound waves travel by compressions and rarefactions, making them longitudinal."
+  },
+  {
+    "id": "waec-phy-waves-3",
+    "subject": "Physics",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Waves",
+    "difficulty": "hard",
+    "prompt": "A wave travels at 340 m/s and has a period of 0.02 s. Calculate its wavelength.",
+    "options": [
+      {
+        "key": "A",
+        "text": "0.000059 m"
+      },
+      {
+        "key": "B",
+        "text": "17,000 m"
+      },
+      {
+        "key": "C",
+        "text": "340.02 m"
+      },
+      {
+        "key": "D",
+        "text": "6.8 m"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "λ = v × T = 340 × 0.02 = 6.8 m."
+  },
+  {
+    "id": "waec-phy-waves-4",
+    "subject": "Physics",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Waves",
+    "difficulty": "medium",
+    "prompt": "Which of the following is NOT a property common to all waves?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Frequency"
+      },
+      {
+        "key": "B",
+        "text": "Mass"
+      },
+      {
+        "key": "C",
+        "text": "Wavelength"
+      },
+      {
+        "key": "D",
+        "text": "Amplitude"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Waves transfer energy, not mass, so mass is not a wave property."
+  },
+  {
+    "id": "waec-phy-waves-5",
+    "subject": "Physics",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Waves",
+    "difficulty": "easy",
+    "prompt": "Light waves are examples of",
+    "options": [
+      {
+        "key": "A",
+        "text": "sound waves"
+      },
+      {
+        "key": "B",
+        "text": "longitudinal waves"
+      },
+      {
+        "key": "C",
+        "text": "transverse waves"
+      },
+      {
+        "key": "D",
+        "text": "mechanical waves only"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Light is an electromagnetic wave in which oscillations are perpendicular to the direction of travel, making it transverse."
+  },
+  {
+    "id": "waec-chem-acids-bases-1",
+    "subject": "Chemistry",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Acids and Bases",
+    "difficulty": "easy",
+    "prompt": "What is the pH value of a strongly acidic solution likely to be?",
+    "options": [
+      {
+        "key": "A",
+        "text": "7"
+      },
+      {
+        "key": "B",
+        "text": "14"
+      },
+      {
+        "key": "C",
+        "text": "10"
+      },
+      {
+        "key": "D",
+        "text": "2"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Strongly acidic solutions have pH values well below 7."
+  },
+  {
+    "id": "waec-chem-acids-bases-2",
+    "subject": "Chemistry",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Acids and Bases",
+    "difficulty": "medium",
+    "prompt": "Which of the following is a strong acid?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Citric acid"
+      },
+      {
+        "key": "B",
+        "text": "Acetic acid"
+      },
+      {
+        "key": "C",
+        "text": "Hydrochloric acid"
+      },
+      {
+        "key": "D",
+        "text": "Carbonic acid"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Hydrochloric acid ionizes completely in water, making it a strong acid."
+  },
+  {
+    "id": "waec-chem-acids-bases-3",
+    "subject": "Chemistry",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Acids and Bases",
+    "difficulty": "hard",
+    "prompt": "When an acid reacts with a base, the products formed are",
+    "options": [
+      {
+        "key": "A",
+        "text": "salt and hydrogen gas"
+      },
+      {
+        "key": "B",
+        "text": "salt and water"
+      },
+      {
+        "key": "C",
+        "text": "salt and carbon dioxide"
+      },
+      {
+        "key": "D",
+        "text": "oxide and water"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Neutralization between an acid and a base produces a salt and water."
+  },
+  {
+    "id": "waec-chem-acids-bases-4",
+    "subject": "Chemistry",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Acids and Bases",
+    "difficulty": "medium",
+    "prompt": "Litmus paper turns ___ in an acidic solution.",
+    "options": [
+      {
+        "key": "A",
+        "text": "green"
+      },
+      {
+        "key": "B",
+        "text": "red"
+      },
+      {
+        "key": "C",
+        "text": "blue"
+      },
+      {
+        "key": "D",
+        "text": "colourless"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Acids turn blue litmus paper red."
+  },
+  {
+    "id": "waec-chem-acids-bases-5",
+    "subject": "Chemistry",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Acids and Bases",
+    "difficulty": "easy",
+    "prompt": "Which of the following is an example of a base?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Sodium hydroxide"
+      },
+      {
+        "key": "B",
+        "text": "Ethanoic acid"
+      },
+      {
+        "key": "C",
+        "text": "Hydrochloric acid"
+      },
+      {
+        "key": "D",
+        "text": "Sulphuric acid"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Sodium hydroxide is a common strong base."
+  },
+  {
+    "id": "waec-chem-atomic-structure-1",
+    "subject": "Chemistry",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Atomic Structure",
+    "difficulty": "easy",
+    "prompt": "The atomic number of an element represents the number of ___ in its nucleus.",
+    "options": [
+      {
+        "key": "A",
+        "text": "protons and neutrons"
+      },
+      {
+        "key": "B",
+        "text": "protons"
+      },
+      {
+        "key": "C",
+        "text": "neutrons"
+      },
+      {
+        "key": "D",
+        "text": "electrons only, outside the nucleus"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "The atomic number equals the number of protons in the nucleus."
+  },
+  {
+    "id": "waec-chem-atomic-structure-2",
+    "subject": "Chemistry",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Atomic Structure",
+    "difficulty": "medium",
+    "prompt": "An atom of an element has 17 protons and 18 neutrons. Find its mass number.",
+    "options": [
+      {
+        "key": "A",
+        "text": "35"
+      },
+      {
+        "key": "B",
+        "text": "18"
+      },
+      {
+        "key": "C",
+        "text": "17"
+      },
+      {
+        "key": "D",
+        "text": "1"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Mass number = protons + neutrons = 17 + 18 = 35."
+  },
+  {
+    "id": "waec-chem-atomic-structure-3",
+    "subject": "Chemistry",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Atomic Structure",
+    "difficulty": "hard",
+    "prompt": "Isotopes of an element have the same number of protons but different numbers of",
+    "options": [
+      {
+        "key": "A",
+        "text": "neutrons"
+      },
+      {
+        "key": "B",
+        "text": "valence shells"
+      },
+      {
+        "key": "C",
+        "text": "protons"
+      },
+      {
+        "key": "D",
+        "text": "electrons"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Isotopes differ only in their neutron number, giving different mass numbers."
+  },
+  {
+    "id": "waec-chem-atomic-structure-4",
+    "subject": "Chemistry",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Atomic Structure",
+    "difficulty": "medium",
+    "prompt": "The maximum number of electrons that can occupy the second shell (n = 2) is",
+    "options": [
+      {
+        "key": "A",
+        "text": "2"
+      },
+      {
+        "key": "B",
+        "text": "8"
+      },
+      {
+        "key": "C",
+        "text": "18"
+      },
+      {
+        "key": "D",
+        "text": "6"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "The second electron shell can hold a maximum of 8 electrons (2n^2 = 8)."
+  },
+  {
+    "id": "waec-chem-atomic-structure-5",
+    "subject": "Chemistry",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Atomic Structure",
+    "difficulty": "easy",
+    "prompt": "Which particle in the atom carries a negative charge?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Neutron"
+      },
+      {
+        "key": "B",
+        "text": "Nucleon"
+      },
+      {
+        "key": "C",
+        "text": "Electron"
+      },
+      {
+        "key": "D",
+        "text": "Proton"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Electrons carry a negative charge and orbit the nucleus."
+  },
+  {
+    "id": "waec-chem-bonding-1",
+    "subject": "Chemistry",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Chemical Bonding",
+    "difficulty": "easy",
+    "prompt": "The type of bond formed by the complete transfer of electrons from one atom to another is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "covalent bond"
+      },
+      {
+        "key": "B",
+        "text": "ionic bond"
+      },
+      {
+        "key": "C",
+        "text": "hydrogen bond"
+      },
+      {
+        "key": "D",
+        "text": "metallic bond"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "An ionic bond forms when electrons are transferred, creating oppositely charged ions that attract each other."
+  },
+  {
+    "id": "waec-chem-bonding-2",
+    "subject": "Chemistry",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Chemical Bonding",
+    "difficulty": "medium",
+    "prompt": "Which of the following compounds contains a covalent bond?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Potassium bromide"
+      },
+      {
+        "key": "B",
+        "text": "Water (H2O)"
+      },
+      {
+        "key": "C",
+        "text": "Calcium oxide"
+      },
+      {
+        "key": "D",
+        "text": "Sodium chloride"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Water molecules are held together by covalent bonds between hydrogen and oxygen atoms."
+  },
+  {
+    "id": "waec-chem-bonding-3",
+    "subject": "Chemistry",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Chemical Bonding",
+    "difficulty": "hard",
+    "prompt": "A shared pair of electrons donated by only one of the bonding atoms results in",
+    "options": [
+      {
+        "key": "A",
+        "text": "a coordinate (dative) bond"
+      },
+      {
+        "key": "B",
+        "text": "a van der Waals bond"
+      },
+      {
+        "key": "C",
+        "text": "a metallic bond"
+      },
+      {
+        "key": "D",
+        "text": "an ionic bond"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "A coordinate bond is a covalent bond where both shared electrons come from one atom."
+  },
+  {
+    "id": "waec-chem-bonding-4",
+    "subject": "Chemistry",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Chemical Bonding",
+    "difficulty": "medium",
+    "prompt": "Metallic bonding is best described as",
+    "options": [
+      {
+        "key": "A",
+        "text": "electron transfer between two metal atoms"
+      },
+      {
+        "key": "B",
+        "text": "attraction between oppositely charged ions only"
+      },
+      {
+        "key": "C",
+        "text": "sharing of electrons between two non-metals"
+      },
+      {
+        "key": "D",
+        "text": "a lattice of positive ions in a sea of delocalized electrons"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "In metals, positive ions are held together by a 'sea' of freely moving delocalized electrons."
+  },
+  {
+    "id": "waec-chem-bonding-5",
+    "subject": "Chemistry",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Chemical Bonding",
+    "difficulty": "easy",
+    "prompt": "Sodium chloride is held together by ___ bonds.",
+    "options": [
+      {
+        "key": "A",
+        "text": "hydrogen"
+      },
+      {
+        "key": "B",
+        "text": "covalent"
+      },
+      {
+        "key": "C",
+        "text": "metallic"
+      },
+      {
+        "key": "D",
+        "text": "ionic"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Sodium chloride forms through electron transfer from sodium to chlorine, creating ionic bonds."
+  },
+  {
+    "id": "waec-chem-kinetics-1",
+    "subject": "Chemistry",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Chemical Kinetics",
+    "difficulty": "easy",
+    "prompt": "The rate of a chemical reaction generally ___ when temperature increases.",
+    "options": [
+      {
+        "key": "A",
+        "text": "decreases"
+      },
+      {
+        "key": "B",
+        "text": "remains constant"
+      },
+      {
+        "key": "C",
+        "text": "increases"
+      },
+      {
+        "key": "D",
+        "text": "becomes zero"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Higher temperature increases particle kinetic energy and collision frequency, speeding up reactions."
+  },
+  {
+    "id": "waec-chem-kinetics-2",
+    "subject": "Chemistry",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Chemical Kinetics",
+    "difficulty": "medium",
+    "prompt": "A catalyst speeds up a reaction by",
+    "options": [
+      {
+        "key": "A",
+        "text": "increasing the activation energy"
+      },
+      {
+        "key": "B",
+        "text": "increasing the concentration of reactants"
+      },
+      {
+        "key": "C",
+        "text": "increasing the temperature of reactants"
+      },
+      {
+        "key": "D",
+        "text": "lowering the activation energy"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Catalysts provide an alternative pathway with lower activation energy."
+  },
+  {
+    "id": "waec-chem-kinetics-3",
+    "subject": "Chemistry",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Chemical Kinetics",
+    "difficulty": "hard",
+    "prompt": "Doubling the concentration of a reactant in a reaction that is first order with respect to that reactant will cause the rate to",
+    "options": [
+      {
+        "key": "A",
+        "text": "halve"
+      },
+      {
+        "key": "B",
+        "text": "quadruple"
+      },
+      {
+        "key": "C",
+        "text": "remain unchanged"
+      },
+      {
+        "key": "D",
+        "text": "double"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "For a first-order reaction, rate is directly proportional to concentration, so doubling concentration doubles the rate."
+  },
+  {
+    "id": "waec-chem-kinetics-4",
+    "subject": "Chemistry",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Chemical Kinetics",
+    "difficulty": "medium",
+    "prompt": "Which of the following factors does NOT affect the rate of a chemical reaction?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Colour of the container"
+      },
+      {
+        "key": "B",
+        "text": "Concentration"
+      },
+      {
+        "key": "C",
+        "text": "Temperature"
+      },
+      {
+        "key": "D",
+        "text": "Surface area of reactants"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "The colour of the reaction vessel has no effect on reaction rate."
+  },
+  {
+    "id": "waec-chem-kinetics-5",
+    "subject": "Chemistry",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Chemical Kinetics",
+    "difficulty": "easy",
+    "prompt": "Increasing the surface area of a solid reactant ___ the rate of reaction.",
+    "options": [
+      {
+        "key": "A",
+        "text": "decreases"
+      },
+      {
+        "key": "B",
+        "text": "stops"
+      },
+      {
+        "key": "C",
+        "text": "increases"
+      },
+      {
+        "key": "D",
+        "text": "has no effect on"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "A larger surface area allows more particle collisions, increasing the reaction rate."
+  },
+  {
+    "id": "waec-chem-electrochemistry-1",
+    "subject": "Chemistry",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Electrochemistry",
+    "difficulty": "easy",
+    "prompt": "During electrolysis, positive ions move towards the",
+    "options": [
+      {
+        "key": "A",
+        "text": "cathode"
+      },
+      {
+        "key": "B",
+        "text": "anode"
+      },
+      {
+        "key": "C",
+        "text": "electrolyte surface"
+      },
+      {
+        "key": "D",
+        "text": "salt bridge"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Cations (positive ions) are attracted to the negatively charged cathode."
+  },
+  {
+    "id": "waec-chem-electrochemistry-2",
+    "subject": "Chemistry",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Electrochemistry",
+    "difficulty": "medium",
+    "prompt": "In an electrochemical cell, oxidation occurs at the",
+    "options": [
+      {
+        "key": "A",
+        "text": "salt bridge"
+      },
+      {
+        "key": "B",
+        "text": "cathode"
+      },
+      {
+        "key": "C",
+        "text": "external circuit"
+      },
+      {
+        "key": "D",
+        "text": "anode"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Oxidation (loss of electrons) occurs at the anode."
+  },
+  {
+    "id": "waec-chem-electrochemistry-3",
+    "subject": "Chemistry",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Electrochemistry",
+    "difficulty": "hard",
+    "prompt": "During the electrolysis of molten sodium chloride, the product formed at the cathode is",
+    "options": [
+      {
+        "key": "A",
+        "text": "chlorine gas"
+      },
+      {
+        "key": "B",
+        "text": "oxygen gas"
+      },
+      {
+        "key": "C",
+        "text": "sodium metal"
+      },
+      {
+        "key": "D",
+        "text": "hydrogen gas"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Na+ ions gain electrons at the cathode to form sodium metal."
+  },
+  {
+    "id": "waec-chem-electrochemistry-4",
+    "subject": "Chemistry",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Electrochemistry",
+    "difficulty": "medium",
+    "prompt": "The device that converts chemical energy directly into electrical energy is called a/an",
+    "options": [
+      {
+        "key": "A",
+        "text": "electrolytic cell"
+      },
+      {
+        "key": "B",
+        "text": "capacitor"
+      },
+      {
+        "key": "C",
+        "text": "electrochemical (voltaic) cell"
+      },
+      {
+        "key": "D",
+        "text": "transformer"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "A voltaic (galvanic) cell generates electricity from spontaneous chemical reactions."
+  },
+  {
+    "id": "waec-chem-electrochemistry-5",
+    "subject": "Chemistry",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Electrochemistry",
+    "difficulty": "easy",
+    "prompt": "Which of the following is a good conductor of electricity in molten or aqueous form?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Sodium chloride"
+      },
+      {
+        "key": "B",
+        "text": "Distilled water"
+      },
+      {
+        "key": "C",
+        "text": "Ethanol"
+      },
+      {
+        "key": "D",
+        "text": "Sugar solution"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Sodium chloride is an ionic compound and conducts electricity when molten or dissolved, due to free-moving ions."
+  },
+  {
+    "id": "waec-chem-organic-chemistry-1",
+    "subject": "Chemistry",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Organic Chemistry",
+    "difficulty": "easy",
+    "prompt": "The general formula for alkanes is",
+    "options": [
+      {
+        "key": "A",
+        "text": "CnHn"
+      },
+      {
+        "key": "B",
+        "text": "CnH2n-2"
+      },
+      {
+        "key": "C",
+        "text": "CnH2n+2"
+      },
+      {
+        "key": "D",
+        "text": "CnH2n"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Alkanes are saturated hydrocarbons with the general formula CnH2n+2."
+  },
+  {
+    "id": "waec-chem-organic-chemistry-2",
+    "subject": "Chemistry",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Organic Chemistry",
+    "difficulty": "medium",
+    "prompt": "Which functional group is present in alcohols?",
+    "options": [
+      {
+        "key": "A",
+        "text": "-OH"
+      },
+      {
+        "key": "B",
+        "text": "-COOH"
+      },
+      {
+        "key": "C",
+        "text": "-CHO"
+      },
+      {
+        "key": "D",
+        "text": "-NH2"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "The hydroxyl group (-OH) is the characteristic functional group of alcohols."
+  },
+  {
+    "id": "waec-chem-organic-chemistry-3",
+    "subject": "Chemistry",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Organic Chemistry",
+    "difficulty": "hard",
+    "prompt": "The process by which small monomer molecules join to form a large polymer molecule is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "polymerization"
+      },
+      {
+        "key": "B",
+        "text": "saponification"
+      },
+      {
+        "key": "C",
+        "text": "cracking"
+      },
+      {
+        "key": "D",
+        "text": "fermentation"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Polymerization is the joining of monomers into long-chain polymers."
+  },
+  {
+    "id": "waec-chem-organic-chemistry-4",
+    "subject": "Chemistry",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Organic Chemistry",
+    "difficulty": "medium",
+    "prompt": "Ethene (C2H4) belongs to the homologous series of",
+    "options": [
+      {
+        "key": "A",
+        "text": "alkenes"
+      },
+      {
+        "key": "B",
+        "text": "alkanes"
+      },
+      {
+        "key": "C",
+        "text": "alkynes"
+      },
+      {
+        "key": "D",
+        "text": "alcohols"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Ethene contains a carbon-carbon double bond, characteristic of alkenes."
+  },
+  {
+    "id": "waec-chem-organic-chemistry-5",
+    "subject": "Chemistry",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Organic Chemistry",
+    "difficulty": "easy",
+    "prompt": "The first member of the alkane series is",
+    "options": [
+      {
+        "key": "A",
+        "text": "propane"
+      },
+      {
+        "key": "B",
+        "text": "ethane"
+      },
+      {
+        "key": "C",
+        "text": "butane"
+      },
+      {
+        "key": "D",
+        "text": "methane"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Methane (CH4) is the simplest alkane, with just one carbon atom."
+  },
+  {
+    "id": "waec-chem-stoichiometry-1",
+    "subject": "Chemistry",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Stoichiometry",
+    "difficulty": "easy",
+    "prompt": "Calculate the number of moles in 44 g of CO2. (molar mass = 44 g/mol)",
+    "options": [
+      {
+        "key": "A",
+        "text": "0.5 moles"
+      },
+      {
+        "key": "B",
+        "text": "2 moles"
+      },
+      {
+        "key": "C",
+        "text": "44 moles"
+      },
+      {
+        "key": "D",
+        "text": "1 mole"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Moles = mass/molar mass = 44/44 = 1 mole."
+  },
+  {
+    "id": "waec-chem-stoichiometry-2",
+    "subject": "Chemistry",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Stoichiometry",
+    "difficulty": "medium",
+    "prompt": "Calculate the mass of 2 moles of water, H2O. (molar mass = 18 g/mol)",
+    "options": [
+      {
+        "key": "A",
+        "text": "20 g"
+      },
+      {
+        "key": "B",
+        "text": "18 g"
+      },
+      {
+        "key": "C",
+        "text": "36 g"
+      },
+      {
+        "key": "D",
+        "text": "9 g"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Mass = moles × molar mass = 2 × 18 = 36 g."
+  },
+  {
+    "id": "waec-chem-stoichiometry-3",
+    "subject": "Chemistry",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Stoichiometry",
+    "difficulty": "hard",
+    "prompt": "5.6 litres of a gas at STP contains how many moles? (1 mole occupies 22.4 litres at STP)",
+    "options": [
+      {
+        "key": "A",
+        "text": "2.5 moles"
+      },
+      {
+        "key": "B",
+        "text": "4 moles"
+      },
+      {
+        "key": "C",
+        "text": "1.25 moles"
+      },
+      {
+        "key": "D",
+        "text": "0.25 moles"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Moles = volume/molar volume = 5.6/22.4 = 0.25 moles."
+  },
+  {
+    "id": "waec-chem-stoichiometry-4",
+    "subject": "Chemistry",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Stoichiometry",
+    "difficulty": "medium",
+    "prompt": "What is the empirical formula of a compound containing 40% carbon, 6.7% hydrogen and 53.3% oxygen by mass? (C = 12, H = 1, O = 16)",
+    "options": [
+      {
+        "key": "A",
+        "text": "CHO"
+      },
+      {
+        "key": "B",
+        "text": "C2H4O2"
+      },
+      {
+        "key": "C",
+        "text": "CH2O"
+      },
+      {
+        "key": "D",
+        "text": "C2H6O"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Moles: C = 40/12 = 3.33, H = 6.7/1 = 6.7, O = 53.3/16 = 3.33. Dividing by the smallest gives a ratio of 1:2:1, so the empirical formula is CH2O."
+  },
+  {
+    "id": "waec-chem-stoichiometry-5",
+    "subject": "Chemistry",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Stoichiometry",
+    "difficulty": "easy",
+    "prompt": "How many grams are there in 0.5 moles of NaOH? (molar mass = 40 g/mol)",
+    "options": [
+      {
+        "key": "A",
+        "text": "80 g"
+      },
+      {
+        "key": "B",
+        "text": "0.0125 g"
+      },
+      {
+        "key": "C",
+        "text": "40 g"
+      },
+      {
+        "key": "D",
+        "text": "20 g"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Mass = moles × molar mass = 0.5 × 40 = 20 g."
+  },
+  {
+    "id": "waec-chem-periodic-table-1",
+    "subject": "Chemistry",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "The Periodic Table",
+    "difficulty": "easy",
+    "prompt": "Elements in the same group of the periodic table have the same number of",
+    "options": [
+      {
+        "key": "A",
+        "text": "valence electrons"
+      },
+      {
+        "key": "B",
+        "text": "neutrons"
+      },
+      {
+        "key": "C",
+        "text": "protons"
+      },
+      {
+        "key": "D",
+        "text": "energy levels (shells)"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Elements in a group share the same number of electrons in their outermost shell."
+  },
+  {
+    "id": "waec-chem-periodic-table-2",
+    "subject": "Chemistry",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "The Periodic Table",
+    "difficulty": "medium",
+    "prompt": "Moving across a period from left to right, atomic radius generally",
+    "options": [
+      {
+        "key": "A",
+        "text": "decreases"
+      },
+      {
+        "key": "B",
+        "text": "increases then decreases sharply"
+      },
+      {
+        "key": "C",
+        "text": "increases"
+      },
+      {
+        "key": "D",
+        "text": "remains constant"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Increasing nuclear charge across a period pulls electrons closer, decreasing atomic radius."
+  },
+  {
+    "id": "waec-chem-periodic-table-3",
+    "subject": "Chemistry",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "The Periodic Table",
+    "difficulty": "hard",
+    "prompt": "Elements in Group 0 (Group 18) of the periodic table are known as",
+    "options": [
+      {
+        "key": "A",
+        "text": "transition metals"
+      },
+      {
+        "key": "B",
+        "text": "halogens"
+      },
+      {
+        "key": "C",
+        "text": "noble gases"
+      },
+      {
+        "key": "D",
+        "text": "alkali metals"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Group 0 elements have full outer shells and are called noble gases."
+  },
+  {
+    "id": "waec-chem-periodic-table-4",
+    "subject": "Chemistry",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "The Periodic Table",
+    "difficulty": "medium",
+    "prompt": "Metallic character generally ___ down a group in the periodic table.",
+    "options": [
+      {
+        "key": "A",
+        "text": "disappears"
+      },
+      {
+        "key": "B",
+        "text": "decreases"
+      },
+      {
+        "key": "C",
+        "text": "increases"
+      },
+      {
+        "key": "D",
+        "text": "remains the same"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Down a group, atoms lose electrons more easily, so metallic character increases."
+  },
+  {
+    "id": "waec-chem-periodic-table-5",
+    "subject": "Chemistry",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "The Periodic Table",
+    "difficulty": "easy",
+    "prompt": "Which of the following is a Group I (alkali metal) element?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Neon"
+      },
+      {
+        "key": "B",
+        "text": "Chlorine"
+      },
+      {
+        "key": "C",
+        "text": "Sodium"
+      },
+      {
+        "key": "D",
+        "text": "Calcium"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Sodium is a Group I alkali metal."
+  },
+  {
+    "id": "waec-bio-cell-1",
+    "subject": "Biology",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Cell Biology",
+    "difficulty": "easy",
+    "prompt": "What is regarded as the \"powerhouse\" of the cell?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Nucleus"
+      },
+      {
+        "key": "B",
+        "text": "Golgi apparatus"
+      },
+      {
+        "key": "C",
+        "text": "Mitochondrion"
+      },
+      {
+        "key": "D",
+        "text": "Ribosome"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "The mitochondrion generates most of the cell's ATP (energy) through respiration."
+  },
+  {
+    "id": "waec-bio-cell-2",
+    "subject": "Biology",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Cell Biology",
+    "difficulty": "medium",
+    "prompt": "Which organelle is responsible for protein synthesis in the cell?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Vacuole"
+      },
+      {
+        "key": "B",
+        "text": "Ribosome"
+      },
+      {
+        "key": "C",
+        "text": "Lysosome"
+      },
+      {
+        "key": "D",
+        "text": "Mitochondrion"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Ribosomes translate mRNA to synthesize proteins."
+  },
+  {
+    "id": "waec-bio-cell-3",
+    "subject": "Biology",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Cell Biology",
+    "difficulty": "hard",
+    "prompt": "Which of the following structures is found in plant cells but NOT in animal cells?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Cell membrane"
+      },
+      {
+        "key": "B",
+        "text": "Cell wall"
+      },
+      {
+        "key": "C",
+        "text": "Mitochondrion"
+      },
+      {
+        "key": "D",
+        "text": "Nucleus"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Plant cells have a rigid cellulose cell wall, which animal cells lack."
+  },
+  {
+    "id": "waec-bio-cell-4",
+    "subject": "Biology",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Cell Biology",
+    "difficulty": "medium",
+    "prompt": "The control centre of the cell, which contains genetic material, is the",
+    "options": [
+      {
+        "key": "A",
+        "text": "nucleus"
+      },
+      {
+        "key": "B",
+        "text": "cell membrane"
+      },
+      {
+        "key": "C",
+        "text": "vacuole"
+      },
+      {
+        "key": "D",
+        "text": "cytoplasm"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "The nucleus houses the cell's DNA and regulates cell activities."
+  },
+  {
+    "id": "waec-bio-cell-5",
+    "subject": "Biology",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Cell Biology",
+    "difficulty": "easy",
+    "prompt": "Which of these best defines a tissue?",
+    "options": [
+      {
+        "key": "A",
+        "text": "An entire organism"
+      },
+      {
+        "key": "B",
+        "text": "A group of organs"
+      },
+      {
+        "key": "C",
+        "text": "A single cell"
+      },
+      {
+        "key": "D",
+        "text": "A group of similar cells performing the same function"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "A tissue is a collection of similar cells working together to perform a specific function."
+  },
+  {
+    "id": "waec-bio-ecology-1",
+    "subject": "Biology",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Ecology",
+    "difficulty": "easy",
+    "prompt": "A group of organisms of the same species living in the same area at the same time is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "ecosystem"
+      },
+      {
+        "key": "B",
+        "text": "community"
+      },
+      {
+        "key": "C",
+        "text": "habitat"
+      },
+      {
+        "key": "D",
+        "text": "population"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "A population consists of individuals of one species in a given area."
+  },
+  {
+    "id": "waec-bio-ecology-2",
+    "subject": "Biology",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Ecology",
+    "difficulty": "medium",
+    "prompt": "Organisms that manufacture their own food using sunlight are called",
+    "options": [
+      {
+        "key": "A",
+        "text": "decomposers"
+      },
+      {
+        "key": "B",
+        "text": "producers"
+      },
+      {
+        "key": "C",
+        "text": "predators"
+      },
+      {
+        "key": "D",
+        "text": "consumers"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Producers, such as green plants, make their own food via photosynthesis."
+  },
+  {
+    "id": "waec-bio-ecology-3",
+    "subject": "Biology",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Ecology",
+    "difficulty": "hard",
+    "prompt": "The continuous flow of energy through an ecosystem, from producers to top consumers, is best represented by a",
+    "options": [
+      {
+        "key": "A",
+        "text": "nitrogen cycle"
+      },
+      {
+        "key": "B",
+        "text": "carbon sink"
+      },
+      {
+        "key": "C",
+        "text": "water cycle"
+      },
+      {
+        "key": "D",
+        "text": "food chain"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "A food chain shows the transfer of energy from one organism to the next."
+  },
+  {
+    "id": "waec-bio-ecology-4",
+    "subject": "Biology",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Ecology",
+    "difficulty": "medium",
+    "prompt": "Organisms that break down dead organic matter and recycle nutrients are called",
+    "options": [
+      {
+        "key": "A",
+        "text": "producers"
+      },
+      {
+        "key": "B",
+        "text": "decomposers"
+      },
+      {
+        "key": "C",
+        "text": "herbivores"
+      },
+      {
+        "key": "D",
+        "text": "primary consumers"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Decomposers, such as bacteria and fungi, break down dead matter, releasing nutrients back into the environment."
+  },
+  {
+    "id": "waec-bio-ecology-5",
+    "subject": "Biology",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Ecology",
+    "difficulty": "easy",
+    "prompt": "The physical and biological environment in which an organism lives is called its",
+    "options": [
+      {
+        "key": "A",
+        "text": "habitat"
+      },
+      {
+        "key": "B",
+        "text": "population"
+      },
+      {
+        "key": "C",
+        "text": "biosphere"
+      },
+      {
+        "key": "D",
+        "text": "niche"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "A habitat is the natural home or environment of an organism."
+  },
+  {
+    "id": "waec-bio-enzyme-1",
+    "subject": "Biology",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Enzymes",
+    "difficulty": "easy",
+    "prompt": "Enzymes are biological catalysts made up of",
+    "options": [
+      {
+        "key": "A",
+        "text": "proteins"
+      },
+      {
+        "key": "B",
+        "text": "nucleic acids only"
+      },
+      {
+        "key": "C",
+        "text": "lipids"
+      },
+      {
+        "key": "D",
+        "text": "carbohydrates"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Enzymes are globular proteins that speed up biochemical reactions."
+  },
+  {
+    "id": "waec-bio-enzyme-2",
+    "subject": "Biology",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Enzymes",
+    "difficulty": "medium",
+    "prompt": "The substance an enzyme acts upon is called the",
+    "options": [
+      {
+        "key": "A",
+        "text": "inhibitor"
+      },
+      {
+        "key": "B",
+        "text": "product"
+      },
+      {
+        "key": "C",
+        "text": "substrate"
+      },
+      {
+        "key": "D",
+        "text": "cofactor"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "The substrate is the molecule an enzyme binds to and converts into product."
+  },
+  {
+    "id": "waec-bio-enzyme-3",
+    "subject": "Biology",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Enzymes",
+    "difficulty": "hard",
+    "prompt": "Most human enzymes work best at an optimum temperature of about",
+    "options": [
+      {
+        "key": "A",
+        "text": "60°C"
+      },
+      {
+        "key": "B",
+        "text": "0°C"
+      },
+      {
+        "key": "C",
+        "text": "37°C"
+      },
+      {
+        "key": "D",
+        "text": "100°C"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Human enzymes generally have an optimum temperature close to normal body temperature, 37°C."
+  },
+  {
+    "id": "waec-bio-enzyme-4",
+    "subject": "Biology",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Enzymes",
+    "difficulty": "medium",
+    "prompt": "Extremes of pH affect enzyme activity because they",
+    "options": [
+      {
+        "key": "A",
+        "text": "denature the enzyme's shape"
+      },
+      {
+        "key": "B",
+        "text": "increase substrate concentration"
+      },
+      {
+        "key": "C",
+        "text": "have no effect on protein structure"
+      },
+      {
+        "key": "D",
+        "text": "increase the rate indefinitely"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Extreme pH disrupts the bonds maintaining an enzyme's active site shape, denaturing it."
+  },
+  {
+    "id": "waec-bio-enzyme-5",
+    "subject": "Biology",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Enzymes",
+    "difficulty": "easy",
+    "prompt": "The enzyme that breaks down starch into simpler sugars in the mouth is",
+    "options": [
+      {
+        "key": "A",
+        "text": "amylase"
+      },
+      {
+        "key": "B",
+        "text": "trypsin"
+      },
+      {
+        "key": "C",
+        "text": "pepsin"
+      },
+      {
+        "key": "D",
+        "text": "lipase"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Salivary amylase begins the digestion of starch in the mouth."
+  },
+  {
+    "id": "waec-bio-genetics-1",
+    "subject": "Biology",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Genetics",
+    "difficulty": "easy",
+    "prompt": "The basic unit of heredity that is passed from parents to offspring is called a",
+    "options": [
+      {
+        "key": "A",
+        "text": "chromosome pair"
+      },
+      {
+        "key": "B",
+        "text": "cell"
+      },
+      {
+        "key": "C",
+        "text": "gene"
+      },
+      {
+        "key": "D",
+        "text": "enzyme"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "A gene is a segment of DNA that codes for a specific inherited trait."
+  },
+  {
+    "id": "waec-bio-genetics-2",
+    "subject": "Biology",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Genetics",
+    "difficulty": "medium",
+    "prompt": "In humans, the sex of a child is determined by the",
+    "options": [
+      {
+        "key": "A",
+        "text": "mother's egg only"
+      },
+      {
+        "key": "B",
+        "text": "blood type of parents"
+      },
+      {
+        "key": "C",
+        "text": "father's sperm (X or Y chromosome)"
+      },
+      {
+        "key": "D",
+        "text": "number of chromosomes"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "The father's sperm carries either an X or Y chromosome, determining the child's sex."
+  },
+  {
+    "id": "waec-bio-genetics-3",
+    "subject": "Biology",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Genetics",
+    "difficulty": "hard",
+    "prompt": "In a monohybrid cross between two heterozygous (Tt) tall pea plants, the expected phenotypic ratio of tall to short offspring is",
+    "options": [
+      {
+        "key": "A",
+        "text": "3:1"
+      },
+      {
+        "key": "B",
+        "text": "9:3:3:1"
+      },
+      {
+        "key": "C",
+        "text": "1:2:1"
+      },
+      {
+        "key": "D",
+        "text": "1:1"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Tt × Tt gives genotypes 1 TT : 2 Tt : 1 tt, so tall (TT, Tt) to short (tt) is 3:1."
+  },
+  {
+    "id": "waec-bio-genetics-4",
+    "subject": "Biology",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Genetics",
+    "difficulty": "medium",
+    "prompt": "A person's observable physical characteristics, such as eye colour, is referred to as their",
+    "options": [
+      {
+        "key": "A",
+        "text": "phenotype"
+      },
+      {
+        "key": "B",
+        "text": "genome"
+      },
+      {
+        "key": "C",
+        "text": "genotype"
+      },
+      {
+        "key": "D",
+        "text": "allele"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Phenotype refers to the observable traits resulting from genotype and environment."
+  },
+  {
+    "id": "waec-bio-genetics-5",
+    "subject": "Biology",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Genetics",
+    "difficulty": "easy",
+    "prompt": "Chromosomes are found in the ___ of a cell.",
+    "options": [
+      {
+        "key": "A",
+        "text": "cytoplasm"
+      },
+      {
+        "key": "B",
+        "text": "cell membrane"
+      },
+      {
+        "key": "C",
+        "text": "mitochondria only"
+      },
+      {
+        "key": "D",
+        "text": "nucleus"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Chromosomes, which carry genetic material, are located in the nucleus."
+  },
+  {
+    "id": "waec-bio-osmosis-1",
+    "subject": "Biology",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Osmosis",
+    "difficulty": "easy",
+    "prompt": "Osmosis is the movement of",
+    "options": [
+      {
+        "key": "A",
+        "text": "solute particles from low to high concentration"
+      },
+      {
+        "key": "B",
+        "text": "water molecules from a region of high concentration to low concentration through a semi-permeable membrane"
+      },
+      {
+        "key": "C",
+        "text": "gases across a membrane"
+      },
+      {
+        "key": "D",
+        "text": "water against a concentration gradient using energy"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Osmosis is the passive movement of water through a selectively permeable membrane."
+  },
+  {
+    "id": "waec-bio-osmosis-2",
+    "subject": "Biology",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Osmosis",
+    "difficulty": "medium",
+    "prompt": "When a plant cell is placed in a hypertonic solution, it undergoes",
+    "options": [
+      {
+        "key": "A",
+        "text": "osmotic lysis"
+      },
+      {
+        "key": "B",
+        "text": "plasmolysis"
+      },
+      {
+        "key": "C",
+        "text": "haemolysis"
+      },
+      {
+        "key": "D",
+        "text": "turgidity"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "In a hypertonic solution, water leaves the cell, causing the cell membrane to shrink from the cell wall (plasmolysis)."
+  },
+  {
+    "id": "waec-bio-osmosis-3",
+    "subject": "Biology",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Osmosis",
+    "difficulty": "hard",
+    "prompt": "A red blood cell placed in a hypotonic solution will",
+    "options": [
+      {
+        "key": "A",
+        "text": "swell and may burst (haemolysis)"
+      },
+      {
+        "key": "B",
+        "text": "shrink and shrivel"
+      },
+      {
+        "key": "C",
+        "text": "remain unchanged"
+      },
+      {
+        "key": "D",
+        "text": "undergo plasmolysis"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Water moves into the cell in a hypotonic solution, causing it to swell and potentially burst."
+  },
+  {
+    "id": "waec-bio-osmosis-4",
+    "subject": "Biology",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Osmosis",
+    "difficulty": "medium",
+    "prompt": "The pressure exerted by water inside a plant cell against its cell wall is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "wall pressure"
+      },
+      {
+        "key": "B",
+        "text": "turgor pressure"
+      },
+      {
+        "key": "C",
+        "text": "diffusion pressure"
+      },
+      {
+        "key": "D",
+        "text": "osmotic pressure only"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Turgor pressure is the internal pressure that keeps plant cells firm."
+  },
+  {
+    "id": "waec-bio-osmosis-5",
+    "subject": "Biology",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Osmosis",
+    "difficulty": "easy",
+    "prompt": "Osmosis differs from diffusion mainly because osmosis specifically involves the movement of",
+    "options": [
+      {
+        "key": "A",
+        "text": "any solute molecules"
+      },
+      {
+        "key": "B",
+        "text": "water molecules through a semi-permeable membrane"
+      },
+      {
+        "key": "C",
+        "text": "ions against a gradient"
+      },
+      {
+        "key": "D",
+        "text": "gases only"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Osmosis is a special case of diffusion restricted to water movement across a semi-permeable membrane."
+  },
+  {
+    "id": "waec-bio-reproduction-1",
+    "subject": "Biology",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Reproduction",
+    "difficulty": "easy",
+    "prompt": "The fusion of a male and female gamete to form a zygote is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "germination"
+      },
+      {
+        "key": "B",
+        "text": "ovulation"
+      },
+      {
+        "key": "C",
+        "text": "fertilization"
+      },
+      {
+        "key": "D",
+        "text": "pollination"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Fertilization is the union of sperm and egg (or pollen and ovule) to form a zygote."
+  },
+  {
+    "id": "waec-bio-reproduction-2",
+    "subject": "Biology",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Reproduction",
+    "difficulty": "medium",
+    "prompt": "In flowering plants, the transfer of pollen grains from the anther to the stigma is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "pollination"
+      },
+      {
+        "key": "B",
+        "text": "dispersal"
+      },
+      {
+        "key": "C",
+        "text": "germination"
+      },
+      {
+        "key": "D",
+        "text": "fertilization"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Pollination is the transfer of pollen from anther to stigma, preceding fertilization."
+  },
+  {
+    "id": "waec-bio-reproduction-3",
+    "subject": "Biology",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Reproduction",
+    "difficulty": "hard",
+    "prompt": "Which of the following is an example of asexual reproduction in plants?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Seed dispersal"
+      },
+      {
+        "key": "B",
+        "text": "Fertilization"
+      },
+      {
+        "key": "C",
+        "text": "Pollination by insects"
+      },
+      {
+        "key": "D",
+        "text": "Vegetative propagation by cuttings"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Vegetative propagation produces new plants without the fusion of gametes."
+  },
+  {
+    "id": "waec-bio-reproduction-4",
+    "subject": "Biology",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Reproduction",
+    "difficulty": "medium",
+    "prompt": "The male reproductive part of a flower is called the",
+    "options": [
+      {
+        "key": "A",
+        "text": "pistil"
+      },
+      {
+        "key": "B",
+        "text": "sepal"
+      },
+      {
+        "key": "C",
+        "text": "stamen"
+      },
+      {
+        "key": "D",
+        "text": "petal"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "The stamen, consisting of anther and filament, is the male part of a flower."
+  },
+  {
+    "id": "waec-bio-reproduction-5",
+    "subject": "Biology",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Reproduction",
+    "difficulty": "easy",
+    "prompt": "In humans, fertilization normally takes place in the",
+    "options": [
+      {
+        "key": "A",
+        "text": "ovary"
+      },
+      {
+        "key": "B",
+        "text": "vagina"
+      },
+      {
+        "key": "C",
+        "text": "uterus"
+      },
+      {
+        "key": "D",
+        "text": "fallopian tube (oviduct)"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Sperm typically meets and fertilizes the egg in the fallopian tube."
+  },
+  {
+    "id": "waec-bio-respiration-1",
+    "subject": "Biology",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Respiration",
+    "difficulty": "easy",
+    "prompt": "The process by which living cells break down glucose to release energy is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "excretion"
+      },
+      {
+        "key": "B",
+        "text": "respiration"
+      },
+      {
+        "key": "C",
+        "text": "digestion"
+      },
+      {
+        "key": "D",
+        "text": "photosynthesis"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Respiration is the breakdown of glucose in cells to release usable energy."
+  },
+  {
+    "id": "waec-bio-respiration-2",
+    "subject": "Biology",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Respiration",
+    "difficulty": "medium",
+    "prompt": "The gas required for aerobic respiration is",
+    "options": [
+      {
+        "key": "A",
+        "text": "nitrogen"
+      },
+      {
+        "key": "B",
+        "text": "hydrogen"
+      },
+      {
+        "key": "C",
+        "text": "oxygen"
+      },
+      {
+        "key": "D",
+        "text": "carbon dioxide"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Aerobic respiration requires oxygen to fully break down glucose."
+  },
+  {
+    "id": "waec-bio-respiration-3",
+    "subject": "Biology",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Respiration",
+    "difficulty": "hard",
+    "prompt": "Anaerobic respiration in yeast (fermentation) produces ethanol and",
+    "options": [
+      {
+        "key": "A",
+        "text": "carbon dioxide"
+      },
+      {
+        "key": "B",
+        "text": "oxygen"
+      },
+      {
+        "key": "C",
+        "text": "water only"
+      },
+      {
+        "key": "D",
+        "text": "lactic acid only"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Alcoholic fermentation in yeast produces ethanol and carbon dioxide."
+  },
+  {
+    "id": "waec-bio-respiration-4",
+    "subject": "Biology",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Respiration",
+    "difficulty": "medium",
+    "prompt": "The organ primarily responsible for gaseous exchange in humans is the",
+    "options": [
+      {
+        "key": "A",
+        "text": "heart"
+      },
+      {
+        "key": "B",
+        "text": "liver"
+      },
+      {
+        "key": "C",
+        "text": "lungs"
+      },
+      {
+        "key": "D",
+        "text": "kidney"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "The lungs are where oxygen and carbon dioxide are exchanged with the blood."
+  },
+  {
+    "id": "waec-bio-respiration-5",
+    "subject": "Biology",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Respiration",
+    "difficulty": "easy",
+    "prompt": "The overall equation for aerobic respiration shows glucose and oxygen producing carbon dioxide, water and",
+    "options": [
+      {
+        "key": "A",
+        "text": "nitrogen"
+      },
+      {
+        "key": "B",
+        "text": "energy"
+      },
+      {
+        "key": "C",
+        "text": "starch"
+      },
+      {
+        "key": "D",
+        "text": "chlorophyll"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Aerobic respiration releases energy stored in glucose, along with carbon dioxide and water as by-products."
+  },
+  {
+    "id": "waec-bio-transport-1",
+    "subject": "Biology",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Transport in Living Things",
+    "difficulty": "easy",
+    "prompt": "The vessel that carries blood away from the heart is the",
+    "options": [
+      {
+        "key": "A",
+        "text": "artery"
+      },
+      {
+        "key": "B",
+        "text": "lymph vessel"
+      },
+      {
+        "key": "C",
+        "text": "capillary"
+      },
+      {
+        "key": "D",
+        "text": "vein"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Arteries carry blood away from the heart to the rest of the body."
+  },
+  {
+    "id": "waec-bio-transport-2",
+    "subject": "Biology",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Transport in Living Things",
+    "difficulty": "medium",
+    "prompt": "In plants, water and mineral salts are transported upward mainly through the",
+    "options": [
+      {
+        "key": "A",
+        "text": "xylem"
+      },
+      {
+        "key": "B",
+        "text": "cortex"
+      },
+      {
+        "key": "C",
+        "text": "phloem"
+      },
+      {
+        "key": "D",
+        "text": "cambium"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Xylem tissue conducts water and dissolved minerals from roots to leaves."
+  },
+  {
+    "id": "waec-bio-transport-3",
+    "subject": "Biology",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Transport in Living Things",
+    "difficulty": "hard",
+    "prompt": "The chamber of the human heart that pumps oxygenated blood to the rest of the body is the",
+    "options": [
+      {
+        "key": "A",
+        "text": "left ventricle"
+      },
+      {
+        "key": "B",
+        "text": "left atrium"
+      },
+      {
+        "key": "C",
+        "text": "right atrium"
+      },
+      {
+        "key": "D",
+        "text": "right ventricle"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "The left ventricle has thick muscular walls to pump oxygenated blood around the body."
+  },
+  {
+    "id": "waec-bio-transport-4",
+    "subject": "Biology",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Transport in Living Things",
+    "difficulty": "medium",
+    "prompt": "The transport of manufactured food (sugars) from leaves to other parts of a plant occurs through the",
+    "options": [
+      {
+        "key": "A",
+        "text": "xylem"
+      },
+      {
+        "key": "B",
+        "text": "phloem"
+      },
+      {
+        "key": "C",
+        "text": "root hairs"
+      },
+      {
+        "key": "D",
+        "text": "stomata"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Phloem tissue transports the products of photosynthesis (translocation) throughout the plant."
+  },
+  {
+    "id": "waec-bio-transport-5",
+    "subject": "Biology",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Transport in Living Things",
+    "difficulty": "easy",
+    "prompt": "Blood is prevented from flowing backwards in the veins by the presence of",
+    "options": [
+      {
+        "key": "A",
+        "text": "cilia"
+      },
+      {
+        "key": "B",
+        "text": "villi"
+      },
+      {
+        "key": "C",
+        "text": "capillaries"
+      },
+      {
+        "key": "D",
+        "text": "valves"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Valves in veins ensure that blood flows in only one direction, back to the heart."
+  },
+  {
+    "id": "waec-econ-demand-1",
+    "subject": "Economics",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Demand",
+    "difficulty": "easy",
+    "prompt": "The law of demand states that, other things being equal, when price rises, quantity demanded will",
+    "options": [
+      {
+        "key": "A",
+        "text": "rise"
+      },
+      {
+        "key": "B",
+        "text": "double"
+      },
+      {
+        "key": "C",
+        "text": "fall"
+      },
+      {
+        "key": "D",
+        "text": "stay the same"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "The law of demand describes an inverse relationship between price and quantity demanded, ceteris paribus."
+  },
+  {
+    "id": "waec-econ-demand-2",
+    "subject": "Economics",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Demand",
+    "difficulty": "medium",
+    "prompt": "A rightward shift of the demand curve for a good could be caused by",
+    "options": [
+      {
+        "key": "A",
+        "text": "a rise in the price of the good itself"
+      },
+      {
+        "key": "B",
+        "text": "an increase in the price of the good itself"
+      },
+      {
+        "key": "C",
+        "text": "a fall in consumers' income"
+      },
+      {
+        "key": "D",
+        "text": "an increase in consumers' income, for a normal good"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Higher income raises demand for normal goods at every price, shifting the curve right."
+  },
+  {
+    "id": "waec-econ-demand-3",
+    "subject": "Economics",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Demand",
+    "difficulty": "hard",
+    "prompt": "Two goods, X and Y, are complements. If the price of X falls, the demand for Y will most likely",
+    "options": [
+      {
+        "key": "A",
+        "text": "increase"
+      },
+      {
+        "key": "B",
+        "text": "remain unchanged"
+      },
+      {
+        "key": "C",
+        "text": "decrease"
+      },
+      {
+        "key": "D",
+        "text": "become zero"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "A fall in the price of X increases demand for X, and since Y is a complement, demand for Y also rises."
+  },
+  {
+    "id": "waec-econ-demand-4",
+    "subject": "Economics",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Demand",
+    "difficulty": "medium",
+    "prompt": "The quantity of a good that consumers are willing and able to buy at a given price over a period of time is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "quantity demanded"
+      },
+      {
+        "key": "B",
+        "text": "effective supply"
+      },
+      {
+        "key": "C",
+        "text": "market equilibrium"
+      },
+      {
+        "key": "D",
+        "text": "quantity supplied"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Quantity demanded refers to the amount buyers are willing and able to purchase at a specific price."
+  },
+  {
+    "id": "waec-econ-demand-5",
+    "subject": "Economics",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Demand",
+    "difficulty": "easy",
+    "prompt": "Which of the following is NOT a determinant of demand?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Price of the good"
+      },
+      {
+        "key": "B",
+        "text": "Cost of production"
+      },
+      {
+        "key": "C",
+        "text": "Income of consumers"
+      },
+      {
+        "key": "D",
+        "text": "Taste and preference"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Cost of production affects supply, not demand, which is determined by price, income and preferences."
+  },
+  {
+    "id": "waec-econ-elasticity-1",
+    "subject": "Economics",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Elasticity",
+    "difficulty": "easy",
+    "prompt": "If a small change in price leads to a large change in quantity demanded, demand is said to be",
+    "options": [
+      {
+        "key": "A",
+        "text": "inelastic"
+      },
+      {
+        "key": "B",
+        "text": "perfectly inelastic"
+      },
+      {
+        "key": "C",
+        "text": "unitary"
+      },
+      {
+        "key": "D",
+        "text": "elastic"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Elastic demand means quantity demanded is highly responsive to price changes."
+  },
+  {
+    "id": "waec-econ-elasticity-2",
+    "subject": "Economics",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Elasticity",
+    "difficulty": "medium",
+    "prompt": "The price elasticity of demand for a good with few substitutes and considered a necessity tends to be",
+    "options": [
+      {
+        "key": "A",
+        "text": "inelastic"
+      },
+      {
+        "key": "B",
+        "text": "elastic"
+      },
+      {
+        "key": "C",
+        "text": "infinite"
+      },
+      {
+        "key": "D",
+        "text": "unitary"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Necessities with few substitutes have demand that changes little with price, making it inelastic."
+  },
+  {
+    "id": "waec-econ-elasticity-3",
+    "subject": "Economics",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Elasticity",
+    "difficulty": "hard",
+    "prompt": "The price of a good rises from ₦10 to ₦12, and quantity demanded falls from 100 to 90 units. Calculate the price elasticity of demand.",
+    "options": [
+      {
+        "key": "A",
+        "text": "0.5 (inelastic)"
+      },
+      {
+        "key": "B",
+        "text": "2.0 (elastic)"
+      },
+      {
+        "key": "C",
+        "text": "0 (perfectly inelastic)"
+      },
+      {
+        "key": "D",
+        "text": "1.0 (unitary)"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "%ΔQ = -10%, %ΔP = 20%. PED = 10/20 = 0.5 in magnitude, which is inelastic."
+  },
+  {
+    "id": "waec-econ-elasticity-4",
+    "subject": "Economics",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Elasticity",
+    "difficulty": "medium",
+    "prompt": "If demand is perfectly inelastic, the demand curve is",
+    "options": [
+      {
+        "key": "A",
+        "text": "downward sloping"
+      },
+      {
+        "key": "B",
+        "text": "upward sloping"
+      },
+      {
+        "key": "C",
+        "text": "a vertical straight line"
+      },
+      {
+        "key": "D",
+        "text": "a horizontal straight line"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Perfectly inelastic demand means quantity demanded does not change with price, giving a vertical curve."
+  },
+  {
+    "id": "waec-econ-elasticity-5",
+    "subject": "Economics",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Elasticity",
+    "difficulty": "easy",
+    "prompt": "Elasticity of supply measures the responsiveness of",
+    "options": [
+      {
+        "key": "A",
+        "text": "demand to a change in income"
+      },
+      {
+        "key": "B",
+        "text": "quantity demanded to a change in price"
+      },
+      {
+        "key": "C",
+        "text": "quantity supplied to a change in price"
+      },
+      {
+        "key": "D",
+        "text": "income to a change in price"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Price elasticity of supply measures how much quantity supplied changes in response to a price change."
+  },
+  {
+    "id": "waec-econ-inflation-1",
+    "subject": "Economics",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Inflation",
+    "difficulty": "easy",
+    "prompt": "Inflation is best defined as a",
+    "options": [
+      {
+        "key": "A",
+        "text": "temporary rise in the price of one good"
+      },
+      {
+        "key": "B",
+        "text": "persistent (sustained) rise in the general price level"
+      },
+      {
+        "key": "C",
+        "text": "persistent fall in the general price level"
+      },
+      {
+        "key": "D",
+        "text": "fall in the value of exports"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Inflation refers to a sustained increase in the average price level of goods and services in an economy."
+  },
+  {
+    "id": "waec-econ-inflation-2",
+    "subject": "Economics",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Inflation",
+    "difficulty": "medium",
+    "prompt": "Inflation caused by too much money chasing too few goods is known as",
+    "options": [
+      {
+        "key": "A",
+        "text": "demand-pull inflation"
+      },
+      {
+        "key": "B",
+        "text": "imported inflation"
+      },
+      {
+        "key": "C",
+        "text": "cost-push inflation"
+      },
+      {
+        "key": "D",
+        "text": "structural inflation"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Demand-pull inflation occurs when aggregate demand exceeds available supply."
+  },
+  {
+    "id": "waec-econ-inflation-3",
+    "subject": "Economics",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Inflation",
+    "difficulty": "hard",
+    "prompt": "A persistent fall in the general price level in an economy is referred to as",
+    "options": [
+      {
+        "key": "A",
+        "text": "disinflation"
+      },
+      {
+        "key": "B",
+        "text": "deflation"
+      },
+      {
+        "key": "C",
+        "text": "stagflation"
+      },
+      {
+        "key": "D",
+        "text": "inflation"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Deflation is a sustained decrease in the general price level, the opposite of inflation."
+  },
+  {
+    "id": "waec-econ-inflation-4",
+    "subject": "Economics",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Inflation",
+    "difficulty": "medium",
+    "prompt": "Inflation resulting from a rise in the cost of production, such as wages or raw materials, is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "demand-pull inflation"
+      },
+      {
+        "key": "B",
+        "text": "cost-push inflation"
+      },
+      {
+        "key": "C",
+        "text": "hyperinflation"
+      },
+      {
+        "key": "D",
+        "text": "reflation"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Cost-push inflation arises when rising production costs are passed on as higher prices."
+  },
+  {
+    "id": "waec-econ-inflation-5",
+    "subject": "Economics",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Inflation",
+    "difficulty": "easy",
+    "prompt": "One major effect of inflation on wage earners is that it",
+    "options": [
+      {
+        "key": "A",
+        "text": "increases the real value of their savings"
+      },
+      {
+        "key": "B",
+        "text": "always increases their real wages"
+      },
+      {
+        "key": "C",
+        "text": "reduces the purchasing power (real value) of their income"
+      },
+      {
+        "key": "D",
+        "text": "has no effect on their standard of living"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Rising prices erode the real value of fixed incomes, reducing what wage earners can buy."
+  },
+  {
+    "id": "waec-econ-market-1",
+    "subject": "Economics",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Market Structures",
+    "difficulty": "easy",
+    "prompt": "A market situation with a single seller controlling the entire supply of a product with no close substitutes is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "monopsony"
+      },
+      {
+        "key": "B",
+        "text": "perfect competition"
+      },
+      {
+        "key": "C",
+        "text": "oligopoly"
+      },
+      {
+        "key": "D",
+        "text": "monopoly"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "A monopoly exists when one firm is the sole supplier of a good with no close substitutes."
+  },
+  {
+    "id": "waec-econ-market-2",
+    "subject": "Economics",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Market Structures",
+    "difficulty": "medium",
+    "prompt": "Perfect competition is characterized by",
+    "options": [
+      {
+        "key": "A",
+        "text": "a single seller controlling the market"
+      },
+      {
+        "key": "B",
+        "text": "many buyers and sellers of a homogeneous product with free entry and exit"
+      },
+      {
+        "key": "C",
+        "text": "product differentiation as the main strategy"
+      },
+      {
+        "key": "D",
+        "text": "a few large sellers dominating the market"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Perfect competition features many small firms selling identical products with no barriers to entry."
+  },
+  {
+    "id": "waec-econ-market-3",
+    "subject": "Economics",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Market Structures",
+    "difficulty": "hard",
+    "prompt": "A market dominated by a few large firms selling similar or identical products, where each firm's decisions affect the others, is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "monopolistic competition"
+      },
+      {
+        "key": "B",
+        "text": "oligopoly"
+      },
+      {
+        "key": "C",
+        "text": "monopoly"
+      },
+      {
+        "key": "D",
+        "text": "perfect competition"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "An oligopoly is characterized by a small number of interdependent large firms."
+  },
+  {
+    "id": "waec-econ-market-4",
+    "subject": "Economics",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Market Structures",
+    "difficulty": "medium",
+    "prompt": "Monopolistic competition differs from perfect competition mainly because firms in it",
+    "options": [
+      {
+        "key": "A",
+        "text": "sell identical products"
+      },
+      {
+        "key": "B",
+        "text": "have no control over price at all"
+      },
+      {
+        "key": "C",
+        "text": "sell differentiated products"
+      },
+      {
+        "key": "D",
+        "text": "are price takers only"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Firms in monopolistic competition differentiate their products, giving them some control over price."
+  },
+  {
+    "id": "waec-econ-market-5",
+    "subject": "Economics",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Market Structures",
+    "difficulty": "easy",
+    "prompt": "A market with a single buyer of a good or service is known as a",
+    "options": [
+      {
+        "key": "A",
+        "text": "monopoly"
+      },
+      {
+        "key": "B",
+        "text": "duopoly"
+      },
+      {
+        "key": "C",
+        "text": "oligopoly"
+      },
+      {
+        "key": "D",
+        "text": "monopsony"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "A monopsony exists when there is only one buyer dominating a market."
+  },
+  {
+    "id": "waec-econ-monetary-policy-1",
+    "subject": "Economics",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Monetary Policy",
+    "difficulty": "easy",
+    "prompt": "Monetary policy is primarily controlled and implemented by a country's",
+    "options": [
+      {
+        "key": "A",
+        "text": "stock exchange"
+      },
+      {
+        "key": "B",
+        "text": "central bank"
+      },
+      {
+        "key": "C",
+        "text": "commercial banks"
+      },
+      {
+        "key": "D",
+        "text": "ministry of finance only"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "The central bank formulates and implements monetary policy."
+  },
+  {
+    "id": "waec-econ-monetary-policy-2",
+    "subject": "Economics",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Monetary Policy",
+    "difficulty": "medium",
+    "prompt": "To reduce inflation in the economy, the central bank is most likely to",
+    "options": [
+      {
+        "key": "A",
+        "text": "lower the interest rate"
+      },
+      {
+        "key": "B",
+        "text": "increase government spending"
+      },
+      {
+        "key": "C",
+        "text": "print more currency notes"
+      },
+      {
+        "key": "D",
+        "text": "raise the interest (bank) rate"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Raising interest rates discourages borrowing and spending, helping to curb inflation."
+  },
+  {
+    "id": "waec-econ-monetary-policy-3",
+    "subject": "Economics",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Monetary Policy",
+    "difficulty": "hard",
+    "prompt": "When the central bank sells government securities to commercial banks and the public, it aims to",
+    "options": [
+      {
+        "key": "A",
+        "text": "lower interest rates"
+      },
+      {
+        "key": "B",
+        "text": "encourage more bank lending"
+      },
+      {
+        "key": "C",
+        "text": "reduce the money supply in the economy"
+      },
+      {
+        "key": "D",
+        "text": "increase the money supply in the economy"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Selling securities withdraws money from circulation, reducing the money supply."
+  },
+  {
+    "id": "waec-econ-monetary-policy-4",
+    "subject": "Economics",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Monetary Policy",
+    "difficulty": "medium",
+    "prompt": "The minimum percentage of deposits that commercial banks must keep with the central bank is called the",
+    "options": [
+      {
+        "key": "A",
+        "text": "bank rate"
+      },
+      {
+        "key": "B",
+        "text": "discount rate"
+      },
+      {
+        "key": "C",
+        "text": "cash reserve ratio"
+      },
+      {
+        "key": "D",
+        "text": "liquidity ratio only"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "The cash reserve ratio is the fraction of deposits banks must hold with the central bank."
+  },
+  {
+    "id": "waec-econ-monetary-policy-5",
+    "subject": "Economics",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Monetary Policy",
+    "difficulty": "easy",
+    "prompt": "Which of these is a tool of monetary policy?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Open market operations"
+      },
+      {
+        "key": "B",
+        "text": "Taxation"
+      },
+      {
+        "key": "C",
+        "text": "Subsidies"
+      },
+      {
+        "key": "D",
+        "text": "Government expenditure"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Open market operations, buying and selling government securities, is a key monetary policy tool."
+  },
+  {
+    "id": "waec-econ-national-income-1",
+    "subject": "Economics",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "National Income",
+    "difficulty": "easy",
+    "prompt": "The total value of all final goods and services produced within a country in a given period is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "Gross National Product only"
+      },
+      {
+        "key": "B",
+        "text": "Balance of Payments"
+      },
+      {
+        "key": "C",
+        "text": "Gross Domestic Product (GDP)"
+      },
+      {
+        "key": "D",
+        "text": "Consumer Price Index"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "GDP measures the total output produced within a country's borders in a period."
+  },
+  {
+    "id": "waec-econ-national-income-2",
+    "subject": "Economics",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "National Income",
+    "difficulty": "medium",
+    "prompt": "National income statistics are useful mainly for",
+    "options": [
+      {
+        "key": "A",
+        "text": "determining exchange rates only"
+      },
+      {
+        "key": "B",
+        "text": "fixing minimum wages directly"
+      },
+      {
+        "key": "C",
+        "text": "measuring a country's standard of living and economic growth"
+      },
+      {
+        "key": "D",
+        "text": "setting import tariffs"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "National income figures help assess economic performance and living standards over time."
+  },
+  {
+    "id": "waec-econ-national-income-3",
+    "subject": "Economics",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "National Income",
+    "difficulty": "hard",
+    "prompt": "Gross National Product (GNP) differs from Gross Domestic Product (GDP) because GNP includes",
+    "options": [
+      {
+        "key": "A",
+        "text": "only output produced within the country's borders"
+      },
+      {
+        "key": "B",
+        "text": "net income earned by citizens abroad, in addition to domestic output"
+      },
+      {
+        "key": "C",
+        "text": "only exports minus imports"
+      },
+      {
+        "key": "D",
+        "text": "government spending alone"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "GNP adds net income from citizens' overseas activities to domestic output (GDP)."
+  },
+  {
+    "id": "waec-econ-national-income-4",
+    "subject": "Economics",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "National Income",
+    "difficulty": "medium",
+    "prompt": "Which of the following is a limitation of using GDP per capita to measure standard of living?",
+    "options": [
+      {
+        "key": "A",
+        "text": "It excludes population size entirely"
+      },
+      {
+        "key": "B",
+        "text": "It is too easy to calculate"
+      },
+      {
+        "key": "C",
+        "text": "It always overstates poverty"
+      },
+      {
+        "key": "D",
+        "text": "It does not show how income is distributed among the population"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "GDP per capita is an average and can mask large income inequalities within a population."
+  },
+  {
+    "id": "waec-econ-national-income-5",
+    "subject": "Economics",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "National Income",
+    "difficulty": "easy",
+    "prompt": "The income approach to measuring national income sums up",
+    "options": [
+      {
+        "key": "A",
+        "text": "only consumer spending"
+      },
+      {
+        "key": "B",
+        "text": "exports minus imports only"
+      },
+      {
+        "key": "C",
+        "text": "only government spending"
+      },
+      {
+        "key": "D",
+        "text": "wages, rent, interest and profit earned in the economy"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "The income approach adds up all factor incomes: wages, rent, interest and profit."
+  },
+  {
+    "id": "waec-econ-production-1",
+    "subject": "Economics",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Production",
+    "difficulty": "easy",
+    "prompt": "The factors of production include land, labour, capital and",
+    "options": [
+      {
+        "key": "A",
+        "text": "technology only"
+      },
+      {
+        "key": "B",
+        "text": "market"
+      },
+      {
+        "key": "C",
+        "text": "money"
+      },
+      {
+        "key": "D",
+        "text": "entrepreneurship"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "The four factors of production are land, labour, capital and entrepreneurship."
+  },
+  {
+    "id": "waec-econ-production-2",
+    "subject": "Economics",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Production",
+    "difficulty": "medium",
+    "prompt": "The law of diminishing returns states that as more units of a variable factor are added to a fixed factor,",
+    "options": [
+      {
+        "key": "A",
+        "text": "total output will always fall immediately"
+      },
+      {
+        "key": "B",
+        "text": "the marginal product will eventually decrease"
+      },
+      {
+        "key": "C",
+        "text": "output increases at a constant rate forever"
+      },
+      {
+        "key": "D",
+        "text": "the fixed factor becomes variable"
+      }
+    ],
+    "answerKey": "B",
+    "explanation": "Beyond a certain point, adding more of a variable factor to a fixed factor yields diminishing extra output."
+  },
+  {
+    "id": "waec-econ-production-3",
+    "subject": "Economics",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Production",
+    "difficulty": "hard",
+    "prompt": "Division of labour in production mainly leads to",
+    "options": [
+      {
+        "key": "A",
+        "text": "increased efficiency and output through specialization"
+      },
+      {
+        "key": "B",
+        "text": "higher production costs always"
+      },
+      {
+        "key": "C",
+        "text": "complete elimination of unemployment"
+      },
+      {
+        "key": "D",
+        "text": "reduced total output"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Specialization allows workers to become more skilled and efficient at specific tasks, raising output."
+  },
+  {
+    "id": "waec-econ-production-4",
+    "subject": "Economics",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Production",
+    "difficulty": "medium",
+    "prompt": "Which of the following best describes capital as a factor of production?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Natural resources like land and minerals"
+      },
+      {
+        "key": "B",
+        "text": "The reward paid to entrepreneurs"
+      },
+      {
+        "key": "C",
+        "text": "Man-made resources used to produce other goods and services"
+      },
+      {
+        "key": "D",
+        "text": "Human effort, whether physical or mental"
+      }
+    ],
+    "answerKey": "C",
+    "explanation": "Capital refers to man-made goods, such as machinery and tools, used in production."
+  },
+  {
+    "id": "waec-econ-production-5",
+    "subject": "Economics",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Production",
+    "difficulty": "easy",
+    "prompt": "The reward for the factor of production called entrepreneurship is",
+    "options": [
+      {
+        "key": "A",
+        "text": "wages"
+      },
+      {
+        "key": "B",
+        "text": "rent"
+      },
+      {
+        "key": "C",
+        "text": "interest"
+      },
+      {
+        "key": "D",
+        "text": "profit"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Entrepreneurs bear business risk and are rewarded with profit."
+  },
+  {
+    "id": "waec-econ-supply-1",
+    "subject": "Economics",
+    "examBody": "WAEC",
+    "year": 2013,
+    "topic": "Supply",
+    "difficulty": "easy",
+    "prompt": "The law of supply states that, other things being equal, when price rises, quantity supplied will",
+    "options": [
+      {
+        "key": "A",
+        "text": "rise"
+      },
+      {
+        "key": "B",
+        "text": "stay the same"
+      },
+      {
+        "key": "C",
+        "text": "fall"
+      },
+      {
+        "key": "D",
+        "text": "become zero"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "The law of supply describes a direct relationship between price and quantity supplied, ceteris paribus."
+  },
+  {
+    "id": "waec-econ-supply-2",
+    "subject": "Economics",
+    "examBody": "WAEC",
+    "year": 2015,
+    "topic": "Supply",
+    "difficulty": "medium",
+    "prompt": "A leftward shift of the supply curve for a good could be caused by",
+    "options": [
+      {
+        "key": "A",
+        "text": "a rise in the cost of production"
+      },
+      {
+        "key": "B",
+        "text": "an increase in the number of suppliers"
+      },
+      {
+        "key": "C",
+        "text": "a fall in the cost of production"
+      },
+      {
+        "key": "D",
+        "text": "an improvement in technology"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Higher production costs make supplying goods less profitable at every price, shifting supply left."
+  },
+  {
+    "id": "waec-econ-supply-3",
+    "subject": "Economics",
+    "examBody": "WAEC",
+    "year": 2017,
+    "topic": "Supply",
+    "difficulty": "hard",
+    "prompt": "At the point where the demand curve and supply curve intersect, the market is said to be at",
+    "options": [
+      {
+        "key": "A",
+        "text": "surplus"
+      },
+      {
+        "key": "B",
+        "text": "disequilibrium"
+      },
+      {
+        "key": "C",
+        "text": "shortage"
+      },
+      {
+        "key": "D",
+        "text": "equilibrium"
+      }
+    ],
+    "answerKey": "D",
+    "explanation": "Market equilibrium occurs where quantity demanded equals quantity supplied."
+  },
+  {
+    "id": "waec-econ-supply-4",
+    "subject": "Economics",
+    "examBody": "WAEC",
+    "year": 2019,
+    "topic": "Supply",
+    "difficulty": "medium",
+    "prompt": "The quantity of a good that producers are willing and able to sell at a given price over a period of time is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "quantity supplied"
+      },
+      {
+        "key": "B",
+        "text": "market demand"
+      },
+      {
+        "key": "C",
+        "text": "effective demand"
+      },
+      {
+        "key": "D",
+        "text": "quantity demanded"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Quantity supplied refers to the amount sellers are willing and able to offer at a specific price."
+  },
+  {
+    "id": "waec-econ-supply-5",
+    "subject": "Economics",
+    "examBody": "WAEC",
+    "year": 2021,
+    "topic": "Supply",
+    "difficulty": "easy",
+    "prompt": "Which of the following is likely to cause an increase (rightward shift) in the supply of a good?",
+    "options": [
+      {
+        "key": "A",
+        "text": "An improvement in production technology"
+      },
+      {
+        "key": "B",
+        "text": "A natural disaster affecting production"
+      },
+      {
+        "key": "C",
+        "text": "An increase in taxes on producers"
+      },
+      {
+        "key": "D",
+        "text": "A rise in the cost of raw materials"
+      }
+    ],
+    "answerKey": "A",
+    "explanation": "Better technology lowers production costs and raises output at every price, shifting supply right."
+  }
+]
